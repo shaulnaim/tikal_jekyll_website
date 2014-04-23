@@ -2,3 +2,7 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 nav_links: [ "about", "solutions", "careers", "events", "contact" ]
+assets:
+  compress:
+    css:  sass
+    js:   uglifier

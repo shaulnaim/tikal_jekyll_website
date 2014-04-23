@@ -749,17 +749,19 @@ div.password-suggestions ul {
   opacity:0.8;
 }
 
-<!--[if lte IE 6]>
-html {
-  overflow-x:auto;
-  overflow-y:hidden;
-}
+//<!--[if lte IE 6]>
+//html {
+// overflow-x:auto;
+// overflow-y:hidden;
+//}
 
-* html #backtotop {
-  position:absolute;
-}
+//* html #backtotop {
+//  position:absolute;
+//}
 
-<![endif]-->@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
+//<![endif]-->
+
+@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
   #backtotop {
     background:url(/sites/all/modules/contrib/back_to_top/backtotop2x.png) no-repeat center center;
     background-size:70px 70px;
