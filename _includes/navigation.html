@@ -11,11 +11,10 @@
         <h2 class="block-title element-invisible">Header menu</h2>
 
         <div class="content">
-          <ul class="menu clearfix"><li class="first leaf about"><a href="/about" title="">About</a></li>
-            <li class="leaf active-trail solutions"><a href="/solutions" title="" class="active-trail active">Solutions</a></li>
-            <li class="leaf careers"><a href="/careers" title="">Careers</a></li>
-            <li class="leaf events"><a href="/events" title="">Events</a></li>
-            <li class="last leaf contact"><a href="/contact" title="">Contact</a></li>
+          <ul class="menu clearfix">
+            {% for nav_link in site.nav_links %}
+            <li class="leaf"><a href="/{{ nav_link }}" class="{% if page.name == nav_link %} active {% endif %}">{{ nav_link | capitalize }}</a></li>
+            {% endfor %}
         </ul>  </div><!-- /.content -->
       </section><!-- /.block -->
       <section id="block-menu-menu-domains" class="block block-menu block-odd">
