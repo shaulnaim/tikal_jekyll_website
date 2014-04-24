@@ -1,0 +1,9 @@
+@mixin header_background_image_for($name) {
+  .section-#{$name} {
+    .featured-background {
+      #featured {
+        background: url(asset_path('pages/#{$name}/background.jpg')) no-repeat center 0;
+      }
+    }
+  }
+}

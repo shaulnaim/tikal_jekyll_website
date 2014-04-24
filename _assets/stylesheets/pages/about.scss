@@ -1,7 +1,2 @@
-.section-about {
-  .featured-background {
-    #featured {
-      background: url(asset_path('pages/about/background.jpg')) no-repeat center 0;
-    }
-  }
-}
+@import 'mixins';
+@include header_background_image_for('about');
