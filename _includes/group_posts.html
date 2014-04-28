@@ -4,8 +4,7 @@
       <div class="view view-article view-id-article view-display-id-articles_view">
         <div class="view-content">
           <div class="view-content-limit">
-            {% assign posts = (site.posts | filter_group_posts) %}
-            {% for post in posts %}
+            {% for post in paginator.posts %}
               <div class="views-row">
                 <div class="views-field views-field-title">
                   <span class="field-content"><a href="{{url_root}}/{{post.permalink}}">{{ post.title }}</a></span>  
@@ -36,6 +35,7 @@
                 </div>
               </div>
             {% endfor %}
+            {% include group_posts_pagination.html %}
           </div>
         </div>
       </div>
