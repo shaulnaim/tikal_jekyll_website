@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      {% include head.html %}
+    </head>
+
+    <body class="section-tag">
+        {% include header.html %}
+        {% include navigation.html %}
+        {% include page_title.html %}
+        <div class="shadow-page"></div>
+        <div id="page">
+          <div id="main">
+            {% for post in paginator.posts %}
+              <p>{{ post.title }}</p>
+            {% endfor %}
+            <div class="pagination">
+              {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                  <a href="/tags/{{ paginator.tag }}" class="previous">Previous</a>
+                {% else %}
+                  <a href="/tags/{{ paginator.tag }}/page{{ paginator.previous_page }}" class="previous">Previous</a>
+                {% endif %}
+              {% else %}
+                <span class="previous">Previous</span>
+              {% endif %}
+              <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+              {% if paginator.next_page %}
+                <a href="/tags/{{ paginator.tag }}/page{{ paginator.next_page }}" class="next">Next</a>
+              {% else %}
+                <span class="next ">Next</span>
+              {% endif %}
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        {% include first_footer.html %}
+        {% include second_footer.html %}
+    </body>
+</html>

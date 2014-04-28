@@ -6,3 +6,11 @@ assets:
   compress:
     css:  sass
     js:   uglifier
+groups:
+  - ALM
+  - JAVA
+  - JS
+  - .NET
+  - RoR
+paginate: 5
+  
