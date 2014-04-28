@@ -1,4 +1,5 @@
 namespace :generate do
+
   desc "Creates a static page"
   task :page do
     raise "Please specify a name for the page. For example: rake generate:page name='my_page'" unless ENV["name"]
@@ -34,4 +35,18 @@ header_subtitle: Add some text here
     system "mkdir #{root_path}/_assets/images/pages/#{page_name}"
     puts "Image folder has been created at #{root_path}/_assets/images/pages/#{page_name}"
   end
+
+end
+
+namespace :jekyll do
+
+  desc "start the jekyll server with limites posts to make it faster"
+  task :server, :num_posts do |t, args|
+    num_posts = args[:num_posts]
+    cmd = "jekyll serve --watch"
+    cmd += " --limit_posts #{num_posts}" if num_posts
+    puts "running #{cmd}"
+    exec(cmd)
+  end
+
 end
