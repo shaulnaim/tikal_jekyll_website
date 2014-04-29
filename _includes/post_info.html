@@ -1,0 +1,28 @@
+<header>
+  <div class="by-and-tags">
+    <div class="by">
+      <div class="label-by">by</div>
+      <div class="name">
+        <a href="#">{{ page.author }}</a>
+      </div>
+    </div>
+    <div class="tags">
+      <div class="label-tags">tags:</div>
+      <div class="float-tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden clearfix">
+          <ul class="links">
+            {% for tag in page.tags %}
+              <li>
+                <a href="/tags/{{ tag | replace: ' ', '-' }}">{{ tag }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <time pubdate="" datetime="{{ page.date }}">
+    <div class="day">{{ page.date | date: "%d" }}</div>
+    {{ page.date | date: '%b. %Y' }}
+  </time>
+</header>

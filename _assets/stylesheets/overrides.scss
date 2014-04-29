@@ -1,3 +1,11 @@
 .element-invisible {
   display: none;
 }
+.node-article header .by-and-tags .field-name-field-tags {
+  max-width: 400px;
+  ul {
+    max-width: 370px;
+    height: 28px;
+    overflow: hidden;
+  }
+}

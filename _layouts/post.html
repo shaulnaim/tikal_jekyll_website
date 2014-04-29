@@ -1,9 +1,30 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html>
+    <head>
+      {% include head.html %}
+    </head>
 
-<div class="post">
-{{ content }}
-</div>
+    <body class="one-sidebar sidebar-second page-node node-type-article all-pages with-navigation with-subnav featured dir-ltr">
+        {% include header.html %}
+        {% include navigation.html %}
+        {% include post_title.html %}
+        <div class="shadow-page"></div>
+        <div id="page">
+          <div id="main">
+            <div class="region region-content">
+              <div id="block-system-main" class="block block-system">
+                <div class="content">
+                  <article class="node node-article published with-comments node-full">
+                    {% include post_info.html %}
+                    {{ content }}
+                    <footer></footer>
+                  </article>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% include first_footer.html %}
+        {% include second_footer.html %}
+    </body>
+</html>

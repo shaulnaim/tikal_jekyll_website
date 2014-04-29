@@ -4886,7 +4886,7 @@
 }
 .node-type-article .featured-background
 {
-  background:url('/sites/all/themes/sasson/tikal/images/tiled-bg-orange.jpg') repeat
+  background:url(asset_path('backgrounds/tiled-bg-orange.jpg')) repeat;
 }
 .node-type-article .featured-background #featured
 {
@@ -7070,7 +7070,7 @@
 }
   time .day
 {
-  background:url('/sites/all/themes/sasson/tikal/images/date-icon.png') no-repeat;
+  background:url(asset_path('icons/date-icon.png')) no-repeat;
   color:#929292;
   float:left;
   margin:-1px 10px 0px 0px;
