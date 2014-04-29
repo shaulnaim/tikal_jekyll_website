@@ -4294,7 +4294,7 @@
 }
 .page-taxonomy #featured,.section-search #featured,.section-latest-articles #featured
 {
-  background:url('/sites/all/themes/sasson/tikal/images/tiled-bg-orange.jpg') repeat
+  background:url(asset_path('backgrounds/tiled-bg-orange.jpg')) repeat;
 }
 .page-taxonomy .section_title,.section-search .section_title,.section-latest-articles .section_title
 {

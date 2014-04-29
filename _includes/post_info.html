@@ -21,8 +21,5 @@
       </div>
     </div>
   </div>
-  <time pubdate="" datetime="{{ page.date }}">
-    <div class="day">{{ page.date | date: "%d" }}</div>
-    {{ page.date | date: '%b. %Y' }}
-  </time>
+  {% post_date %}
 </header>
