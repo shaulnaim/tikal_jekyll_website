@@ -4,8 +4,9 @@ require 'pry'
 module Jekyll
   class PostAuthor < Liquid::Tag
     def render(context)
-      page_or_post = context["page"] || context["post"] || {}
-      if author = page_or_post["author"]
+      post = context["post"] || {}
+
+      if author = post["author"]
         author_data = context["site"]["data"]["users"].detect{|data| data["login"] == author}
         author_data ? "<a href='#{author_data['permalink'] || ('/users/'+author)}'>#{author}</a>" : author
       else
