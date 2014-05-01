@@ -13,14 +13,40 @@ module Jekyll
         if item =~ /.+\.yml$/ 
           user_data = YAML.load_file("_data/users/#{item}")
           site.data["users"] << user_data
-          dir = user_data["permalink"] ? user_data["permalink"] : "/users/#{user_data['login']}"
-          site.pages << UserPage.new(site, site.source, dir, user_data)
+          paginate(site, user_data)
         end
+      end
+    end
+
+    def paginate(site, user)
+      author = user["login"]
+      posts_by_author = site.posts.find_all {|post| post.data["author"] == author}.sort_by {|post| -post.date.to_f}
+      dir_name = user["permalink"] ? user["permalink"] : "/users/#{author}"
+      num_pages = Pager.calculate_pages(posts_by_author, site.config['paginate'].to_i)
+
+      (1..num_pages).each do |page|
+        # create a pagination object containing page number,
+        # previous page, next page etc
+        pager = Pager.new(site, page, posts_by_author, num_pages)
+        
+        # setup the page directory. If this is the first page it will
+        # be saved inside the group's folder (for example
+        # "/java/index.html"). Otherwise, it will be saved inside a
+        # numbered subfolder ("java/page2/index.html")
+        dir = File.join(dir_name, page > 1 ? "page#{page}" : '')
+
+        # creates the page (index.html)
+        page = UserPage.new(site, site.source, dir, user, dir_name)
+
+        # adds pagination data to page
+        page.pager = pager
+
+        site.pages << page
       end
     end
     
     class UserPage < Page
-      def initialize(site, base, dir, user)
+      def initialize(site, base, dir, user, dir_name)
         @site = site
         @base = base
         @dir = dir
@@ -36,6 +62,8 @@ module Jekyll
         user.each do |k, v|
           self.data["user_#{k}"] = v
         end
+
+        self.data["dir_name"] = dir_name
       end
     end
   end

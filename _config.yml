@@ -6,7 +6,7 @@ assets:
   compress:
     css:  sass
     js:   uglifier
-paginate: 10
+paginate: 5
 
 groups:
   - group:

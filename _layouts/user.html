@@ -15,7 +15,8 @@
         </div>
         <aside id="sidebar-second" class="sidebar" role="complementary">
           {% include user_pic.html %}
-          {% if page.user_follow_me_urls %}
+          {% assign follow_me_size = (page.user_follow_me_urls | size) %}
+          {% if follow_me_size > 0 %}
             {% include user_follow_me.html %}
           {% endif %}
         </aside>

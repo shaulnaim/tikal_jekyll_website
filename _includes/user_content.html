@@ -18,3 +18,21 @@
     </div>
   </div>
 {% endif %}
+<section id="block-views-article-author" class="block block-views block-odd">
+  <h2 class="block-title">LATEST ARTICLES</h2>
+  <div class="content"> 
+    <div class="view view-article view-id-article view-display-id-author">
+      <div class="view-content">
+        <div class="view-content-limit">
+          <div class="view-content-limit-content">
+            {% for post in paginator.posts %}
+              {% include post_preview.html %}
+            {% endfor %}
+            {% include user_posts_pagination.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

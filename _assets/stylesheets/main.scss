@@ -5963,15 +5963,15 @@
 }
   #block-views-follow-user-block .views-field-field-follow-on a[class*="facebook."]
 {
-  background:url('/sites/all/themes/sasson/tikal/images/follow_facebook_icon.png') no-repeat
+  background:url(asset_path('icons/follow_facebook_icon.png')) no-repeat
 }
   #block-views-follow-user-block .views-field-field-follow-on a[class*="twitter."]
 {
-  background:url('/sites/all/themes/sasson/tikal/images/follow_twiter_icon.png') no-repeat
+  background:url(asset_path('icons/follow_twiter_icon.png')) no-repeat
 }
   #block-views-follow-user-block .views-field-field-follow-on a[class*="linkedin."]
 {
-  background:url('/sites/all/themes/sasson/tikal/images/linkedin_icon.png') no-repeat
+  background:url(asset_path('icons/linkedin_icon.png')) no-repeat
 }
   #block-views-download-my-cv-block
 {
