@@ -1,0 +1,21 @@
+---
+id: 43
+login: keren
+first_name: Keren
+last_name: Finskelstein
+description: Senior Java Developer
+follow_me_urls: []
+permalink: /java/keren
+skills:
+  expert_skills:
+    JAVA: '10'
+    SQL: '10'
+    Maven: '5'
+  developer_skills:
+    Hibernate: '2'
+    JDBC: '2'
+    MySQL: '2'
+    JBoss: '4'
+    Tomcat: '4'
+    GWT: '4'
+    PYTHON: '5'

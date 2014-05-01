@@ -1,0 +1,20 @@
+{% if page.user_skills %}
+  <div id="block-views-employee-skills-block" class="block block-views">
+    <div class="content">
+      <div class="view view-employee-skills view-id-employee_skills view-display-id-block view-dom-id-63f5dea5f51fcb50538eaefccc863615">
+        <div class="view-header">
+          Primary Skills
+        </div>
+        <div class="view-content">
+          <div class="view-content-limit">
+            <div class="view-content-limit-content">
+              <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+                {% skills_list %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}

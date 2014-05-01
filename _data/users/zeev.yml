@@ -1,0 +1,23 @@
+---
+id: 49169
+login: zeev
+first_name: Zeev
+last_name: Ben Sender
+description: 
+follow_me_urls: []
+permalink: /zeev
+skills:
+  expert_skills:
+    JAVA: '10'
+    Spring: '8'
+    Hibernate: '8'
+    JDBC: '10'
+    EJB2/3: '10'
+    Linux: '10'
+    Tomcat: '6'
+    MySQL: '10'
+  developer_skills:
+    NoSQL: '2'
+    MongoDB: '2'
+    Hadoop: '2'
+    AWS: '2'

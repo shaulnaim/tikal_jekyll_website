@@ -1,0 +1,19 @@
+---
+id: 20922
+login: robert
+first_name: Robert
+last_name: Ferentz
+description: 
+follow_me_urls: []
+permalink: /robert
+skills:
+  expert_skills:
+    JavaScript: '6'
+    .NET: '6'
+    JavaScript - Events: '4'
+    jQuery: '5'
+  developer_skills:
+    SQL: '6'
+    NodeJS: '6'
+    CSS3: '6'
+    AngularJS: '6'

@@ -1,0 +1,18 @@
+---
+id: 69
+login: igorz
+first_name: Igor
+last_name: Zalmanovich
+description: .NET Architect
+follow_me_urls: []
+permalink: /net/igorz
+skills:
+  expert_skills:
+    .NET: '7'
+    JavaScript: '7'
+    ASP.NET: '7'
+    jQuery: '2'
+  developer_skills:
+    SQL: '7'
+    NHibernate: '7'
+    WinForms: '7'

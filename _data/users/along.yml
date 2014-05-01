@@ -1,0 +1,22 @@
+---
+id: 6164
+login: along
+first_name: Alon
+last_name: Golan
+description: Javascript Expert
+follow_me_urls:
+- il.linkedin.com/pub/alon-golan/16/9b6/8b1
+permalink: /along
+skills:
+  expert_skills:
+    JavaScript: '10'
+    OOJS: '4'
+    CSS3: '4'
+  developer_skills:
+    jQuery: '4'
+    JavaScript - Events: '4'
+  familiar_skills:
+    PYTHON: '1'
+    BackboneJS: '1'
+    NodeJS: '1'
+    MongoDB: '1'

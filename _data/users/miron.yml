@@ -1,0 +1,23 @@
+---
+id: 46
+login: miron
+first_name: Miron
+last_name: Gofer
+description: ALM Engineer
+follow_me_urls: []
+permalink: /alm/miron
+skills:
+  expert_skills:
+    Git: '3'
+    SVN: '8'
+    Jenkins: '4'
+    Bugzilla: '8'
+    ANT: '7'
+    Maven: '3'
+    Nexus: '2'
+    ALM: '10'
+  developer_skills:
+    JAVA: '2'
+  familiar_skills:
+    Linux: '10'
+    MySQL: '10'

@@ -5713,7 +5713,7 @@
 }
 .section-profile #featured
 {
-  background:url('/sites/all/themes/sasson/tikal/images/tiled-bg-orange.jpg') repeat
+  background:url(asset_path('backgrounds/tiled-bg-orange.jpg')) repeat
 }
 .section-profile.section-alm #featured
 {
@@ -6044,7 +6044,7 @@
 }
 .not-logged-in.section-user #page
 {
-  background:url('/sites/all/themes/sasson/tikal/images/tiled-bg-orange.jpg') repeat;
+  background:url(asset_path('backgrounds/tiled-bg-orange.jpg')) repeat;
   clear:both;
   position:static;
   width:100%;

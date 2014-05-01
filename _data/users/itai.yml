@@ -1,0 +1,27 @@
+---
+id: 52
+login: itai
+first_name: Itai
+last_name: Or
+description: ALM Architect
+follow_me_urls:
+- http://il.linkedin.com/pub/itai-or/16/217/a55
+permalink: /alm/itai
+skills:
+  expert_skills:
+    Maven: '5'
+    Jenkins: '3'
+    SVN: '6'
+    ANT: '9'
+    Linux: '8'
+    JAVA: '10'
+    EJB2/3: '10'
+    MySQL: '8'
+    Tomcat: '8'
+    JBoss: '8'
+    Bugzilla: '6'
+    Nexus: '3'
+    Sonar: '2'
+    Git: '4'
+    EC2: '1'
+    AWS: '1'

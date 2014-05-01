@@ -1,0 +1,24 @@
+---
+id: 24206
+login: yoni
+first_name: Yehonatan
+last_name: Homi
+description: 
+follow_me_urls: []
+permalink: /yoni
+skills:
+  expert_skills:
+    JAVA: '5'
+    SQL: '3'
+    Spring: '3'
+    JDBC: '5'
+    AJAX: '4'
+    HTML: '5'
+    JavaScript: '4'
+  developer_skills:
+    Hibernate: '2'
+    JPA: '2'
+    jQuery: '2'
+    MySQL: '2'
+    JBoss: '2'
+    Tomcat: '2'

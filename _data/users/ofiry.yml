@@ -1,0 +1,20 @@
+---
+id: 21758
+login: ofiry
+first_name: Ofir
+last_name: Yaron
+description: 
+follow_me_urls:
+- il.linkedin.com/in/ofiryaron
+permalink: /ofiry
+skills:
+  expert_skills:
+    .NET: '10'
+    WCF: '4'
+    ASP.NET: '4'
+    JavaScript: '10'
+  developer_skills:
+    NHibernate: '3'
+  familiar_skills:
+    WPF: '1'
+    WinForms: '1'

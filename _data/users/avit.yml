@@ -1,0 +1,20 @@
+---
+id: 121
+login: avit
+first_name: Avi
+last_name: Tzurel
+description: RoR Architect
+follow_me_urls:
+- http://il.linkedin.com/in/kensodev
+- https://twitter.com/kensodev
+permalink: /ror/avit
+skills:
+  expert_skills:
+    RoR: '3'
+    JavaScript: '3'
+    HTML: '5'
+    jQuery: '3'
+    ActionScript: '5'
+  developer_skills:
+    Linux: '3'
+    CSS3: '3'

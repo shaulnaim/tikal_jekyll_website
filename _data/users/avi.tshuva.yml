@@ -1,0 +1,24 @@
+---
+id: 130
+login: avi.tshuva
+first_name: Avi
+last_name: Tshuva
+description: Sr. Java/JS Developer
+follow_me_urls:
+- http://www.linkedin.com/profile/view?id=475204&locale=en_US&trk=tyah&trkInfo=tas%3Aavi%20tshuva%2Cidx%3A1-1-1
+permalink: /js/avitshuva
+skills:
+  expert_skills:
+    JAVA: '10'
+    JS: '4'
+    NoSQL: '2'
+    MongoDB: '2'
+    Linux: '7'
+  developer_skills:
+    AngularJS: '1'
+    NodeJS: '1'
+    AJAX: '1'
+    HTML: '1'
+    CSS3: '1'
+    Spring: '1'
+    Hibernate: '1'

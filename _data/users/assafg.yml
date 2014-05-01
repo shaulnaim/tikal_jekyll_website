@@ -1,0 +1,29 @@
+---
+id: 126
+login: assafg
+first_name: Assaf
+last_name: Gannon
+description: JS & Java Architect
+follow_me_urls: []
+permalink: /js/assafg
+skills:
+  expert_skills:
+    JavaScript: '6'
+    JAVA: '10'
+    Spring: '8'
+    jQuery: '5'
+    SQL: '10'
+    JDBC: '10'
+    Tomcat: '8'
+    NoSQL: '2'
+    AngularJS: '1'
+    NodeJS: '2'
+  developer_skills:
+    Hibernate: '5'
+    EJB2/3: '5'
+    NoSQL: '5'
+    JPA: '5'
+    MySQL: '5'
+    JBoss: '5'
+    ANT: '5'
+    Android: '5'

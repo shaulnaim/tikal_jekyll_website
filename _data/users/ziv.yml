@@ -1,0 +1,23 @@
+---
+id: 49168
+login: ziv
+first_name: Ziv
+last_name: Rosenzweig
+description: JavaScript & .NET Senior Developer
+follow_me_urls:
+- il.linkedin.com/pub/ziv-rosenzweig/3/755/a52
+permalink: /ziv
+skills:
+  expert_skills:
+    .NET: '10'
+    ASP.NET: '6'
+    JavaScript: '10'
+    JavaScript - Events: '8'
+    OOJS: '8'
+  developer_skills:
+    JAVA: '4'
+    jQuery: '4'
+    Linux: '4'
+  familiar_skills:
+    AngularJS: '1'
+    NodeJS: '1'

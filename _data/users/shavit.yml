@@ -1,0 +1,20 @@
+---
+id: 31973
+login: shavit
+first_name: Shavit
+last_name: Cohen
+description: 
+follow_me_urls:
+- il.linkedin.com/pub/shavit-cohen/10/998/356
+permalink: /shavit
+skills:
+  expert_skills:
+    JavaScript: '5'
+    JavaScript - Events: '5'
+    OOJS: '5'
+    jQuery: '5'
+    .NET: '5'
+  developer_skills:
+    CSS3: '2'
+    SQL: '2'
+    AngularJS: '2'

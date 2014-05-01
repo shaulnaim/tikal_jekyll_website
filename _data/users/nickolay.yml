@@ -1,0 +1,25 @@
+---
+id: 142
+login: nickolay
+first_name: Nickolay
+last_name: Ribal
+description: JS Developer
+follow_me_urls:
+- il.linkedin.com/in/elektronik
+permalink: /js/nickolay
+skills:
+  expert_skills:
+    JavaScript: '5'
+    CSS3: '6'
+    OOJS: '2'
+    jQuery: '5'
+    AJAX: '6'
+  developer_skills:
+    JavaScript - Events: '6'
+    RoR: '6'
+    Django: '6'
+    SQL: '6'
+  familiar_skills:
+    BackboneJS: '1'
+    AngularJS: '1'
+    NodeJS: '1'

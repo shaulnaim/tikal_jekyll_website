@@ -1,0 +1,27 @@
+---
+id: 81
+login: liorb
+first_name: Lior
+last_name: Boord
+description: UI Senior Developer
+follow_me_urls:
+- il.linkedin.com/in/liorboord
+permalink: /incubator/liorb
+skills:
+  expert_skills:
+    JAVA: '5'
+    SQL: '5'
+    Spring: '5'
+    Maven: '4'
+    JavaScript: '2'
+  developer_skills:
+    Hibernate: '5'
+    Linux: '5'
+    JavaScript - Events: '5'
+    Django: '5'
+    AngularJS: '5'
+    BackboneJS: '5'
+    jQuery: '5'
+  familiar_skills:
+    CSS3: '1'
+    PYTHON: '1'

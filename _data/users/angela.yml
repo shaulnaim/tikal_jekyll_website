@@ -1,0 +1,20 @@
+---
+id: 144
+login: angela
+first_name: Angela
+last_name: Asher
+description: Java Developer
+follow_me_urls: []
+permalink: /java/angela
+skills:
+  expert_skills:
+    JDBC: '4'
+    SVN: '4'
+    ANT: '2'
+    JAVA: '10'
+    Linux: '10'
+  developer_skills:
+    SQL: '4'
+    Spring: '4'
+    Hibernate: '4'
+    Solr: '4'

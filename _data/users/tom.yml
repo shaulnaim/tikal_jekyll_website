@@ -1,0 +1,21 @@
+---
+id: 125
+login: tom
+first_name: Tom
+last_name: Caspy
+description: Sr. RoR Developer
+follow_me_urls: []
+permalink: /ror/tom
+skills:
+  expert_skills:
+    RoR: '3'
+    Ruby: '3'
+  developer_skills:
+    SQL: '7'
+    CSS3: '7'
+    HTML: '3'
+    OOJS: '3'
+    NodeJS: '3'
+    MongoDB: '3'
+  familiar_skills:
+    BackboneJS: '1'

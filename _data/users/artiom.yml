@@ -1,0 +1,25 @@
+---
+id: 128
+login: artiom
+first_name: Artiom
+last_name: Gourevitch
+description: Sr. Java Developer
+follow_me_urls:
+- http://www.linkedin.com/profile/view?id=26204876&locale=en_US&trk=tyah2&trkInfo=tas%3Aartiom%20g%2Cidx%3A1-1-1
+permalink: /java/artiom
+skills:
+  expert_skills:
+    JAVA: '6'
+    Spring: '6'
+    Hibernate: '6'
+    Tomcat: '3'
+    Maven: '5'
+    SQL: '5'
+    Git: '5'
+    Linux: '5'
+    Jenkins: '5'
+  developer_skills:
+    JavaScript: '2'
+    NodeJS: '2'
+    MongoDB: '2'
+    NoSQL: '2'

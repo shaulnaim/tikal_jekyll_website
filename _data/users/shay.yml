@@ -1,0 +1,28 @@
+---
+id: 49160
+login: shay
+first_name: Shay
+last_name: Gabay
+description: 
+follow_me_urls: []
+permalink: /java/shay
+skills:
+  expert_skills:
+    JAVA: '10'
+    SQL: '10'
+    JDBC: '10'
+    Linux: '10'
+    Tomcat: '10'
+    JBoss: '10'
+  developer_skills:
+    Spring: '3'
+    Hibernate: '3'
+    EJB2/3: '3'
+    NoSQL: '3'
+    JPA: '3'
+    HTML: '3'
+    JavaScript: '3'
+    MySQL: '3'
+    Bugzilla: '3'
+    ANT: '3'
+    Maven: '3'

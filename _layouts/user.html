@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      {% include head.html %}
+    </head>
+
+    <body class="one-sidebar sidebar-second page-user all-pages section-profile with-navigation with-subnav dir-ltr">
+      {% include header.html %}
+      {% include navigation.html %}
+      {% include user_title.html %}
+      <div class="shadow-page"></div>
+      <div id="page">
+        <div id="main">
+          {% include user_content.html %}
+        </div>
+        <aside id="sidebar-second" class="sidebar" role="complementary">
+          {% include user_pic.html %}
+          {% if page.user_follow_me_urls %}
+            {% include user_follow_me.html %}
+          {% endif %}
+        </aside>
+      </div>
+      {% include first_footer.html %}
+      {% include second_footer.html %}
+    </body>
+</html>

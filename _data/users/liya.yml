@@ -1,0 +1,24 @@
+---
+id: 50
+login: liya
+first_name: Liya
+last_name: Katz
+description: ALM Architect
+follow_me_urls: []
+permalink: /alm/liya
+skills:
+  expert_skills:
+    Maven: '5'
+    Bugzilla: '9'
+    SVN: '8'
+    Jenkins: '4'
+    ANT: '10'
+  developer_skills:
+    JAVA: '5'
+    Linux: '5'
+    HTML: '5'
+    JavaScript: '5'
+    PYTHON: '5'
+    SQL: '10'
+    MySQL: '10'
+    Git: '10'

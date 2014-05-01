@@ -1,0 +1,26 @@
+---
+id: 115
+login: andreys
+first_name: Andrey
+last_name: Shuster
+description: JavaScript Developer
+follow_me_urls:
+- il.linkedin.com/in/andreyshuster
+permalink: /js/andreys
+skills:
+  expert_skills:
+    OOJS: '5'
+    JavaScript: '7'
+    PYTHON: '3'
+    MSSQL: '5'
+    jQuery: '4'
+    BackboneJS: '2'
+    CSS3: '2'
+    HTML: '7'
+  developer_skills:
+    AngularJS: '1'
+    NodeJS: '1'
+    Django: '1'
+  familiar_skills:
+    RoR: '1'
+    Ruby: '1'

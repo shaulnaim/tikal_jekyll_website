@@ -1,0 +1,20 @@
+---
+id: 116
+login: gail
+first_name: Gail
+last_name: Steiger
+description: JS Developer
+follow_me_urls:
+- il.linkedin.com/in/gailsteiger
+permalink: /js/gail
+skills:
+  expert_skills:
+    JavaScript: '6'
+    jQuery: '4'
+    CSS3: '2'
+    JavaScript - Events: '4'
+  developer_skills:
+    ASP.NET: '6'
+    .NET: '6'
+    BackboneJS: '6'
+    SQL: '6'

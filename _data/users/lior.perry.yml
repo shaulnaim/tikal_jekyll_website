@@ -1,0 +1,28 @@
+---
+id: 90
+login: lior.perry
+first_name: Lior
+last_name: Perry
+description: Sr. Java Developer
+follow_me_urls:
+- http://www.linkedin.com/profile/view?id=48631993&locale=en_US&trk=tyah2&trkInfo=tas%3Alior%20perr%2Cidx%3A1-2-2
+permalink: /java/liorperry
+skills:
+  expert_skills:
+    JAVA: '10'
+    SQL: '10'
+    Hibernate: '4'
+    Spring: '8'
+    JDBC: '10'
+    Tomcat: '4'
+  developer_skills:
+    EJB2/3: '6'
+    JPA: '6'
+    GWT: '6'
+    AJAX: '6'
+    HTML: '6'
+    JavaScript: '6'
+    MySQL: '3'
+    JBoss: '3'
+    ANT: '3'
+    Maven: '3'

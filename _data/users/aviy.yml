@@ -1,0 +1,22 @@
+---
+id: 84
+login: aviy
+first_name: Avi
+last_name: Yafe
+description: Sr. Java Developer
+follow_me_urls:
+- il.linkedin.com/in/aviyafe
+permalink: /java/aviy
+skills:
+  expert_skills:
+    JAVA: '10'
+    GWT: '5'
+  developer_skills:
+    SQL: '7'
+    HTML: '7'
+    JavaScript: '4'
+    ANT: '4'
+    JDBC: '4'
+    Android: '4'
+    AngularJS: '3'
+    MongoDB: '3'

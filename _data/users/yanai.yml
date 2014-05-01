@@ -1,0 +1,30 @@
+---
+id: 51
+login: yanai
+first_name: Yanai
+last_name: Franchi
+description: Java Architect
+follow_me_urls:
+- http://www.linkedin.com/profile/view?id=47051922&locale=en_US&trk=tyah&trkInfo=tarId%3A1398233911987%2Ctas%3Ayana%2Cidx%3A2-1-2
+permalink: /java/yanai
+skills:
+  expert_skills:
+    JAVA: '10'
+    Solr: '2'
+    Hibernate: '7'
+    Spring: '7'
+    EJB2/3: '7'
+    JPA: '5'
+    JDBC: '10'
+  developer_skills:
+    SQL: '10'
+    NoSQL: '10'
+    MongoDB: '10'
+    AWS: '10'
+    Linux: '10'
+    MySQL: '10'
+    JBoss: '10'
+    Tomcat: '2'
+    SVN: '2'
+    ANT: '2'
+    Maven: '2'
