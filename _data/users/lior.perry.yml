@@ -26,3 +26,14 @@ skills:
     JBoss: '3'
     ANT: '3'
     Maven: '3'
+experience:
+- title: Software Architect, "IDI Ventures"
+  years: '2013'
+  description: 'The Purpose of the project was to Design & implement the new Architecture
+    for a salable trading solution. I had a few tasks: - Building a new trading engine
+    almost independent on growing amount of trading users. - Created and implemented
+    a real time profit and loss calculating algorithm. Created a staging environment
+    for new trading engine deployment. I used Java Spring Hibernate stack.  Innovative
+    Technologies: Enterprise integration patterns - Apache Camel for the staging environment,
+    Akka actor system, Hazelcast cluster distributed cache, monitoring system with
+    Play framework.'

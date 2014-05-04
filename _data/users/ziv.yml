@@ -21,3 +21,10 @@ skills:
   familiar_skills:
     AngularJS: '1'
     NodeJS: '1'
+experience:
+- title: JavaScript Developer @ CA Technologies
+  years: 2013-2014
+  description: Mission was developing an Admin SPA application using AngularJs, Grunt,
+    Bower, NodeJs, SASS. In addition, supported all development team with writing
+    current CSS code. Quickly entered the exsiting code in order to help releasing
+    versions.

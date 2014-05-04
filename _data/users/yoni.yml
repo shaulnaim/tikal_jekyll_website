@@ -22,3 +22,16 @@ skills:
     MySQL: '2'
     JBoss: '2'
     Tomcat: '2'
+experience:
+- title: 'Software Engineer, Ceragon '
+  years: '2013'
+  description: 'I worked in the NMS (network managment system) team. The nms product
+    provided by Ceragon to her clients give them the ability to manage all the mobile
+    network elements spread in a big geographical area from one control room.  The
+    technologies I used in the NMS project: java 7,Spring, hibernate, jms, junit,
+    ejb, JAX-RS and eclipse rcp & java swing for client development The server in
+    the product is JBOSS and the database is postgress. Teamcity was used as continuous
+    build tool. to connect to the devices the NMS uses SNMP and Rest protocols  The
+    tasks i was involve with in the projects were developing some new features for
+    the product (client and server side), fixing performance issues and transaction
+    problems ( & transactions leak).'

@@ -18,3 +18,7 @@ skills:
   familiar_skills:
     WPF: '1'
     WinForms: '1'
+experience:
+- title: Senior .NET Developer
+  years: 2013-Present
+  description: AOL Israel

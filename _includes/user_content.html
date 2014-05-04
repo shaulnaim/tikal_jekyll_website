@@ -18,6 +18,22 @@
     </div>
   </div>
 {% endif %}
+{% if page.user_experience %}
+  <section id="block-views-professional-experience-block" class="block block-views block-even">
+    <h2 class="block-title">Professional experience</h2>
+    <div class="content">
+      <div class="view view-professional-experience view-id-professional_experience view-display-id-block">
+        <div class="view-content">
+          <div class="view-content-limit">
+            <div class="view-content-limit-content">
+              {% professional_experience %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endif %}
 <section id="block-views-article-author" class="block block-views block-odd">
   <h2 class="block-title">LATEST ARTICLES</h2>
   <div class="content"> 

@@ -24,3 +24,7 @@ skills:
     AngularJS: '3'
   familiar_skills:
     OOJS: '1'
+experience:
+- title: JavaScript Developer
+  years: 2011-Present
+  description: Alcatel-Lucent

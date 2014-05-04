@@ -19,3 +19,15 @@ skills:
   familiar_skills:
     OOJS: '1'
     BackboneJS: '1'
+experience:
+- title: RoR Developer @ Nurego
+  years: 2013-Present
+  description: Mainly worked on the Rails app with which the user interacts. I worked
+    on both fronted and backend features, doing Rails MVC, Javascript and CSS.  Created
+    Rails models and moving most of the logic into them, adding decorators and presenters,
+    moving from plain CSS to Sass, integrating a css framework (foundation), and adding
+    a lot of tests. With no Database at our disposal, I had to write some Ruby modules
+    / classes which added some activerecord like methods to our models (basic associations,
+    scopes, update_attributes, etc). Used RSpec & shoulda for unit / controller testing,
+    with Capybara for integration testing. Used WebMock in controller tests to mock
+    the reponses of external web services. For decorators we used Draper.

@@ -17,3 +17,10 @@ skills:
     HTML: '5'
     CSS3: '2'
     Ruby: '2'
+experience:
+- title: Ruby on Rails Developer @ Nurego
+  years: '2014'
+  description: Mission was to develop an entire front end solution as part of an enterprise
+    web platform for the customer.  This included developing a rails app with jquery/js
+    on the client-side and ruby code on the server-side. The rails app communicates
+    with the core back-end (which is written using the Sinatra framework) via JSON.

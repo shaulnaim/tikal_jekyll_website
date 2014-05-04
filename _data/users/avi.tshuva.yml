@@ -22,3 +22,15 @@ skills:
     CSS3: '1'
     Spring: '1'
     Hibernate: '1'
+experience:
+- title: '3iMind, Java & JS Expert '
+  years: 2013-2014
+  description: 'I introduced them to angular and developed sophisticated web-components.
+    Working on a sophisticated web application (an enterprise product and a service)
+    in the OSINT domain. Innovative technologies: Server: Java, MongoDB, Elastic search,
+    entity extraction, etc Client: AngularJS, JQuery, many components'
+- title: 'VmWare, Java Expert '
+  years: 2012-2013
+  description: 'I develop "APPHA" - a sub-system for Application-Aware High-Availability,
+    and "VIM" - component and relations discovery over virtual machine setup.  - stack:
+    Java, JEE, Hibernate, Spring, Flex, Rest - tools: eclipse, svn, git'
