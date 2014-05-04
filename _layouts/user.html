@@ -4,7 +4,7 @@
       {% include head.html %}
     </head>
 
-    <body class="one-sidebar sidebar-second page-user all-pages section-profile with-navigation with-subnav dir-ltr">
+    <body class="section-{{ page.url | find_section }} one-sidebar sidebar-second page-user all-pages section-profile with-navigation with-subnav dir-ltr">
       {% include header.html %}
       {% include navigation.html %}
       {% include user_title.html %}
