@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/izharg/jekyll-import.git
+  revision: 643de62875b693e28700c396e2c8c9df74835fe2
+  specs:
+    jekyll-import (0.2.0)
+      fastercsv
+      jekyll (~> 1.4)
+      nokogiri
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -32,10 +41,6 @@ GEM
     jekyll-assets (0.7.7)
       jekyll (~> 1.0)
       sprockets (~> 2.10)
-    jekyll-import (0.2.0)
-      fastercsv
-      jekyll (~> 1.4)
-      nokogiri
     json (1.8.1)
     liquid (2.5.5)
     listen (1.3.1)
@@ -47,8 +52,8 @@ GEM
     mini_portile (0.5.3)
     multi_json (1.9.2)
     mysql2 (0.3.15)
-    nokogiri (1.6.2.rc2)
-      mini_portile (~> 0.5.2)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
@@ -93,15 +98,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-script
-  jekyll
-  jekyll-assets
-  jekyll-import
-  mysql2
-  pry
-  pry-nav
-  pry-remote
-  rake
-  sass
-  sequel
-  uglifier
+  coffee-script (= 2.2.0)
+  jekyll (= 1.5.1)
+  jekyll-assets (= 0.7.7)
+  jekyll-import!
+  mysql2 (= 0.3.15)
+  pry (= 0.9.12.6)
+  pry-nav (= 0.2.3)
+  pry-remote (= 0.1.8)
+  rake (= 0.9.6)
+  sass (= 3.3.5)
+  sequel (= 4.9.0)
+  uglifier (= 2.5.0)
