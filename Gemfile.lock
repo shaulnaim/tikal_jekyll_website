@@ -1,6 +1,5 @@
-GIT
-  remote: https://github.com/izharg/jekyll-import.git
-  revision: 643de62875b693e28700c396e2c8c9df74835fe2
+PATH
+  remote: ./jekyll-import-0.2.0
   specs:
     jekyll-import (0.2.0)
       fastercsv
