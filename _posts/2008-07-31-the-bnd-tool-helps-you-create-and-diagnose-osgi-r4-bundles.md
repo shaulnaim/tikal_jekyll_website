@@ -3,7 +3,7 @@ layout: post
 title: The bnd tool helps you create and diagnose OSGi R4 bundles.
 created: 1217533020
 author: yanai
-permalink: java/bnd-tool-helps-you-create-and-diagnose-osgi-r4-bundles
+permalink: /java/bnd-tool-helps-you-create-and-diagnose-osgi-r4-bundles
 tags:
 - JAVA
 - OSGi

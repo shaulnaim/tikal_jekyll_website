@@ -3,7 +3,7 @@ layout: post
 title: 'Why LinkedIn''s Mobile Developers Dumped Ruby For Node.js '
 created: 1327935689
 author: ittayd
-permalink: why-linkedins-mobile-developers-dumped-ruby-nodejs
+permalink: /why-linkedins-mobile-developers-dumped-ruby-nodejs
 tags:
 - JS
 - node.js

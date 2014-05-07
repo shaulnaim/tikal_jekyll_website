@@ -3,7 +3,7 @@ layout: post
 title: 'The Unknown Generation: Perm'
 created: 1211049240
 author: lior.kanfi
-permalink: java/unknown-generation-perm
+permalink: /java/unknown-generation-perm
 tags:
 - JAVA
 ---

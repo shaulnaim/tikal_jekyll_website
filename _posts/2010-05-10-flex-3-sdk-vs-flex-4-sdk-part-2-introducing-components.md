@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 2 – Introducing Components
 created: 1273491423
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk-–-part-2-–-introducing-components
+permalink: /flex-3-sdk-vs-flex-4-sdk-–-part-2-–-introducing-components
 tags:
 - flex
 - gwt

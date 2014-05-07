@@ -3,7 +3,7 @@ layout: post
 title: Removing a model from your rails project
 created: 1338394544
 author: avit
-permalink: removing-model-your-rails-project
+permalink: /removing-model-your-rails-project
 tags:
 - RoR
 - web

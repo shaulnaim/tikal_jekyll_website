@@ -3,7 +3,7 @@ layout: post
 title: The Power of Networks - by Manuel Lima
 created: 1338622560
 author: hagzag
-permalink: power-networks-manuel-lima
+permalink: /power-networks-manuel-lima
 tags:
 - ALM
 - Social Networking

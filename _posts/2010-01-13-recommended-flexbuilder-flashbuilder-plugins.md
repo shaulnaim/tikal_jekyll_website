@@ -3,7 +3,7 @@ layout: post
 title: Recommended FlexBuilder / FlashBuilder plugins
 created: 1263416791
 author: sefi
-permalink: recommended-flexbuilder-flashbuilder-plugins
+permalink: /recommended-flexbuilder-flashbuilder-plugins
 tags:
 - gwt
 - flex

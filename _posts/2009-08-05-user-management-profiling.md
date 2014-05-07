@@ -3,7 +3,7 @@ layout: post
 title: user management $ profiling
 created: 1249464933
 author: itaip
-permalink: java/user-management-profiling
+permalink: /java/user-management-profiling
 tags:
 - JAVA
 ---

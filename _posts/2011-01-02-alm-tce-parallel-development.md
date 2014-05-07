@@ -3,7 +3,7 @@ layout: post
 title: ALM TCE - Parallel Development
 created: 1293981587
 author: liya
-permalink: alm/alm-tce-parallel-development
+permalink: /alm/alm-tce-parallel-development
 tags:
 - ALM
 - alm git hudson svn

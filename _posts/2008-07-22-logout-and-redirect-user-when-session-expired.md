@@ -3,7 +3,7 @@ layout: post
 title: 'Logout and redirect user when session expired '
 created: 1216722180
 author: hila
-permalink: java/logout-and-redirect-user-when-session-expired
+permalink: /java/logout-and-redirect-user-when-session-expired
 tags:
 - JAVA
 ---

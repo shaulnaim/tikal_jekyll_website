@@ -3,7 +3,7 @@ layout: post
 title: 'Google Chrome Developer Tools: Profiling and optimizing'
 created: 1258584557
 author: adi
-permalink: java/google-chrome-developer-tools-profiling-and-optimizing
+permalink: /java/google-chrome-developer-tools-profiling-and-optimizing
 tags:
 - JAVA
 - Google Chrome

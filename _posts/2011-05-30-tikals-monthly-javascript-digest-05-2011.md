@@ -3,7 +3,7 @@ layout: post
 title: Tikal’s Monthly Javascript Digest - 05/2011
 created: 1306747263
 author: orenf
-permalink: incubator/tikal’s-monthly-javascript-digest-052011
+permalink: /incubator/tikal’s-monthly-javascript-digest-052011
 tags:
 - Incubator
 - incubator

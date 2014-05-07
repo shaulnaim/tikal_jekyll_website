@@ -3,7 +3,7 @@ layout: post
 title: ALM Retrospective
 created: 1293978953
 author: ittayd
-permalink: alm/alm-retrospective
+permalink: /alm/alm-retrospective
 tags:
 - ALM
 ---

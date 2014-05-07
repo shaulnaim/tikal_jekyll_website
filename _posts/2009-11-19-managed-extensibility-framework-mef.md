@@ -3,7 +3,7 @@ layout: post
 title: 'Managed Extensibility Framework (MEF) '
 created: 1258618911
 author: igorz
-permalink: net/managed-extensibility-framework-mef
+permalink: /net/managed-extensibility-framework-mef
 tags:
 - .NET
 - .Net Open Source

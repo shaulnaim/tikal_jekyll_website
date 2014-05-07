@@ -3,7 +3,7 @@ layout: post
 title: Tikal hosting PyWeb-IL
 created: 1281937708
 author: udib
-permalink: incubator/tikal-hosting-pyweb-il
+permalink: /incubator/tikal-hosting-pyweb-il
 tags:
 - Incubator
 - Python

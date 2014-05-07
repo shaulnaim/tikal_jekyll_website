@@ -3,7 +3,7 @@ layout: post
 title: Itest & Remote invocation of parametrized & tokenized builds with Hudson CI
 created: 1260074341
 author: hagzag
-permalink: alm/itest-remote-invocation-parametrized-tokenized-builds-hudson-ci
+permalink: /alm/itest-remote-invocation-parametrized-tokenized-builds-hudson-ci
 tags:
 - ALM
 - Hudson

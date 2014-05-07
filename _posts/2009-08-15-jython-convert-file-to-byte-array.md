@@ -3,7 +3,7 @@ layout: post
 title: Jython - Convert File to Byte Array
 created: 1250327340
 author: liorb
-permalink: jython-convert-file-byte-array
+permalink: /jython-convert-file-byte-array
 tags:
 - Flex Java
 ---

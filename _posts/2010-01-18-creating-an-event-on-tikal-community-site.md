@@ -3,7 +3,7 @@ layout: post
 title: Creating an event on Tikal community site
 created: 1263842437
 author: hagzag
-permalink: js/creating-event-tikal-community-site
+permalink: /js/creating-event-tikal-community-site
 tags:
 - JS
 - TCS usage tips

@@ -3,7 +3,7 @@ layout: post
 title: Find truncated string (paths) in SQL server
 created: 1338394544
 author: avit
-permalink: find-truncated-string-paths-sql-server
+permalink: /find-truncated-string-paths-sql-server
 tags:
 - RoR
 - web

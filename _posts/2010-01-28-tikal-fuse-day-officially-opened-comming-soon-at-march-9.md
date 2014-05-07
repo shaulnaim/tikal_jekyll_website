@@ -3,7 +3,7 @@ layout: post
 title: Tikal Fuse day officially opened, comming soon at March 9
 created: 1264698172
 author: shalom
-permalink: js/tikal-fuse-day-officially-opened-comming-soon-march-9
+permalink: /js/tikal-fuse-day-officially-opened-comming-soon-march-9
 tags:
 - JS
 ---

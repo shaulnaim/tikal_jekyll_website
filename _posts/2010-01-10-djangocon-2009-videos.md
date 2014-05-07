@@ -3,7 +3,7 @@ layout: post
 title: DjangoCon 2009 videos
 created: 1263157898
 author: udib
-permalink: incubator/djangocon-2009-videos
+permalink: /incubator/djangocon-2009-videos
 tags:
 - Incubator
 - video

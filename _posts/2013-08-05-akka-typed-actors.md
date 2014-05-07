@@ -3,7 +3,7 @@ layout: post
 title: Akka Typed Actors
 created: 1375693130
 author: lior.perry
-permalink: akka-typed-actors
+permalink: /akka-typed-actors
 tags:
 - JAVA
 - Akka

@@ -3,7 +3,7 @@ layout: post
 title: Using EclipseLink on the SpringSource Application Platform
 created: 1218382982
 author: zvika
-permalink: java/using-eclipselink-springsource-application-platform
+permalink: /java/using-eclipselink-springsource-application-platform
 tags:
 - JAVA
 - Spring

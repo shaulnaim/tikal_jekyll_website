@@ -3,7 +3,7 @@ layout: post
 title: Apache OpenWebBeans graduated from incubation
 created: 1261131346
 author: ittayd
-permalink: java/apache-openwebbeans-graduated-incubation
+permalink: /java/apache-openwebbeans-graduated-incubation
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ' Mini TCE - Introduction to Node.js & CoffeeScript (By: Adi Baron)'
 created: 1334752755
 author: adi
-permalink: mini-tce-introduction-nodejs-coffeescript-adi-baron
+permalink: /mini-tce-introduction-nodejs-coffeescript-adi-baron
 tags:
 - JS
 ---

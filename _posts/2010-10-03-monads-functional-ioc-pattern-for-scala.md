@@ -3,7 +3,7 @@ layout: post
 title: Monads - Functional IoC pattern for Scala
 created: 1286093412
 author: ittayd
-permalink: java/monads-functional-ioc-pattern-scala
+permalink: /java/monads-functional-ioc-pattern-scala
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: NHibernate Linq is released
 created: 1249664842
 author: andrew
-permalink: net/nhibernate-linq-released
+permalink: /net/nhibernate-linq-released
 tags:
 - .NET
 - Hibernate LINQ

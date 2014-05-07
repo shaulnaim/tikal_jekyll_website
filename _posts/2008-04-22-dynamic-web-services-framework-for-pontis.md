@@ -3,7 +3,7 @@ layout: post
 title: Dynamic Web Services Framework for Pontis
 created: 1208847300
 author: andrew
-permalink: java/dynamic-web-services-framework-pontis
+permalink: /java/dynamic-web-services-framework-pontis
 tags:
 - JAVA
 ---

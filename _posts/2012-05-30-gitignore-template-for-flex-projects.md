@@ -3,7 +3,7 @@ layout: post
 title: gitignore template for flex projects
 created: 1338394544
 author: avit
-permalink: gitignore-template-flex-projects
+permalink: /gitignore-template-flex-projects
 tags:
 - RoR
 - ruby

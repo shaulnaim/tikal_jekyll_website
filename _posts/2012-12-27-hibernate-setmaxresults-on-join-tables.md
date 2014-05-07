@@ -3,7 +3,7 @@ layout: post
 title: Hibernate setMaxResults on join tables
 created: 1356617411
 author: chaim.turkel
-permalink: java/blog/hibernate-setmaxresults-join-tables
+permalink: /java/blog/hibernate-setmaxresults-join-tables
 tags:
 - JAVA
 - Hibernate

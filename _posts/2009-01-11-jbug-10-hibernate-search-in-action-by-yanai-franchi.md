@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 10 - Hibernate Search in Action by: Yanai Franchi'
 created: 1231699253
 author: admin
-permalink: java/jbug-10-hibernate-search-action-yanai-franchi
+permalink: /java/jbug-10-hibernate-search-action-yanai-franchi
 tags:
 - JAVA
 - Hibernate-Search

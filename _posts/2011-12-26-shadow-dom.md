@@ -3,7 +3,7 @@ layout: post
 title: Shadow DOM
 created: 1324852456
 author: adi
-permalink: shadow-dom
+permalink: /shadow-dom
 tags:
 - Incubator
 - css

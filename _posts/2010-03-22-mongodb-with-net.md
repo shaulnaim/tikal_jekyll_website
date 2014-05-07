@@ -3,7 +3,7 @@ layout: post
 title: MongoDB with .Net
 created: 1269252251
 author: andrew
-permalink: net/mongodb-net
+permalink: /net/mongodb-net
 tags:
 - .NET
 ---

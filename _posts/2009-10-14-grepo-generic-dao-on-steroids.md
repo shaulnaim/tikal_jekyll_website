@@ -3,7 +3,7 @@ layout: post
 title: GRepo - Generic DAO on Steroids
 created: 1255511087
 author: yanai
-permalink: java/grepo-generic-dao-steroids
+permalink: /java/grepo-generic-dao-steroids
 tags:
 - JAVA
 - Spring Hibernate

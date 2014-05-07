@@ -3,7 +3,7 @@ layout: post
 title: (Yet Another) Wicket Misadventure...
 created: 1248268545
 author: adi
-permalink: java/yet-another-wicket-misadventure
+permalink: /java/yet-another-wicket-misadventure
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Why using REST will kill your project '
 created: 1289907866
 author: ittayd
-permalink: incubator/why-using-rest-will-kill-your-project
+permalink: /incubator/why-using-rest-will-kill-your-project
 tags:
 - Incubator
 - REST

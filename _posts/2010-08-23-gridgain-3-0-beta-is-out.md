@@ -3,7 +3,7 @@ layout: post
 title: gridgain 3.0 beta is out
 created: 1282561124
 author: ittayd
-permalink: java/gridgain-30-beta-out
+permalink: /java/gridgain-30-beta-out
 tags:
 - JAVA
 ---

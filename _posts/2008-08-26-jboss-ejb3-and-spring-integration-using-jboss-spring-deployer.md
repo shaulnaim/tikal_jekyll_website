@@ -3,7 +3,7 @@ layout: post
 title: jboss ejb3 and spring integration using jboss-spring deployer
 created: 1219770732
 author: shalom
-permalink: java/jboss-ejb3-and-spring-integration-using-jboss-spring-deployer
+permalink: /java/jboss-ejb3-and-spring-integration-using-jboss-spring-deployer
 tags:
 - JAVA
 - Spring

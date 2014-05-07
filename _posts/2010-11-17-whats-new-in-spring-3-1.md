@@ -3,7 +3,7 @@ layout: post
 title: what's new in spring 3.1
 created: 1289993459
 author: ittayd
-permalink: java/whats-new-spring-31
+permalink: /java/whats-new-spring-31
 tags:
 - JAVA
 - Spring

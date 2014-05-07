@@ -3,7 +3,7 @@ layout: post
 title: Code Snippets for Windows Store Apps
 created: 1348046321
 author: menny
-permalink: net/code-snippets-windows-store-apps
+permalink: /net/code-snippets-windows-store-apps
 tags:
 - .NET
 ---

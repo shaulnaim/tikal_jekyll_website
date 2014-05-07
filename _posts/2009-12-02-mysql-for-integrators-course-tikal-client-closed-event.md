@@ -3,7 +3,7 @@ layout: post
 title: MySQL for Integrators Course – Tikal client closed event
 created: 1259761317
 author: lior.kanfi
-permalink: alm/mysql-integrators-course-–-tikal-client-closed-event
+permalink: /alm/mysql-integrators-course-–-tikal-client-closed-event
 tags:
 - ALM
 - MySQL

@@ -3,7 +3,7 @@ layout: post
 title: RedirectAttributes - new feature in Spring MVC 3.1
 created: 1325456670
 author: danny
-permalink: redirectattributes-new-feature-spring-mvc-31
+permalink: /redirectattributes-new-feature-spring-mvc-31
 tags:
 - JAVA
 - spring mvc

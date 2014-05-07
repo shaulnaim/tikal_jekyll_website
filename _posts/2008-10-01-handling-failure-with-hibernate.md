@@ -3,7 +3,7 @@ layout: post
 title: Handling failure with Hibernate
 created: 1222894695
 author: yanai
-permalink: java/handling-failure-hibernate
+permalink: /java/handling-failure-hibernate
 tags:
 - JAVA
 - Hibernate

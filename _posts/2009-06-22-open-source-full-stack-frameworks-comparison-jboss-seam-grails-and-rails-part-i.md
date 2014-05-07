@@ -4,7 +4,7 @@ title: Open Source Full-Stack Frameworks Comparison - JBoss Seam, Grails & Rails
   Part I
 created: 1245672414
 author: lior.kanfi
-permalink: ror/open-source-full-stack-frameworks-comparison-jboss-seam-grails-rails-part-i
+permalink: /ror/open-source-full-stack-frameworks-comparison-jboss-seam-grails-rails-part-i
 tags:
 - RoR
 - Rails

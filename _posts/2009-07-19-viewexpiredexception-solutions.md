@@ -3,7 +3,7 @@ layout: post
 title: ViewExpiredException solutions
 created: 1248021804
 author: admin
-permalink: java/forums/viewexpiredexception-solutions
+permalink: /java/forums/viewexpiredexception-solutions
 tags:
 - JAVA
 - javax.faces.application.ViewExpiredException

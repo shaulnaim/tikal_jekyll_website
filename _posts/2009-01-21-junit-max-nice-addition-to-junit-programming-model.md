@@ -3,7 +3,7 @@ layout: post
 title: JUnit Max - nice addition to JUnit programming model
 created: 1232554446
 author: andrew
-permalink: java/junit-max-nice-addition-junit-programming-model
+permalink: /java/junit-max-nice-addition-junit-programming-model
 tags:
 - JAVA
 ---

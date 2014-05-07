@@ -3,7 +3,7 @@ layout: post
 title: 'Calling EJB3 SLSB with Spring : what syntax ? '
 created: 1211139540
 author: yanai
-permalink: java/calling-ejb3-slsb-spring-what-syntax
+permalink: /java/calling-ejb3-slsb-spring-what-syntax
 tags:
 - JAVA
 - Spring

@@ -3,7 +3,7 @@ layout: post
 title: 'Personalizing Web Pages Using JSF '
 created: 1210585320
 author: hila
-permalink: java/personalizing-web-pages-using-jsf
+permalink: /java/personalizing-web-pages-using-jsf
 tags:
 - JAVA
 ---

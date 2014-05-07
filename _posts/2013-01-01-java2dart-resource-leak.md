@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart Resource Leak
 created: 1357027410
 author: oren.kleks
-permalink: java/java2dart-resource-leak
+permalink: /java/java2dart-resource-leak
 tags:
 - JAVA
 - Java DART leak

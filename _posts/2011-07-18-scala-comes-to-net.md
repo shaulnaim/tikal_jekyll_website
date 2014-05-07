@@ -3,7 +3,7 @@ layout: post
 title: Scala comes to .Net
 created: 1310983248
 author: ittayd
-permalink: incubator/scala-comes-net
+permalink: /incubator/scala-comes-net
 tags:
 - Incubator
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Israeli Flash and Flex users event
 created: 1269882386
 author: udid
-permalink: js/israeli-flash-and-flex-users-event
+permalink: /js/israeli-flash-and-flex-users-event
 tags:
 - JS
 - flex

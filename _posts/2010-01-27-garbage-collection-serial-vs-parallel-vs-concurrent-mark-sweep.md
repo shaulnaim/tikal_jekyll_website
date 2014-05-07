@@ -3,7 +3,7 @@ layout: post
 title: 'Garbage Collection: Serial vs. Parallel vs. Concurrent-Mark-Sweep'
 created: 1264606805
 author: elad
-permalink: java/garbage-collection-serial-vs-parallel-vs-concurrent-mark-sweep
+permalink: /java/garbage-collection-serial-vs-parallel-vs-concurrent-mark-sweep
 tags:
 - JAVA
 - Garbage Collection

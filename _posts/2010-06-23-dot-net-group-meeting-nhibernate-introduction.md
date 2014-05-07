@@ -3,7 +3,7 @@ layout: post
 title: Dot.Net group meeting - NHibernate Introduction
 created: 1277292499
 author: igorz
-permalink: net/dotnet-group-meeting-nhibernate-introduction
+permalink: /net/dotnet-group-meeting-nhibernate-introduction
 tags:
 - .NET
 - .Net Open Source

@@ -3,7 +3,7 @@ layout: post
 title: Writing a Chef Cookbook
 created: 1358679639
 author: hagzag
-permalink: alm/writing-chef-cookbook
+permalink: /alm/writing-chef-cookbook
 tags:
 - ALM
 - recipe

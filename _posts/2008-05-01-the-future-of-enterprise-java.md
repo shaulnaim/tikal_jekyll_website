@@ -3,7 +3,7 @@ layout: post
 title: The Future of Enterprise Java
 created: 1209646740
 author: zvika
-permalink: java/future-enterprise-java
+permalink: /java/future-enterprise-java
 tags:
 - JAVA
 - Spring

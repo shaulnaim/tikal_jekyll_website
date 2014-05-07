@@ -3,7 +3,7 @@ layout: post
 title: Go language from Google
 created: 1258032032
 author: andrew
-permalink: net/go-language-google
+permalink: /net/go-language-google
 tags:
 - .NET
 ---

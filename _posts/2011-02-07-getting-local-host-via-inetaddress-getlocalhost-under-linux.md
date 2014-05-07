@@ -3,7 +3,7 @@ layout: post
 title: Getting local host via InetAddress.getLocalHost() under Linux
 created: 1297089623
 author: zvika
-permalink: java/getting-local-host-inetaddressgetlocalhost-under-linux
+permalink: /java/getting-local-host-inetaddressgetlocalhost-under-linux
 tags:
 - JAVA
 - Linux

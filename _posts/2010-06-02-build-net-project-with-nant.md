@@ -3,7 +3,7 @@ layout: post
 title: Build .NET Project with NAnt
 created: 1275497743
 author: igorz
-permalink: net/build-net-project-nant
+permalink: /net/build-net-project-nant
 tags:
 - .NET
 - NAnt

@@ -3,7 +3,7 @@ layout: post
 title: JBUG 3 - Skybox - Case Study
 created: 1155535200
 author: zvika
-permalink: java/jbug-3-skybox-case-study
+permalink: /java/jbug-3-skybox-case-study
 tags:
 - JAVA
 - MySQL

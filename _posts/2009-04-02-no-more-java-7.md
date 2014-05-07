@@ -3,7 +3,7 @@ layout: post
 title: No More Java 7?
 created: 1238656809
 author: admin
-permalink: java/no-more-java-7
+permalink: /java/no-more-java-7
 tags:
 - JAVA
 ---

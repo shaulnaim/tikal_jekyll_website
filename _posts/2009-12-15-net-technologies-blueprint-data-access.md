@@ -3,7 +3,7 @@ layout: post
 title: '.Net technologies blueprint: data access'
 created: 1260882349
 author: andrew
-permalink: net/net-technologies-blueprint-data-access
+permalink: /net/net-technologies-blueprint-data-access
 tags:
 - .NET
 - blueprint; data access

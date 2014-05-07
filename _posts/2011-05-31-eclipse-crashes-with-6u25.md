@@ -3,7 +3,7 @@ layout: post
 title: Eclipse crashes with 6u25
 created: 1306851112
 author: avim
-permalink: js/eclipse-crashes-6u25
+permalink: /js/eclipse-crashes-6u25
 tags:
 - JS
 - eclipse java jvm crash 6u25 Native memory allocation (malloc) failed to allocate

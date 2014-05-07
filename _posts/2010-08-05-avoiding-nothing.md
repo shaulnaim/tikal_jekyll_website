@@ -3,7 +3,7 @@ layout: post
 title: Avoiding Nothing
 created: 1281038397
 author: ittayd
-permalink: java/avoiding-nothing
+permalink: /java/avoiding-nothing
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: How to become a professioal developer (1)
 created: 1338394544
 author: avit
-permalink: how-become-professioal-developer-1
+permalink: /how-become-professioal-developer-1
 tags:
 - RoR
 - web

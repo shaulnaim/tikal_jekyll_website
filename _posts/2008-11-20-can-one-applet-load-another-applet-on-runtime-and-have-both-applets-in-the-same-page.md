@@ -4,7 +4,7 @@ title: 'Can one applet load another applet on runtime, and have both applets in 
   same page? '
 created: 1227182009
 author: keren
-permalink: java/can-one-applet-load-another-applet-runtime-and-have-both-applets-same-page
+permalink: /java/can-one-applet-load-another-applet-runtime-and-have-both-applets-same-page
 tags:
 - JAVA
 - applet

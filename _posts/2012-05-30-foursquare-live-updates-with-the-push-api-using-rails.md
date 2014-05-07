@@ -3,7 +3,7 @@ layout: post
 title: Foursquare live updates with the Push API using rails.
 created: 1338394544
 author: avit
-permalink: foursquare-live-updates-push-api-using-rails
+permalink: /foursquare-live-updates-push-api-using-rails
 tags:
 - RoR
 - web

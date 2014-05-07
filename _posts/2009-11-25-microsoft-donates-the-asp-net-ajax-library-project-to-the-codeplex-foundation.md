@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Donates the ASP.NET Ajax Library Project to the CodePlex Foundation
 created: 1259166098
 author: igorz
-permalink: net/microsoft-donates-aspnet-ajax-library-project-codeplex-foundation
+permalink: /net/microsoft-donates-aspnet-ajax-library-project-codeplex-foundation
 tags:
 - .NET
 - ASP.NET Ajax

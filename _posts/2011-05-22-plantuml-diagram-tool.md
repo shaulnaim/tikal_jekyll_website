@@ -3,7 +3,7 @@ layout: post
 title: 'PlantUML diagram tool '
 created: 1306038208
 author: ittayd
-permalink: plantuml-diagram-tool
+permalink: /plantuml-diagram-tool
 tags:
 - uml
 ---

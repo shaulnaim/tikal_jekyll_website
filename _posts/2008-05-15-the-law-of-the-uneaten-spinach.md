@@ -3,7 +3,7 @@ layout: post
 title: The Law of the Uneaten Spinach
 created: 1210804320
 author: zvika
-permalink: java/law-uneaten-spinach
+permalink: /java/law-uneaten-spinach
 tags:
 - JAVA
 ---

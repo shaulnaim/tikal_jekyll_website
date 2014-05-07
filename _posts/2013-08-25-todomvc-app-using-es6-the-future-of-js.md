@@ -3,7 +3,7 @@ layout: post
 title: TodoMVC app using ES6 - the future of JS
 created: 1377407023
 author: orenf
-permalink: todomvc-app-using-es6-future-js
+permalink: /todomvc-app-using-es6-future-js
 tags:
 - JS
 - Javascript

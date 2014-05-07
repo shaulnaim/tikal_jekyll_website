@@ -3,7 +3,7 @@ layout: post
 title: Persisting Scala Objects in CouchDB
 created: 1244248902
 author: adi
-permalink: java/persisting-scala-objects-couchdb
+permalink: /java/persisting-scala-objects-couchdb
 tags:
 - JAVA
 - Scala CouchDB

@@ -3,7 +3,7 @@ layout: post
 title: Some insights of Netflix on Continuous Delivery & Deployment
 created: 1330962895
 author: hagzag
-permalink: some-insights-netflix-continuous-delivery-deployment
+permalink: /some-insights-netflix-continuous-delivery-deployment
 tags:
 - ALM
 - jenkins

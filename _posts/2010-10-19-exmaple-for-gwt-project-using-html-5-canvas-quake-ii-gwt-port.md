@@ -3,7 +3,7 @@ layout: post
 title: Exmaple for Gwt Project using HTML 5 canvas (Quake II GWT Port)
 created: 1287495440
 author: aviy
-permalink: java/exmaple-gwt-project-using-html-5-canvas-quake-ii-gwt-port
+permalink: /java/exmaple-gwt-project-using-html-5-canvas-quake-ii-gwt-port
 tags:
 - JAVA
 - gwt

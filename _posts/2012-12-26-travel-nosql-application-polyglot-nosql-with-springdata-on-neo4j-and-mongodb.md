@@ -3,7 +3,7 @@ layout: post
 title: Travel NoSQL Application - Polyglot NoSQL with SpringData on Neo4J and MongoDB
 created: 1356518367
 author: yanai
-permalink: java/travel-nosql-application-polyglot-nosql-springdata-neo4j-and-mongodb
+permalink: /java/travel-nosql-application-polyglot-nosql-springdata-neo4j-and-mongodb
 tags:
 - JAVA
 - NoSQL SpringData Polyglot Persistence

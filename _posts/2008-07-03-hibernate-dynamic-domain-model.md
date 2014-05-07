@@ -2,7 +2,7 @@
 layout: post
 title: Hibernate - Dynamic Domain Model
 created: 1215051240
-permalink: java/hibernate-dynamic-domain-model
+permalink: /java/hibernate-dynamic-domain-model
 tags:
 - JAVA
 - Hibernate

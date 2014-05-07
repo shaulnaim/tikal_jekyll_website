@@ -3,7 +3,7 @@ layout: post
 title: 32-bit JVM vs. to 64-bit JVM on Windows - upgrade implications
 created: 1252401705
 author: elad
-permalink: java/32-bit-jvm-vs-64-bit-jvm-windows-upgrade-implications
+permalink: /java/32-bit-jvm-vs-64-bit-jvm-windows-upgrade-implications
 tags:
 - JAVA
 - upgrade to 64-bit

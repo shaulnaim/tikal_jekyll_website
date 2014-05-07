@@ -3,7 +3,7 @@ layout: post
 title: Scroll to selected index in Tree control (Flex)
 created: 1338394544
 author: avit
-permalink: scroll-selected-index-tree-control-flex
+permalink: /scroll-selected-index-tree-control-flex
 tags:
 - RoR
 - web

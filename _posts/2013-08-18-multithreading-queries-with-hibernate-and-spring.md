@@ -3,7 +3,7 @@ layout: post
 title: Multithreading queries with hibernate & spring
 created: 1376834085
 author: chaim.turkel
-permalink: multithreading-queries-hibernate-spring
+permalink: /multithreading-queries-hibernate-spring
 tags:
 - JAVA
 - Hibernate

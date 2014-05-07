@@ -3,7 +3,7 @@ layout: post
 title: 'Paas comparison '
 created: 1326093060
 author: itai
-permalink: paas-comparison
+permalink: /paas-comparison
 tags:
 - ALM
 - PAAS

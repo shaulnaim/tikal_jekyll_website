@@ -3,7 +3,7 @@ layout: post
 title: Using resource modules
 created: 1260439181
 author: sefi
-permalink: using-resource-modules
+permalink: /using-resource-modules
 tags:
 - gwt
 - flex

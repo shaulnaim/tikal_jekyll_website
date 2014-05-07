@@ -3,7 +3,7 @@ layout: post
 title: ' NHibernate Workbench'
 created: 1275915940
 author: igorz
-permalink: net/nhibernate-workbench
+permalink: /net/nhibernate-workbench
 tags:
 - .NET
 - .Net Open Source

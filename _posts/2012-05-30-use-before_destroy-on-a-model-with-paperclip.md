@@ -3,7 +3,7 @@ layout: post
 title: Use before_destroy on a model with paperclip
 created: 1338394544
 author: avit
-permalink: use-beforedestroy-model-paperclip
+permalink: /use-beforedestroy-model-paperclip
 tags:
 - RoR
 - web

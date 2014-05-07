@@ -3,7 +3,7 @@ layout: post
 title: Using relative url with RESTEasy path annotation
 created: 1301675100
 author: liorb
-permalink: using-relative-url-resteasy-path-annotation
+permalink: /using-relative-url-resteasy-path-annotation
 tags:
 - Flex Java
 ---

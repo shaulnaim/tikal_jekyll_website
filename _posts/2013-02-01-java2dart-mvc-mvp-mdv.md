@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart MVC --> MVP --> MDV
 created: 1359730487
 author: oren.kleks
-permalink: java/java2dart-mvc-mvp-mdv
+permalink: /java/java2dart-mvc-mvp-mdv
 tags:
 - JAVA
 - Java Dart MVC MVP MDV

@@ -3,7 +3,7 @@ layout: post
 title: Chop Hibernate Lazy Associations
 created: 1332189595
 author: yanai
-permalink: chop-hibernate-lazy-associations
+permalink: /chop-hibernate-lazy-associations
 tags:
 - JAVA
 - Hibernate JPA Lazy Associations

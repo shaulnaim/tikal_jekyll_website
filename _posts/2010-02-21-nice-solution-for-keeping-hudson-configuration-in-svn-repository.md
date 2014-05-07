@@ -3,7 +3,7 @@ layout: post
 title: Nice solution for keeping Hudson configuration in SVN repository
 created: 1266758336
 author: liya
-permalink: alm/nice-solution-keeping-hudson-configuration-svn-repository
+permalink: /alm/nice-solution-keeping-hudson-configuration-svn-repository
 tags:
 - ALM
 - subversion

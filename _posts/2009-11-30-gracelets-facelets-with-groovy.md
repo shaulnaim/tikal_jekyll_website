@@ -3,7 +3,7 @@ layout: post
 title: Gracelets- Facelets with Groovy
 created: 1259603456
 author: adi
-permalink: java/gracelets-facelets-groovy
+permalink: /java/gracelets-facelets-groovy
 tags:
 - JAVA
 - Groovy

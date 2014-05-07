@@ -3,7 +3,7 @@ layout: post
 title: need a maven plugin for C#
 created: 1250512620
 author: keren
-permalink: net/need-maven-plugin-c
+permalink: /net/need-maven-plugin-c
 tags:
 - .NET
 ---

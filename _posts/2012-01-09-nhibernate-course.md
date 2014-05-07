@@ -3,7 +3,7 @@ layout: post
 title: NHibernate Course
 created: 1326103131
 author: igorz
-permalink: nhibernate-course
+permalink: /nhibernate-course
 tags:
 - .NET
 - .Net Open Source

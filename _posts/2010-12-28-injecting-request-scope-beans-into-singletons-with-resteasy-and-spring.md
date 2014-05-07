@@ -3,7 +3,7 @@ layout: post
 title: Injecting request scope beans into singletons with RESTeasy and Spring
 created: 1293549987
 author: andrew
-permalink: java/injecting-request-scope-beans-singletons-resteasy-and-spring
+permalink: /java/injecting-request-scope-beans-singletons-resteasy-and-spring
 tags:
 - JAVA
 - rest spring aop resteasy jersey

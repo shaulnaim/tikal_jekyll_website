@@ -3,7 +3,7 @@ layout: post
 title: How to choose a web framework
 created: 1302088823
 author: ittayd
-permalink: java/how-choose-web-framework
+permalink: /java/how-choose-web-framework
 tags:
 - JAVA
 ---

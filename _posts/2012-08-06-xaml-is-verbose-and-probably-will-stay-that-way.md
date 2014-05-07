@@ -3,7 +3,7 @@ layout: post
 title: XAML is Verbose; and probably will stay that way
 created: 1344241960
 author: menny
-permalink: net/xaml-verbose-and-probably-will-stay-way
+permalink: /net/xaml-verbose-and-probably-will-stay-way
 tags:
 - .NET
 ---

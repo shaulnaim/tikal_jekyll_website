@@ -3,7 +3,7 @@ layout: post
 title: Flex Error Solution - Unable to export SWC oem
 created: 1278865799
 author: shair
-permalink: js/flex-error-solution-unable-export-swc-oem
+permalink: /js/flex-error-solution-unable-export-swc-oem
 tags:
 - JS
 - oem

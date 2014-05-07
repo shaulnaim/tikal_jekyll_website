@@ -3,7 +3,7 @@ layout: post
 title: What Is Hadoop?
 created: 1225741094
 author: yanai
-permalink: java/what-hadoop
+permalink: /java/what-hadoop
 tags:
 - JAVA
 - Hadoop Cloud computing

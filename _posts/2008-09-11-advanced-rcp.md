@@ -3,7 +3,7 @@ layout: post
 title: Advanced RCP
 created: 1221112020
 author: lior.kanfi
-permalink: java/advanced-rcp
+permalink: /java/advanced-rcp
 tags:
 - JAVA
 - Eclipse RCP SWT

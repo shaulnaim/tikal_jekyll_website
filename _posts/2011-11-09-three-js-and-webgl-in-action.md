@@ -3,7 +3,7 @@ layout: post
 title: Three.js & WebGL in action
 created: 1320829648
 author: orenf
-permalink: threejs-webgl-action
+permalink: /threejs-webgl-action
 tags:
 - Incubator
 ---

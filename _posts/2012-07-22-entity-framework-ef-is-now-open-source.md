@@ -3,7 +3,7 @@ layout: post
 title: Entity Framework (EF) is now open source
 created: 1342970669
 author: menny
-permalink: entity-framework-ef-now-open-source
+permalink: /entity-framework-ef-now-open-source
 tags:
 - .NET
 ---

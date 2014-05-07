@@ -3,7 +3,7 @@ layout: post
 title: An interesting thread on RELENG
 created: 1269974681
 author: hagzag
-permalink: alm/interesting-thread-releng
+permalink: /alm/interesting-thread-releng
 tags:
 - ALM
 - RELENG

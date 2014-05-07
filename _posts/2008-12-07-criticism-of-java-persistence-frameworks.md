@@ -3,7 +3,7 @@ layout: post
 title: Criticism of Java Persistence Frameworks
 created: 1228685419
 author: yanai
-permalink: java/criticism-java-persistence-frameworks
+permalink: /java/criticism-java-persistence-frameworks
 tags:
 - JAVA
 - ORM Criticism

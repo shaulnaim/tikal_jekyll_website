@@ -4,7 +4,7 @@ title: "DevOps real life showcase - Gogobot (by: Avi Tzurel, \"Kenso & Tikal\" @
   TCE)\uFEFF"
 created: 1345030628
 author: avit
-permalink: "devops-real-life-showcase-gogobot-avi-tzurel-kenso-tikal-devops-tce\uFEFF"
+permalink: "/devops-real-life-showcase-gogobot-avi-tzurel-kenso-tikal-devops-tce\uFEFF"
 tags:
 - ALM
 - gogobot

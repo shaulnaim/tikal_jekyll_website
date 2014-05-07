@@ -3,7 +3,7 @@ layout: post
 title: A short introduction to CoffeScript
 created: 1314036476
 author: ittayd
-permalink: short-introduction-coffescript
+permalink: /short-introduction-coffescript
 tags:
 - JS
 - coffeescript javascript

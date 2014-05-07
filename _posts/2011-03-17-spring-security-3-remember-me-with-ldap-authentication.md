@@ -3,7 +3,7 @@ layout: post
 title: Spring security 3 remember-me with LDAP authentication
 created: 1300346615
 author: admin
-permalink: java/spring-security-3-remember-me-ldap-authentication
+permalink: /java/spring-security-3-remember-me-ldap-authentication
 tags:
 - JAVA
 - Spring security 3

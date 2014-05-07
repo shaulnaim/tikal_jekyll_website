@@ -3,7 +3,7 @@ layout: post
 title: ' Caching, Parallelism and Scalability'
 created: 1221809347
 author: yanai
-permalink: java/caching-parallelism-and-scalability
+permalink: /java/caching-parallelism-and-scalability
 tags:
 - JAVA
 ---

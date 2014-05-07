@@ -3,7 +3,7 @@ layout: post
 title: Flex "Verbal Month" date
 created: 1338394544
 author: avit
-permalink: flex-verbal-month-date
+permalink: /flex-verbal-month-date
 tags:
 - RoR
 - web

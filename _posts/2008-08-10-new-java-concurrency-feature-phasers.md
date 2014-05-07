@@ -3,7 +3,7 @@ layout: post
 title: 'New Java Concurrency Feature: Phasers'
 created: 1218380359
 author: zvika
-permalink: java/new-java-concurrency-feature-phasers
+permalink: /java/new-java-concurrency-feature-phasers
 tags:
 - JAVA
 ---

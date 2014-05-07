@@ -3,7 +3,7 @@ layout: post
 title: Dev-Day at Tikal - Second Round
 created: 1250024714
 author: yanai
-permalink: java/dev-day-tikal-second-round
+permalink: /java/dev-day-tikal-second-round
 tags:
 - JAVA
 - hands-on dev-day fuse

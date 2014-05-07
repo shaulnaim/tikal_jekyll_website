@@ -3,7 +3,7 @@ layout: post
 title: Parallel IO in Clojure (by Tim Bray)
 created: 1258793539
 author: adi
-permalink: java/parallel-io-clojure-tim-bray
+permalink: /java/parallel-io-clojure-tim-bray
 tags:
 - JAVA
 - Clojure

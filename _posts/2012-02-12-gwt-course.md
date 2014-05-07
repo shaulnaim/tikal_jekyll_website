@@ -3,7 +3,7 @@ layout: post
 title: 'GWT Course '
 created: 1329039142
 author: aviy
-permalink: gwt-course
+permalink: /gwt-course
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Automated DTO Generation with Maven and GAS3
 created: 1289076720
 author: liorb
-permalink: automated-dto-generation-maven-and-gas3
+permalink: /automated-dto-generation-maven-and-gas3
 tags:
 - Flex Java
 ---

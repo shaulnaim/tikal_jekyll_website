@@ -3,7 +3,7 @@ layout: post
 title: Git Extensions
 created: 1271363618
 author: igorz
-permalink: net/git-extensions
+permalink: /net/git-extensions
 tags:
 - .NET
 - git

@@ -3,7 +3,7 @@ layout: post
 title: RSpec speed-up (24.6%) by tweaking ruby garbage collection – Ariejan.net
 created: 1342029132
 author: avit
-permalink: ror/rspec-speed-246-tweaking-ruby-garbage-collection-–-ariejannet
+permalink: /ror/rspec-speed-246-tweaking-ruby-garbage-collection-–-ariejannet
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Entity Framework Code First and Enum Support
 created: 1350472998
 author: amiram
-permalink: net/entity-framework-code-first-and-enum-support
+permalink: /net/entity-framework-code-first-and-enum-support
 tags:
 - .NET
 ---

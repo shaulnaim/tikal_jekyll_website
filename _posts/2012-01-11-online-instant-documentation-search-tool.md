@@ -3,7 +3,7 @@ layout: post
 title: Online Instant Documentation Search Tool
 created: 1326273955
 author: orenf
-permalink: online-instant-documentation-search-tool
+permalink: /online-instant-documentation-search-tool
 tags:
 - JS
 - css

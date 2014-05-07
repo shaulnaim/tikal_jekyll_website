@@ -3,7 +3,7 @@ layout: post
 title: problem with running spec in vim
 created: 1344198190
 author: avit
-permalink: ror/problem-running-spec-vim
+permalink: /ror/problem-running-spec-vim
 tags:
 - RoR
 ---

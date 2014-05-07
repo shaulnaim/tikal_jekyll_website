@@ -3,7 +3,7 @@ layout: post
 title: Summaries from Google's HTML5 training day
 created: 1331197160
 author: udib
-permalink: summaries-googles-html5-training-day
+permalink: /summaries-googles-html5-training-day
 tags:
 - HTML5
 ---

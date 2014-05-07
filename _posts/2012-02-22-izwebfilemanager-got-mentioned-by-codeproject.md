@@ -3,7 +3,7 @@ layout: post
 title: IZWebFileManager got mentioned by CodeProject
 created: 1329891420
 author: igorz
-permalink: net/izwebfilemanager-got-mentioned-codeproject
+permalink: /net/izwebfilemanager-got-mentioned-codeproject
 tags:
 - .NET
 - .Net Open Source

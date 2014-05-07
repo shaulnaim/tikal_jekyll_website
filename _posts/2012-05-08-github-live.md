@@ -3,7 +3,7 @@ layout: post
 title: Github Live
 created: 1336462851
 author: adi
-permalink: github-live
+permalink: /github-live
 tags:
 - JS
 ---

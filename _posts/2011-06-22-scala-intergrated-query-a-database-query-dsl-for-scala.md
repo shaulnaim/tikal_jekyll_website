@@ -3,7 +3,7 @@ layout: post
 title: Scala Intergrated Query - a database query dsl for scala
 created: 1308731537
 author: ittayd
-permalink: incubator/scala-intergrated-query-database-query-dsl-scala
+permalink: /incubator/scala-intergrated-query-database-query-dsl-scala
 tags:
 - Incubator
 - Scala

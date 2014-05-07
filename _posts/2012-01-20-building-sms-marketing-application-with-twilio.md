@@ -3,7 +3,7 @@ layout: post
 title: Building SMS marketing application with Twilio
 created: 1327045357
 author: hanan
-permalink: building-sms-marketing-application-twilio
+permalink: /building-sms-marketing-application-twilio
 tags:
 - JAVA
 - Mobile

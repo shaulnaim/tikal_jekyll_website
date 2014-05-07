@@ -3,7 +3,7 @@ layout: post
 title: ubiquity - user mashups in your browser
 created: 1220932493
 author: ittayd
-permalink: ubiquity-user-mashups-your-browser
+permalink: /ubiquity-user-mashups-your-browser
 tags:
 - mashups firefox ubiquity tool
 ---

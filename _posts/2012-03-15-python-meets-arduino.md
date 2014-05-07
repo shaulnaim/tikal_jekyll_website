@@ -3,7 +3,7 @@ layout: post
 title: Python Meets Arduino
 created: 1331776186
 author: zvika
-permalink: python-meets-arduino
+permalink: /python-meets-arduino
 tags:
 - Incubator
 - Python

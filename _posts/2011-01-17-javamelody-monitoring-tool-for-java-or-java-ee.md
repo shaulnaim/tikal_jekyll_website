@@ -3,7 +3,7 @@ layout: post
 title: JavaMelody monitoring tool for Java or Java EE
 created: 1295254452
 author: admin
-permalink: java/forums/javamelody-monitoring-tool-java-or-java-ee
+permalink: /java/forums/javamelody-monitoring-tool-java-or-java-ee
 tags:
 - JAVA
 ---

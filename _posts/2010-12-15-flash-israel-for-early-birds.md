@@ -3,7 +3,7 @@ layout: post
 title: Flash Israel – for early birds
 created: 1292407699
 author: sefi
-permalink: flash-israel-–-early-birds
+permalink: /flash-israel-–-early-birds
 tags:
 - gwt
 - flex

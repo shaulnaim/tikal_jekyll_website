@@ -3,7 +3,7 @@ layout: post
 title: '.NET group meeting: Policy injection & AOP'
 created: 1266849084
 author: andrew
-permalink: net/net-group-meeting-policy-injection-aop
+permalink: /net/net-group-meeting-policy-injection-aop
 tags:
 - .NET
 ---

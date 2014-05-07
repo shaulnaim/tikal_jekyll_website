@@ -3,7 +3,7 @@ layout: post
 title: Solr 3.6.2 - multi cores doesn't take configured parameters dataDir
 created: 1359966333
 author: itaip
-permalink: java/solr-362-multi-cores-doesnt-take-configured-parameters-datadir
+permalink: /java/solr-362-multi-cores-doesnt-take-configured-parameters-datadir
 tags:
 - JAVA
 - solr java

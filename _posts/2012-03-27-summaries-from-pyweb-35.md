@@ -3,7 +3,7 @@ layout: post
 title: Summaries from PyWeb 35
 created: 1332842777
 author: udib
-permalink: summaries-pyweb-35
+permalink: /summaries-pyweb-35
 tags:
 - Incubator
 - zeromq

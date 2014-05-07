@@ -3,7 +3,7 @@ layout: post
 title: To delete OR NOT to Delete - That is the question
 created: 1252815123
 author: yanai
-permalink: java/delete-or-not-delete-question
+permalink: /java/delete-or-not-delete-question
 tags:
 - JAVA
 - Delete ORM

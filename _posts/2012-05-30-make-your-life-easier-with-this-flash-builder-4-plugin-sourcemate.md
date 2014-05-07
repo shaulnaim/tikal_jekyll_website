@@ -3,7 +3,7 @@ layout: post
 title: Make your life easier with this Flash Builder 4 plugin (sourcemate)
 created: 1338394544
 author: avit
-permalink: make-your-life-easier-flash-builder-4-plugin-sourcemate
+permalink: /make-your-life-easier-flash-builder-4-plugin-sourcemate
 tags:
 - RoR
 - web

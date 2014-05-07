@@ -3,7 +3,7 @@ layout: post
 title: Drupal - Setting any page as front page
 created: 1254062580
 author: liorb
-permalink: drupal-setting-any-page-front-page
+permalink: /drupal-setting-any-page-front-page
 tags:
 - Flex Java
 ---

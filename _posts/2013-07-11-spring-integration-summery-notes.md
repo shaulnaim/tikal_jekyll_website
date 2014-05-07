@@ -3,7 +3,7 @@ layout: post
 title: Spring Integration summery notes
 created: 1373558990
 author: idan.fridman
-permalink: java/spring-integration-summery-notes
+permalink: /java/spring-integration-summery-notes
 tags:
 - JAVA
 - java spring

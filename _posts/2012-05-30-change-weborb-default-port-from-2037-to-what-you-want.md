@@ -3,7 +3,7 @@ layout: post
 title: Change WebOrb default port from 2037 to what you want
 created: 1338394544
 author: avit
-permalink: change-weborb-default-port-2037-what-you-want
+permalink: /change-weborb-default-port-2037-what-you-want
 tags:
 - RoR
 - web

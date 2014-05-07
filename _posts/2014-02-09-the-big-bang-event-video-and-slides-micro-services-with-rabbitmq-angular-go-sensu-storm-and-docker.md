@@ -4,7 +4,7 @@ title: 'The Big Bang event video & slides - Micro Services with RabbitMQ, Angula
   Go, Sensu, Storm & Docker '
 created: 1391933386
 author: yifat
-permalink: big-bang-event-micro-services-rabbitmq-angular-go-sensu-storm-docker
+permalink: /big-bang-event-micro-services-rabbitmq-angular-go-sensu-storm-docker
 tags:
 - Incubator
 - micro services

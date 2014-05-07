@@ -3,7 +3,7 @@ layout: post
 title: XML DB anyone?
 created: 1236174512
 author: zvika
-permalink: xml-db-anyone
+permalink: /xml-db-anyone
 ---
 <div dir="ltr">hi,<br /><br />for the application at flash networks, we need an xml
 storage that is roll-backable, searchable and transactional...

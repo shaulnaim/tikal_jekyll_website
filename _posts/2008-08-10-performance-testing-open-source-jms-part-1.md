@@ -3,7 +3,7 @@ layout: post
 title: Performance testing open source JMS part 1
 created: 1218381618
 author: zvika
-permalink: java/performance-testing-open-source-jms-part-1
+permalink: /java/performance-testing-open-source-jms-part-1
 tags:
 - JAVA
 - performance

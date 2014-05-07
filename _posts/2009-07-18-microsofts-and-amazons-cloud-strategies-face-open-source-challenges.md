@@ -3,7 +3,7 @@ layout: post
 title: Microsoft's and Amazon's Cloud Strategies Face Open Source Challenges
 created: 1247948702
 author: lior.kanfi
-permalink: java/microsofts-and-amazons-cloud-strategies-face-open-source-challenges
+permalink: /java/microsofts-and-amazons-cloud-strategies-face-open-source-challenges
 tags:
 - JAVA
 - Windows Azure

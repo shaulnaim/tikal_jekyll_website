@@ -3,7 +3,7 @@ layout: post
 title: Unexpected screen flicker
 created: 1263396324
 author: oren
-permalink: js/unexpected-screen-flicker
+permalink: /js/unexpected-screen-flicker
 tags:
 - JS
 - style

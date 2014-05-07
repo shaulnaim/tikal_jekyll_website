@@ -3,7 +3,7 @@ layout: post
 title: Dependency management for Ant
 created: 1239639895
 author: udid
-permalink: java/dependency-management-ant
+permalink: /java/dependency-management-ant
 tags:
 - JAVA
 - Ant

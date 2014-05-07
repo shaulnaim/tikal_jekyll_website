@@ -3,7 +3,7 @@ layout: post
 title: JBUG 7 - Choosing the Right Grid Architecture
 created: 1196924400
 author: zvika
-permalink: java/jbug-7-choosing-right-grid-architecture
+permalink: /java/jbug-7-choosing-right-grid-architecture
 tags:
 - JAVA
 - Guice

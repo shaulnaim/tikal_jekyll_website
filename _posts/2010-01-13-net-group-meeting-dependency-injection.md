@@ -3,7 +3,7 @@ layout: post
 title: '.NET group meeting: Dependency Injection'
 created: 1263371332
 author: andrew
-permalink: net/net-group-meeting-dependency-injection
+permalink: /net/net-group-meeting-dependency-injection
 tags:
 - .NET
 - .Net Open Source

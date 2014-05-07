@@ -3,7 +3,7 @@ layout: post
 title: 'YouDebug - a non-interactive debugger scripted by Groovy '
 created: 1273471531
 author: ittayd
-permalink: java/youdebug-non-interactive-debugger-scripted-groovy
+permalink: /java/youdebug-non-interactive-debugger-scripted-groovy
 tags:
 - JAVA
 ---

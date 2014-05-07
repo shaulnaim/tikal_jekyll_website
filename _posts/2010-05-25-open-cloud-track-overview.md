@@ -3,7 +3,7 @@ layout: post
 title: '"Open Cloud" track overview'
 created: 1274802851
 author: lior.kanfi
-permalink: open-cloud-track-overview
+permalink: /open-cloud-track-overview
 tags:
 - Open Source
 - cloud computing

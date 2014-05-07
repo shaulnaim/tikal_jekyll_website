@@ -3,7 +3,7 @@ layout: post
 title: 'Splash Screens: Activity vs View'
 created: 1370721082
 author: michaelh
-permalink: incubator/splash-screens-activity-vs-view
+permalink: /incubator/splash-screens-activity-vs-view
 tags:
 - Incubator
 - activity

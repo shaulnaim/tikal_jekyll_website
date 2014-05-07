@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With S2AP, Eclipse, and Maven
 created: 1212586740
 author: zvika
-permalink: java/getting-started-s2ap-eclipse-and-maven
+permalink: /java/getting-started-s2ap-eclipse-and-maven
 tags:
 - JAVA
 - Spring

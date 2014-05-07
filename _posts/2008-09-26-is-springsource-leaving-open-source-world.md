@@ -3,7 +3,7 @@ layout: post
 title: Is SpringSource Leaving Open-Source World?
 created: 1222397862
 author: zvika
-permalink: java/springsource-leaving-open-source-world
+permalink: /java/springsource-leaving-open-source-world
 tags:
 - JAVA
 - Application Frameworks

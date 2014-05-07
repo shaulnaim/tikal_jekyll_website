@@ -3,7 +3,7 @@ layout: post
 title: Replace the Hash syntax to the 1.9 syntax for all files, with a regular expression
 created: 1338394544
 author: avit
-permalink: replace-hash-syntax-19-syntax-all-files-regular-expression
+permalink: /replace-hash-syntax-19-syntax-all-files-regular-expression
 tags:
 - RoR
 - web

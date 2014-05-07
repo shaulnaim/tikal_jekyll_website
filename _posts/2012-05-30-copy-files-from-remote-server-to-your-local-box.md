@@ -3,7 +3,7 @@ layout: post
 title: Copy files from remote server to your local box
 created: 1338394544
 author: avit
-permalink: copy-files-remote-server-your-local-box
+permalink: /copy-files-remote-server-your-local-box
 tags:
 - RoR
 - web

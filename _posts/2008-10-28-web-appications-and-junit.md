@@ -3,7 +3,7 @@ layout: post
 title: web appications and JUnit
 created: 1225196589
 author: hila
-permalink: java/web-appications-and-junit
+permalink: /java/web-appications-and-junit
 tags:
 - JAVA
 - JUnit

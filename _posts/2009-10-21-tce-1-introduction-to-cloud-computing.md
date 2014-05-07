@@ -3,7 +3,7 @@ layout: post
 title: TCE 1 - Introduction to Cloud Computing
 created: 1256118293
 author: yanai
-permalink: java/tce-1-introduction-cloud-computing
+permalink: /java/tce-1-introduction-cloud-computing
 tags:
 - JAVA
 - EC2

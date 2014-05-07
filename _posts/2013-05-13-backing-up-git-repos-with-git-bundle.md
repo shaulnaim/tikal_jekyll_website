@@ -3,7 +3,7 @@ layout: post
 title: Backing up Git repos with git bundle
 created: 1368469463
 author: hagzag
-permalink: alm/backing-git-repos-git-bundle
+permalink: /alm/backing-git-repos-git-bundle
 tags:
 - ALM
 - git

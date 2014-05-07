@@ -3,7 +3,7 @@ layout: post
 title: Automation and Testing Using Computer Vision
 created: 1334224723
 author: olga
-permalink: automation-and-testing-using-computer-vision
+permalink: /automation-and-testing-using-computer-vision
 tags:
 - JAVA
 ---

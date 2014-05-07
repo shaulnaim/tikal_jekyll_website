@@ -3,7 +3,7 @@ layout: post
 title: The commercialisation of Memcached
 created: 1245240064
 author: lior.kanfi
-permalink: java/commercialisation-memcached
+permalink: /java/commercialisation-memcached
 tags:
 - JAVA
 - Memcached

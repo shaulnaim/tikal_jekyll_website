@@ -3,7 +3,7 @@ layout: post
 title: Groovy Maven Builds - By Evgeny Goldin
 created: 1317813788
 author: itai
-permalink: groovy-maven-builds-evgeny-goldin
+permalink: /groovy-maven-builds-evgeny-goldin
 tags:
 - ALM
 - Groovy

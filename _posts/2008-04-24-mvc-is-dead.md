@@ -3,7 +3,7 @@ layout: post
 title: 'MVC is dead '
 created: 1209022860
 author: hila
-permalink: java/mvc-dead
+permalink: /java/mvc-dead
 tags:
 - JAVA
 - mvc

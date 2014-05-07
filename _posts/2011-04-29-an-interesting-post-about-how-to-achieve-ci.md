@@ -3,7 +3,7 @@ layout: post
 title: An interesting post about how to achieve CI
 created: 1304089413
 author: ittayd
-permalink: interesting-post-about-how-achieve-ci
+permalink: /interesting-post-about-how-achieve-ci
 tags:
 - architecture
 - ci design

@@ -3,7 +3,7 @@ layout: post
 title: Scala on Android
 created: 1246536957
 author: adi
-permalink: java/scala-android
+permalink: /java/scala-android
 tags:
 - JAVA
 - Scala

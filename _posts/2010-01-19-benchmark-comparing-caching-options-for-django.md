@@ -3,7 +3,7 @@ layout: post
 title: Benchmark comparing caching options for Django
 created: 1263885901
 author: udib
-permalink: incubator/benchmark-comparing-caching-options-django
+permalink: /incubator/benchmark-comparing-caching-options-django
 tags:
 - Incubator
 - web

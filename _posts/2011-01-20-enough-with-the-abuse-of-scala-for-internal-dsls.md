@@ -3,7 +3,7 @@ layout: post
 title: Enough with the abuse of Scala for internal DSLs!
 created: 1295523375
 author: ittayd
-permalink: incubator/enough-abuse-scala-internal-dsls
+permalink: /incubator/enough-abuse-scala-internal-dsls
 tags:
 - Incubator
 - Scala

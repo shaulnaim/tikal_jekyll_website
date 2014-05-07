@@ -3,7 +3,7 @@ layout: post
 title: Study compares productivity levels of Python+Django vs. C#+ASP.NET
 created: 1267097668
 author: udib
-permalink: incubator/study-compares-productivity-levels-pythondjango-vs-caspnet
+permalink: /incubator/study-compares-productivity-levels-pythondjango-vs-caspnet
 tags:
 - Incubator
 - Python

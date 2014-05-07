@@ -3,7 +3,7 @@ layout: post
 title: How do search engines index AJAX sites?
 created: 1287302000
 author: ittayd
-permalink: java/how-do-search-engines-index-ajax-sites
+permalink: /java/how-do-search-engines-index-ajax-sites
 tags:
 - JAVA
 - ajax

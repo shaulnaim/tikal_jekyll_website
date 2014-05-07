@@ -3,7 +3,7 @@ layout: post
 title: 'Use ASP.NET Resource strings from within javascript files '
 created: 1321343694
 author: igorz
-permalink: use-aspnet-resource-strings-within-javascript-files
+permalink: /use-aspnet-resource-strings-within-javascript-files
 tags:
 - .NET
 - ASP.NET

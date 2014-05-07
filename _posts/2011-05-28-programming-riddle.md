@@ -3,7 +3,7 @@ layout: post
 title: programming riddle
 created: 1306604164
 author: ittayd
-permalink: incubator/programming-riddle
+permalink: /incubator/programming-riddle
 tags:
 - Incubator
 - programming

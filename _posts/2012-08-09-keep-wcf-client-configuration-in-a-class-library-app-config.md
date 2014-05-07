@@ -3,7 +3,7 @@ layout: post
 title: Keep WCF Client Configuration in a Class Library app.config
 created: 1344499700
 author: amiram
-permalink: net/keep-wcf-client-configuration-class-library-appconfig
+permalink: /net/keep-wcf-client-configuration-class-library-appconfig
 tags:
 - .NET
 ---

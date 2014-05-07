@@ -3,7 +3,7 @@ layout: post
 title: Object Relationship Definitions
 created: 1225966529
 author: udid
-permalink: object-relationship-definitions
+permalink: /object-relationship-definitions
 tags:
 - relationship
 - reference

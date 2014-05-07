@@ -3,7 +3,7 @@ layout: post
 title: 'Video''s from the W3C local developers meeting on the Semantic Web '
 created: 1266409944
 author: udib
-permalink: incubator/videos-w3c-local-developers-meeting-semantic-web
+permalink: /incubator/videos-w3c-local-developers-meeting-semantic-web
 tags:
 - Incubator
 - video

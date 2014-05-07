@@ -3,7 +3,7 @@ layout: post
 title: 'Functional Programming (in #scala) for the rest of us '
 created: 1314717311
 author: ittayd
-permalink: incubator/functional-programming-scala-rest-us
+permalink: /incubator/functional-programming-scala-rest-us
 tags:
 - Incubator
 - fp scala

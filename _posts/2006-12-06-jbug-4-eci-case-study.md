@@ -3,7 +3,7 @@ layout: post
 title: JBUG 4 - ECI Case Study
 created: 1165388400
 author: zvika
-permalink: java/jbug-4-eci-case-study
+permalink: /java/jbug-4-eci-case-study
 tags:
 - JAVA
 ---

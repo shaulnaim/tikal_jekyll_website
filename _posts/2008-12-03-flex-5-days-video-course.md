@@ -3,7 +3,7 @@ layout: post
 title: Flex 5 days video course
 created: 1228290902
 author: nisim
-permalink: js/flex-5-days-video-course
+permalink: /js/flex-5-days-video-course
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 10 good reasons for using jquery as your javascript framework
 created: 1292832550
 author: orenf
-permalink: js/10-good-reasons-using-jquery-your-javascript-framework
+permalink: /js/10-good-reasons-using-jquery-your-javascript-framework
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Introspection and private namespaces in AS3
 created: 1255512951
 author: sefi
-permalink: js/introspection-and-private-namespaces-as3
+permalink: /js/introspection-and-private-namespaces-as3
 tags:
 - JS
 - namespace

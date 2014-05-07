@@ -3,7 +3,7 @@ layout: post
 title: Creating self starting worker machines for fun and profit – Avi Tzurel
 created: 1344448361
 author: avit
-permalink: ror/creating-self-starting-worker-machines-fun-and-profit-–-avi-tzurel
+permalink: /ror/creating-self-starting-worker-machines-fun-and-profit-–-avi-tzurel
 tags:
 - RoR
 - ruby

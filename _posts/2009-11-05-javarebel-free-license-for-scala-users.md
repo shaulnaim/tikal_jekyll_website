@@ -3,7 +3,7 @@ layout: post
 title: javarebel free license for scala users
 created: 1257401590
 author: ittayd
-permalink: java/javarebel-free-license-scala-users
+permalink: /java/javarebel-free-license-scala-users
 tags:
 - JAVA
 - javarebel

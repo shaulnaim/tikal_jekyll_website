@@ -3,7 +3,7 @@ layout: post
 title: Cloud Computing Presentation at OpenIsrael2010
 created: 1276403157
 author: yanai
-permalink: java/cloud-computing-presentation-openisrael2010
+permalink: /java/cloud-computing-presentation-openisrael2010
 tags:
 - JAVA
 - cloud computing

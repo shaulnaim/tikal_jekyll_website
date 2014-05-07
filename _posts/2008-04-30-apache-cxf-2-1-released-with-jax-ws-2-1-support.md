@@ -3,7 +3,7 @@ layout: post
 title: Apache CXF 2.1 released, with JAX-WS 2.1 support.
 created: 1209554040
 author: zvika
-permalink: java/apache-cxf-21-released-jax-ws-21-support
+permalink: /java/apache-cxf-21-released-jax-ws-21-support
 tags:
 - JAVA
 - cxf jax-ws

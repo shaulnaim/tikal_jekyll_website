@@ -3,7 +3,7 @@ layout: post
 title: responsive web design
 created: 1325495942
 author: dor
-permalink: responsive-web-design
+permalink: /responsive-web-design
 tags:
 - JS
 - design

@@ -3,7 +3,7 @@ layout: post
 title: Add a parameter (or even more then one) to Flex event listener
 created: 1338394544
 author: avit
-permalink: add-parameter-or-even-more-then-one-flex-event-listener
+permalink: /add-parameter-or-even-more-then-one-flex-event-listener
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Comet with Trinidad
 created: 1223133411
 author: zvika
-permalink: java/comet-trinidad
+permalink: /java/comet-trinidad
 tags:
 - JAVA
 - trinidad

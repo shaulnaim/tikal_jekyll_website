@@ -3,7 +3,7 @@ layout: post
 title: Scala 2.9 RC1 released
 created: 1301214386
 author: ittayd
-permalink: incubator/scala-29-rc1-released
+permalink: /incubator/scala-29-rc1-released
 tags:
 - Incubator
 - Scala

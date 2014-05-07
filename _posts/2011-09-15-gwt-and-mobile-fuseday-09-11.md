@@ -3,7 +3,7 @@ layout: post
 title: GWT and mobile fuseday 09/11
 created: 1316116348
 author: aviy
-permalink: gwt-and-mobile-fuseday-0911
+permalink: /gwt-and-mobile-fuseday-0911
 tags:
 - JAVA
 - gwt

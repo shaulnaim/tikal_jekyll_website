@@ -3,7 +3,7 @@ layout: post
 title: .Net technologies overview
 created: 1259600114
 author: andrew
-permalink: net/net-technologies-overview
+permalink: /net/net-technologies-overview
 tags:
 - .NET
 ---

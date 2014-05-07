@@ -3,7 +3,7 @@ layout: post
 title: Solr-Oracle Multi Value Issue
 created: 1325773824
 author: itaip
-permalink: solr-oracle-multi-value-issue
+permalink: /solr-oracle-multi-value-issue
 tags:
 - JAVA
 - solr

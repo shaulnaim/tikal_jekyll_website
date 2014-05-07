@@ -3,7 +3,7 @@ layout: post
 title: 'The Iterative Reference Model: A new approach to OO'
 created: 1292401078
 author: ittayd
-permalink: incubator/iterative-reference-model-new-approach-oo
+permalink: /incubator/iterative-reference-model-new-approach-oo
 tags:
 - Incubator
 - OOD

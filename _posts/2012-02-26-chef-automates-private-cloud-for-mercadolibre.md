@@ -3,7 +3,7 @@ layout: post
 title: Chef - Automates private cloud for MercadoLibre
 created: 1330242300
 author: hagzag
-permalink: chef-automates-private-cloud-mercadolibre
+permalink: /chef-automates-private-cloud-mercadolibre
 tags:
 - ALM
 - configuration managment (cm)

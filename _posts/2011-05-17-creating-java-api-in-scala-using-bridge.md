@@ -3,7 +3,7 @@ layout: post
 title: 'Creating Java API in Scala using @bridge '
 created: 1305634176
 author: ittayd
-permalink: incubator/creating-java-api-scala-using-bridge
+permalink: /incubator/creating-java-api-scala-using-bridge
 tags:
 - Incubator
 - Scala

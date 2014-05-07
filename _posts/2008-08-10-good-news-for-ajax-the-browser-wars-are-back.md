@@ -3,7 +3,7 @@ layout: post
 title: Good News for Ajax - The Browser Wars Are Back
 created: 1218379690
 author: zvika
-permalink: java/good-news-ajax-browser-wars-are-back
+permalink: /java/good-news-ajax-browser-wars-are-back
 tags:
 - JAVA
 ---

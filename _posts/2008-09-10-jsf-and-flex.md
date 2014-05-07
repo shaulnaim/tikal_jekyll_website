@@ -3,7 +3,7 @@ layout: post
 title: JSF and Flex
 created: 1221014177
 author: zvika
-permalink: js/jsf-and-flex
+permalink: /js/jsf-and-flex
 tags:
 - JS
 - flex

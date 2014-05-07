@@ -3,7 +3,7 @@ layout: post
 title: Write custom ASP.NET HTTP Handler with IronPython
 created: 1290327600
 author: igorz
-permalink: net/write-custom-aspnet-http-handler-ironpython
+permalink: /net/write-custom-aspnet-http-handler-ironpython
 tags:
 - .NET
 - .Net Open Source

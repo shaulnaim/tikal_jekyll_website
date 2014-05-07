@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart Date
 created: 1354887479
 author: oren.kleks
-permalink: java/java2dart-date
+permalink: /java/java2dart-date
 tags:
 - JAVA
 - Java DART Calendar DST Date

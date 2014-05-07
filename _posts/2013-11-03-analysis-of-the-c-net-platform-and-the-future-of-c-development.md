@@ -3,7 +3,7 @@ layout: post
 title: Analysis of the C#/.NET platform (And the future of C# development)
 created: 1383465311
 author: menny
-permalink: net/analysis-cnet-platform-and-future-c-development
+permalink: /net/analysis-cnet-platform-and-future-c-development
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'EAC4J: Apache Commons Configuration via JNDI'
 created: 1220806973
 author: zvika
-permalink: java/eac4j-apache-commons-configuration-jndi
+permalink: /java/eac4j-apache-commons-configuration-jndi
 tags:
 - JAVA
 - commons-configuration

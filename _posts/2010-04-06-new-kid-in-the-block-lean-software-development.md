@@ -3,7 +3,7 @@ layout: post
 title: New kid in the block - "Lean software development"
 created: 1270547505
 author: andrew
-permalink: net/new-kid-block-lean-software-development
+permalink: /net/new-kid-block-lean-software-development
 tags:
 - .NET
 - scrum

@@ -3,7 +3,7 @@ layout: post
 title: roll your own validation in scala
 created: 1307629805
 author: ittayd
-permalink: incubator/roll-your-own-validation-scala
+permalink: /incubator/roll-your-own-validation-scala
 tags:
 - Incubator
 - Scala

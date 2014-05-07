@@ -3,7 +3,7 @@ layout: post
 title: Fuseday 2013 - My experience with NodeJS, SailsJS and a bit of Mongo
 created: 1389793536
 author: idan.fridman
-permalink: fuseday-2013-my-experience-nodejs-sailsjs-and-bit-mongo
+permalink: /fuseday-2013-my-experience-nodejs-sailsjs-and-bit-mongo
 tags:
 - JS
 - sails.js node.js

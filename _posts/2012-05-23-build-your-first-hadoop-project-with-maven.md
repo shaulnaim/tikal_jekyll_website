@@ -3,7 +3,7 @@ layout: post
 title: Build Your First Hadoop project with Maven
 created: 1337721067
 author: yanai
-permalink: build-your-first-hadoop-project-maven
+permalink: /build-your-first-hadoop-project-maven
 tags:
 - JAVA
 - Hadoop Big Data Maven

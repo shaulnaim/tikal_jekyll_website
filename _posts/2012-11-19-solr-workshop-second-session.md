@@ -3,7 +3,7 @@ layout: post
 title: Solr Workshop - Second Session
 created: 1353314849
 author: yanai
-permalink: java/solr-workshop-second-session
+permalink: /java/solr-workshop-second-session
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Graphs using HTML 5 Canvas '
 created: 1248102088
 author: adi
-permalink: js/graphs-using-html-5-canvas
+permalink: /js/graphs-using-html-5-canvas
 tags:
 - JS
 - HTML 5 Canvas

@@ -3,7 +3,7 @@ layout: post
 title: 'Java Group meeting: Introduction to Mocking'
 created: 1300000695
 author: olga
-permalink: java/java-group-meeting-introduction-mocking
+permalink: /java/java-group-meeting-introduction-mocking
 tags:
 - JAVA
 - mockito

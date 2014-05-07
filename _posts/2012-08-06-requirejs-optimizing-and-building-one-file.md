@@ -3,7 +3,7 @@ layout: post
 title: RequireJS – Optimizing and Building One File
 created: 1344241904
 author: orenf
-permalink: js/requirejs-–-optimizing-and-building-one-file
+permalink: /js/requirejs-–-optimizing-and-building-one-file
 tags:
 - JS
 ---

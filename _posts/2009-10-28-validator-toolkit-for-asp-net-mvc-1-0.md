@@ -3,7 +3,7 @@ layout: post
 title: Validator Toolkit for ASP.NET MVC 1.0
 created: 1256718892
 author: igorz
-permalink: net/validator-toolkit-aspnet-mvc-10
+permalink: /net/validator-toolkit-aspnet-mvc-10
 tags:
 - .NET
 - ASP.NET MVC

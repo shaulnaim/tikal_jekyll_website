@@ -3,7 +3,7 @@ layout: post
 title: Hadoop ppt from the server-group meeting
 created: 1233496097
 author: elad
-permalink: java/hadoop-ppt-server-group-meeting
+permalink: /java/hadoop-ppt-server-group-meeting
 tags:
 - JAVA
 - Hadoop Cloud computing

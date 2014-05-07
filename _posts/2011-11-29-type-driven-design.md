@@ -3,7 +3,7 @@ layout: post
 title: Type Driven Design
 created: 1322558951
 author: ittayd
-permalink: incubator/type-driven-design
+permalink: /incubator/type-driven-design
 tags:
 - Incubator
 - scala typing

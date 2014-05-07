@@ -3,7 +3,7 @@ layout: post
 title: run rake task in the background and log to file
 created: 1344161388
 author: avit
-permalink: ror/run-rake-task-background-and-log-file
+permalink: /ror/run-rake-task-background-and-log-file
 tags:
 - RoR
 ---

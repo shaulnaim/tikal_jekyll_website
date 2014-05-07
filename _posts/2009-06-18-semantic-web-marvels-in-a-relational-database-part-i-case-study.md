@@ -3,7 +3,7 @@ layout: post
 title: 'Semantic web marvels in a relational database - part I: Case Study'
 created: 1245354331
 author: yanai
-permalink: java/semantic-web-marvels-relational-database-part-i-case-study
+permalink: /java/semantic-web-marvels-relational-database-part-i-case-study
 tags:
 - JAVA
 - Semantic Web  persistence

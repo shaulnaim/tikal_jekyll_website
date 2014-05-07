@@ -3,7 +3,7 @@ layout: post
 title: Scalapeño 2013 sessions recordings available now!
 created: 1377091330
 author: andrew
-permalink: scalapeño-2013-sessions-recordings-available-now
+permalink: /scalapeño-2013-sessions-recordings-available-now
 tags:
 - JAVA
 - Scala

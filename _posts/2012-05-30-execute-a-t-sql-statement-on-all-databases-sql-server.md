@@ -3,7 +3,7 @@ layout: post
 title: Execute a T-Sql statement on all Databases - Sql Server
 created: 1338394544
 author: avit
-permalink: execute-t-sql-statement-all-databases-sql-server
+permalink: /execute-t-sql-statement-all-databases-sql-server
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: 'Fuse #2 day at Tikal'
 created: 1285272869
 author: yanai
-permalink: java/fuse-2-day-tikal
+permalink: /java/fuse-2-day-tikal
 tags:
 - JAVA
 - Fuse REST

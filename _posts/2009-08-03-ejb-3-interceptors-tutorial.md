@@ -3,7 +3,7 @@ layout: post
 title: EJB 3 Interceptors tutorial
 created: 1249323836
 author: elad
-permalink: java/ejb-3-interceptors-tutorial
+permalink: /java/ejb-3-interceptors-tutorial
 tags:
 - JAVA
 - Interceptor

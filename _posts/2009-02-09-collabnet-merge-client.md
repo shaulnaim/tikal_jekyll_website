@@ -3,7 +3,7 @@ layout: post
 title: CollabNet Merge Client
 created: 1234208851
 author: liya
-permalink: alm/collabnet-merge-client
+permalink: /alm/collabnet-merge-client
 tags:
 - ALM
 - eclipse svn

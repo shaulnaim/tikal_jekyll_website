@@ -3,7 +3,7 @@ layout: post
 title: Akka faster than Erlang
 created: 1324907258
 author: ittayd
-permalink: akka-faster-erlang
+permalink: /akka-faster-erlang
 tags:
 - Incubator
 - scala akka erlang

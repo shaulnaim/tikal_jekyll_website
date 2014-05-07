@@ -3,7 +3,7 @@ layout: post
 title: RTMP being blocked by firewalls - Flash media server
 created: 1338394544
 author: avit
-permalink: rtmp-being-blocked-firewalls-flash-media-server
+permalink: /rtmp-being-blocked-firewalls-flash-media-server
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Achieving ALM with Open Source @ ILTAM
 created: 1321810611
 author: hagzag
-permalink: achieving-alm-open-source-iltam
+permalink: /achieving-alm-open-source-iltam
 tags:
 - ALM
 ---

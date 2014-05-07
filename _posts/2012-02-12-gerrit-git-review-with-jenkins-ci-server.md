@@ -3,7 +3,7 @@ layout: post
 title: Gerrit Git Review with Jenkins CI Server
 created: 1329034590
 author: ittayd
-permalink: gerrit-git-review-jenkins-ci-server
+permalink: /gerrit-git-review-jenkins-ci-server
 tags:
 - ALM
 - git

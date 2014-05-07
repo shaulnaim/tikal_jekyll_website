@@ -3,7 +3,7 @@ layout: post
 title: GWT ramblings of a Flex developer – live search component
 created: 1326657268
 author: sefi
-permalink: gwt-ramblings-flex-developer-–-live-search-component
+permalink: /gwt-ramblings-flex-developer-–-live-search-component
 tags:
 - flex
 - gwt

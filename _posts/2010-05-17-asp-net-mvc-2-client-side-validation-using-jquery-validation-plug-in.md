@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET MVC 2 Client side validation using jQuery validation plug-in
 created: 1274106266
 author: igorz
-permalink: net/aspnet-mvc-2-client-side-validation-using-jquery-validation-plug
+permalink: /net/aspnet-mvc-2-client-side-validation-using-jquery-validation-plug
 tags:
 - .NET
 - .Net Open Source

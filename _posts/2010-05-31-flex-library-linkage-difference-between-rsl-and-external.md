@@ -3,7 +3,7 @@ layout: post
 title: Flex Library Linkage – Difference between RSL and External
 created: 1275297718
 author: shair
-permalink: js/flex-library-linkage-–-difference-between-rsl-and-external
+permalink: /js/flex-library-linkage-–-difference-between-rsl-and-external
 tags:
 - JS
 - RSL

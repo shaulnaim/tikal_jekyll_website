@@ -3,7 +3,7 @@ layout: post
 title: Docking your services with Docker
 created: 1390982375
 author: hagzag
-permalink: alm/docking-your-services-docker
+permalink: /alm/docking-your-services-docker
 tags:
 - ALM
 - Docker

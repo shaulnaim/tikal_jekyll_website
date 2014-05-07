@@ -4,7 +4,7 @@ title: VS2010 Spell Checker Extension - spell check your strings and comments wh
   you code
 created: 1290625566
 author: dror
-permalink: net/vs2010-spell-checker-extension-spell-check-your-strings-and-comments-while-you-code
+permalink: /net/vs2010-spell-checker-extension-spell-check-your-strings-and-comments-while-you-code
 tags:
 - .NET
 - Visual Studio

@@ -3,7 +3,7 @@ layout: post
 title: lumberjack - v0.3.0 is out
 created: 1322754950
 author: adi
-permalink: lumberjack-v030-out
+permalink: /lumberjack-v030-out
 tags:
 - Incubator
 - node.js CoffeeScript

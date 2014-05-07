@@ -3,7 +3,7 @@ layout: post
 title: A typesafe criteria query API for JPA
 created: 1229463600
 author: yanai
-permalink: java/typesafe-criteria-query-api-jpa
+permalink: /java/typesafe-criteria-query-api-jpa
 tags:
 - JAVA
 - JPA

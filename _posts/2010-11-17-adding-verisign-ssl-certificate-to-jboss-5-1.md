@@ -3,7 +3,7 @@ layout: post
 title: Adding Verisign SSL Certificate to JBoss 5.1
 created: 1289980741
 author: admin
-permalink: java/forums/adding-verisign-ssl-certificate-jboss-51
+permalink: /java/forums/adding-verisign-ssl-certificate-jboss-51
 tags:
 - JAVA
 - Jboss SSL

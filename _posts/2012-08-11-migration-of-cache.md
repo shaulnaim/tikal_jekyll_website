@@ -3,7 +3,7 @@ layout: post
 title: Migration of cache
 created: 1344701392
 author: artiom
-permalink: migration-cache
+permalink: /migration-cache
 tags:
 - JAVA
 - java cache infinispan

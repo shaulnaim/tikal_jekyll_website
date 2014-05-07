@@ -3,7 +3,7 @@ layout: post
 title: Project (unused) References are removed by the compiler.
 created: 1341765480
 author: menny
-permalink: project-unused-references-are-removed-compiler
+permalink: /project-unused-references-are-removed-compiler
 tags:
 - .NET
 ---

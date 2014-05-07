@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 10 - Compass By: Shay Banon, Compass founder, System Architect "GigaSpaces"'
 created: 1231699684
 author: admin
-permalink: java/jbug-10-compass-shay-banon-compass-founder-system-architect-gigaspaces
+permalink: /java/jbug-10-compass-shay-banon-compass-founder-system-architect-gigaspaces
 tags:
 - JAVA
 - Hibernate-Search

@@ -3,7 +3,7 @@ layout: post
 title: mulberry - create mobile apps with js, html & css
 created: 1326785581
 author: orenf
-permalink: mulberry-create-mobile-apps-js-html-css
+permalink: /mulberry-create-mobile-apps-js-html-css
 tags:
 - JS
 ---

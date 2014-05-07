@@ -3,7 +3,7 @@ layout: post
 title: Slimming and Tuning JBoss 4.0.5 at Customer
 created: 1218981656
 author: elad
-permalink: java/slimming-and-tuning-jboss-405-customer
+permalink: /java/slimming-and-tuning-jboss-405-customer
 tags:
 - JAVA
 - tuning

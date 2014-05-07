@@ -3,7 +3,7 @@ layout: post
 title: Eclipse crashes on Ubuntu updates
 created: 1278400932
 author: yanai
-permalink: java/eclipse-crashes-ubuntu-updates
+permalink: /java/eclipse-crashes-ubuntu-updates
 tags:
 - JAVA
 - Ubuntu Eclipse Crash

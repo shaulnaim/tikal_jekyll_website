@@ -3,7 +3,7 @@ layout: post
 title: Run Octopress New Post Rake On Zshell
 created: 1344161388
 author: avit
-permalink: ror/run-octopress-new-post-rake-zshell
+permalink: /ror/run-octopress-new-post-rake-zshell
 tags:
 - RoR
 ---

@@ -3,7 +3,7 @@ layout: post
 title: What is Kenso...?
 created: 1338394544
 author: avit
-permalink: what-kenso
+permalink: /what-kenso
 tags:
 - RoR
 - web

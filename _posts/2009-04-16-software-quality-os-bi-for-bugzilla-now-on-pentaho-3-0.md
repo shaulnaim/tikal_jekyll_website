@@ -3,7 +3,7 @@ layout: post
 title: Software Quality – OS BI for Bugzilla – now on Pentaho 3.0
 created: 1239877143
 author: udid
-permalink: java/software-quality-–-os-bi-bugzilla-–-now-pentaho-30
+permalink: /java/software-quality-–-os-bi-bugzilla-–-now-pentaho-30
 tags:
 - JAVA
 - bugzilla

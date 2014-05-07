@@ -3,7 +3,7 @@ layout: post
 title: Several .NET related questions
 created: 1257676024
 author: dror
-permalink: net/several-net-related-questions
+permalink: /net/several-net-related-questions
 tags:
 - .NET
 - .NET 1.1

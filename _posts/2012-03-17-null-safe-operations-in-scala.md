@@ -3,7 +3,7 @@ layout: post
 title: Null safe operations in scala
 created: 1331966430
 author: ittayd
-permalink: null-safe-operations-scala
+permalink: /null-safe-operations-scala
 tags:
 - Incubator
 - Scala

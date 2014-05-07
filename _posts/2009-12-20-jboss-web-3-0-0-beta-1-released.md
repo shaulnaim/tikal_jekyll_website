@@ -3,7 +3,7 @@ layout: post
 title: JBoss Web 3.0.0 Beta 1 Released!
 created: 1261302171
 author: itai
-permalink: java/jboss-web-300-beta-1-released
+permalink: /java/jboss-web-300-beta-1-released
 tags:
 - JAVA
 - Jboss Web

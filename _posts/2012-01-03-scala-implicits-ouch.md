@@ -3,7 +3,7 @@ layout: post
 title: Scala implicits (ouch)
 created: 1325590201
 author: adi
-permalink: scala-implicits-ouch
+permalink: /scala-implicits-ouch
 tags:
 - Incubator
 - Scala

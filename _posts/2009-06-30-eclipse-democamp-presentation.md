@@ -3,7 +3,7 @@ layout: post
 title: Eclipse DemoCamp presentation
 created: 1246369545
 author: natan
-permalink: java/eclipse-democamp-presentation
+permalink: /java/eclipse-democamp-presentation
 tags:
 - JAVA
 - Eclipse DemoCamp presentation

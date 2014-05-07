@@ -3,7 +3,7 @@ layout: post
 title: Stop chasing that green light
 created: 1338394544
 author: avit
-permalink: stop-chasing-green-light
+permalink: /stop-chasing-green-light
 tags:
 - RoR
 - web

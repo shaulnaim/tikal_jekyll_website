@@ -3,7 +3,7 @@ layout: post
 title: 10 Things You Didn’t Know Rails Could do
 created: 1335469143
 author: avit
-permalink: 10-things-you-didn’t-know-rails-could-do
+permalink: /10-things-you-didn’t-know-rails-could-do
 tags:
 - RoR
 - web

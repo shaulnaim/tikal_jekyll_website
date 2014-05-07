@@ -3,7 +3,7 @@ layout: post
 title: Higher-Order Java Parallelism
 created: 1220744288
 author: admin
-permalink: java/higher-order-java-parallelism
+permalink: /java/higher-order-java-parallelism
 tags:
 - JAVA
 ---

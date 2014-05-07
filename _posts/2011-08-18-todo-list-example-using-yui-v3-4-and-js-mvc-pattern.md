@@ -3,7 +3,7 @@ layout: post
 title: Todo List example using YUI-V3.4 and JS MVC pattern
 created: 1313666257
 author: orenf
-permalink: todo-list-example-using-yui-v34-and-js-mvc-pattern
+permalink: /todo-list-example-using-yui-v34-and-js-mvc-pattern
 tags:
 - Incubator
 ---

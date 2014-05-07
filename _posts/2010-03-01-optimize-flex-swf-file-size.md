@@ -3,7 +3,7 @@ layout: post
 title: Optimize Flex SWF file size
 created: 1267428130
 author: sefi
-permalink: optimize-flex-swf-file-size
+permalink: /optimize-flex-swf-file-size
 tags:
 - gwt
 - flex

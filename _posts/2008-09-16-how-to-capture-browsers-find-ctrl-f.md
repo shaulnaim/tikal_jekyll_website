@@ -2,7 +2,7 @@
 layout: post
 title: How to capture browser's Find (ctrl-F)
 created: 1221558512
-permalink: java/how-capture-browsers-find-ctrl-f
+permalink: /java/how-capture-browsers-find-ctrl-f
 tags:
 - JAVA
 ---

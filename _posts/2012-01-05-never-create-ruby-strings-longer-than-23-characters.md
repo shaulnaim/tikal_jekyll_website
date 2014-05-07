@@ -3,7 +3,7 @@ layout: post
 title: Never create Ruby strings longer than 23 characters
 created: 1325769735
 author: dor
-permalink: never-create-ruby-strings-longer-23-characters
+permalink: /never-create-ruby-strings-longer-23-characters
 tags:
 - Incubator
 - performance

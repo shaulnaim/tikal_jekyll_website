@@ -3,7 +3,7 @@ layout: post
 title: Nested Hibernate Filters
 created: 1375103855
 author: chaim.turkel
-permalink: nested-hibernate-filters
+permalink: /nested-hibernate-filters
 tags:
 - JAVA
 - Hibernate

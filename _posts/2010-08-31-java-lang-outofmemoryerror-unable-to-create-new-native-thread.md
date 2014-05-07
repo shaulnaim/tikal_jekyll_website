@@ -2,7 +2,7 @@
 layout: post
 title: 'java.lang.OutOfMemoryError: unable to create new native thread'
 created: 1283235500
-permalink: js/javalangoutofmemoryerror-unable-create-new-native-thread
+permalink: /js/javalangoutofmemoryerror-unable-create-new-native-thread
 tags:
 - JS
 - threads

@@ -3,7 +3,7 @@ layout: post
 title: online scala workshop
 created: 1261042827
 author: ittayd
-permalink: java/online-scala-workshop
+permalink: /java/online-scala-workshop
 tags:
 - JAVA
 - Scala

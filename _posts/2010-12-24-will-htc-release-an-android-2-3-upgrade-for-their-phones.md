@@ -3,7 +3,7 @@ layout: post
 title: Will HTC release an android 2.3 upgrade for their phones?
 created: 1293198212
 author: shalom
-permalink: incubator/will-htc-release-android-23-upgrade-their-phones
+permalink: /incubator/will-htc-release-android-23-upgrade-their-phones
 tags:
 - Incubator
 - android 2.3 htc desire

@@ -3,7 +3,7 @@ layout: post
 title: Stop paying your jQuery tax
 created: 1329552702
 author: ittayd
-permalink: stop-paying-your-jquery-tax
+permalink: /stop-paying-your-jquery-tax
 tags:
 - JS
 - jQuery

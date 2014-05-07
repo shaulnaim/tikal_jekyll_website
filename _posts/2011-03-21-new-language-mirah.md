@@ -3,7 +3,7 @@ layout: post
 title: 'New language: Mirah'
 created: 1300733017
 author: andrew
-permalink: java/new-language-mirah
+permalink: /java/new-language-mirah
 tags:
 - JAVA
 ---

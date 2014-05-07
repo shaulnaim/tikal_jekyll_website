@@ -3,7 +3,7 @@ layout: post
 title: HtmlTextWriter fluent interface
 created: 1279807380
 author: igorz
-permalink: htmltextwriter-fluent-interface
+permalink: /htmltextwriter-fluent-interface
 tags:
 - .Net Open Source
 ---

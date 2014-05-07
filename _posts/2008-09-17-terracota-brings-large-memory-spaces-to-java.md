@@ -3,7 +3,7 @@ layout: post
 title: '"Terracota Brings Large Memory Spaces To Java"'
 created: 1221607956
 author: zvika
-permalink: java/terracota-brings-large-memory-spaces-java
+permalink: /java/terracota-brings-large-memory-spaces-java
 tags:
 - JAVA
 ---

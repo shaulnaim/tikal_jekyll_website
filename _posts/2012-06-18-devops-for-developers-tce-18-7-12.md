@@ -3,7 +3,7 @@ layout: post
 title: DevOps for Developers - TCE @ 18.7.12 (קריפטון הכפר הירוק)
 created: 1339968396
 author: itai
-permalink: js/devops-developers-tce-18712-קריפטון-הכפר-הירוק
+permalink: /js/devops-developers-tce-18712-קריפטון-הכפר-הירוק
 tags:
 - JS
 ---

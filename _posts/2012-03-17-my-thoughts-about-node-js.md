@@ -3,7 +3,7 @@ layout: post
 title: My thoughts about node.js
 created: 1331980187
 author: ittayd
-permalink: my-thoughts-about-nodejs
+permalink: /my-thoughts-about-nodejs
 tags:
 - JS
 - node.js

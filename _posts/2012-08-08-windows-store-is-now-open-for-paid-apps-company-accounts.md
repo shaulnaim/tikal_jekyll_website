@@ -3,7 +3,7 @@ layout: post
 title: Windows Store is now open for paid apps, company accounts
 created: 1344424741
 author: menny
-permalink: net/windows-store-now-open-paid-apps-company-accounts
+permalink: /net/windows-store-now-open-paid-apps-company-accounts
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET MVC 2 Released
 created: 1271057518
 author: igorz
-permalink: net/aspnet-mvc-2-released
+permalink: /net/aspnet-mvc-2-released
 tags:
 - .NET
 - .Net Open Source

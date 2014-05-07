@@ -3,7 +3,7 @@ layout: post
 title: Meet the client
 created: 1338394544
 author: avit
-permalink: meet-client
+permalink: /meet-client
 tags:
 - RoR
 - web

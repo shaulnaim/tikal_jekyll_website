@@ -3,7 +3,7 @@ layout: post
 title: Flex group meeting - Flex 4.5 SDK part 1
 created: 1306236053
 author: sefi
-permalink: js/flex-group-meeting-flex-45-sdk-part-1
+permalink: /js/flex-group-meeting-flex-45-sdk-part-1
 tags:
 - JS
 ---

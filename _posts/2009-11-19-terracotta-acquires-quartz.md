@@ -3,7 +3,7 @@ layout: post
 title: Terracotta Acquires Quartz
 created: 1258635311
 author: adi
-permalink: java/terracotta-acquires-quartz
+permalink: /java/terracotta-acquires-quartz
 tags:
 - JAVA
 - Terracotta

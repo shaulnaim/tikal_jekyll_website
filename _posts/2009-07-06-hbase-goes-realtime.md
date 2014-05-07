@@ -3,7 +3,7 @@ layout: post
 title: HBase Goes Realtime
 created: 1246908730
 author: yanai
-permalink: java/hbase-goes-realtime
+permalink: /java/hbase-goes-realtime
 tags:
 - JAVA
 - Hadoop Hbase Bigtable

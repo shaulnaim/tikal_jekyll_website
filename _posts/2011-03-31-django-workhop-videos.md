@@ -3,7 +3,7 @@ layout: post
 title: Django workhop videos
 created: 1301587137
 author: udib
-permalink: incubator/django-workhop-videos
+permalink: /incubator/django-workhop-videos
 tags:
 - Incubator
 - workshop

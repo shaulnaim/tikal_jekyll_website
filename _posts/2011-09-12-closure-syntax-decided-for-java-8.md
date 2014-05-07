@@ -3,7 +3,7 @@ layout: post
 title: closure syntax decided for java 8
 created: 1315837028
 author: ittayd
-permalink: closure-syntax-decided-java-8
+permalink: /closure-syntax-decided-java-8
 tags:
 - JAVA
 - java closures

@@ -3,7 +3,7 @@ layout: post
 title: jQuery and UpdatePanels (Asp.Net)
 created: 1338394544
 author: avit
-permalink: jquery-and-updatepanels-aspnet
+permalink: /jquery-and-updatepanels-aspnet
 tags:
 - RoR
 - web

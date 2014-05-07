@@ -3,7 +3,7 @@ layout: post
 title: 'E-Commerce in Java. Pluses and minuses. Your opinion matters!!!!!!! '
 created: 1253795524
 author: peterk
-permalink: java/e-commerce-java-pluses-and-minuses-your-opinion-matters
+permalink: /java/e-commerce-java-pluses-and-minuses-your-opinion-matters
 tags:
 - JAVA
 - java e-commerce small business

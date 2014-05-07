@@ -3,7 +3,7 @@ layout: post
 title: A "Docker Friendly" lightweight vagrant box
 created: 1390375608
 author: hagzag
-permalink: alm/docker-friendly-lightweight-vagrant-box
+permalink: /alm/docker-friendly-lightweight-vagrant-box
 tags:
 - ALM
 - Docker

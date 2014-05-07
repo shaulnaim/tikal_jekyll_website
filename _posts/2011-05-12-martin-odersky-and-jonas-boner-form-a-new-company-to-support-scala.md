@@ -3,7 +3,7 @@ layout: post
 title: Martin Odersky and Jonas Boner form a new company to support Scala
 created: 1305225432
 author: ittayd
-permalink: incubator/martin-odersky-and-jonas-boner-form-new-company-support-scala
+permalink: /incubator/martin-odersky-and-jonas-boner-form-new-company-support-scala
 tags:
 - Incubator
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Flash Builder tips & tricks
 created: 1313598040
 author: sefi
-permalink: flash-builder-tips-tricks
+permalink: /flash-builder-tips-tricks
 tags:
 - gwt
 - flex

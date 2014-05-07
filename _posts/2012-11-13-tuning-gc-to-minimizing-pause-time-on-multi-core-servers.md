@@ -3,7 +3,7 @@ layout: post
 title: Tuning GC to minimizing pause time on multi-core servers
 created: 1352813144
 author: admin
-permalink: tuning-gc-minimizing-pause-time-multi-core-servers
+permalink: /tuning-gc-minimizing-pause-time-multi-core-servers
 tags:
 - Incubator
 - first-tag

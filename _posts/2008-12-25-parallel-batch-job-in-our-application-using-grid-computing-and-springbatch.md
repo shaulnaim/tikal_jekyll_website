@@ -3,7 +3,7 @@ layout: post
 title: Parallel Batch Job in our application using grid computing and SpringBatch
 created: 1230210093
 author: yanai
-permalink: java/parallel-batch-job-our-application-using-grid-computing-and-springbatch
+permalink: /java/parallel-batch-job-our-application-using-grid-computing-and-springbatch
 tags:
 - JAVA
 - GridGain grid-computing Batch

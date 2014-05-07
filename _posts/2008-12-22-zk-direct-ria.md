@@ -3,7 +3,7 @@ layout: post
 title: ZK - direct RIA
 created: 1229948075
 author: udid
-permalink: java/zk-direct-ria
+permalink: /java/zk-direct-ria
 tags:
 - JAVA
 ---

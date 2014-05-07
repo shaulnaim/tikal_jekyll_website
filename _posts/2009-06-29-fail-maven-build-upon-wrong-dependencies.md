@@ -3,7 +3,7 @@ layout: post
 title: Fail Maven build upon wrong dependencies
 created: 1246272059
 author: yanai
-permalink: alm/fail-maven-build-upon-wrong-dependencies
+permalink: /alm/fail-maven-build-upon-wrong-dependencies
 tags:
 - ALM
 - Maven JBoss tattletale

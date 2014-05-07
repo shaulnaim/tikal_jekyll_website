@@ -3,7 +3,7 @@ layout: post
 title: 'To Scala or not to Scala? '
 created: 1256675923
 author: ittayd
-permalink: java/scala-or-not-scala
+permalink: /java/scala-or-not-scala
 tags:
 - JAVA
 - Scala

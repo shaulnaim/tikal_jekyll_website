@@ -4,7 +4,7 @@ title: Implementing Spring Security remember-me service based on Persistance Tok
   approach using MongoDB.
 created: 1328797934
 author: danny
-permalink: implementing-spring-security-remember-me-service-based-persistance-token-approach-using-mongodb
+permalink: /implementing-spring-security-remember-me-service-based-persistance-token-approach-using-mongodb
 tags:
 - JAVA
 - Spring Security

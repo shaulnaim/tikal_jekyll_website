@@ -3,7 +3,7 @@ layout: post
 title: Passing data between tabs in a tabbed mobile application
 created: 1314026400
 author: sefi
-permalink: passing-data-between-tabs-tabbed-mobile-application
+permalink: /passing-data-between-tabs-tabbed-mobile-application
 tags:
 - gwt
 - flex

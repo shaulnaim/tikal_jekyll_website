@@ -3,7 +3,7 @@ layout: post
 title: Doing transactional work in Spring service using @PostConstruct method
 created: 1248851131
 author: zvika
-permalink: java/doing-transactional-work-spring-service-using-postconstruct-method
+permalink: /java/doing-transactional-work-spring-service-using-postconstruct-method
 tags:
 - JAVA
 - Spring

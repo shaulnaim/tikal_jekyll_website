@@ -3,7 +3,7 @@ layout: post
 title: Access flex application through the SWFLoader component
 created: 1338394544
 author: avit
-permalink: access-flex-application-through-swfloader-component
+permalink: /access-flex-application-through-swfloader-component
 tags:
 - RoR
 - web

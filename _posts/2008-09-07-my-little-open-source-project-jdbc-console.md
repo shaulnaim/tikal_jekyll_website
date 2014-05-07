@@ -3,7 +3,7 @@ layout: post
 title: My little open-source project - JDBC console
 created: 1220771829
 author: andrew
-permalink: java/my-little-open-source-project-jdbc-console
+permalink: /java/my-little-open-source-project-jdbc-console
 tags:
 - JAVA
 - JDBC

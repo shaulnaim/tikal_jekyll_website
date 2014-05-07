@@ -3,7 +3,7 @@ layout: post
 title: A small note about a popular expression "Cloud Computer".
 created: 1291117495
 author: olga
-permalink: java/small-note-about-popular-expression-cloud-computer
+permalink: /java/small-note-about-popular-expression-cloud-computer
 tags:
 - JAVA
 - Cloud Computer

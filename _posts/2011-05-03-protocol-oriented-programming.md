@@ -3,7 +3,7 @@ layout: post
 title: Protocol Oriented Programming
 created: 1304435063
 author: ittayd
-permalink: protocol-oriented-programming
+permalink: /protocol-oriented-programming
 tags:
 - design
 ---

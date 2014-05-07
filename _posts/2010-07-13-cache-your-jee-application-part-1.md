@@ -3,7 +3,7 @@ layout: post
 title: Cache Your JEE Application – Part 1
 created: 1279018767
 author: yanai
-permalink: java/cache-your-jee-application-–-part-1
+permalink: /java/cache-your-jee-application-–-part-1
 tags:
 - JAVA
 - Cache Proxy Varnish Java

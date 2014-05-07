@@ -3,7 +3,7 @@ layout: post
 title: '.NET Group: Prepare to Fuse-Day'
 created: 1334552953
 author: igorz
-permalink: net-group-prepare-fuse-day
+permalink: /net-group-prepare-fuse-day
 tags:
 - .NET
 - .Net Open Source

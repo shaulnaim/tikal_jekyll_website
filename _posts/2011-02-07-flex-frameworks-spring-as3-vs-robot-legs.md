@@ -3,7 +3,7 @@ layout: post
 title: Flex frameworks - Spring AS3 vs Robot Legs
 created: 1297085725
 author: sefi
-permalink: js/flex-frameworks-spring-as3-vs-robot-legs
+permalink: /js/flex-frameworks-spring-as3-vs-robot-legs
 tags:
 - JS
 ---

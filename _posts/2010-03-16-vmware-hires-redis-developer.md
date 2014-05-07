@@ -3,7 +3,7 @@ layout: post
 title: VMware hires Redis developer
 created: 1268740089
 author: ittayd
-permalink: alm/vmware-hires-redis-developer
+permalink: /alm/vmware-hires-redis-developer
 tags:
 - ALM
 - VMWare

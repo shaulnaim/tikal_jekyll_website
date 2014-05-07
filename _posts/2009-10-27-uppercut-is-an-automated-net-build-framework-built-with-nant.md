@@ -3,7 +3,7 @@ layout: post
 title: 'Uppercut is an automated .NET build framework built with NAnt. '
 created: 1256619327
 author: ittayd
-permalink: net/uppercut-automated-net-build-framework-built-nant
+permalink: /net/uppercut-automated-net-build-framework-built-nant
 tags:
 - .NET
 - Ant

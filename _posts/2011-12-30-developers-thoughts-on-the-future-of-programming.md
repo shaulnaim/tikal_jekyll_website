@@ -3,7 +3,7 @@ layout: post
 title: Developer's thoughts on the future of programming
 created: 1325240952
 author: ittayd
-permalink: developers-thoughts-future-programming
+permalink: /developers-thoughts-future-programming
 tags:
 - Incubator
 - programming

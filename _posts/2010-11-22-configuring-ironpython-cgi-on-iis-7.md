@@ -3,7 +3,7 @@ layout: post
 title: Configuring IronPython CGI on IIS 7
 created: 1290445473
 author: igorz
-permalink: net/configuring-ironpython-cgi-iis-7
+permalink: /net/configuring-ironpython-cgi-iis-7
 tags:
 - .NET
 - .Net Open Source

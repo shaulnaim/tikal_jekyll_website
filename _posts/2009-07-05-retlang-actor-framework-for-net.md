@@ -3,7 +3,7 @@ layout: post
 title: Retlang - actor framework for .Net
 created: 1246803833
 author: andrew
-permalink: net/retlang-actor-framework-net
+permalink: /net/retlang-actor-framework-net
 tags:
 - .NET
 - erlang dotnet framework

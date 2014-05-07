@@ -3,7 +3,7 @@ layout: post
 title: 'Hibernate: Case insensitive EnumType fields?'
 created: 1292235130
 author: liorb
-permalink: java/hibernate-case-insensitive-enumtype-fields
+permalink: /java/hibernate-case-insensitive-enumtype-fields
 tags:
 - JAVA
 - Hibernate

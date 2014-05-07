@@ -3,7 +3,7 @@ layout: post
 title: miscellaneous git tools
 created: 1260073700
 author: ittayd
-permalink: alm/miscellaneous-git-tools
+permalink: /alm/miscellaneous-git-tools
 tags:
 - ALM
 - git

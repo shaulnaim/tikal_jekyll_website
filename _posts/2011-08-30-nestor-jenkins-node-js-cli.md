@@ -3,7 +3,7 @@ layout: post
 title: Nestor - Jenkins Node.js CLI
 created: 1314685416
 author: ittayd
-permalink: nestor-jenkins-nodejs-cli
+permalink: /nestor-jenkins-nodejs-cli
 tags:
 - ALM
 - jenkins

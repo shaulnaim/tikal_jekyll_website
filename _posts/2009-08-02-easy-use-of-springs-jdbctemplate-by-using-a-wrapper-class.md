@@ -3,7 +3,7 @@ layout: post
 title: Easy use of Spring's JdbcTemplate by using a wrapper class
 created: 1249204073
 author: elad
-permalink: java/easy-use-springs-jdbctemplate-using-wrapper-class
+permalink: /java/easy-use-springs-jdbctemplate-using-wrapper-class
 tags:
 - JAVA
 - JDBC

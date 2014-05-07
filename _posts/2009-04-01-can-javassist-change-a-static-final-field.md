@@ -3,7 +3,7 @@ layout: post
 title: Can Javassist change a static final field?
 created: 1238582695
 author: keren
-permalink: java/can-javassist-change-static-final-field
+permalink: /java/can-javassist-change-static-final-field
 tags:
 - JAVA
 - javassist jbossretro

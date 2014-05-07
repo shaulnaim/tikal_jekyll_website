@@ -3,7 +3,7 @@ layout: post
 title: Meaningful UI Errors   - Solution approach using Spring BlazeDS Integration
   and custom Exception Translator
 created: 1280316720
-permalink: js/meaningful-ui-errors-solution-approach-using-spring-blazeds-integration-and-custom-exception
+permalink: /js/meaningful-ui-errors-solution-approach-using-spring-blazeds-integration-and-custom-exception
 tags:
 - JS
 - Flex Spring BlazeDS

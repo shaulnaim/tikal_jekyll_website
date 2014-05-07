@@ -3,7 +3,7 @@ layout: post
 title: 10 Key Trends In MDM
 created: 1293201614
 author: udid
-permalink: alm/10-key-trends-mdm
+permalink: /alm/10-key-trends-mdm
 tags:
 - ALM
 - OSBI

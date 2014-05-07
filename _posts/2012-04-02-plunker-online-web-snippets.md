@@ -3,7 +3,7 @@ layout: post
 title: Plunker – online web snippets
 created: 1333355843
 author: orenf
-permalink: js/plunker-–-online-web-snippets
+permalink: /js/plunker-–-online-web-snippets
 tags:
 - JS
 ---

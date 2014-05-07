@@ -3,7 +3,7 @@ layout: post
 title: Solo standalone mp3 player to embed in a page
 created: 1338394544
 author: avit
-permalink: solo-standalone-mp3-player-embed-page
+permalink: /solo-standalone-mp3-player-embed-page
 tags:
 - RoR
 - web

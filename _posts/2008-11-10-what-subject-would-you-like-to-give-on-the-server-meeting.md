@@ -3,7 +3,7 @@ layout: post
 title: What subject would you like to give on the server meeting ?
 created: 1226329258
 author: yanai
-permalink: java/what-subject-would-you-give-server-meeting
+permalink: /java/what-subject-would-you-give-server-meeting
 tags:
 - JAVA
 ---

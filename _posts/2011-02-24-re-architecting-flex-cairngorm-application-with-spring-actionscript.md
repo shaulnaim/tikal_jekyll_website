@@ -2,7 +2,7 @@
 layout: post
 title: Re-Architecting Flex Cairngorm Application with Spring Actionscript
 created: 1298559247
-permalink: js/re-architecting-flex-cairngorm-application-spring-actionscript
+permalink: /js/re-architecting-flex-cairngorm-application-spring-actionscript
 tags:
 - JS
 - flex spring actionscript dependency injection

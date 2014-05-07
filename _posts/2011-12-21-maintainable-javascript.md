@@ -3,7 +3,7 @@ layout: post
 title: maintainable javascript
 created: 1324498794
 author: orenf
-permalink: maintainable-javascript
+permalink: /maintainable-javascript
 tags:
 - JS
 - architecture

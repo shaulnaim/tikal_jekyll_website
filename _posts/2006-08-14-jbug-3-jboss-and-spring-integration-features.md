@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 3 - JBoss and Spring: Integration Features'
 created: 1155535200
 author: zvika
-permalink: java/jbug-3-jboss-and-spring-integration-features
+permalink: /java/jbug-3-jboss-and-spring-integration-features
 tags:
 - JAVA
 ---

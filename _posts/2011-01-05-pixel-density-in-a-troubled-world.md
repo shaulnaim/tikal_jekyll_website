@@ -2,7 +2,7 @@
 layout: post
 title: ' Pixel density in a troubled world'
 created: 1294224171
-permalink: js/pixel-density-troubled-world
+permalink: /js/pixel-density-troubled-world
 tags:
 - JS
 - UI

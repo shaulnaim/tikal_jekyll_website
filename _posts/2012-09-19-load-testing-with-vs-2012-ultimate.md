@@ -3,7 +3,7 @@ layout: post
 title: Load testing with VS 2012 Ultimate
 created: 1348047444
 author: menny
-permalink: net/load-testing-vs-2012-ultimate
+permalink: /net/load-testing-vs-2012-ultimate
 tags:
 - .NET
 ---

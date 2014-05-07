@@ -3,7 +3,7 @@ layout: post
 title: The .net myth balloon exploding
 created: 1338394544
 author: avit
-permalink: net-myth-balloon-exploding
+permalink: /net-myth-balloon-exploding
 tags:
 - RoR
 - web

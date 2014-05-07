@@ -2,7 +2,7 @@
 layout: post
 title: Falcon storage engine in depth
 created: 1214388780
-permalink: java/falcon-storage-engine-depth
+permalink: /java/falcon-storage-engine-depth
 tags:
 - JAVA
 - MySQL

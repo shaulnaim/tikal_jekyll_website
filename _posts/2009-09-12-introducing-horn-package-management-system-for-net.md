@@ -3,7 +3,7 @@ layout: post
 title: Introducing Horn - package management system for .Net
 created: 1252747525
 author: andrew
-permalink: net/introducing-horn-package-management-system-net
+permalink: /net/introducing-horn-package-management-system-net
 tags:
 - .NET
 - ALM build

@@ -3,7 +3,7 @@ layout: post
 title: 'So You Say You Want to Kill XML....  '
 created: 1218379898
 author: zvika
-permalink: java/so-you-say-you-want-kill-xml
+permalink: /java/so-you-say-you-want-kill-xml
 tags:
 - JAVA
 ---

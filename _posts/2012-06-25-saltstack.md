@@ -3,7 +3,7 @@ layout: post
 title: Saltstack
 created: 1340622087
 author: lior.kanfi
-permalink: saltstack
+permalink: /saltstack
 tags:
 - ALM
 - DevOps

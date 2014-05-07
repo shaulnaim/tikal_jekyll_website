@@ -3,7 +3,7 @@ layout: post
 title: rspec like unit testing framework for java using groovy
 created: 1236281859
 author: ittayd
-permalink: java/rspec-unit-testing-framework-java-using-groovy
+permalink: /java/rspec-unit-testing-framework-java-using-groovy
 tags:
 - JAVA
 - testing java specification

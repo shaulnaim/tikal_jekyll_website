@@ -3,7 +3,7 @@ layout: post
 title: Spine - Build Awesome JavaScript MVC Applications
 created: 1321501956
 author: ittayd
-permalink: spine-build-awesome-javascript-mvc-applications
+permalink: /spine-build-awesome-javascript-mvc-applications
 tags:
 - JS
 - javascript coffeescript

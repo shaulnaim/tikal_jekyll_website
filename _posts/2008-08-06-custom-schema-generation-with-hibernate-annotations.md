@@ -3,7 +3,7 @@ layout: post
 title: Custom schema generation with Hibernate annotations
 created: 1218041460
 author: yanai
-permalink: java/custom-schema-generation-hibernate-annotations
+permalink: /java/custom-schema-generation-hibernate-annotations
 tags:
 - JAVA
 - Hibernate

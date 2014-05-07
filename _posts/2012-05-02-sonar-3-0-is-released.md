@@ -3,7 +3,7 @@ layout: post
 title: Sonar 3.0 is released
 created: 1335975991
 author: liya
-permalink: sonar-30-released
+permalink: /sonar-30-released
 tags:
 - ALM
 - alm git gitweb apache

@@ -3,7 +3,7 @@ layout: post
 title: Using jbossall-client jar in a Hibernate environment
 created: 1240867101
 author: zvika
-permalink: java/using-jbossall-client-jar-hibernate-environment
+permalink: /java/using-jbossall-client-jar-hibernate-environment
 tags:
 - JAVA
 - jmx

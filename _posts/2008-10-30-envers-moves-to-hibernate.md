@@ -3,7 +3,7 @@ layout: post
 title: Envers moves to Hibernate!
 created: 1225399632
 author: yanai
-permalink: java/envers-moves-hibernate
+permalink: /java/envers-moves-hibernate
 tags:
 - JAVA
 - Hibernate

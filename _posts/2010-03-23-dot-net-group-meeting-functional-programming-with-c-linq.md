@@ -3,7 +3,7 @@ layout: post
 title: 'Dot.Net group meeting: Functional programming with C#/LINQ'
 created: 1269352252
 author: igorz
-permalink: net/dotnet-group-meeting-functional-programming-clinq
+permalink: /net/dotnet-group-meeting-functional-programming-clinq
 tags:
 - .NET
 - Dot.Net

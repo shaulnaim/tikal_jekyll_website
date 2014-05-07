@@ -3,7 +3,7 @@ layout: post
 title: Enterprise Library for Silverlight– A Quick Start Guide
 created: 1344414300
 author: menny
-permalink: net/enterprise-library-silverlight–-quick-start-guide
+permalink: /net/enterprise-library-silverlight–-quick-start-guide
 tags:
 - .NET
 ---

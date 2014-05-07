@@ -3,7 +3,7 @@ layout: post
 title: 'ASP.NET MVC 3 Extensionless URLs on IIS 7 classic mode '
 created: 1297922513
 author: igorz
-permalink: net/aspnet-mvc-3-extensionless-urls-iis-7-classic-mode
+permalink: /net/aspnet-mvc-3-extensionless-urls-iis-7-classic-mode
 tags:
 - .NET
 - IIS 7

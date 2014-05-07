@@ -3,7 +3,7 @@ layout: post
 title: Using Flex with Scala
 created: 1244248969
 author: adi
-permalink: js/using-flex-scala
+permalink: /js/using-flex-scala
 tags:
 - JS
 - Scala Flex

@@ -3,7 +3,7 @@ layout: post
 title: Set button width to text width in flex
 created: 1338394544
 author: avit
-permalink: set-button-width-text-width-flex
+permalink: /set-button-width-text-width-flex
 tags:
 - RoR
 - web

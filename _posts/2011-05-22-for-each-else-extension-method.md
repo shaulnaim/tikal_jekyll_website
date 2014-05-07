@@ -3,7 +3,7 @@ layout: post
 title: for each - else extension method
 created: 1306055200
 author: ofir
-permalink: net/each-else-extension-method
+permalink: /net/each-else-extension-method
 tags:
 - .NET
 - C#; Extension methods; for each - else

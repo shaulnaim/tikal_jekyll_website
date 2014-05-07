@@ -3,7 +3,7 @@ layout: post
 title: 'Setac: A Framework for Phased Deterministic Testing of Actor Programs'
 created: 1307078537
 author: ittayd
-permalink: incubator/setac-framework-phased-deterministic-testing-actor-programs
+permalink: /incubator/setac-framework-phased-deterministic-testing-actor-programs
 tags:
 - Incubator
 - Scala

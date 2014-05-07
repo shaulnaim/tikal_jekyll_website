@@ -3,7 +3,7 @@ layout: post
 title: The Gosu programming language
 created: 1289304786
 author: ittayd
-permalink: incubator/gosu-programming-language
+permalink: /incubator/gosu-programming-language
 tags:
 - Incubator
 - jvm

@@ -3,7 +3,7 @@ layout: post
 title: impress.js  - A presentation framework based on the power of CSS3 transforms
 created: 1325482167
 author: ittayd
-permalink: impressjs-presentation-framework-based-power-css3-transforms
+permalink: /impressjs-presentation-framework-based-power-css3-transforms
 tags:
 - JS
 ---

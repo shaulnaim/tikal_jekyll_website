@@ -3,7 +3,7 @@ layout: post
 title: Raising events
 created: 1293914657
 author: ofir
-permalink: net/raising-events
+permalink: /net/raising-events
 tags:
 - .NET
 - Generics; EventHandler; Extension methods; C#

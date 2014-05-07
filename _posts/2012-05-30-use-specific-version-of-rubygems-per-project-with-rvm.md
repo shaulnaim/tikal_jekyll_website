@@ -3,7 +3,7 @@ layout: post
 title: Use specific version of RubyGems per project with RVM
 created: 1338394544
 author: avit
-permalink: use-specific-version-rubygems-project-rvm
+permalink: /use-specific-version-rubygems-project-rvm
 tags:
 - RoR
 - web

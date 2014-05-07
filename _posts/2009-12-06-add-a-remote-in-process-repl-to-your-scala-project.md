@@ -3,7 +3,7 @@ layout: post
 title: Add A Remote In-Process REPL to your Scala Project
 created: 1260102660
 author: ittayd
-permalink: java/add-remote-process-repl-your-scala-project
+permalink: /java/add-remote-process-repl-your-scala-project
 tags:
 - JAVA
 - Scala

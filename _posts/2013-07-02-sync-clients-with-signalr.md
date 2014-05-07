@@ -3,7 +3,7 @@ layout: post
 title: Sync clients with SignalR
 created: 1372749294
 author: amiram
-permalink: net/sync-clients-signalr
+permalink: /net/sync-clients-signalr
 tags:
 - .NET
 - ASP.NET MVC

@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 2 - Case Study - Exlibris: Open Source in Real Life'
 created: 1146808800
 author: zvika
-permalink: java/jbug-2-case-study-exlibris-open-source-real-life
+permalink: /java/jbug-2-case-study-exlibris-open-source-real-life
 tags:
 - JAVA
 - Open Source

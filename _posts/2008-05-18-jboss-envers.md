@@ -3,7 +3,7 @@ layout: post
 title: JBoss Envers
 created: 1211138760
 author: yanai
-permalink: java/jboss-envers
+permalink: /java/jboss-envers
 tags:
 - JAVA
 - Hibernate

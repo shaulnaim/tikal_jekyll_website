@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart.  PhoneGap + DART = RIKULO
 created: 1358072532
 author: oren.kleks
-permalink: java/java2dart-phonegap-dart-rikulo
+permalink: /java/java2dart-phonegap-dart-rikulo
 tags:
 - JAVA
 - Java Javascript phoneGap DART Rikulo

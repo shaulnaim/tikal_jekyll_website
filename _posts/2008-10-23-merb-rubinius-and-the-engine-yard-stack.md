@@ -3,7 +3,7 @@ layout: post
 title: Merb, Rubinius and the Engine Yard Stack
 created: 1224761806
 author: ittayd
-permalink: java/merb-rubinius-and-engine-yard-stack
+permalink: /java/merb-rubinius-and-engine-yard-stack
 tags:
 - JAVA
 - ruby rubinius

@@ -3,7 +3,7 @@ layout: post
 title: Tikal’s Monthly Javascript Digest - 07/2011
 created: 1312697650
 author: orenf
-permalink: tikal’s-monthly-javascript-digest-072011
+permalink: /tikal’s-monthly-javascript-digest-072011
 tags:
 - Incubator
 - css

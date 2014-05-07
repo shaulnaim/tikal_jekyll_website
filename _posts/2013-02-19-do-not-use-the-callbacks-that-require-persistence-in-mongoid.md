@@ -3,7 +3,7 @@ layout: post
 title: DO NOT use the callbacks that require persistence in Mongoid
 created: 1361309827
 author: avit
-permalink: ror/do-not-use-callbacks-require-persistence-mongoid
+permalink: /ror/do-not-use-callbacks-require-persistence-mongoid
 tags:
 - RoR
 ---

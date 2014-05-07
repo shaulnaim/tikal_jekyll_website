@@ -3,7 +3,7 @@ layout: post
 title: Free flex uploader is coming along pretty great
 created: 1338394544
 author: avit
-permalink: free-flex-uploader-coming-along-pretty-great
+permalink: /free-flex-uploader-coming-along-pretty-great
 tags:
 - RoR
 - web

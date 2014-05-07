@@ -3,7 +3,7 @@ layout: post
 title: Anyone experienced with drools?
 created: 1238597618
 author: itaip
-permalink: java/anyone-experienced-drools
+permalink: /java/anyone-experienced-drools
 tags:
 - JAVA
 - Application Frameworks

@@ -3,7 +3,7 @@ layout: post
 title: Getting started with MongoDB
 created: 1267006364
 author: igorz
-permalink: net/getting-started-mongodb
+permalink: /net/getting-started-mongodb
 tags:
 - .NET
 - MongoDB

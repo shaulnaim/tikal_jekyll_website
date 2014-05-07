@@ -3,7 +3,7 @@ layout: post
 title: SLF4J over Spring
 created: 1268827584
 author: itaip
-permalink: java/slf4j-over-spring
+permalink: /java/slf4j-over-spring
 tags:
 - JAVA
 - Spring

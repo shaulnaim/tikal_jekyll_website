@@ -3,7 +3,7 @@ layout: post
 title: Tikal's Community ndroid application is up on the market
 created: 1298870121
 author: sefi
-permalink: js/tikals-community-ndroid-application-market
+permalink: /js/tikals-community-ndroid-application-market
 tags:
 - JS
 - flex

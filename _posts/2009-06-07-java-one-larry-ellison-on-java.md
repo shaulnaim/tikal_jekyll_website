@@ -3,7 +3,7 @@ layout: post
 title: Java One - Larry Ellison on Java
 created: 1244386094
 author: lior.kanfi
-permalink: java/java-one-larry-ellison-java
+permalink: /java/java-one-larry-ellison-java
 tags:
 - JAVA
 - sun

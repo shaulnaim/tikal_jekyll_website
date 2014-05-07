@@ -3,7 +3,7 @@ layout: post
 title: 'The gap between GWT world and "regular" HTML '
 created: 1291109856
 author: aviy
-permalink: java/gap-between-gwt-world-and-regular-html
+permalink: /java/gap-between-gwt-world-and-regular-html
 tags:
 - JAVA
 - gwt

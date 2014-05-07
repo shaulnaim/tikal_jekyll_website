@@ -3,7 +3,7 @@ layout: post
 title: IZWebFileManager 2.6.1 release is out
 created: 1281282300
 author: igorz
-permalink: net/izwebfilemanager-261-release-out
+permalink: /net/izwebfilemanager-261-release-out
 tags:
 - .NET
 - .Net Open Source

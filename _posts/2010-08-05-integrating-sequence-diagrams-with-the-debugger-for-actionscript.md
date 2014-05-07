@@ -2,7 +2,7 @@
 layout: post
 title: Integrating sequence diagrams with the debugger for actionScript
 created: 1281003007
-permalink: js/integrating-sequence-diagrams-debugger-actionscript
+permalink: /js/integrating-sequence-diagrams-debugger-actionscript
 tags:
 - JS
 ---

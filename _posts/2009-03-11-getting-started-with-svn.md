@@ -3,7 +3,7 @@ layout: post
 title: Getting Started with SVN
 created: 1236755409
 author: zvika
-permalink: java/getting-started-svn
+permalink: /java/getting-started-svn
 tags:
 - JAVA
 ---

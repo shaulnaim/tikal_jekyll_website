@@ -3,7 +3,7 @@ layout: post
 title: 'Old News: Building HTML5 apps using ASP.NET Web API, Knockout.js and jQuery'
 created: 1348048179
 author: menny
-permalink: net/old-news-building-html5-apps-using-aspnet-web-api-knockoutjs-and-jquery
+permalink: /net/old-news-building-html5-apps-using-aspnet-web-api-knockoutjs-and-jquery
 tags:
 - .NET
 ---

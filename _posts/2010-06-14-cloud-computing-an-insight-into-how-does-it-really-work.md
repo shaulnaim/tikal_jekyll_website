@@ -3,7 +3,7 @@ layout: post
 title: 'Cloud computing - an insight into "how does it really work ?" '
 created: 1276524542
 author: zvika
-permalink: java/cloud-computing-insight-how-does-it-really-work
+permalink: /java/cloud-computing-insight-how-does-it-really-work
 tags:
 - JAVA
 - AWS

@@ -3,7 +3,7 @@ layout: post
 title: Java Bytecode Engineering
 created: 1291012352
 author: zvika
-permalink: java/java-bytecode-engineering
+permalink: /java/java-bytecode-engineering
 tags:
 - JAVA
 - bcel

@@ -3,7 +3,7 @@ layout: post
 title: Next Flex SDK announced – codename HERO
 created: 1277993356
 author: sefi
-permalink: next-flex-sdk-announced-–-codename-hero
+permalink: /next-flex-sdk-announced-–-codename-hero
 tags:
 - flex
 - gwt

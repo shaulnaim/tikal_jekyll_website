@@ -3,7 +3,7 @@ layout: post
 title: Groovy DSL Tricks
 created: 1276861222
 author: ittayd
-permalink: java/groovy-dsl-tricks
+permalink: /java/groovy-dsl-tricks
 tags:
 - JAVA
 - Groovy

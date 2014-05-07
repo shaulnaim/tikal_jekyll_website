@@ -3,7 +3,7 @@ layout: post
 title: Flex SDK 3 Vs. 4 – Part 2 – Introducing Components
 created: 1273491796
 author: sefi
-permalink: js/flex-sdk-3-vs-4-–-part-2-–-introducing-components
+permalink: /js/flex-sdk-3-vs-4-–-part-2-–-introducing-components
 tags:
 - JS
 ---

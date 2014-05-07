@@ -3,7 +3,7 @@ layout: post
 title: No more WhatsApp for me
 created: 1344240810
 author: menny
-permalink: net/no-more-whatsapp-me
+permalink: /net/no-more-whatsapp-me
 tags:
 - .NET
 ---

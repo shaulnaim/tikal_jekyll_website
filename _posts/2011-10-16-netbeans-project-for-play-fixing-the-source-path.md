@@ -3,7 +3,7 @@ layout: post
 title: NetBeans project for Play - fixing the source path
 created: 1318776514
 author: andrew
-permalink: netbeans-project-play-fixing-source-path
+permalink: /netbeans-project-play-fixing-source-path
 tags:
 - JAVA
 - frameworks

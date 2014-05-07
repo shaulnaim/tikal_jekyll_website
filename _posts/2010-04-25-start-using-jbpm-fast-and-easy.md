@@ -3,7 +3,7 @@ layout: post
 title: Start using JBPM fast and easy
 created: 1272181424
 author: admin
-permalink: java/blog/start-using-jbpm-fast-and-easy
+permalink: /java/blog/start-using-jbpm-fast-and-easy
 tags:
 - JAVA
 - eclipse

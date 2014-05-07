@@ -3,7 +3,7 @@ layout: post
 title: The Future Of Javascript
 created: 1329552740
 author: orenf
-permalink: future-javascript
+permalink: /future-javascript
 tags:
 - JS
 ---

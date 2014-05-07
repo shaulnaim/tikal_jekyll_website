@@ -3,7 +3,7 @@ layout: post
 title: FuseDay June 2013 - Upload an image MVC + TypeScript
 created: 1372603164
 author: ofir
-permalink: net/fuseday-june-2013-upload-image-mvc-typescript
+permalink: /net/fuseday-june-2013-upload-image-mvc-typescript
 tags:
 - .NET
 - ASP.NET MVC

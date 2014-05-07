@@ -3,7 +3,7 @@ layout: post
 title: Efficient data transfer through zero copy
 created: 1220941423
 author: andrew
-permalink: efficient-data-transfer-through-zero-copy
+permalink: /efficient-data-transfer-through-zero-copy
 tags:
 - nio performance
 ---

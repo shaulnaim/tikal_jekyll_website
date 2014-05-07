@@ -3,7 +3,7 @@ layout: post
 title: Linux and Mac fonts
 created: 1221385325
 author: adi
-permalink: linux-and-mac-fonts
+permalink: /linux-and-mac-fonts
 tags:
 - Linux
 - Fonts

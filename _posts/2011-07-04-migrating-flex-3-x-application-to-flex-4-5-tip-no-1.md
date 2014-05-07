@@ -3,7 +3,7 @@ layout: post
 title: Migrating Flex 3.x application to Flex 4.5 – Tip No. 1
 created: 1309785012
 author: sefi
-permalink: migrating-flex-3x-application-flex-45-–-tip-no-1
+permalink: /migrating-flex-3x-application-flex-45-–-tip-no-1
 tags:
 - flex
 - gwt

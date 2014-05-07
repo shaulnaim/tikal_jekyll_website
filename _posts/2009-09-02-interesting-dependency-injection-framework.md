@@ -3,7 +3,7 @@ layout: post
 title: Interesting dependency injection framework
 created: 1251895902
 author: andrew
-permalink: net/interesting-dependency-injection-framework
+permalink: /net/interesting-dependency-injection-framework
 tags:
 - .NET
 - DI IoC

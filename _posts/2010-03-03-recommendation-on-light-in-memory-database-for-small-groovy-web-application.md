@@ -3,7 +3,7 @@ layout: post
 title: Recommendation on "light" in-memory database for small groovy web-application
 created: 1267619029
 author: liya
-permalink: java/recommendation-light-memory-database-small-groovy-web-application
+permalink: /java/recommendation-light-memory-database-small-groovy-web-application
 tags:
 - JAVA
 - Groovy

@@ -3,7 +3,7 @@ layout: post
 title: Lift v2.0 on the way (Scala 2.8)
 created: 1265893812
 author: adi
-permalink: incubator/lift-v20-way-scala-28
+permalink: /incubator/lift-v20-way-scala-28
 tags:
 - Incubator
 - Scala

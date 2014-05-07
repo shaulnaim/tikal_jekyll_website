@@ -2,7 +2,7 @@
 layout: post
 title: Customizing UISwitch For Native iPhone Applications
 created: 1304269373
-permalink: js/customizing-uiswitch-native-iphone-applications
+permalink: /js/customizing-uiswitch-native-iphone-applications
 tags:
 - JS
 - UISwitch

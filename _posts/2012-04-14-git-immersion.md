@@ -3,7 +3,7 @@ layout: post
 title: Git immersion
 created: 1334396588
 author: ittayd
-permalink: git-immersion
+permalink: /git-immersion
 tags:
 - ALM
 - git

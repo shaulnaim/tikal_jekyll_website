@@ -3,7 +3,7 @@ layout: post
 title: JVM has coroutine/continuation/fiber etc
 created: 1258752094
 author: adi
-permalink: java/jvm-has-coroutinecontinuationfiber-etc
+permalink: /java/jvm-has-coroutinecontinuationfiber-etc
 tags:
 - JAVA
 - jvm

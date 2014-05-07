@@ -4,7 +4,7 @@ title: 'Scalability Benchmark of Monte Carlo Simulation on Amazon EC2 with GridG
   Software '
 created: 1225281523
 author: yanai
-permalink: java/scalability-benchmark-monte-carlo-simulation-amazon-ec2-gridgain-software
+permalink: /java/scalability-benchmark-monte-carlo-simulation-amazon-ec2-gridgain-software
 tags:
 - JAVA
 - GridGain Amazon EC2 Cloud Computing

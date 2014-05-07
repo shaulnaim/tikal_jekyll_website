@@ -3,7 +3,7 @@ layout: post
 title: 'Oracle and IBM Collaborate to Accelerate Java Innovation Through OpenJDK '
 created: 1286868826
 author: ittayd
-permalink: java/oracle-and-ibm-collaborate-accelerate-java-innovation-through-openjdk
+permalink: /java/oracle-and-ibm-collaborate-accelerate-java-innovation-through-openjdk
 tags:
 - JAVA
 ---

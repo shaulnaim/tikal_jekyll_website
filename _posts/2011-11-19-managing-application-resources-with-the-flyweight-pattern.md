@@ -3,7 +3,7 @@ layout: post
 title: Managing Application Resources with the Flyweight Pattern
 created: 1321711027
 author: orenf
-permalink: managing-application-resources-flyweight-pattern
+permalink: /managing-application-resources-flyweight-pattern
 tags:
 - JS
 ---

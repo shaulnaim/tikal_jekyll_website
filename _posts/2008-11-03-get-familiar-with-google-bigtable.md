@@ -3,7 +3,7 @@ layout: post
 title: Get Familiar with Google BigTable
 created: 1225740430
 author: yanai
-permalink: java/get-familiar-google-bigtable
+permalink: /java/get-familiar-google-bigtable
 tags:
 - JAVA
 - BigTable

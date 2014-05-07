@@ -3,7 +3,7 @@ layout: post
 title: The feel of Scala - By Bill Venners  of Artima
 created: 1241589359
 author: ittayd
-permalink: java/feel-scala-bill-venners-artima
+permalink: /java/feel-scala-bill-venners-artima
 tags:
 - JAVA
 - scala presentation language

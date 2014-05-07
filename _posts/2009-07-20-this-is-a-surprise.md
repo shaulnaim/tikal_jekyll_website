@@ -3,7 +3,7 @@ layout: post
 title: This is a surprise...
 created: 1248112884
 author: adi
-permalink: js/surprise
+permalink: /js/surprise
 tags:
 - JS
 - Windows

@@ -3,7 +3,7 @@ layout: post
 title: Strange flex bug - caching screens
 created: 1338394544
 author: avit
-permalink: strange-flex-bug-caching-screens
+permalink: /strange-flex-bug-caching-screens
 tags:
 - RoR
 - web

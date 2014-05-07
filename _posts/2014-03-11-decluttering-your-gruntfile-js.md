@@ -3,7 +3,7 @@ layout: post
 title: Decluttering your Gruntfile.js
 created: 1394543426
 author: orenf
-permalink: decluttering-your-gruntfilejs
+permalink: /decluttering-your-gruntfilejs
 tags:
 - JS
 - grunt.js

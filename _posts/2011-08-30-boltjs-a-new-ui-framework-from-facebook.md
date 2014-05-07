@@ -3,7 +3,7 @@ layout: post
 title: BoltJS - A new UI framework from facebook
 created: 1314688961
 author: ittayd
-permalink: boltjs-new-ui-framework-facebook
+permalink: /boltjs-new-ui-framework-facebook
 tags:
 - JS
 ---

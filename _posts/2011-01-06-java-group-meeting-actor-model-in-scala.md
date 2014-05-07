@@ -3,7 +3,7 @@ layout: post
 title: 'Java Group Meeting: Actor Model in Scala'
 created: 1294315672
 author: zvika
-permalink: java/java-group-meeting-actor-model-scala
+permalink: /java/java-group-meeting-actor-model-scala
 tags:
 - JAVA
 - Scala

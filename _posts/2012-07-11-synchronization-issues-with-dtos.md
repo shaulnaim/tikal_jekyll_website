@@ -3,7 +3,7 @@ layout: post
 title: Synchronization issues with DTOs
 created: 1342028621
 author: sefi
-permalink: synchronization-issues-dtos
+permalink: /synchronization-issues-dtos
 tags:
 - JAVA
 ---

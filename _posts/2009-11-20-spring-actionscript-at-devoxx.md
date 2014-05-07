@@ -3,7 +3,7 @@ layout: post
 title: Spring Actionscript at Devoxx
 created: 1258674117
 author: adi
-permalink: js/spring-actionscript-devoxx
+permalink: /js/spring-actionscript-devoxx
 tags:
 - JS
 - Spring

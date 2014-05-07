@@ -3,7 +3,7 @@ layout: post
 title: Solving Cyclic Dependency
 created: 1289920402
 author: zvika
-permalink: alm/solving-cyclic-dependency
+permalink: /alm/solving-cyclic-dependency
 tags:
 - ALM
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Continuous Integration on Mobile Platforms
 created: 1329116704
 author: itai
-permalink: continuous-integration-mobile-platforms
+permalink: /continuous-integration-mobile-platforms
 tags:
 - ALM
 - CI

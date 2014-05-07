@@ -3,7 +3,7 @@ layout: post
 title: 'Flex Builder 3 Localization Tool '
 created: 1258547503
 author: keren
-permalink: js/flex-builder-3-localization-tool
+permalink: /js/flex-builder-3-localization-tool
 tags:
 - JS
 ---

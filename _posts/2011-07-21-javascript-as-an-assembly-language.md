@@ -3,7 +3,7 @@ layout: post
 title: Javascript as an assembly language
 created: 1311233639
 author: ittayd
-permalink: js/javascript-assembly-language
+permalink: /js/javascript-assembly-language
 tags:
 - JS
 ---

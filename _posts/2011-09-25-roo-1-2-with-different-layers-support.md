@@ -3,7 +3,7 @@ layout: post
 title: Roo 1.2 with different layers support
 created: 1316949386
 author: andrew
-permalink: roo-12-different-layers-support
+permalink: /roo-12-different-layers-support
 tags:
 - JAVA
 - Spring

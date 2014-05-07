@@ -3,7 +3,7 @@ layout: post
 title: Simulating SAM closures in Scala
 created: 1306224790
 author: ittayd
-permalink: incubator/simulating-sam-closures-scala
+permalink: /incubator/simulating-sam-closures-scala
 tags:
 - Incubator
 - Scala

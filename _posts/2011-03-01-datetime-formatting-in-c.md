@@ -3,7 +3,7 @@ layout: post
 title: DateTime formatting in C#
 created: 1298961568
 author: igorz
-permalink: net/datetime-formatting-c
+permalink: /net/datetime-formatting-c
 tags:
 - .NET
 - formatting

@@ -3,7 +3,7 @@ layout: post
 title: Web Framework Benchmarks
 created: 1364690705
 author: ittayd
-permalink: java/web-framework-benchmarks
+permalink: /java/web-framework-benchmarks
 tags:
 - JAVA
 ---

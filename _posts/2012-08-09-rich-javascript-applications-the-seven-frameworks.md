@@ -3,7 +3,7 @@ layout: post
 title: 'Rich JavaScript Applications – the Seven Frameworks '
 created: 1344538519
 author: orenf
-permalink: rich-javascript-applications-–-seven-frameworks
+permalink: /rich-javascript-applications-–-seven-frameworks
 tags:
 - Incubator
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Scala for the Intrigued '
 created: 1315731048
 author: ittayd
-permalink: scala-intrigued
+permalink: /scala-intrigued
 tags:
 - Incubator
 - Scala

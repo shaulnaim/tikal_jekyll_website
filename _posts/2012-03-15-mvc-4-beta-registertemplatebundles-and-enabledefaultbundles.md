@@ -3,7 +3,7 @@ layout: post
 title: 'MVC 4 beta: RegisterTemplateBundles and EnableDefaultBundles'
 created: 1331813427
 author: menny
-permalink: mvc-4-beta-registertemplatebundles-and-enabledefaultbundles
+permalink: /mvc-4-beta-registertemplatebundles-and-enabledefaultbundles
 tags:
 - .NET
 ---

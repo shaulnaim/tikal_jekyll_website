@@ -3,7 +3,7 @@ layout: post
 title: Test driving latest browsers performance
 created: 1244726999
 author: zvika
-permalink: java/test-driving-latest-browsers-performance
+permalink: /java/test-driving-latest-browsers-performance
 tags:
 - JAVA
 - Opera

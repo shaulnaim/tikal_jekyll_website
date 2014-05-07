@@ -3,7 +3,7 @@ layout: post
 title: Rendering performance optimization
 created: 1300231400
 author: vladislavm
-permalink: js/rendering-performance-optimization
+permalink: /js/rendering-performance-optimization
 tags:
 - JS
 - Sprite

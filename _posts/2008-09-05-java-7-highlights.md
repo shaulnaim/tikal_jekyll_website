@@ -3,7 +3,7 @@ layout: post
 title: Java 7 Highlights
 created: 1220572802
 author: zvika
-permalink: java/java-7-highlights
+permalink: /java/java-7-highlights
 tags:
 - JAVA
 - JSE7

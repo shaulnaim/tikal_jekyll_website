@@ -3,7 +3,7 @@ layout: post
 title: Windows 8, Windows Server & Visual Studio – RC
 created: 1339341012
 author: menny
-permalink: windows-8-windows-server-visual-studio-–-rc
+permalink: /windows-8-windows-server-visual-studio-–-rc
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: .NET IoC containers
 created: 1257679598
 author: igorz
-permalink: net/net-ioc-containers
+permalink: /net/net-ioc-containers
 tags:
 - .NET
 - DI IoC

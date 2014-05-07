@@ -3,7 +3,7 @@ layout: post
 title: Dev-Day at Tikal
 created: 1247679146
 author: yanai
-permalink: java/dev-day-tikal
+permalink: /java/dev-day-tikal
 tags:
 - JAVA
 - JEE6

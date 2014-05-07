@@ -3,7 +3,7 @@ layout: post
 title: Navigate the cloud computing labyrinth
 created: 1239916726
 author: lior.kanfi
-permalink: java/navigate-cloud-computing-labyrinth
+permalink: /java/navigate-cloud-computing-labyrinth
 tags:
 - JAVA
 - Cloud Computing EC2 Google AppEngine Azure

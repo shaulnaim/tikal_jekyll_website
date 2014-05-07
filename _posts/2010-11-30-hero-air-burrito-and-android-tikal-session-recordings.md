@@ -3,7 +3,7 @@ layout: post
 title: HERO, AIR, Burrito and Android Tikal session recordings
 created: 1291147174
 author: sefi
-permalink: hero-air-burrito-and-android-tikal-session-recordings
+permalink: /hero-air-burrito-and-android-tikal-session-recordings
 tags:
 - gwt
 - flex

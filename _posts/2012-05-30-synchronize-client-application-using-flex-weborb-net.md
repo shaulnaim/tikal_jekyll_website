@@ -3,7 +3,7 @@ layout: post
 title: Synchronize Client Application using flex/WebOrb.net
 created: 1338394544
 author: avit
-permalink: synchronize-client-application-using-flexweborbnet
+permalink: /synchronize-client-application-using-flexweborbnet
 tags:
 - RoR
 - web

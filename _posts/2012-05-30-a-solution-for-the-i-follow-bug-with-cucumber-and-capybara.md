@@ -3,7 +3,7 @@ layout: post
 title: A solution for the “I Follow” bug with cucumber and Capybara
 created: 1338394544
 author: avit
-permalink: ror/solution-“i-follow”-bug-cucumber-and-capybara
+permalink: /ror/solution-“i-follow”-bug-cucumber-and-capybara
 tags:
 - RoR
 - web

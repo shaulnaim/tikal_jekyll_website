@@ -3,7 +3,7 @@ layout: post
 title: Mongrel2 - The next-generation Web-Server
 created: 1285179405
 author: udib
-permalink: js/mongrel2-next-generation-web-server
+permalink: /js/mongrel2-next-generation-web-server
 tags:
 - JS
 - web_server

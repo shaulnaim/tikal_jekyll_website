@@ -3,7 +3,7 @@ layout: post
 title: JRuby 1.7 sees ipressive performance improvements with Java 7's invokedynamic
 created: 1324379409
 author: ittayd
-permalink: jruby-17-sees-ipressive-performance-improvements-java-7s-invokedynamic
+permalink: /jruby-17-sees-ipressive-performance-improvements-java-7s-invokedynamic
 tags:
 - Incubator
 - JRuby

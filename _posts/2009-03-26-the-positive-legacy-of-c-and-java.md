@@ -3,7 +3,7 @@ layout: post
 title: The Positive Legacy of C++ and Java
 created: 1238023607
 author: lior.kanfi
-permalink: java/positive-legacy-c-and-java
+permalink: /java/positive-legacy-c-and-java
 tags:
 - JAVA
 - C++

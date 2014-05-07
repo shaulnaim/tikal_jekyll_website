@@ -3,7 +3,7 @@ layout: post
 title: TCE 1 - Amazon AWS Case Study
 created: 1256119165
 author: yanai
-permalink: java/tce-1-amazon-aws-case-study
+permalink: /java/tce-1-amazon-aws-case-study
 tags:
 - JAVA
 - EC2

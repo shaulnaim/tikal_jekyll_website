@@ -3,7 +3,7 @@ layout: post
 title: A Week with Bootstrap 3
 created: 1375341523
 author: gabi
-permalink: week-bootstrap-3
+permalink: /week-bootstrap-3
 tags:
 - JS
 - bootstrap

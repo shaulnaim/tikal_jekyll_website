@@ -4,7 +4,7 @@ title: 'Using MySQL as a NoSQL - A story for exceeding 750,000 qps on a commodit
   server '
 created: 1289460110
 author: ittayd
-permalink: incubator/using-mysql-nosql-story-exceeding-750000-qps-commodity-server
+permalink: /incubator/using-mysql-nosql-story-exceeding-750000-qps-commodity-server
 tags:
 - Incubator
 - MySQL

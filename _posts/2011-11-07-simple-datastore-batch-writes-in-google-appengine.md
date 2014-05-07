@@ -3,7 +3,7 @@ layout: post
 title: Simple datastore batch writes in Google AppEngine
 created: 1320679691
 author: udib
-permalink: simple-datastore-batch-writes-google-appengine
+permalink: /simple-datastore-batch-writes-google-appengine
 tags:
 - Incubator
 - Python

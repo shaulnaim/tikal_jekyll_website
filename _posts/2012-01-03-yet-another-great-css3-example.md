@@ -3,7 +3,7 @@ layout: post
 title: Yet another great CSS3 example
 created: 1325589377
 author: adi
-permalink: yet-another-great-css3-example
+permalink: /yet-another-great-css3-example
 tags:
 - JS
 - CSS3

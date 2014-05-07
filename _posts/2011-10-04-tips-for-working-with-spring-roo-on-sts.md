@@ -3,7 +3,7 @@ layout: post
 title: Tips for working with Spring Roo on STS
 created: 1317756900
 author: liorb
-permalink: tips-working-spring-roo-sts
+permalink: /tips-working-spring-roo-sts
 tags:
 - Flex Java
 ---

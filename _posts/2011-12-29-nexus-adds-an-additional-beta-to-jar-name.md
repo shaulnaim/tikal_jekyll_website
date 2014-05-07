@@ -3,7 +3,7 @@ layout: post
 title: Nexus adds an additional "-beta" to jar name.
 created: 1325147564
 author: liorb
-permalink: nexus-adds-additional-beta-jar-name
+permalink: /nexus-adds-additional-beta-jar-name
 tags:
 - ALM
 - Nexus

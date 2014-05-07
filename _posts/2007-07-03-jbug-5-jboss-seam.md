@@ -3,7 +3,7 @@ layout: post
 title: JBUG 5 - JBoss Seam
 created: 1183442400
 author: zvika
-permalink: java/jbug-5-jboss-seam
+permalink: /java/jbug-5-jboss-seam
 tags:
 - JAVA
 ---

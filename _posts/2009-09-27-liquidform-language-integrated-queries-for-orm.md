@@ -3,7 +3,7 @@ layout: post
 title: liquidform - Language Integrated QUeries For ORM
 created: 1254036840
 author: ittayd
-permalink: java/liquidform-language-integrated-queries-orm
+permalink: /java/liquidform-language-integrated-queries-orm
 tags:
 - JAVA
 - JPA

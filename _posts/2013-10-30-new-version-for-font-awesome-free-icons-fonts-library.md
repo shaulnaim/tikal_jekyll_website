@@ -3,7 +3,7 @@ layout: post
 title: New Version for Font Awesome - free icons fonts library
 created: 1383139558
 author: orenf
-permalink: js/new-version-for-font-awesome-free-icons-fonts-library
+permalink: /js/new-version-for-font-awesome-free-icons-fonts-library
 tags:
 - JS
 - css

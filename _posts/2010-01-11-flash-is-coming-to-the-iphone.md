@@ -3,7 +3,7 @@ layout: post
 title: Flash is coming to the iPhone
 created: 1263212330
 author: udid
-permalink: java/flash-coming-iphone
+permalink: /java/flash-coming-iphone
 tags:
 - JAVA
 - flex

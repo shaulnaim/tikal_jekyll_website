@@ -3,7 +3,7 @@ layout: post
 title: Sample Store Catalog using using Groovy and Grails
 created: 1209554160
 author: zvika
-permalink: java/sample-store-catalog-using-using-groovy-and-grails
+permalink: /java/sample-store-catalog-using-using-groovy-and-grails
 tags:
 - JAVA
 - Groovy

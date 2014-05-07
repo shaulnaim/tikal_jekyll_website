@@ -3,7 +3,7 @@ layout: post
 title: undefined method `relation’ for nil:NilClass on Heroku
 created: 1336576986
 author: avit
-permalink: undefined-method-relation’-nilnilclass-heroku
+permalink: /undefined-method-relation’-nilnilclass-heroku
 tags:
 - RoR
 - web

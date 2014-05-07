@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 6 - Case Study: Exlibris Verde, jBPM In Action'
 created: 1183615200
 author: zvika
-permalink: java/jbug-6-case-study-exlibris-verde-jbpm-action
+permalink: /java/jbug-6-case-study-exlibris-verde-jbpm-action
 tags:
 - JAVA
 ---

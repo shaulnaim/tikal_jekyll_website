@@ -3,7 +3,7 @@ layout: post
 title: An alternative to Hibernate native Query
 created: 1224836826
 author: admin
-permalink: java/forums/alternative-hibernate-native-query
+permalink: /java/forums/alternative-hibernate-native-query
 tags:
 - JAVA
 - Hibernate

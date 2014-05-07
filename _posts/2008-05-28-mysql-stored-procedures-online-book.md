@@ -2,7 +2,7 @@
 layout: post
 title: 'MySQL Stored Procedures online book '
 created: 1211968500
-permalink: java/mysql-stored-procedures-online-book
+permalink: /java/mysql-stored-procedures-online-book
 tags:
 - JAVA
 - MySQL

@@ -3,7 +3,7 @@ layout: post
 title: Empty dialogs in flex builder 3 + Flash builder 4
 created: 1338394544
 author: avit
-permalink: empty-dialogs-flex-builder-3-flash-builder-4
+permalink: /empty-dialogs-flex-builder-3-flash-builder-4
 tags:
 - RoR
 - web

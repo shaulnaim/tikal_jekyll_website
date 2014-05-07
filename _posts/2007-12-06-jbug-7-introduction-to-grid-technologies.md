@@ -3,7 +3,7 @@ layout: post
 title: JBUG 7 - Introduction to Grid Technologies
 created: 1196924400
 author: zvika
-permalink: java/jbug-7-introduction-grid-technologies
+permalink: /java/jbug-7-introduction-grid-technologies
 tags:
 - JAVA
 ---

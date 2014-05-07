@@ -3,7 +3,7 @@ layout: post
 title: JBoss Performance Tuning Tips
 created: 1251040742
 author: elad
-permalink: java/jboss-performance-tuning-tips
+permalink: /java/jboss-performance-tuning-tips
 tags:
 - JAVA
 - jboss

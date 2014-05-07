@@ -4,7 +4,7 @@ title: I want to upgrade to Hibernate 3.3, how should I change my Maven configur
   ?
 created: 1221201412
 author: yanai
-permalink: i-want-upgrade-hibernate-33-how-should-i-change-my-maven-configuration
+permalink: /i-want-upgrade-hibernate-33-how-should-i-change-my-maven-configuration
 tags:
 - Application Frameworks
 ---

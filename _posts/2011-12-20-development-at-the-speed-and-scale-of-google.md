@@ -3,7 +3,7 @@ layout: post
 title: Development at the Speed and Scale of Google
 created: 1324375241
 author: ittayd
-permalink: development-speed-and-scale-google
+permalink: /development-speed-and-scale-google
 tags:
 - ALM
 - ALM google

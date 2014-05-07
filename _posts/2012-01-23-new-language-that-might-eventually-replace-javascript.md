@@ -3,7 +3,7 @@ layout: post
 title: New language that might eventually replace JavaScript
 created: 1327312737
 author: aviy
-permalink: new-language-might-eventually-replace-javascript
+permalink: /new-language-might-eventually-replace-javascript
 tags:
 - JAVA
 - DART

@@ -3,7 +3,7 @@ layout: post
 title: Mock object frameworks for .NET
 created: 1257151329
 author: igorz
-permalink: net/mock-object-frameworks-net
+permalink: /net/mock-object-frameworks-net
 tags:
 - .NET
 - Mock

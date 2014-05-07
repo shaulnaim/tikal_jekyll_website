@@ -3,7 +3,7 @@ layout: post
 title: Showing the git commit SHA that is currently deployed
 created: 1335824630
 author: avit
-permalink: showing-git-commit-sha-currently-deployed
+permalink: /showing-git-commit-sha-currently-deployed
 tags:
 - RoR
 - web

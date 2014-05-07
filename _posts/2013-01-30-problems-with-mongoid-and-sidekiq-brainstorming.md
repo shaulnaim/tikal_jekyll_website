@@ -3,7 +3,7 @@ layout: post
 title: Problems with Mongoid and Sidekiq- Brainstorming
 created: 1359574586
 author: avit
-permalink: ror/blog/problems-mongoid-and-sidekiq-brainstorming
+permalink: /ror/blog/problems-mongoid-and-sidekiq-brainstorming
 tags:
 - RoR
 ---

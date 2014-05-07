@@ -3,7 +3,7 @@ layout: post
 title: 'Problems with Hibernate Criteria and distinct entities '
 created: 1385302685
 author: andrew
-permalink: java/problems-hibernate-criteria-and-distinct-entities
+permalink: /java/problems-hibernate-criteria-and-distinct-entities
 tags:
 - JAVA
 - Hibernate

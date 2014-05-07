@@ -3,7 +3,7 @@ layout: post
 title: 'ALT.NET Israel Tools night #3'
 created: 1291548993
 author: igorz
-permalink: net/altnet-israel-tools-night-3
+permalink: /net/altnet-israel-tools-night-3
 tags:
 - .NET
 - .Net Open Source

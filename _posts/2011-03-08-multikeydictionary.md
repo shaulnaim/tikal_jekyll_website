@@ -3,7 +3,7 @@ layout: post
 title: MultikeyDictionary
 created: 1299600454
 author: ofir
-permalink: net/multikeydictionary
+permalink: /net/multikeydictionary
 tags:
 - .NET
 - .Net Open Source

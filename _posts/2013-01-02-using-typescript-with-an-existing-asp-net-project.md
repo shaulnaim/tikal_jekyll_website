@@ -3,7 +3,7 @@ layout: post
 title: Using TypeScript with an existing ASP.NET project.
 created: 1357105560
 author: igorz
-permalink: net/blog/using-typescript-existing-aspnet-project
+permalink: /net/blog/using-typescript-existing-aspnet-project
 tags:
 - .NET
 - .Net Open Source

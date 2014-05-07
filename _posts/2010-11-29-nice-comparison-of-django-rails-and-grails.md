@@ -3,7 +3,7 @@ layout: post
 title: Nice comparison of Django, Rails & Grails
 created: 1291039581
 author: udib
-permalink: incubator/nice-comparison-django-rails-grails
+permalink: /incubator/nice-comparison-django-rails-grails
 tags:
 - Incubator
 - Rails

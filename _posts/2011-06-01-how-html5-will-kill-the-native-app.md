@@ -3,7 +3,7 @@ layout: post
 title: How HTML5 will kill the native app
 created: 1306921084
 author: aviy
-permalink: java/how-html5-will-kill-native-app
+permalink: /java/how-html5-will-kill-native-app
 tags:
 - JAVA
 - HTML5

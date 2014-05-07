@@ -3,7 +3,7 @@ layout: post
 title: Let's GIT to it!
 created: 1387619917
 author: yorammi
-permalink: lets-git-it
+permalink: /lets-git-it
 tags:
 - ALM
 - git

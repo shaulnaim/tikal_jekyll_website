@@ -3,7 +3,7 @@ layout: post
 title: TCE 2 -  Ship early ship often with Django by Udi Bauman
 created: 1265033404
 author: admin
-permalink: incubator/tce-2-ship-early-ship-often-django-udi-bauman
+permalink: /incubator/tce-2-ship-early-ship-often-django-udi-bauman
 tags:
 - Incubator
 - Django

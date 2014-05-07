@@ -3,7 +3,7 @@ layout: post
 title: open web device
 created: 1330580470
 author: ittayd
-permalink: open-web-device
+permalink: /open-web-device
 tags:
 - JS
 - javascript mobile

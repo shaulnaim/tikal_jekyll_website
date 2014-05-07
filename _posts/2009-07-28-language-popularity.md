@@ -3,7 +3,7 @@ layout: post
 title: language popularity
 created: 1248772736
 author: ittayd
-permalink: alm/language-popularity
+permalink: /alm/language-popularity
 tags:
 - ALM
 - language popularity index

@@ -3,7 +3,7 @@ layout: post
 title: Tikal is hiring!
 created: 1290950890
 author: sefi
-permalink: tikal-hiring
+permalink: /tikal-hiring
 tags:
 - gwt
 - flex

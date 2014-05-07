@@ -3,7 +3,7 @@ layout: post
 title: ubuntu ssl vpn
 created: 1329231105
 author: chaim.turkel
-permalink: java/blog/ubuntu-ssl-vpn
+permalink: /java/blog/ubuntu-ssl-vpn
 tags:
 - JAVA
 - ubuntu

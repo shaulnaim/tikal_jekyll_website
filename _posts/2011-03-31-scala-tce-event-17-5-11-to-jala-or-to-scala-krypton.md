@@ -3,7 +3,7 @@ layout: post
 title: Scala TCE Event 17.5.11 - "To JALA or to SCALA ?" @ Krypton
 created: 1301568880
 author: yifat
-permalink: java/scala-tce-event-17511-jala-or-scala-krypton
+permalink: /java/scala-tce-event-17511-jala-or-scala-krypton
 tags:
 - JAVA
 ---

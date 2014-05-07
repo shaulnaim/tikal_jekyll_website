@@ -3,7 +3,7 @@ layout: post
 title: An Introduction to EasyAnt
 created: 1291811853
 author: lior.kanfi
-permalink: alm/introduction-easyant
+permalink: /alm/introduction-easyant
 tags:
 - ALM
 - ant ivy

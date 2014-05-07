@@ -3,7 +3,7 @@ layout: post
 title: 'programmatically downgrade eclipse plugin  '
 created: 1276009243
 author: keren
-permalink: java/programmatically-downgrade-eclipse-plugin
+permalink: /java/programmatically-downgrade-eclipse-plugin
 tags:
 - JAVA
 - SWT

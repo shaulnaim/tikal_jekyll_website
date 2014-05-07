@@ -3,7 +3,7 @@ layout: post
 title: TCE - Tikal Community Event 27.1.10 Presenting "Django"
 created: 1263467336
 author: yifat
-permalink: incubator/tce-tikal-community-event-27110-presenting-django
+permalink: /incubator/tce-tikal-community-event-27110-presenting-django
 tags:
 - Incubator
 ---

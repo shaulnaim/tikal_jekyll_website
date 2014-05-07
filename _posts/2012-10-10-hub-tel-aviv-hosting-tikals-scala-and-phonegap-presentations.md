@@ -3,7 +3,7 @@ layout: post
 title: 'Hub Tel Aviv hosting Tikal''s Scala and Phonegap presentations '
 created: 1349872390
 author: admin
-permalink: incubator/hub-tel-aviv-hosting-tikals-scala-and-phonegap-presentations
+permalink: /incubator/hub-tel-aviv-hosting-tikals-scala-and-phonegap-presentations
 tags:
 - Incubator
 - Scala

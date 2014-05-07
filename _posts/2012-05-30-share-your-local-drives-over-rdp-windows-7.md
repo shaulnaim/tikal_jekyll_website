@@ -3,7 +3,7 @@ layout: post
 title: Share your local drives over RDP - Windows 7
 created: 1338394544
 author: avit
-permalink: share-your-local-drives-over-rdp-windows-7
+permalink: /share-your-local-drives-over-rdp-windows-7
 tags:
 - RoR
 - web

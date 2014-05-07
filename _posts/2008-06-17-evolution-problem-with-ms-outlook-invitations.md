@@ -3,7 +3,7 @@ layout: post
 title: Evolution problem with MS-Outlook invitations
 created: 1213689780
 author: yanai
-permalink: evolution-problem-ms-outlook-invitations
+permalink: /evolution-problem-ms-outlook-invitations
 tags:
 - evolution
 - outlook

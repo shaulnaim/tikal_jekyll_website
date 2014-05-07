@@ -3,7 +3,7 @@ layout: post
 title: Summary of Ran Tavori's talk on NoSQL and Cassandra
 created: 1281371732
 author: udib
-permalink: summary-ran-tavoris-talk-nosql-and-cassandra
+permalink: /summary-ran-tavoris-talk-nosql-and-cassandra
 tags:
 - Databases
 - nosql

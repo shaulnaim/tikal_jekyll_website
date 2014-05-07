@@ -3,7 +3,7 @@ layout: post
 title: Bypassing the IE "onchange" bug with jQuery
 created: 1338394544
 author: avit
-permalink: bypassing-ie-onchange-bug-jquery
+permalink: /bypassing-ie-onchange-bug-jquery
 tags:
 - RoR
 - web

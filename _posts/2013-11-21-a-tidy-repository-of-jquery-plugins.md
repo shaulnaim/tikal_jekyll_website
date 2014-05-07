@@ -3,7 +3,7 @@ layout: post
 title: A Tidy Repository Of jQuery Plugins
 created: 1385053394
 author: orenf
-permalink: js/tidy-repository-jquery-plugins
+permalink: /js/tidy-repository-jquery-plugins
 tags:
 - JS
 - jQuery

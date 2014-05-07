@@ -3,7 +3,7 @@ layout: post
 title: Introduction to DevOps
 created: 1342640198
 author: miron
-permalink: introduction-devops
+permalink: /introduction-devops
 tags:
 - ALM
 - DevOps

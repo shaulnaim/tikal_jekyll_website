@@ -2,7 +2,7 @@
 layout: post
 title: Ant build file for a BIRT project
 created: 1219755213
-permalink: ant-build-file-birt-project
+permalink: /ant-build-file-birt-project
 tags:
 - Ant
 - birt

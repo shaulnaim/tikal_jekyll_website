@@ -3,7 +3,7 @@ layout: post
 title: Flash media server security hardening
 created: 1338394544
 author: avit
-permalink: flash-media-server-security-hardening
+permalink: /flash-media-server-security-hardening
 tags:
 - RoR
 - web

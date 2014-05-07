@@ -3,7 +3,7 @@ layout: post
 title: Bjarne Stroustrup–How Do We Write Good Code?
 created: 1328906971
 author: menny
-permalink: bjarne-stroustrup–how-do-we-write-good-code
+permalink: /bjarne-stroustrup–how-do-we-write-good-code
 ---
 <p>If that name does not mean anything to you than please see the nearest occupation consultant around. No seriously dude, you may not have heard that name since you are programming some kind of dynamic language, but still, man, go check. And in the meanwhile you should also check about <a href="http://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie</a>, who created the C programming language & was one of the creators of Unix. He passed away a week after Steve Jobs on Oct 2011 – That’s why his death didn’t get much attentions in the media as it should.
 <p><a href="http://en.wikipedia.org/wiki/Bjarne_Stroustrup">Bjarne Stroustrap</a> (the creator of <a href="http://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language">C++)</a> gives a great talk about KISS (keeping it simple stupid) and how we as programmers cause things to be over complicated and generics even if we don’t use them eventually and even if they cause us to write terrible greedy code.<br />

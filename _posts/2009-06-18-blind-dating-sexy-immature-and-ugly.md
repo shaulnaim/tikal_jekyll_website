@@ -3,7 +3,7 @@ layout: post
 title: 'blind dating: sexy, immature and ugly'
 created: 1245325270
 author: peterk
-permalink: java/blind-dating-sexy-immature-and-ugly
+permalink: /java/blind-dating-sexy-immature-and-ugly
 tags:
 - JAVA
 - java jfx jsf client flex

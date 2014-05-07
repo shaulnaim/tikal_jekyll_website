@@ -3,7 +3,7 @@ layout: post
 title: Groovy 2.0 released
 created: 1340920502
 author: ittayd
-permalink: groovy-20-released
+permalink: /groovy-20-released
 tags:
 - JAVA
 - Groovy

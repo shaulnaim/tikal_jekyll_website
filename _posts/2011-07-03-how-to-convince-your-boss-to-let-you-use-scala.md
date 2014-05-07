@@ -3,7 +3,7 @@ layout: post
 title: How to convince your boss to let you use Scala
 created: 1309691397
 author: ittayd
-permalink: incubator/how-convince-your-boss-let-you-use-scala
+permalink: /incubator/how-convince-your-boss-let-you-use-scala
 tags:
 - Incubator
 - Scala

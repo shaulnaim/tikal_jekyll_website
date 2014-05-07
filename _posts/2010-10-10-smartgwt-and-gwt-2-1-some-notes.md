@@ -3,7 +3,7 @@ layout: post
 title: SmartGWT and GWT 2.1 some notes
 created: 1286715202
 author: aviy
-permalink: java/smartgwt-and-gwt-21-some-notes
+permalink: /java/smartgwt-and-gwt-21-some-notes
 tags:
 - JAVA
 - gwt

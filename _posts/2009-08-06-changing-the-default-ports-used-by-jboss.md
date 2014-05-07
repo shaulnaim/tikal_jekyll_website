@@ -3,7 +3,7 @@ layout: post
 title: Changing the default ports used by JBoss
 created: 1249566663
 author: elad
-permalink: java/changing-default-ports-used-jboss
+permalink: /java/changing-default-ports-used-jboss
 tags:
 - JAVA
 - JBoss 4.x

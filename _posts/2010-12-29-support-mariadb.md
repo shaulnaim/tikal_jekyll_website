@@ -3,7 +3,7 @@ layout: post
 title: Support MariaDB
 created: 1293622566
 author: shalom
-permalink: alm/support-mariadb
+permalink: /alm/support-mariadb
 tags:
 - ALM
 - mariadb mysql database

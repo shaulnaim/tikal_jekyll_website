@@ -3,7 +3,7 @@ layout: post
 title: The Why and How Behind Listener-Based Dependency Injection
 created: 1207423200
 author: yanai
-permalink: java/why-and-how-behind-listener-based-dependency-injection
+permalink: /java/why-and-how-behind-listener-based-dependency-injection
 tags:
 - JAVA
 - Spring

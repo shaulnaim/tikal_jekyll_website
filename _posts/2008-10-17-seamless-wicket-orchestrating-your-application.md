@@ -3,7 +3,7 @@ layout: post
 title: ' Seamless Wicket: Orchestrating your application '
 created: 1224253822
 author: zvika
-permalink: java/seamless-wicket-orchestrating-your-application
+permalink: /java/seamless-wicket-orchestrating-your-application
 tags:
 - JAVA
 ---

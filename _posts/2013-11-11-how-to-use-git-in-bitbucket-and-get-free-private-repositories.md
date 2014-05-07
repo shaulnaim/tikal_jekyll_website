@@ -3,7 +3,7 @@ layout: post
 title: how to use git in bitbucket and get free private repositories
 created: 1384197731
 author: orenf
-permalink: how-use-git-bitbucket-and-get-free-private-repositories
+permalink: /how-use-git-bitbucket-and-get-free-private-repositories
 tags:
 - JS
 - git

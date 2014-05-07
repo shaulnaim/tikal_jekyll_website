@@ -3,7 +3,7 @@ layout: post
 title: Adobe Flash Builder 4 Beta 2 is out!!
 created: 1256301154
 author: sefi
-permalink: adobe-flash-builder-4-beta-2-out
+permalink: /adobe-flash-builder-4-beta-2-out
 tags:
 - gwt
 - flex

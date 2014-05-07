@@ -3,7 +3,7 @@ layout: post
 title: Java 8 Roadmap Unveiled
 created: 1334468892
 author: yanai
-permalink: java-8-roadmap-unveiled
+permalink: /java-8-roadmap-unveiled
 tags:
 - JAVA
 - Java 8

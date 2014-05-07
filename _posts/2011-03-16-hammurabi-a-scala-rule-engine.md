@@ -3,7 +3,7 @@ layout: post
 title: Hammurabi - A Scala rule engine
 created: 1300284715
 author: ittayd
-permalink: incubator/hammurabi-scala-rule-engine
+permalink: /incubator/hammurabi-scala-rule-engine
 tags:
 - Incubator
 - Scala

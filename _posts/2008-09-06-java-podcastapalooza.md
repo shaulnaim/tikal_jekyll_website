@@ -3,7 +3,7 @@ layout: post
 title: Java Podcastapalooza !
 created: 1220658613
 author: zvika
-permalink: java-podcastapalooza
+permalink: /java-podcastapalooza
 ---
 <br />
 <br />

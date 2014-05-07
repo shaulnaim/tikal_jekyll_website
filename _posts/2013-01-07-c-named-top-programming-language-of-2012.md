@@ -3,7 +3,7 @@ layout: post
 title: C# Named Top Programming Language of 2012
 created: 1357593818
 author: menny
-permalink: net/c-named-top-programming-language-2012
+permalink: /net/c-named-top-programming-language-2012
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart - String Encoding
 created: 1354569545
 author: oren.kleks
-permalink: java/java2dart-string-encoding
+permalink: /java/java2dart-string-encoding
 tags:
 - JAVA
 - JAVA DART Encoding UTF-16

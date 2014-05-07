@@ -3,7 +3,7 @@ layout: post
 title: Backbone.Safe – Local Storage Plugin for Backbone.js
 created: 1349300666
 author: orenf
-permalink: js/backbonesafe-–-local-storage-plugin-backbonejs
+permalink: /js/backbonesafe-–-local-storage-plugin-backbonejs
 tags:
 - JS
 ---

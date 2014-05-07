@@ -3,7 +3,7 @@ layout: post
 title: Scala on developerWorks
 created: 1244248808
 author: adi
-permalink: java/scala-developerworks
+permalink: /java/scala-developerworks
 tags:
 - JAVA
 - Scala

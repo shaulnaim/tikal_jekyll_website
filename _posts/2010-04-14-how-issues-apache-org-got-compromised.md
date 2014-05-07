@@ -3,7 +3,7 @@ layout: post
 title: how issues.apache.org got compromised
 created: 1271244066
 author: ittayd
-permalink: java/how-issuesapacheorg-got-compromised
+permalink: /java/how-issuesapacheorg-got-compromised
 tags:
 - JAVA
 - apache

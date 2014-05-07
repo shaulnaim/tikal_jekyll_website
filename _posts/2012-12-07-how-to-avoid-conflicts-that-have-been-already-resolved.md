@@ -3,7 +3,7 @@ layout: post
 title: How to avoid conflicts that have been already resolved?
 created: 1354888814
 author: dmitri
-permalink: incubator/how-avoid-conflicts-have-been-already-resolved
+permalink: /incubator/how-avoid-conflicts-have-been-already-resolved
 tags:
 - Incubator
 - git

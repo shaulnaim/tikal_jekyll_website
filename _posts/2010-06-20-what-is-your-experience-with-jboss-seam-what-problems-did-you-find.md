@@ -3,7 +3,7 @@ layout: post
 title: What is your experience with JBoss Seam? What problems did you find?
 created: 1277019682
 author: peterk
-permalink: java/what-your-experience-jboss-seam-what-problems-did-you-find
+permalink: /java/what-your-experience-jboss-seam-what-problems-did-you-find
 tags:
 - JAVA
 - SEAM JBOSS JAVA JSF GWT

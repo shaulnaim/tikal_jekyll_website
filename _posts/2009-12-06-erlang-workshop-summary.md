@@ -3,7 +3,7 @@ layout: post
 title: Erlang workshop summary
 created: 1260094932
 author: udib
-permalink: incubator/erlang-workshop-summary
+permalink: /incubator/erlang-workshop-summary
 tags:
 - Incubator
 - workshop

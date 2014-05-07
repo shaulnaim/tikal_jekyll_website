@@ -3,7 +3,7 @@ layout: post
 title: MongoDB , Spring and REST – Trio for JEE Dynamic Data Access.
 created: 1281555884
 author: yanai
-permalink: java/mongodb-spring-and-rest-–-trio-jee-dynamic-data-access
+permalink: /java/mongodb-spring-and-rest-–-trio-jee-dynamic-data-access
 tags:
 - JAVA
 - MongoDB Spring REST

@@ -3,7 +3,7 @@ layout: post
 title: What would you like see on coming JBug?
 created: 1225741865
 author: yanai
-permalink: java/what-would-you-see-coming-jbug
+permalink: /java/what-would-you-see-coming-jbug
 tags:
 - JAVA
 ---

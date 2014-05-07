@@ -3,7 +3,7 @@ layout: post
 title: Node.js Course
 created: 1351090847
 author: adi
-permalink: js/nodejs-course
+permalink: /js/nodejs-course
 tags:
 - JS
 - node.js

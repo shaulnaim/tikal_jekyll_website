@@ -3,7 +3,7 @@ layout: post
 title: Spring profiles and feature toggle
 created: 1324377429
 author: ittayd
-permalink: spring-profiles-and-feature-toggle
+permalink: /spring-profiles-and-feature-toggle
 tags:
 - JAVA
 - spring feature-toggle

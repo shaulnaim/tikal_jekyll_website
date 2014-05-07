@@ -2,7 +2,7 @@
 layout: post
 title: knowledge in SSO
 created: 1219740840
-permalink: java/knowledge-sso
+permalink: /java/knowledge-sso
 tags:
 - JAVA
 ---

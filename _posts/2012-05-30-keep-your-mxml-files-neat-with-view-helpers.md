@@ -3,7 +3,7 @@ layout: post
 title: Keep your mxml files neat with View Helpers
 created: 1338394544
 author: avit
-permalink: keep-your-mxml-files-neat-view-helpers
+permalink: /keep-your-mxml-files-neat-view-helpers
 tags:
 - RoR
 - web

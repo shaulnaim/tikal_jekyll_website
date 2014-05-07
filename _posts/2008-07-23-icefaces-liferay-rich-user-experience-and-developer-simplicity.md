@@ -3,7 +3,7 @@ layout: post
 title: ICEfaces + Liferay = Rich User Experience and Developer Simplicity
 created: 1216794600
 author: hila
-permalink: java/icefaces-liferay-rich-user-experience-and-developer-simplicity
+permalink: /java/icefaces-liferay-rich-user-experience-and-developer-simplicity
 tags:
 - JAVA
 - jsf

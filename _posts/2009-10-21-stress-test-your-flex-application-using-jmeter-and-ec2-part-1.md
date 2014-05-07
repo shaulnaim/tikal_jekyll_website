@@ -3,7 +3,7 @@ layout: post
 title: Stress test your Flex application using Jmeter and EC2 - Part 1
 created: 1256160953
 author: sefi
-permalink: js/stress-test-your-flex-application-using-jmeter-and-ec2-part-1
+permalink: /js/stress-test-your-flex-application-using-jmeter-and-ec2-part-1
 tags:
 - JS
 - Stress test

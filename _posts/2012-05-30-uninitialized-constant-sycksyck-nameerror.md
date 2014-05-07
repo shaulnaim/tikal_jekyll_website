@@ -3,7 +3,7 @@ layout: post
 title: Uninitialized constant Syck::Syck (NameError)
 created: 1338394544
 author: avit
-permalink: uninitialized-constant-sycksyck-nameerror
+permalink: /uninitialized-constant-sycksyck-nameerror
 tags:
 - RoR
 - web

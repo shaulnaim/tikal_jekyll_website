@@ -3,7 +3,7 @@ layout: post
 title: Microsoft opens up–but they where already open before
 created: 1338745162
 author: menny
-permalink: microsoft-opens-up–-they-where-already-open
+permalink: /microsoft-opens-up–-they-where-already-open
 tags:
 - .NET
 ---

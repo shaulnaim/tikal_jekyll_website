@@ -3,7 +3,7 @@ layout: post
 title: Monitoring Garbage Collector's time stamps using the GarbageCollectorMXBean
 created: 1251640286
 author: elad
-permalink: java/monitoring-garbage-collectors-time-stamps-using-garbagecollectormxbean
+permalink: /java/monitoring-garbage-collectors-time-stamps-using-garbagecollectormxbean
 tags:
 - JAVA
 - Garbage Collector

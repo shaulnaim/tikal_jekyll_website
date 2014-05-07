@@ -3,7 +3,7 @@ layout: post
 title: Boolean Algebra Internal DSL in Scala
 created: 1244572937
 author: adi
-permalink: java/boolean-algebra-internal-dsl-scala
+permalink: /java/boolean-algebra-internal-dsl-scala
 tags:
 - JAVA
 - Scala

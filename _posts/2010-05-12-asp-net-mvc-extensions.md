@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET MVC Extensions
 created: 1273662017
 author: igorz
-permalink: net/aspnet-mvc-extensions
+permalink: /net/aspnet-mvc-extensions
 tags:
 - .NET
 - ASP.NET MVC

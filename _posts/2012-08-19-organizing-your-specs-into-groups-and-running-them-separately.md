@@ -3,7 +3,7 @@ layout: post
 title: organizing your specs into groups and running them separately
 created: 1345380824
 author: avit
-permalink: ror/blog/organizing-your-specs-groups-and-running-them-separately
+permalink: /ror/blog/organizing-your-specs-groups-and-running-them-separately
 tags:
 - RoR
 ---

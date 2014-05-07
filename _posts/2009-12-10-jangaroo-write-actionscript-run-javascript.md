@@ -3,7 +3,7 @@ layout: post
 title: 'jangaroo: write actionscript, run javascript'
 created: 1260447064
 author: ittayd
-permalink: js/jangaroo-write-actionscript-run-javascript
+permalink: /js/jangaroo-write-actionscript-run-javascript
 tags:
 - JS
 ---

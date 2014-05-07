@@ -3,7 +3,7 @@ layout: post
 title: java.io.UnsupportedEncodingException problem & solution
 created: 1338394544
 author: avit
-permalink: javaiounsupportedencodingexception-problem-solution
+permalink: /javaiounsupportedencodingexception-problem-solution
 tags:
 - RoR
 - web

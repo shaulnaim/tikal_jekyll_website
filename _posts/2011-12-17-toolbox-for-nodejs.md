@@ -3,7 +3,7 @@ layout: post
 title: Toolbox for nodejs
 created: 1324139799
 author: orenf
-permalink: toolbox-nodejs
+permalink: /toolbox-nodejs
 tags:
 - JS
 - node.js

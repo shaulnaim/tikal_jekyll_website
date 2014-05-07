@@ -3,7 +3,7 @@ layout: post
 title: Flex SDK 4.1 and FlashBuilder 4.0.1 released
 created: 1277993072
 author: sefi
-permalink: flex-sdk-41-and-flashbuilder-401-released
+permalink: /flex-sdk-41-and-flashbuilder-401-released
 tags:
 - flex
 - gwt

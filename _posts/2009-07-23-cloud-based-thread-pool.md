@@ -3,7 +3,7 @@ layout: post
 title: Cloud-Based Thread Pool
 created: 1248375658
 author: yanai
-permalink: java/cloud-based-thread-pool
+permalink: /java/cloud-based-thread-pool
 tags:
 - JAVA
 - Grid Thread pool

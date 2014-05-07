@@ -3,7 +3,7 @@ layout: post
 title: summary of JavaEdge 2008
 created: 1229629033
 author: andrew
-permalink: java/summary-javaedge-2008
+permalink: /java/summary-javaedge-2008
 tags:
 - JAVA
 ---

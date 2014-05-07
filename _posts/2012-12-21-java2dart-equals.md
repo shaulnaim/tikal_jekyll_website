@@ -3,7 +3,7 @@ layout: post
 title: Java2Dart  Equals
 created: 1356094666
 author: oren.kleks
-permalink: java/java2dart-equals
+permalink: /java/java2dart-equals
 tags:
 - JAVA
 - java dart equals operator

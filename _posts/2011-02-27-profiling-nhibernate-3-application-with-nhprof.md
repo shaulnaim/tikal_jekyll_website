@@ -3,7 +3,7 @@ layout: post
 title: Profiling NHibernate 3 application with NHProf
 created: 1298803835
 author: igorz
-permalink: net/profiling-nhibernate-3-application-nhprof
+permalink: /net/profiling-nhibernate-3-application-nhprof
 tags:
 - .NET
 - NHProf

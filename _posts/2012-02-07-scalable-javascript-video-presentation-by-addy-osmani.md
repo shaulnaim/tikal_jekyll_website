@@ -3,7 +3,7 @@ layout: post
 title: Scalable Javascript - Video Presentation By Addy Osmani
 created: 1328600382
 author: orenf
-permalink: scalable-javascript-video-presentation-addy-osmani
+permalink: /scalable-javascript-video-presentation-addy-osmani
 tags:
 - JS
 - architecture

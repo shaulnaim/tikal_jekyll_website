@@ -3,7 +3,7 @@ layout: post
 title: Deploy reveal.js slideshow on github-pages
 created: 1383603607
 author: hagzag
-permalink: alm/deploy-revealjs-slideshow-github-pages
+permalink: /alm/deploy-revealjs-slideshow-github-pages
 tags:
 - ALM
 - reveal.js github github-pages git

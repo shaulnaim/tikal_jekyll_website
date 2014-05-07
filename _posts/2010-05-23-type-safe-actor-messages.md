@@ -3,7 +3,7 @@ layout: post
 title: Type safe actor messages
 created: 1274601030
 author: ittayd
-permalink: java/type-safe-actor-messages
+permalink: /java/type-safe-actor-messages
 tags:
 - JAVA
 - scala actors

@@ -3,7 +3,7 @@ layout: post
 title: Run Django applications on GlassFish
 created: 1244411959
 author: adi
-permalink: java/run-django-applications-glassfish
+permalink: /java/run-django-applications-glassfish
 tags:
 - JAVA
 - Django

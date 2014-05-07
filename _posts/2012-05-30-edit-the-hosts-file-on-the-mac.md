@@ -3,7 +3,7 @@ layout: post
 title: Edit the hosts file on the mac
 created: 1338394544
 author: avit
-permalink: edit-hosts-file-mac
+permalink: /edit-hosts-file-mac
 tags:
 - RoR
 - web

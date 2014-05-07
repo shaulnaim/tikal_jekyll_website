@@ -3,7 +3,7 @@ layout: post
 title: GWT ramblings of a Flex developer – CSS and Images
 created: 1329302665
 author: sefi
-permalink: gwt-ramblings-flex-developer-–-css-and-images
+permalink: /gwt-ramblings-flex-developer-–-css-and-images
 tags:
 - flex
 - gwt

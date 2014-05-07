@@ -3,7 +3,7 @@ layout: post
 title: Reactive Extensions (Rx) is now Open Source
 created: 1352650715
 author: menny
-permalink: net/reactive-extensions-rx-now-open-source
+permalink: /net/reactive-extensions-rx-now-open-source
 tags:
 - .NET
 ---

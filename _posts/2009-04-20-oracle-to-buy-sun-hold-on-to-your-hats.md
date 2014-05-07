@@ -3,7 +3,7 @@ layout: post
 title: Oracle To Buy Sun - Hold On To Your Hats
 created: 1240232217
 author: udid
-permalink: java/oracle-buy-sun-hold-your-hats
+permalink: /java/oracle-buy-sun-hold-your-hats
 tags:
 - JAVA
 - MySQL

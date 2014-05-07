@@ -3,7 +3,7 @@ layout: post
 title: A license distribution product
 created: 1254852112
 author: yanai
-permalink: java/license-distribution-product
+permalink: /java/license-distribution-product
 tags:
 - JAVA
 - license

@@ -3,7 +3,7 @@ layout: post
 title: 'A Fuse-day project story: LiveCast - a real-time, live and fun classroom '
 created: 1356597625
 author: avi.tshuva
-permalink: java/fuse-day-project-story-livecast-real-time-live-and-fun-classroom
+permalink: /java/fuse-day-project-story-livecast-real-time-live-and-fun-classroom
 tags:
 - JAVA
 - Fuse day

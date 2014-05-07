@@ -3,7 +3,7 @@ layout: post
 title: Elips impressions and hands-on event
 created: 1263505812
 author: sefi
-permalink: elips-impressions-and-hands-event
+permalink: /elips-impressions-and-hands-event
 tags:
 - gwt
 - flex

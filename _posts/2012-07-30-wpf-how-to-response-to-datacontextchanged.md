@@ -3,7 +3,7 @@ layout: post
 title: WPF - How to response to DataContextChanged?
 created: 1343651627
 author: ofir
-permalink: wpf-how-response-datacontextchanged
+permalink: /wpf-how-response-datacontextchanged
 tags:
 - .NET
 - .Net Open Source

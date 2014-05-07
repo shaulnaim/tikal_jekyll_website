@@ -3,7 +3,7 @@ layout: post
 title: JavaScript Module Pattern In Depth
 created: 1318404659
 author: orenf
-permalink: javascript-module-pattern-depth
+permalink: /javascript-module-pattern-depth
 tags:
 - JS
 ---

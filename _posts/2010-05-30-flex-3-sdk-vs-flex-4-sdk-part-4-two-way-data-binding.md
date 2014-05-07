@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 4 – Two-way data binding
 created: 1275253144
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk-–-part-4-–-two-way-data-binding
+permalink: /flex-3-sdk-vs-flex-4-sdk-–-part-4-–-two-way-data-binding
 tags:
 - flex
 - gwt

@@ -3,7 +3,7 @@ layout: post
 title: Working with Resque? perform_later is at 1.0, you should use it
 created: 1337693333
 author: avit
-permalink: working-resque-performlater-10-you-should-use-it
+permalink: /working-resque-performlater-10-you-should-use-it
 tags:
 - RoR
 - web

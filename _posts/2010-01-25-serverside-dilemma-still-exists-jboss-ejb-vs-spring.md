@@ -3,7 +3,7 @@ layout: post
 title: Serverside dilemma still exists - JBoss/EJB vs. Spring
 created: 1264456641
 author: lior.kanfi
-permalink: java/serverside-dilemma-still-exists-jbossejb-vs-spring
+permalink: /java/serverside-dilemma-still-exists-jbossejb-vs-spring
 tags:
 - JAVA
 - Spring JBoss EJB3

@@ -3,7 +3,7 @@ layout: post
 title: Tikal Multijob Plugin Official Version
 created: 1326799995
 author: roni
-permalink: java/tikal-multijob-plugin-official-version
+permalink: /java/tikal-multijob-plugin-official-version
 tags:
 - ALM
 - tikal

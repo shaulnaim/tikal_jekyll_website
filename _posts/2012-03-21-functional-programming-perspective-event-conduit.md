@@ -3,7 +3,7 @@ layout: post
 title: Functional programming perspective event @ Conduit
 created: 1332335562
 author: ittayd
-permalink: functional-programming-perspective-event-conduit
+permalink: /functional-programming-perspective-event-conduit
 tags:
 - JAVA
 ---

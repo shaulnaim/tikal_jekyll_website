@@ -3,7 +3,7 @@ layout: post
 title: The simplest Enum you will ever find for your ActiveRecord models
 created: 1336493377
 author: avit
-permalink: simplest-enum-you-will-ever-find-your-activerecord-models
+permalink: /simplest-enum-you-will-ever-find-your-activerecord-models
 tags:
 - RoR
 - web

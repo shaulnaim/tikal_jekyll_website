@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK
 created: 1271789617
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk
+permalink: /flex-3-sdk-vs-flex-4-sdk
 tags:
 - flex
 - gwt

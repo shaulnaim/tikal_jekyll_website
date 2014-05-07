@@ -3,7 +3,7 @@ layout: post
 title: Tikal's JavaScript & HTML5 workshop - October 2012
 created: 1348431373
 author: gabi
-permalink: events/tikals-javascript-html5-workshop-october-2012
+permalink: /events/tikals-javascript-html5-workshop-october-2012
 tags:
 - JS
 ---

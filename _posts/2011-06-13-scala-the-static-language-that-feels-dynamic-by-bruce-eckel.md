@@ -3,7 +3,7 @@ layout: post
 title: 'Scala: The Static Language that Feels Dynamic by Bruce Eckel'
 created: 1307938934
 author: ittayd
-permalink: incubator/scala-static-language-feels-dynamic-bruce-eckel
+permalink: /incubator/scala-static-language-feels-dynamic-bruce-eckel
 tags:
 - Incubator
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Mocking with Mockito. Introduction.
 created: 1301812410
 author: olga
-permalink: java/mocking-mockito-introduction
+permalink: /java/mocking-mockito-introduction
 tags:
 - JAVA
 ---

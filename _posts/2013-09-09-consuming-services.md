@@ -3,7 +3,7 @@ layout: post
 title: Consuming Services
 created: 1378734840
 author: oren
-permalink: consuming-services
+permalink: /consuming-services
 tags:
 - JS
 - AngularJS Service

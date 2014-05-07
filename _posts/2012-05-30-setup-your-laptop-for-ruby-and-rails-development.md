@@ -3,7 +3,7 @@ layout: post
 title: Setup your laptop for Ruby and Rails development
 created: 1338394544
 author: avit
-permalink: setup-your-laptop-ruby-and-rails-development
+permalink: /setup-your-laptop-ruby-and-rails-development
 tags:
 - RoR
 - web

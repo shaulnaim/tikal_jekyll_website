@@ -3,7 +3,7 @@ layout: post
 title: Java Performance Tuning
 created: 1218382074
 author: zvika
-permalink: java/java-performance-tuning
+permalink: /java/java-performance-tuning
 tags:
 - JAVA
 ---

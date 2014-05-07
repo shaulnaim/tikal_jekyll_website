@@ -3,7 +3,7 @@ layout: post
 title: Is AngularJS testing mocking you? Why, yes, it is!
 created: 1379256350
 author: robert
-permalink: js/angularjs-testing-mocking-you-why-yes-it
+permalink: /js/angularjs-testing-mocking-you-why-yes-it
 tags:
 - JS
 - AngularJS AngularJS-Service Testing

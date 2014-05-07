@@ -3,7 +3,7 @@ layout: post
 title: Rod Johnson on Sun Aqcuisition by Oracle
 created: 1240294151
 author: zvika
-permalink: rod-johnson-sun-aqcuisition-oracle
+permalink: /rod-johnson-sun-aqcuisition-oracle
 tags:
 - Databases
 - sun

@@ -3,7 +3,7 @@ layout: post
 title: Dot.Net group meeting - NAnt - A .NET Buid Tool
 created: 1274860043
 author: igorz
-permalink: net/dotnet-group-meeting-nant-net-buid-tool
+permalink: /net/dotnet-group-meeting-nant-net-buid-tool
 tags:
 - .NET
 - .Net Open Source

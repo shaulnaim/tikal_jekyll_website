@@ -3,7 +3,7 @@ layout: post
 title: Decorating Devise’s current_user with Draper – Ariejan.net
 created: 1334482473
 author: avit
-permalink: decorating-devise’s-currentuser-draper-–-ariejannet
+permalink: /decorating-devise’s-currentuser-draper-–-ariejannet
 tags:
 - RoR
 - ruby

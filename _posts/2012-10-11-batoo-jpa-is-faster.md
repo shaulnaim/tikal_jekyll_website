@@ -3,7 +3,7 @@ layout: post
 title: Batoo JPA is Faster...
 created: 1349962283
 author: adi
-permalink: java/batoo-jpa-faster
+permalink: /java/batoo-jpa-faster
 tags:
 - JAVA
 - JPA

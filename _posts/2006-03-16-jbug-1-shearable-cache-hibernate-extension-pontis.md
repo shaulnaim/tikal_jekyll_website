@@ -3,7 +3,7 @@ layout: post
 title: JBUG 1 - Shearable Cache Hibernate Extension @Pontis
 created: 1142492400
 author: zvika
-permalink: java/jbug-1-shearable-cache-hibernate-extension-pontis
+permalink: /java/jbug-1-shearable-cache-hibernate-extension-pontis
 tags:
 - JAVA
 - jboss hibernate cache

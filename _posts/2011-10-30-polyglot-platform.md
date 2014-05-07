@@ -3,7 +3,7 @@ layout: post
 title: Polyglot Platform
 created: 1319960560
 author: lior.kanfi
-permalink: polyglot-platform
+permalink: /polyglot-platform
 tags:
 - Incubator
 - ruby

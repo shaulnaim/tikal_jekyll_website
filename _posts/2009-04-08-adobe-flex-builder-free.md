@@ -3,7 +3,7 @@ layout: post
 title: Adobe Flex builder free!
 created: 1239165601
 author: sefi
-permalink: adobe-flex-builder-free
+permalink: /adobe-flex-builder-free
 tags:
 - gwt
 - flex

@@ -3,7 +3,7 @@ layout: post
 title: Managing Your DB Changes
 created: 1320579539
 author: yanai
-permalink: managing-your-db-changes
+permalink: /managing-your-db-changes
 tags:
 - JAVA
 - DB Migration Change management

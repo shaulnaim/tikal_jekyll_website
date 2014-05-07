@@ -3,7 +3,7 @@ layout: post
 title: Java @Entity classes to Entity Rekationship Diagram tool?
 created: 1252161047
 author: zvika
-permalink: java/java-entity-classes-entity-rekationship-diagram-tool
+permalink: /java/java-entity-classes-entity-rekationship-diagram-tool
 tags:
 - JAVA
 - Databases

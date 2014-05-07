@@ -3,7 +3,7 @@ layout: post
 title: Your first JEE6 project with EJB Light , JPA 2.0, and JSF 2.0 on JBossAS 6
 created: 1268333719
 author: yanai
-permalink: java/your-first-jee6-project-ejb-light-jpa-20-and-jsf-20-jbossas-6
+permalink: /java/your-first-jee6-project-ejb-light-jpa-20-and-jsf-20-jbossas-6
 tags:
 - JAVA
 - JEE6 EJB3.1 JPA2.0 JSF2.0

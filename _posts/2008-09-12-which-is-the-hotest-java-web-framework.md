@@ -2,7 +2,7 @@
 layout: post
 title: Which is the Hotest Java Web Framework?
 created: 1221168161
-permalink: java/which-hotest-java-web-framework
+permalink: /java/which-hotest-java-web-framework
 tags:
 - JAVA
 ---

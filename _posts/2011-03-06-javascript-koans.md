@@ -3,7 +3,7 @@ layout: post
 title: JavaScript-Koans
 created: 1299410233
 author: igorz
-permalink: net/javascript-koans
+permalink: /net/javascript-koans
 tags:
 - .NET
 - .Net Open Source

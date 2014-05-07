@@ -3,7 +3,7 @@ layout: post
 title: Academic Java vs Scala study
 created: 1347184882
 author: adi
-permalink: academic-java-vs-scala-study
+permalink: /academic-java-vs-scala-study
 tags:
 - Incubator
 - Scala

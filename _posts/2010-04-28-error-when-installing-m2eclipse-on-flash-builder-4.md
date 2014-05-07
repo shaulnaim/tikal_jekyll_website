@@ -3,7 +3,7 @@ layout: post
 title: Error when installing m2eclipse on Flash Builder 4
 created: 1272486180
 author: liorb
-permalink: error-when-installing-m2eclipse-flash-builder-4
+permalink: /error-when-installing-m2eclipse-flash-builder-4
 tags:
 - Flex Java
 ---

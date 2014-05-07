@@ -3,7 +3,7 @@ layout: post
 title: Pick a License, Any License
 created: 1266195567
 author: udid
-permalink: java/pick-license-any-license
+permalink: /java/pick-license-any-license
 tags:
 - JAVA
 - Open Source

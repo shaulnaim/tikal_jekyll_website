@@ -3,7 +3,7 @@ layout: post
 title: JBUG 11 ideas for sessions
 created: 1238660806
 author: zvika
-permalink: java/jbug-11-ideas-sessions
+permalink: /java/jbug-11-ideas-sessions
 tags:
 - JAVA
 ---

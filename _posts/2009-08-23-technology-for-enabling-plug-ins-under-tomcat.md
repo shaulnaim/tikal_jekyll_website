@@ -3,7 +3,7 @@ layout: post
 title: Technology for enabling Plug-ins under Tomcat
 created: 1251030631
 author: zvika
-permalink: java/technology-enabling-plug-ins-under-tomcat
+permalink: /java/technology-enabling-plug-ins-under-tomcat
 tags:
 - JAVA
 - OSGi

@@ -3,7 +3,7 @@ layout: post
 title: Introducing Dynamic favicons in JSF applications
 created: 1216795860
 author: hila
-permalink: java/introducing-dynamic-favicons-jsf-applications
+permalink: /java/introducing-dynamic-favicons-jsf-applications
 tags:
 - JAVA
 ---

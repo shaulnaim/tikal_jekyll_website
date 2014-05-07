@@ -3,7 +3,7 @@ layout: post
 title: Understanding Form Validation in AngularJS
 created: 1395618801
 author: liorb
-permalink: understanding-form-validation-angularjs
+permalink: /understanding-form-validation-angularjs
 tags:
 - JS
 - AngularJS ngModel

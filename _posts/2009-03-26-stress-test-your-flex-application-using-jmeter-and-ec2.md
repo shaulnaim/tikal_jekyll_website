@@ -3,7 +3,7 @@ layout: post
 title: Stress test your Flex application using Jmeter and EC2
 created: 1238065270
 author: sefi
-permalink: stress-test-your-flex-application-using-jmeter-and-ec2
+permalink: /stress-test-your-flex-application-using-jmeter-and-ec2
 tags:
 - gwt
 - flex

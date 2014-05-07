@@ -3,7 +3,7 @@ layout: post
 title: Accessing Google Analytics From Java
 created: 1244669457
 author: zvika
-permalink: java/accessing-google-analytics-java
+permalink: /java/accessing-google-analytics-java
 tags:
 - JAVA
 - Google Analytics

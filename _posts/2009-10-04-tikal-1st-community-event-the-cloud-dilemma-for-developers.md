@@ -3,7 +3,7 @@ layout: post
 title: Tikal 1st Community Event - The Cloud Dilemma for Developers
 created: 1254646968
 author: yanai
-permalink: java/tikal-1st-community-event-cloud-dilemma-developers
+permalink: /java/tikal-1st-community-event-cloud-dilemma-developers
 tags:
 - JAVA
 - Tikal Event Cloud computing

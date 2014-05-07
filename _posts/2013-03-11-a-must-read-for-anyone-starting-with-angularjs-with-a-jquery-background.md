@@ -3,7 +3,7 @@ layout: post
 title: A MUST READ for anyone starting with AngularJS with a JQuery background
 created: 1363017882
 author: assafg
-permalink: js/must-read-anyone-starting-angularjs-jquery-background
+permalink: /js/must-read-anyone-starting-angularjs-jquery-background
 tags:
 - JS
 - jQuery

@@ -3,7 +3,7 @@ layout: post
 title: Android development video tutorials
 created: 1324633568
 author: ittayd
-permalink: android-development-video-tutorials
+permalink: /android-development-video-tutorials
 tags:
 - Incubator
 - Android

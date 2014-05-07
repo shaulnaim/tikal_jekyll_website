@@ -3,7 +3,7 @@ layout: post
 title: '''Blink''- open source rendering engine by Google for Chromium'
 created: 1365053858
 author: orenf
-permalink: js/blink-open-source-rendering-engine-google-chromium
+permalink: /js/blink-open-source-rendering-engine-google-chromium
 tags:
 - JS
 - browser

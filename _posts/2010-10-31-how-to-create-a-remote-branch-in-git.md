@@ -3,7 +3,7 @@ layout: post
 title: How to create a remote branch in git
 created: 1288550597
 author: shalom
-permalink: alm/how-create-remote-branch-git
+permalink: /alm/how-create-remote-branch-git
 tags:
 - ALM
 - git branch

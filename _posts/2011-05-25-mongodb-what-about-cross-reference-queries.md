@@ -3,7 +3,7 @@ layout: post
 title: MongoDB – What about cross reference queries ?
 created: 1306325612
 author: yanai
-permalink: java/mongodb-–-what-about-cross-reference-queries
+permalink: /java/mongodb-–-what-about-cross-reference-queries
 tags:
 - JAVA
 - MongoDB NoSQL Join limitation

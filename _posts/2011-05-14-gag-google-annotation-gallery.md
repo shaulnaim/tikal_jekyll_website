@@ -3,7 +3,7 @@ layout: post
 title: gag - Google Annotation Gallery
 created: 1305396105
 author: ittayd
-permalink: java/gag-google-annotation-gallery
+permalink: /java/gag-google-annotation-gallery
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Ajeer- Eclipse plugin - does anyone know how to work with it?
 created: 1228221970
 author: keren
-permalink: java/ajeer-eclipse-plugin-does-anyone-know-how-work-it
+permalink: /java/ajeer-eclipse-plugin-does-anyone-know-how-work-it
 tags:
 - JAVA
 ---

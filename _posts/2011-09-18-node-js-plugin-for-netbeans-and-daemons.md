@@ -3,7 +3,7 @@ layout: post
 title: Node.js plugin for NetBeans and daemons
 created: 1316358987
 author: andrew
-permalink: nodejs-plugin-netbeans-and-daemons
+permalink: /nodejs-plugin-netbeans-and-daemons
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Hibernate OGM
 created: 1308481046
 author: ittayd
-permalink: java/hibernate-ogm
+permalink: /java/hibernate-ogm
 tags:
 - JAVA
 - ogm

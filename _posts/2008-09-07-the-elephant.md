@@ -3,7 +3,7 @@ layout: post
 title: The Elephant
 created: 1220737381
 author: admin
-permalink: java/elephant
+permalink: /java/elephant
 tags:
 - JAVA
 ---

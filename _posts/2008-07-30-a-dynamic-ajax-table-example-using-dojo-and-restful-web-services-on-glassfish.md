@@ -3,7 +3,7 @@ layout: post
 title: a Dynamic Ajax table example using dojo and RESTful Web Services on Glassfish
 created: 1217379420
 author: zvika
-permalink: java/dynamic-ajax-table-example-using-dojo-and-restful-web-services-glassfish
+permalink: /java/dynamic-ajax-table-example-using-dojo-and-restful-web-services-glassfish
 tags:
 - JAVA
 - dojo

@@ -3,7 +3,7 @@ layout: post
 title: project lombok - spice up your java
 created: 1249345484
 author: ittayd
-permalink: java/project-lombok-spice-your-java
+permalink: /java/project-lombok-spice-your-java
 tags:
 - JAVA
 ---

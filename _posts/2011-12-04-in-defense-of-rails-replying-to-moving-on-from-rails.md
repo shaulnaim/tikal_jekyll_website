@@ -3,7 +3,7 @@ layout: post
 title: In defense of Rails / replying to "moving on from rails"
 created: 1322991038
 author: dor
-permalink: defense-rails-replying-moving-rails
+permalink: /defense-rails-replying-moving-rails
 tags:
 - RoR
 - ruby

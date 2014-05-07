@@ -4,7 +4,7 @@ title: 'Recommending Hudson-CI - from PyCon 2010 =>Why not run all your tests al
   the time? A study of continuous integration systems - '
 created: 1267076061
 author: hagzag
-permalink: incubator/recommending-hudson-ci-pycon-2010-why-not-run-all-your-tests-all-time-study-continuous
+permalink: /incubator/recommending-hudson-ci-pycon-2010-why-not-run-all-your-tests-all-time-study-continuous
 tags:
 - Incubator
 - Python

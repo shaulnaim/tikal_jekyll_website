@@ -3,7 +3,7 @@ layout: post
 title: Apache FTP Client - abort transfer
 created: 1276100367
 author: admin
-permalink: java/forums/apache-ftp-client-abort-transfer
+permalink: /java/forums/apache-ftp-client-abort-transfer
 tags:
 - JAVA
 ---

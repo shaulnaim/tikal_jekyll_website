@@ -3,7 +3,7 @@ layout: post
 title: Initial talks about Java 9
 created: 1300988064
 author: ittayd
-permalink: java/initial-talks-about-java-9
+permalink: /java/initial-talks-about-java-9
 tags:
 - JAVA
 ---

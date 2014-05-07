@@ -3,7 +3,7 @@ layout: post
 title: using the site's editor
 created: 1269010759
 author: admin
-permalink: using-sites-editor
+permalink: /using-sites-editor
 tags:
 - fckeditor
 ---

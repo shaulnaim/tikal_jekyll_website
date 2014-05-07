@@ -3,7 +3,7 @@ layout: post
 title: Hudson Checking out "sticky revision" - any suggestions?
 created: 1253725357
 author: hagzag
-permalink: alm/hudson-checking-out-sticky-revision-any-suggestions
+permalink: /alm/hudson-checking-out-sticky-revision-any-suggestions
 tags:
 - ALM
 - Continuous Integration

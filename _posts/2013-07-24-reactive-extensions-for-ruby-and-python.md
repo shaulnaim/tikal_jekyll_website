@@ -3,7 +3,7 @@ layout: post
 title: Reactive Extensions for Ruby and Python
 created: 1374644355
 author: menny
-permalink: reactive-extensions-ruby-and-python
+permalink: /reactive-extensions-ruby-and-python
 tags:
 - RoR
 - ruby

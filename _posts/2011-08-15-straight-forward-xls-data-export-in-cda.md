@@ -3,7 +3,7 @@ layout: post
 title: Straight-forward XLS data export in CDA
 created: 1313435475
 author: udid
-permalink: straight-forward-xls-data-export-cda
+permalink: /straight-forward-xls-data-export-cda
 tags:
 - Pentaho
 - OSBI

@@ -3,7 +3,7 @@ layout: post
 title: Windows Store now open to developers from 120 different markets!
 created: 1348045426
 author: menny
-permalink: net/windows-store-now-open-developers-120-different-markets
+permalink: /net/windows-store-now-open-developers-120-different-markets
 tags:
 - .NET
 ---

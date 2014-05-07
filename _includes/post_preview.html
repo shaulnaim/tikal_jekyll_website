@@ -1,6 +1,6 @@
 <div class="views-row">
   <div class="views-field views-field-title">
-    <span class="field-content"><a href="{{url_root}}/{{post.permalink}}">{{ post.title }}</a></span>  
+    <span class="field-content"><a href="{{ post.permalink | to_baseurl }}">{{ post.title }}</a></span>  
   </div>
   <div class="views-field views-field-uid">    
     <span class="views-label views-label-uid">by</span>
@@ -11,7 +11,7 @@
     <span class="field-content">
       <div class="tags">
         {% for tag in post.tags %}
-          <a href="/tags/{{ tag | replace: ' ', '-' }}" class="active">{{ tag }}</a>
+          <a href="{{ tag | replace: ' ', '-' | prepend: '/tags/' | to_baseurl }}" class="active">{{ tag }}</a>
         {% endfor %}
       </div>
     </span>
@@ -33,6 +33,6 @@
     </div>
   </div>
   <div class="views-field views-field-view-node">
-    <span class="field-content"><a href="{{ url_root }}/{{ post.permalink }}">Read More »</a></span>  
+    <span class="field-content"><a href="{{ post.permalink | to_baseurl }}">Read More »</a></span>  
   </div>
 </div>

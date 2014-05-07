@@ -3,7 +3,7 @@ layout: post
 title: Eclipse Basic RCP Training
 created: 1221111945
 author: lior.kanfi
-permalink: java/eclipse-basic-rcp-training
+permalink: /java/eclipse-basic-rcp-training
 tags:
 - JAVA
 - Eclipse RCP SWT

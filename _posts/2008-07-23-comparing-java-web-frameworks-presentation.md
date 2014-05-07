@@ -3,7 +3,7 @@ layout: post
 title: 'Comparing Java Web Frameworks Presentation '
 created: 1216796460
 author: hila
-permalink: java/comparing-java-web-frameworks-presentation
+permalink: /java/comparing-java-web-frameworks-presentation
 tags:
 - JAVA
 - jsf

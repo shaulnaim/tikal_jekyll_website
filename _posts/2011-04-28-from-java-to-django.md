@@ -3,7 +3,7 @@ layout: post
 title: From Java to Django
 created: 1304020981
 author: dmitri
-permalink: incubator/java-django
+permalink: /incubator/java-django
 tags:
 - Incubator
 - Django

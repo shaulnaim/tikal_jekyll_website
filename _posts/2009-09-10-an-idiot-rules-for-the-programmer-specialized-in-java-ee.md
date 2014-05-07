@@ -3,7 +3,7 @@ layout: post
 title: An idiot rules for the programmer specialized in java/ee
 created: 1252592719
 author: peterk
-permalink: java/idiot-rules-programmer-specialized-javaee
+permalink: /java/idiot-rules-programmer-specialized-javaee
 tags:
 - JAVA
 - java application design

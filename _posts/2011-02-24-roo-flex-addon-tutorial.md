@@ -3,7 +3,7 @@ layout: post
 title: Roo Flex Addon Tutorial
 created: 1298574060
 author: liorb
-permalink: roo-flex-addon-tutorial
+permalink: /roo-flex-addon-tutorial
 tags:
 - Flex Java
 ---

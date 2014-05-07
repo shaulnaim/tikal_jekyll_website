@@ -3,7 +3,7 @@ layout: post
 title: Add new website IIS 7 (Vista)
 created: 1338394544
 author: avit
-permalink: add-new-website-iis-7-vista
+permalink: /add-new-website-iis-7-vista
 tags:
 - RoR
 - web

@@ -4,7 +4,7 @@ title: Front loaded estimation is selling your stakeholder a lie – The Hashroc
   Blog
 created: 1337004370
 author: avit
-permalink: front-loaded-estimation-selling-your-stakeholder-lie-–-hashrocket-blog
+permalink: /front-loaded-estimation-selling-your-stakeholder-lie-–-hashrocket-blog
 tags:
 - RoR
 - web

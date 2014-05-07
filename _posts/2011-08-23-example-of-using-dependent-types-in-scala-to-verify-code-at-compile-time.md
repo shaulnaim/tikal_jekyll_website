@@ -3,7 +3,7 @@ layout: post
 title: Example of using dependent types in Scala to verify code at compile time
 created: 1314096039
 author: ittayd
-permalink: example-using-dependent-types-scala-verify-code-compile-time
+permalink: /example-using-dependent-types-scala-verify-code-compile-time
 tags:
 - Incubator
 - Scala

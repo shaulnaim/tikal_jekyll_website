@@ -3,7 +3,7 @@ layout: post
 title: ALT.NET Israel Autumn 2010
 created: 1280996261
 author: igorz
-permalink: net/altnet-israel-autumn-2010
+permalink: /net/altnet-israel-autumn-2010
 tags:
 - .NET
 - .Net Open Source

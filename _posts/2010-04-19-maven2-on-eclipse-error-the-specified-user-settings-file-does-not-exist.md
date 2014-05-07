@@ -3,7 +3,7 @@ layout: post
 title: Maven2 on Eclipse Error - The specified user settings file does not exist
 created: 1271627100
 author: liorb
-permalink: maven2-eclipse-error-specified-user-settings-file-does-not-exist
+permalink: /maven2-eclipse-error-specified-user-settings-file-does-not-exist
 tags:
 - Flex Java
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Install Membase 1.6.5.3 on Amazon EC2 and configure it on EBS.
 created: 1338394544
 author: avit
-permalink: install-membase-1653-amazon-ec2-and-configure-it-ebs
+permalink: /install-membase-1653-amazon-ec2-and-configure-it-ebs
 tags:
 - RoR
 - web

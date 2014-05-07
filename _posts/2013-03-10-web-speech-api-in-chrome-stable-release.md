@@ -3,7 +3,7 @@ layout: post
 title: Web Speech API in Chrome stable release
 created: 1362916447
 author: assafg
-permalink: js/web-speech-api-chrome-stable-release
+permalink: /js/web-speech-api-chrome-stable-release
 tags:
 - JS
 - html5 javascript

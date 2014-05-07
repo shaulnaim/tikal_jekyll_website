@@ -3,7 +3,7 @@ layout: post
 title: Prism for Windows 8 Apps
 created: 1356028037
 author: menny
-permalink: net/prism-windows-8-apps
+permalink: /net/prism-windows-8-apps
 tags:
 - .NET
 ---

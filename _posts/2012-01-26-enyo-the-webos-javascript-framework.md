@@ -3,7 +3,7 @@ layout: post
 title: Enyo - the WebOs javascript framework
 created: 1327551807
 author: ittayd
-permalink: enyo-webos-javascript-framework
+permalink: /enyo-webos-javascript-framework
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Google Analytics - Asynchronous Tracking is almost here
 created: 1260738242
 author: hagzag
-permalink: java/google-analytics-asynchronous-tracking-almost-here
+permalink: /java/google-analytics-asynchronous-tracking-almost-here
 tags:
 - JAVA
 - Google Analytics

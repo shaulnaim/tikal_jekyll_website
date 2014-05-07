@@ -3,7 +3,7 @@ layout: post
 title: CSS documentation style guide with a Ruby compiler
 created: 1323155064
 author: orenf
-permalink: css-documentation-style-guide-ruby-compiler
+permalink: /css-documentation-style-guide-ruby-compiler
 tags:
 - Incubator
 - css

@@ -3,7 +3,7 @@ layout: post
 title: Load a tree with JPA and Hibernate
 created: 1285497315
 author: yanai
-permalink: java/load-tree-jpa-and-hibernate
+permalink: /java/load-tree-jpa-and-hibernate
 tags:
 - JAVA
 - Tree JPA Hibernate

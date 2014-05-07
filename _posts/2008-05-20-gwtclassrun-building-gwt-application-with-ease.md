@@ -3,7 +3,7 @@ layout: post
 title: gwtClassRun - Building GWT application with ease
 created: 1211285100
 author: zvika
-permalink: java/gwtclassrun-building-gwt-application-ease
+permalink: /java/gwtclassrun-building-gwt-application-ease
 tags:
 - JAVA
 ---

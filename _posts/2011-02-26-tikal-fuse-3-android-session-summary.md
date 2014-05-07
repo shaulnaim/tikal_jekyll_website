@@ -3,7 +3,7 @@ layout: post
 title: 'Tikal Fuse #3 - Android session summary'
 created: 1298700288
 author: ittayd
-permalink: incubator/tikal-fuse-3-android-session-summary
+permalink: /incubator/tikal-fuse-3-android-session-summary
 tags:
 - Incubator
 - android fuse

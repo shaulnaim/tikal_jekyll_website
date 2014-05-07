@@ -3,7 +3,7 @@ layout: post
 title: Enterprise Scheduler
 created: 1244757375
 author: lior.kanfi
-permalink: java/enterprise-scheduler
+permalink: /java/enterprise-scheduler
 tags:
 - JAVA
 - Scheduler Java .Net

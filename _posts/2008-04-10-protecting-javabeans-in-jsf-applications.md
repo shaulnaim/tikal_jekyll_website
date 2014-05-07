@@ -3,7 +3,7 @@ layout: post
 title: Protecting JavaBeans in JSF applications
 created: 1207819680
 author: hila
-permalink: java/protecting-javabeans-jsf-applications
+permalink: /java/protecting-javabeans-jsf-applications
 tags:
 - JAVA
 ---

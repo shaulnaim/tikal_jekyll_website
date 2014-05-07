@@ -3,7 +3,7 @@ layout: post
 title: Do you wanna work for Google or Microsoft?
 created: 1331799240
 author: menny
-permalink: do-you-wanna-work-google-or-microsoft
+permalink: /do-you-wanna-work-google-or-microsoft
 tags:
 - .NET
 ---

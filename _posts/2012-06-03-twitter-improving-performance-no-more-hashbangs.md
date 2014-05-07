@@ -3,7 +3,7 @@ layout: post
 title: 'Twitter Improving performance (no more Hashbangs #!)'
 created: 1338743367
 author: menny
-permalink: twitter-improving-performance-no-more-hashbangs
+permalink: /twitter-improving-performance-no-more-hashbangs
 tags:
 - .NET
 ---

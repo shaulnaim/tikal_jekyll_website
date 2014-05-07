@@ -3,7 +3,7 @@ layout: post
 title: Extending AIR for Android
 created: 1312291500
 author: sefi
-permalink: extending-air-android
+permalink: /extending-air-android
 tags:
 - gwt
 - flex

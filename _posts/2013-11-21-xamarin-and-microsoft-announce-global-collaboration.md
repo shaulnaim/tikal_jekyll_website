@@ -3,7 +3,7 @@ layout: post
 title: Xamarin and Microsoft Announce Global Collaboration
 created: 1385020995
 author: menny
-permalink: net/xamarin-and-microsoft-announce-global-collaboration
+permalink: /net/xamarin-and-microsoft-announce-global-collaboration
 tags:
 - .NET
 - HTML 5

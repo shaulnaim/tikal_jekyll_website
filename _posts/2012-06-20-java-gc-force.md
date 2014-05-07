@@ -3,7 +3,7 @@ layout: post
 title: Java gc force
 created: 1340187186
 author: chaim.turkel
-permalink: java/blog/java-gc-force-0
+permalink: /java/blog/java-gc-force-0
 tags:
 - JAVA
 ---

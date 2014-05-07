@@ -3,7 +3,7 @@ layout: post
 title: New in Flex 4 – Part 1 – States
 created: 1258009176
 author: sefi
-permalink: new-flex-4-–-part-1-–-states
+permalink: /new-flex-4-–-part-1-–-states
 tags:
 - gwt
 - flex

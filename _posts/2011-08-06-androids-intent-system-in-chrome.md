@@ -3,7 +3,7 @@ layout: post
 title: android's intent system in chrome
 created: 1312620004
 author: ittayd
-permalink: androids-intent-system-chrome
+permalink: /androids-intent-system-chrome
 tags:
 - Incubator
 - web

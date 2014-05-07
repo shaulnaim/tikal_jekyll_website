@@ -3,7 +3,7 @@ layout: post
 title: '“Seek” adds faceted browsing features to Mozilla Thunderbird '
 created: 1226909203
 author: ittayd
-permalink: “seek”-adds-faceted-browsing-features-mozilla-thunderbird
+permalink: /“seek”-adds-faceted-browsing-features-mozilla-thunderbird
 tags:
 - thunderbird extension seek
 ---

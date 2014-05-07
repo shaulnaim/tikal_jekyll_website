@@ -3,7 +3,7 @@ layout: post
 title: Pointless.js
 created: 1364045132
 author: adi
-permalink: js/pointlessjs
+permalink: /js/pointlessjs
 tags:
 - JS
 - backbone.js

@@ -3,7 +3,7 @@ layout: post
 title: Java Group Meeting
 created: 1286115582
 author: zvika
-permalink: java/java-group-meeting
+permalink: /java/java-group-meeting
 tags:
 - JAVA
 ---

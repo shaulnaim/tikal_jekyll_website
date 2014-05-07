@@ -3,7 +3,7 @@ layout: post
 title: Solving the java.net.BindException exception when starting JBoss
 created: 1249316775
 author: elad
-permalink: java/solving-javanetbindexception-exception-when-starting-jboss
+permalink: /java/solving-javanetbindexception-exception-when-starting-jboss
 tags:
 - JAVA
 - JVM_Bind

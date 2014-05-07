@@ -3,7 +3,7 @@ layout: post
 title: Flex compilation using mxmlc in a for loop in a windows batch script
 created: 1381154906
 author: gil
-permalink: alm/flex-compilation-using-mxmlc-loop-windows-batch-script
+permalink: /alm/flex-compilation-using-mxmlc-loop-windows-batch-script
 tags:
 - ALM
 - ALM

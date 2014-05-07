@@ -3,7 +3,7 @@ layout: post
 title: Hibernate - the @Any annotation
 created: 1222110119
 author: yanai
-permalink: java/hibernate-any-annotation
+permalink: /java/hibernate-any-annotation
 tags:
 - JAVA
 - Hibernate

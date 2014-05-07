@@ -3,7 +3,7 @@ layout: post
 title: Introducing... Arduino
 created: 1295378301
 author: zvika
-permalink: java/introducing-arduino
+permalink: /java/introducing-arduino
 tags:
 - JAVA
 ---

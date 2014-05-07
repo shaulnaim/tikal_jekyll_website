@@ -3,7 +3,7 @@ layout: post
 title: Veracity - a new dvcs
 created: 1303936587
 author: ittayd
-permalink: alm/veracity-new-dvcs
+permalink: /alm/veracity-new-dvcs
 tags:
 - ALM
 - veracity

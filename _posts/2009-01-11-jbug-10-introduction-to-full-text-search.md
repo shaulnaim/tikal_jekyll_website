@@ -3,7 +3,7 @@ layout: post
 title: JBUG 10 - Introduction to Full Text Search
 created: 1231699032
 author: adi
-permalink: java/jbug-10-introduction-full-text-search
+permalink: /java/jbug-10-introduction-full-text-search
 tags:
 - JAVA
 - Hibernate

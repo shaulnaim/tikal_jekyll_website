@@ -4,7 +4,7 @@ title: '"Why Scala: An Introduction to what could be Java''s successor" (Scala T
   17.5.11)'
 created: 1306092997
 author: zvika
-permalink: java/why-scala-introduction-what-could-be-javas-successor-scala-tce-17511
+permalink: /java/why-scala-introduction-what-could-be-javas-successor-scala-tce-17511
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Chrome Apps on the desktop
 created: 1378803696
 author: orenf
-permalink: chrome-apps-desktop
+permalink: /chrome-apps-desktop
 tags:
 - JS
 - Chrome

@@ -3,7 +3,7 @@ layout: post
 title: Kilim - actors and message passing in Java
 created: 1238685979
 author: ittayd
-permalink: java/kilim-actors-and-message-passing-java
+permalink: /java/kilim-actors-and-message-passing-java
 tags:
 - JAVA
 - java remoting actor distributed

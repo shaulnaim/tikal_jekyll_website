@@ -3,7 +3,7 @@ layout: post
 title: can't start tomcat on centos with large memory
 created: 1293020893
 author: shalom
-permalink: alm/cant-start-tomcat-centos-large-memory
+permalink: /alm/cant-start-tomcat-centos-large-memory
 tags:
 - ALM
 - jvm centos linux

@@ -3,7 +3,7 @@ layout: post
 title: Native Android for begginers
 created: 1332867234
 author: sefi
-permalink: js/native-android-begginers
+permalink: /js/native-android-begginers
 tags:
 - JS
 - online

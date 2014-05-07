@@ -3,7 +3,7 @@ layout: post
 title: Scala, the java of the future
 created: 1253367956
 author: liya
-permalink: java/scala-java-future
+permalink: /java/scala-java-future
 tags:
 - JAVA
 - Scala

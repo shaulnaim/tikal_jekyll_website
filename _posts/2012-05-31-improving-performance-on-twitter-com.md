@@ -3,7 +3,7 @@ layout: post
 title: 'Improving performance on twitter.com '
 created: 1338446613
 author: ittayd
-permalink: improving-performance-twittercom
+permalink: /improving-performance-twittercom
 tags:
 - JS
 - twitter javascript

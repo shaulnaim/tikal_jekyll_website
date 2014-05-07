@@ -3,7 +3,7 @@ layout: post
 title: CUBRID - new kid in the block?
 created: 1330614057
 author: andrew
-permalink: cubrid-new-kid-block
+permalink: /cubrid-new-kid-block
 tags:
 - JAVA
 ---

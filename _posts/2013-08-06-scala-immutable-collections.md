@@ -3,7 +3,7 @@ layout: post
 title: Scala immutable collections
 created: 1375800531
 author: andrew
-permalink: scala-immutable-collections
+permalink: /scala-immutable-collections
 tags:
 - JAVA
 - Java

@@ -3,7 +3,7 @@ layout: post
 title: ELMAH - Logging errors in ASP.NET
 created: 1310367976
 author: igorz
-permalink: net/elmah-logging-errors-aspnet
+permalink: /net/elmah-logging-errors-aspnet
 tags:
 - .NET
 - .Net Open Source

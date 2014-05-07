@@ -7,7 +7,7 @@ gem "coffee-script", '2.2.0'
 gem "uglifier", '2.5.0'
 gem "sass", '3.3.5'
 gem "rake", '0.9.6'
-gem "jekyll-import", git: "https://github.com/izharg/jekyll-import.git"
+gem "jekyll-import", path: "./jekyll-import-0.2.0"
 gem "sequel", '4.9.0'
 gem "mysql2", '0.3.15'
 

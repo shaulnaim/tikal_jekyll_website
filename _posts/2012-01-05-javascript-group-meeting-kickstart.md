@@ -3,7 +3,7 @@ layout: post
 title: Javascript Group Meeting - KickStart
 created: 1325746657
 author: orenf
-permalink: javascript-group-meeting-kickstart
+permalink: /javascript-group-meeting-kickstart
 tags:
 - JS
 ---

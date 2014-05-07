@@ -3,7 +3,7 @@ layout: post
 title: Benchmark comparing serialization libraries on the JVM
 created: 1258879340
 author: ittayd
-permalink: java/benchmark-comparing-serialization-libraries-jvm
+permalink: /java/benchmark-comparing-serialization-libraries-jvm
 tags:
 - JAVA
 - serialization

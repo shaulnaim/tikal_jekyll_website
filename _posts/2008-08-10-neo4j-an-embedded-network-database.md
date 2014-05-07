@@ -3,7 +3,7 @@ layout: post
 title: Neo4j - an Embedded, Network Database
 created: 1218379558
 author: admin
-permalink: java/neo4j-embedded-network-database
+permalink: /java/neo4j-embedded-network-database
 tags:
 - JAVA
 ---

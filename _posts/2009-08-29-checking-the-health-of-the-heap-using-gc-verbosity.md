@@ -3,7 +3,7 @@ layout: post
 title: Checking the health of the heap using GC verbosity
 created: 1251544703
 author: elad
-permalink: java/checking-health-heap-using-gc-verbosity
+permalink: /java/checking-health-heap-using-gc-verbosity
 tags:
 - JAVA
 - young generation

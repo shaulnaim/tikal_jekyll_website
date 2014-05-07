@@ -3,7 +3,7 @@ layout: post
 title: Exposing Spring Services for consumption by GWT Front End
 created: 1291035639
 author: zvika
-permalink: java/exposing-spring-services-consumption-gwt-front-end
+permalink: /java/exposing-spring-services-consumption-gwt-front-end
 tags:
 - JAVA
 - JSON

@@ -3,7 +3,7 @@ layout: post
 title: The Future of Flex? This Graph might give you a hint
 created: 1331633880
 author: liorb
-permalink: future-flex-graph-might-give-you-hint
+permalink: /future-flex-graph-might-give-you-hint
 tags:
 - Flex Java
 ---

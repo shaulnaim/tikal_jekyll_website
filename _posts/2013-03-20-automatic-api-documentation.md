@@ -3,7 +3,7 @@ layout: post
 title: Automatic API Documentation
 created: 1363764671
 author: chaim.turkel
-permalink: java/automatic-api-documentation
+permalink: /java/automatic-api-documentation
 tags:
 - JAVA
 - Java

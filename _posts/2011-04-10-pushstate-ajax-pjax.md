@@ -3,7 +3,7 @@ layout: post
 title: pushState + ajax = pjax
 created: 1302457859
 author: ittayd
-permalink: incubator/pushstate-ajax-pjax
+permalink: /incubator/pushstate-ajax-pjax
 tags:
 - Incubator
 ---

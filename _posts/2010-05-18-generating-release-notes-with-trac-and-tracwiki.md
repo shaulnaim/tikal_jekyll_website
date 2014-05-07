@@ -3,7 +3,7 @@ layout: post
 title: Generating release notes with Trac and TracWiki
 created: 1274212680
 author: liorb
-permalink: generating-release-notes-trac-and-tracwiki
+permalink: /generating-release-notes-trac-and-tracwiki
 tags:
 - Flex Java
 ---

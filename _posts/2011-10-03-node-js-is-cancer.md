@@ -3,7 +3,7 @@ layout: post
 title: Node.js is cancer
 created: 1317617662
 author: ittayd
-permalink: nodejs-cancer
+permalink: /nodejs-cancer
 tags:
 - JS
 - node.js

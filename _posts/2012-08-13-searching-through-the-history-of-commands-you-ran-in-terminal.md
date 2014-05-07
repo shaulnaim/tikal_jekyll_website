@@ -3,7 +3,7 @@ layout: post
 title: searching through the history of commands you ran in terminal
 created: 1344862401
 author: avit
-permalink: ror/blog/searching-through-history-commands-you-ran-terminal
+permalink: /ror/blog/searching-through-history-commands-you-ran-terminal
 tags:
 - RoR
 ---

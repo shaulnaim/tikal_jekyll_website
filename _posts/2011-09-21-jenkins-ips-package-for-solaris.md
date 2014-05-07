@@ -3,7 +3,7 @@ layout: post
 title: Jenkins IPS package for solaris
 created: 1316586552
 author: hagzag
-permalink: jenkins-ips-package-solaris
+permalink: /jenkins-ips-package-solaris
 tags:
 - ALM
 - jenkins

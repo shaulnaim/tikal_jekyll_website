@@ -3,7 +3,7 @@ layout: post
 title: HTML 5 Is Feature Complete
 created: 1355943804
 author: menny
-permalink: net/html-5-feature-complete
+permalink: /net/html-5-feature-complete
 tags:
 - .NET
 ---

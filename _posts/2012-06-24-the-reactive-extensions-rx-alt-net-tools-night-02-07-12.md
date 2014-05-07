@@ -3,7 +3,7 @@ layout: post
 title: The Reactive Extensions (Rx)... @ ALT.NET Tools Night 02.07.12
 created: 1340522403
 author: menny
-permalink: reactive-extensions-rx-altnet-tools-night-020712
+permalink: /reactive-extensions-rx-altnet-tools-night-020712
 tags:
 - .NET
 - .Net Open Source

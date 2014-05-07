@@ -3,7 +3,7 @@ layout: post
 title: Setting up an Nginx server to load balance several socket.io processes
 created: 1365610677
 author: assafg
-permalink: js/setting-nginx-server-load-balance-several-socketio-processes
+permalink: /js/setting-nginx-server-load-balance-several-socketio-processes
 tags:
 - JS
 - nginx

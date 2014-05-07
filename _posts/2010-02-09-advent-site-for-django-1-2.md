@@ -3,7 +3,7 @@ layout: post
 title: Advent site for Django 1.2
 created: 1265726686
 author: udib
-permalink: incubator/advent-site-django-12
+permalink: /incubator/advent-site-django-12
 tags:
 - Incubator
 - web-site

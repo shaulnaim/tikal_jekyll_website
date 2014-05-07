@@ -3,7 +3,7 @@ layout: post
 title: Git export (like SVN export)
 created: 1338394544
 author: avit
-permalink: git-export-svn-export
+permalink: /git-export-svn-export
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: jster - Javascript Catalog
 created: 1353353687
 author: orenf
-permalink: js/jster-javascript-catalog
+permalink: /js/jster-javascript-catalog
 tags:
 - JS
 ---

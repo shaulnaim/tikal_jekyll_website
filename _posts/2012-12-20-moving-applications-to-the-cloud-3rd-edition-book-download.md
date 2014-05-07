@@ -3,7 +3,7 @@ layout: post
 title: Moving Applications to the Cloud, 3rd Edition – Book Download
 created: 1356028244
 author: menny
-permalink: net/moving-applications-cloud-3rd-edition-–-book-download
+permalink: /net/moving-applications-cloud-3rd-edition-–-book-download
 tags:
 - .NET
 ---

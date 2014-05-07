@@ -3,7 +3,7 @@ layout: post
 title: Flex Black Belt is growing!
 created: 1263504912
 author: sefi
-permalink: flex-black-belt-growing
+permalink: /flex-black-belt-growing
 tags:
 - gwt
 - flex

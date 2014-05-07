@@ -3,7 +3,7 @@ layout: post
 title: How FriendFeed uses MySQL to store schema-less data
 created: 1238046422
 author: yanai
-permalink: java/how-friendfeed-uses-mysql-store-schema-less-data
+permalink: /java/how-friendfeed-uses-mysql-store-schema-less-data
 tags:
 - JAVA
 - MySQL

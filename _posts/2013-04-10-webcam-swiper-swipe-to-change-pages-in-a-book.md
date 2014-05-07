@@ -3,7 +3,7 @@ layout: post
 title: 'Webcam Swiper: Swipe to Change Pages in a Book'
 created: 1365619581
 author: orenf
-permalink: js/webcam-swiper-swipe-change-pages-book
+permalink: /js/webcam-swiper-swipe-change-pages-book
 tags:
 - JS
 - HTML5

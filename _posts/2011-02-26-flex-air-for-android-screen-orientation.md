@@ -3,7 +3,7 @@ layout: post
 title: Flex Air for Android screen orientation
 created: 1298738668
 author: sefi
-permalink: flex-air-android-screen-orientation
+permalink: /flex-air-android-screen-orientation
 tags:
 - gwt
 - flex

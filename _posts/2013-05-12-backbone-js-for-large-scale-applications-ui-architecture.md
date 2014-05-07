@@ -3,7 +3,7 @@ layout: post
 title: Backbone.js for large scale applications – UI Architecture
 created: 1368353969
 author: orenf
-permalink: js/backbonejs-large-scale-applications-–-ui-architecture
+permalink: /js/backbonejs-large-scale-applications-–-ui-architecture
 tags:
 - JS
 - Javascript

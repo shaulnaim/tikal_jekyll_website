@@ -3,7 +3,7 @@ layout: post
 title: Flex SDK 3 Vs. 4 – Part 3 – New language tags
 created: 1273820419
 author: sefi
-permalink: js/flex-sdk-3-vs-4-–-part-3-–-new-language-tags
+permalink: /js/flex-sdk-3-vs-4-–-part-3-–-new-language-tags
 tags:
 - JS
 - Reparent

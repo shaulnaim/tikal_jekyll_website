@@ -3,7 +3,7 @@ layout: post
 title: The (natural) combination between ROR and flex
 created: 1338394544
 author: avit
-permalink: natural-combination-between-ror-and-flex
+permalink: /natural-combination-between-ror-and-flex
 tags:
 - RoR
 - web

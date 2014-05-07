@@ -3,7 +3,7 @@ layout: post
 title: 'Podcast: Comet and Bayeux'
 created: 1215282519
 author: admin
-permalink: java/podcast-comet-and-bayeux
+permalink: /java/podcast-comet-and-bayeux
 tags:
 - JAVA
 ---

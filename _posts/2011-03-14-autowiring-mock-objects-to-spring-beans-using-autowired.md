@@ -3,7 +3,7 @@ layout: post
 title: Autowiring mock objects to spring beans using @Autowired
 created: 1300055171
 author: shalom
-permalink: java/autowiring-mock-objects-spring-beans-using-autowired
+permalink: /java/autowiring-mock-objects-spring-beans-using-autowired
 tags:
 - JAVA
 - java spring easymock autowire

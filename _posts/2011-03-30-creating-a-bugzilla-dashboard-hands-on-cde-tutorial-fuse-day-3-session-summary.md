@@ -4,7 +4,7 @@ title: 'Creating a Bugzilla Dashboard – hands-on CDE Tutorial – Fuse Day #3 
   Summary '
 created: 1301494418
 author: udid
-permalink: incubator/creating-bugzilla-dashboard-–-hands-cde-tutorial-–-fuse-day-3-session-summary
+permalink: /incubator/creating-bugzilla-dashboard-–-hands-cde-tutorial-–-fuse-day-3-session-summary
 tags:
 - Incubator
 - Pentaho

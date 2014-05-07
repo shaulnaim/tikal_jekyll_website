@@ -3,7 +3,7 @@ layout: post
 title: SQL Server 2012 Released to Manufacturing
 created: 1331739912
 author: igorz
-permalink: sql-server-2012-released-manufacturing
+permalink: /sql-server-2012-released-manufacturing
 tags:
 - .NET
 - .Net Open Source

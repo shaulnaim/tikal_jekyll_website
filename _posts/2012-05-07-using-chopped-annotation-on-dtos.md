@@ -3,7 +3,7 @@ layout: post
 title: Using "Chopped" annotation on DTOs
 created: 1336373322
 author: yanai
-permalink: using-chopped-annotation-dtos
+permalink: /using-chopped-annotation-dtos
 tags:
 - JAVA
 - Hibernate Chopp lazy association

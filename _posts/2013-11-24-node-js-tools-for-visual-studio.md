@@ -3,7 +3,7 @@ layout: post
 title: Node.js Tools for Visual Studio
 created: 1385279058
 author: menny
-permalink: net/nodejs-tools-visual-studio
+permalink: /net/nodejs-tools-visual-studio
 tags:
 - .NET
 - Javascript

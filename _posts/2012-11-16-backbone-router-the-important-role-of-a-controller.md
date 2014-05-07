@@ -3,7 +3,7 @@ layout: post
 title: Backbone Router – The important role of a Controller
 created: 1353086041
 author: orenf
-permalink: js/backbone-router-–-important-role-controller
+permalink: /js/backbone-router-–-important-role-controller
 tags:
 - JS
 ---

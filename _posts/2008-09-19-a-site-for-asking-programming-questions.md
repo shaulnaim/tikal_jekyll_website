@@ -3,7 +3,7 @@ layout: post
 title: a site for asking programming questions
 created: 1221825249
 author: ittayd
-permalink: java/site-asking-programming-questions
+permalink: /java/site-asking-programming-questions
 tags:
 - JAVA
 ---

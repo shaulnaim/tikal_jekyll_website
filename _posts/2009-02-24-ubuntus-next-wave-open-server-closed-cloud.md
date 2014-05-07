@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu''s next wave: Open server, closed cloud'
 created: 1235507660
 author: lior.kanfi
-permalink: ubuntus-next-wave-open-server-closed-cloud
+permalink: /ubuntus-next-wave-open-server-closed-cloud
 tags:
 - Ubuntu Cloud Computing
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Understanding and writing Hibernate user types
 created: 1258397645
 author: yanai
-permalink: java/understanding-and-writing-hibernate-user-types
+permalink: /java/understanding-and-writing-hibernate-user-types
 tags:
 - JAVA
 - User Type

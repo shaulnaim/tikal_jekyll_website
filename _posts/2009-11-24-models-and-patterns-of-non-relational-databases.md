@@ -3,7 +3,7 @@ layout: post
 title: Models & patterns of non-relational databases
 created: 1259016561
 author: udib
-permalink: incubator/models-patterns-non-relational-databases
+permalink: /incubator/models-patterns-non-relational-databases
 tags:
 - Incubator
 - nosql

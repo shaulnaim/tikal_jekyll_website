@@ -3,7 +3,7 @@ layout: post
 title: Data analysis using a multidimensional model and MDX
 created: 1245707583
 author: udid
-permalink: java/data-analysis-using-multidimensional-model-and-mdx
+permalink: /java/data-analysis-using-multidimensional-model-and-mdx
 tags:
 - JAVA
 - OLAP

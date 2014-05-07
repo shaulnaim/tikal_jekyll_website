@@ -3,7 +3,7 @@ layout: post
 title: 'Native client: Run C/C++ in your (Chrome) browser.'
 created: 1325186032
 author: ittayd
-permalink: native-client-run-cc-your-chrome-browser
+permalink: /native-client-run-cc-your-chrome-browser
 tags:
 - Incubator
 - web

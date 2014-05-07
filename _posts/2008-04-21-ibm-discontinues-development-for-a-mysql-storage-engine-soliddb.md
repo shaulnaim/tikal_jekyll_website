@@ -2,7 +2,7 @@
 layout: post
 title: IBM discontinues development for a MySQL storage engine, solidDB
 created: 1208752920
-permalink: java/ibm-discontinues-development-mysql-storage-engine-soliddb
+permalink: /java/ibm-discontinues-development-mysql-storage-engine-soliddb
 tags:
 - JAVA
 - MySQL

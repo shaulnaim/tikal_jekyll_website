@@ -3,7 +3,7 @@ layout: post
 title: Flex group meeting - Automation
 created: 1284634263
 author: sefi
-permalink: js/flex-group-meeting-automation
+permalink: /js/flex-group-meeting-automation
 tags:
 - JS
 ---

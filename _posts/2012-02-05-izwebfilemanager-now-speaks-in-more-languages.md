@@ -3,7 +3,7 @@ layout: post
 title: 'IZWebFileManager now speaks in more languages '
 created: 1328422959
 author: igorz
-permalink: izwebfilemanager-now-speaks-more-languages
+permalink: /izwebfilemanager-now-speaks-more-languages
 tags:
 - .NET
 - .Net Open Source

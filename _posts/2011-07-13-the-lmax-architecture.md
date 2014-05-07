@@ -3,7 +3,7 @@ layout: post
 title: The LMAX Architecture
 created: 1310526834
 author: ittayd
-permalink: lmax-architecture
+permalink: /lmax-architecture
 tags:
 - architecture
 ---

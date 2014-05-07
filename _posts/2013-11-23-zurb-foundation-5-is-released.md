@@ -3,7 +3,7 @@ layout: post
 title: Zurb Foundation 5 is released
 created: 1385192560
 author: naor
-permalink: js/zurb-foundation-5-released
+permalink: /js/zurb-foundation-5-released
 tags:
 - JS
 - zurb--foundation

@@ -3,7 +3,7 @@ layout: post
 title: Retrieve tweets using jQuery
 created: 1338394544
 author: avit
-permalink: retrieve-tweets-using-jquery
+permalink: /retrieve-tweets-using-jquery
 tags:
 - RoR
 - web

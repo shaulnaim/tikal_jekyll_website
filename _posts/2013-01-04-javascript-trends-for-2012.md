@@ -3,7 +3,7 @@ layout: post
 title: Javascript Trends for 2012
 created: 1357313747
 author: orenf
-permalink: js/javascript-trends-2012
+permalink: /js/javascript-trends-2012
 tags:
 - JS
 ---

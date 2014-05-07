@@ -3,7 +3,7 @@ layout: post
 title: Unitils - a test framework specifically for testing JPA and Hibernate
 created: 1280158802
 author: shalom
-permalink: java/unitils-test-framework-specifically-testing-jpa-and-hibernate
+permalink: /java/unitils-test-framework-specifically-testing-jpa-and-hibernate
 tags:
 - JAVA
 - hibernate spring junit assert

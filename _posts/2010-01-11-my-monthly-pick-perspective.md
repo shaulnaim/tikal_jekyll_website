@@ -3,7 +3,7 @@ layout: post
 title: My Monthly pick/perspective
 created: 1263245775
 author: yanai
-permalink: java/my-monthly-pickperspective
+permalink: /java/my-monthly-pickperspective
 tags:
 - JAVA
 - JEE server status

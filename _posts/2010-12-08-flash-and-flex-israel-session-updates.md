@@ -3,7 +3,7 @@ layout: post
 title: Flash & Flex Israel – session updates
 created: 1291802387
 author: sefi
-permalink: flash-flex-israel-–-session-updates
+permalink: /flash-flex-israel-–-session-updates
 tags:
 - gwt
 - flex

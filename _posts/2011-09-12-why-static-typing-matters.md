@@ -3,7 +3,7 @@ layout: post
 title: Why static typing matters
 created: 1315827699
 author: ittayd
-permalink: why-static-typing-matters
+permalink: /why-static-typing-matters
 tags:
 - JAVA
 - static typing

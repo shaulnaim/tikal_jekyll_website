@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET MVC options for consolidating HTML
 created: 1265820289
 author: igorz
-permalink: net/aspnet-mvc-options-consolidating-html
+permalink: /net/aspnet-mvc-options-consolidating-html
 tags:
 - .NET
 - ASP.NET MVC

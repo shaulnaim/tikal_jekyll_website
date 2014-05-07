@@ -3,7 +3,7 @@ layout: post
 title: OOP Javascript, Jquery, Binding events and keep the context
 created: 1294901775
 author: orenf
-permalink: js/oop-javascript-jquery-binding-events-and-keep-context
+permalink: /js/oop-javascript-jquery-binding-events-and-keep-context
 tags:
 - JS
 ---

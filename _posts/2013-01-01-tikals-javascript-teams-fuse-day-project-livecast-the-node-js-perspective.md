@@ -3,7 +3,7 @@ layout: post
 title: 'Tikal''s JavaScript team''s Fuse day project- "LiveCast": The Node.js perspective'
 created: 1357060300
 author: naor
-permalink: js/tikals-javascript-teams-fuse-day-project-livecast-nodejs-perspective
+permalink: /js/tikals-javascript-teams-fuse-day-project-livecast-nodejs-perspective
 tags:
 - JS
 - javascript node nodejs express webrtc socket.io

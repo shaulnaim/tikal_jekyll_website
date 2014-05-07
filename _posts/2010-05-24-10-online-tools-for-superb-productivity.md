@@ -3,7 +3,7 @@ layout: post
 title: 10 Online Tools for Superb Productivity
 created: 1274727195
 author: liya
-permalink: java/10-online-tools-superb-productivity
+permalink: /java/10-online-tools-superb-productivity
 tags:
 - JAVA
 ---

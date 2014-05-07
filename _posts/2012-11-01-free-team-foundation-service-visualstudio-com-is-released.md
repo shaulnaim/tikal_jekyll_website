@@ -3,7 +3,7 @@ layout: post
 title: Free Team Foundation Service @ VisualStudio.com is released
 created: 1351783688
 author: amiram
-permalink: net/free-team-foundation-service-visualstudiocom-released
+permalink: /net/free-team-foundation-service-visualstudiocom-released
 tags:
 - .NET
 ---

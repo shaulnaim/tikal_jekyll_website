@@ -3,7 +3,7 @@ layout: post
 title: '"From Java to Scala, an Android application use case" (Scala TCE 17.5.11)'
 created: 1306093391
 author: ittayd
-permalink: java/java-scala-android-application-use-case-scala-tce-17511
+permalink: /java/java-scala-android-application-use-case-scala-tce-17511
 tags:
 - JAVA
 - Scala

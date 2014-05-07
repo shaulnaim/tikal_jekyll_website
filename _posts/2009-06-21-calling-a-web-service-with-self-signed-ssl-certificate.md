@@ -3,7 +3,7 @@ layout: post
 title: Calling a web service with self-signed SSL certificate
 created: 1245595362
 author: zvika
-permalink: java/calling-web-service-self-signed-ssl-certificate
+permalink: /java/calling-web-service-self-signed-ssl-certificate
 tags:
 - JAVA
 - ssl

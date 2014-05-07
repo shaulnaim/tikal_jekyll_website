@@ -3,7 +3,7 @@ layout: post
 title: '"insertadjacenthtml" Enables Faster Html Snippet Injection'
 created: 1322379504
 author: orenf
-permalink: insertadjacenthtml-enables-faster-html-snippet-injection
+permalink: /insertadjacenthtml-enables-faster-html-snippet-injection
 tags:
 - JS
 ---

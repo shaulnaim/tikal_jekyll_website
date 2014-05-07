@@ -3,7 +3,7 @@ layout: post
 title: Presentation from the last server forum - REST
 created: 1237044316
 author: andrew
-permalink: java/presentation-last-server-forum-rest
+permalink: /java/presentation-last-server-forum-rest
 tags:
 - JAVA
 - Application Frameworks

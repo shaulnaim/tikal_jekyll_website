@@ -3,7 +3,7 @@ layout: post
 title: javascript tips & tricks
 created: 1309873363
 author: ittayd
-permalink: js/javascript-tips-tricks
+permalink: /js/javascript-tips-tricks
 tags:
 - JS
 ---

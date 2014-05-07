@@ -3,7 +3,7 @@ layout: post
 title: ALM-Suite Installation discussion
 created: 1222152751
 author: hagzag
-permalink: alm/alm-suite-installation-discussion
+permalink: /alm/alm-suite-installation-discussion
 tags:
 - ALM
 - Tikal-alm-Suite

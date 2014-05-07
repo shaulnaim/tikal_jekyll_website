@@ -3,7 +3,7 @@ layout: post
 title: 'Coping with Scala complexity: language subsets'
 created: 1299418265
 author: andrew
-permalink: java/coping-scala-complexity-language-subsets
+permalink: /java/coping-scala-complexity-language-subsets
 tags:
 - JAVA
 - Scala

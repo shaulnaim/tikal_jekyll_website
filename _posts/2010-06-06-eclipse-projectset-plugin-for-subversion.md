@@ -3,7 +3,7 @@ layout: post
 title: Eclipse projectset plugin for subversion
 created: 1275855250
 author: liya
-permalink: alm/eclipse-projectset-plugin-subversion
+permalink: /alm/eclipse-projectset-plugin-subversion
 tags:
 - ALM
 - eclipse svn

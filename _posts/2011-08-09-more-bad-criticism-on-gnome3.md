@@ -3,7 +3,7 @@ layout: post
 title: 'More bad criticism on Gnome3 '
 created: 1312883544
 author: hagzag
-permalink: more-bad-criticism-gnome3
+permalink: /more-bad-criticism-gnome3
 tags:
 - ALM
 - Gnome unity

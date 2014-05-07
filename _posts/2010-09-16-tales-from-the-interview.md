@@ -2,7 +2,7 @@
 layout: post
 title: Tales from the Interview
 created: 1284626658
-permalink: js/tales-interview
+permalink: /js/tales-interview
 tags:
 - JS
 - job interview

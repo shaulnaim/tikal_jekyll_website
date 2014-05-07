@@ -3,7 +3,7 @@ layout: post
 title: .Net support coming in Nexus 2.0
 created: 1321947641
 author: hagzag
-permalink: net-support-coming-nexus-20
+permalink: /net-support-coming-nexus-20
 tags:
 - ALM
 - Nexus

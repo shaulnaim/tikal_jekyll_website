@@ -3,7 +3,7 @@ layout: post
 title: Akka - Enterprise Scala Actors
 created: 1258673643
 author: adi
-permalink: java/akka-enterprise-scala-actors
+permalink: /java/akka-enterprise-scala-actors
 tags:
 - JAVA
 - Actors

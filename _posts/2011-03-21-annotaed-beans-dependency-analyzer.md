@@ -3,7 +3,7 @@ layout: post
 title: Annotaed Bean(s) Dependency Analyzer
 created: 1300665259
 author: dmitri
-permalink: java/annotaed-beans-dependency-analyzer
+permalink: /java/annotaed-beans-dependency-analyzer
 tags:
 - JAVA
 - Spring

@@ -3,7 +3,7 @@ layout: post
 title: A very cool way to experience Ubuntu...on Windows
 created: 1207815180
 author: lior.kanfi
-permalink: very-cool-way-experience-ubuntuon-windows
+permalink: /very-cool-way-experience-ubuntuon-windows
 tags:
 - Windows
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Flex group meeting - Flex Server Integration with AMF
 created: 1279777618
-permalink: js/flex-group-meeting-flex-server-integration-amf
+permalink: /js/flex-group-meeting-flex-server-integration-amf
 tags:
 - JS
 ---

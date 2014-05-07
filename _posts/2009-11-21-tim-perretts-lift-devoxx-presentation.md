@@ -3,7 +3,7 @@ layout: post
 title: 'Tim Perrett''s Lift Devoxx Presentation '
 created: 1258815788
 author: adi
-permalink: java/tim-perretts-lift-devoxx-presentation
+permalink: /java/tim-perretts-lift-devoxx-presentation
 tags:
 - JAVA
 - Lift

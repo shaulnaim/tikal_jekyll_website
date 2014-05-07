@@ -3,7 +3,7 @@ layout: post
 title: TCE 1 - Google App Engine Intro
 created: 1256119178
 author: yanai
-permalink: java/tce-1-google-app-engine-intro
+permalink: /java/tce-1-google-app-engine-intro
 tags:
 - JAVA
 - Google App Engine

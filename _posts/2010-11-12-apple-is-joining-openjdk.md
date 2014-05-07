@@ -3,7 +3,7 @@ layout: post
 title: 'Apple is joining OpenJDK '
 created: 1289586896
 author: ittayd
-permalink: java/apple-joining-openjdk
+permalink: /java/apple-joining-openjdk
 tags:
 - JAVA
 ---

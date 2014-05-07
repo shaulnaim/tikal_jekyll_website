@@ -3,7 +3,7 @@ layout: post
 title: Fuse Day 9/11 - An application on node.js & elastic search
 created: 1316111500
 author: ittayd
-permalink: fuse-day-911-application-nodejs-elastic-search
+permalink: /fuse-day-911-application-nodejs-elastic-search
 tags:
 - Incubator
 - fuse node.js elastic_search

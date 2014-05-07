@@ -3,7 +3,7 @@ layout: post
 title: PyWeb-IL 10th meeting
 created: 1259229194
 author: udib
-permalink: incubator/pyweb-il-10th-meeting
+permalink: /incubator/pyweb-il-10th-meeting
 tags:
 - Incubator
 - Python

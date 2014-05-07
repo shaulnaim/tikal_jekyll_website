@@ -3,7 +3,7 @@ layout: post
 title: Java in the Cloud - PaaS Platform in Comparison
 created: 1334120558
 author: hagzag
-permalink: java-cloud-paas-platform-comparison
+permalink: /java-cloud-paas-platform-comparison
 tags:
 - ALM
 - VMWare

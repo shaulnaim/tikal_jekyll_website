@@ -3,7 +3,7 @@ layout: post
 title: Jenkins multijob plugin
 created: 1395322196
 author: chaim.turkel
-permalink: jenkins-multijob-plugin
+permalink: /jenkins-multijob-plugin
 tags:
 - ALM
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ECMAscript 5 features you can use safely in your javascript
 created: 1386571677
 author: orenf
-permalink: ecmascript-5-features-you-can-use-safely-your-javascript
+permalink: /ecmascript-5-features-you-can-use-safely-your-javascript
 tags:
 - JS
 - ECMAscript

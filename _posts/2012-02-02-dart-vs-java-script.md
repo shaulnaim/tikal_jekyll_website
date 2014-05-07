@@ -3,7 +3,7 @@ layout: post
 title: Dart Vs. Java Script
 created: 1328217785
 author: aviy
-permalink: dart-vs-java-script
+permalink: /dart-vs-java-script
 tags:
 - JAVA
 - DART

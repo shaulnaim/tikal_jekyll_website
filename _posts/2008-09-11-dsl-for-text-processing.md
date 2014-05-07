@@ -3,7 +3,7 @@ layout: post
 title: DSL for text processing
 created: 1221124868
 author: andrew
-permalink: java/dsl-text-processing
+permalink: /java/dsl-text-processing
 tags:
 - JAVA
 ---

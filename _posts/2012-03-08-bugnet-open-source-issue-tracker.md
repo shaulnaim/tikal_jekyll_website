@@ -3,7 +3,7 @@ layout: post
 title: BugNET - open source issue tracker
 created: 1331191879
 author: igorz
-permalink: bugnet-open-source-issue-tracker
+permalink: /bugnet-open-source-issue-tracker
 tags:
 - .NET
 - tools

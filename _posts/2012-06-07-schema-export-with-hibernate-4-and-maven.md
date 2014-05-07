@@ -3,7 +3,7 @@ layout: post
 title: Schema export with Hibernate 4 and Maven
 created: 1339081686
 author: ittayd
-permalink: schema-export-hibernate-4-and-maven
+permalink: /schema-export-hibernate-4-and-maven
 tags:
 - JAVA
 - hibernate maven

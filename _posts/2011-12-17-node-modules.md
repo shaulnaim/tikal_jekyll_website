@@ -3,7 +3,7 @@ layout: post
 title: Node Modules
 created: 1324084539
 author: adi
-permalink: node-modules
+permalink: /node-modules
 tags:
 - Incubator
 - node.js

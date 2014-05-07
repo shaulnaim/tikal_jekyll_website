@@ -3,7 +3,7 @@ layout: post
 title: Dot.Net group meeting - S#arp Architecture overview
 created: 1273045661
 author: igorz
-permalink: net/dotnet-group-meeting-sarp-architecture-overview
+permalink: /net/dotnet-group-meeting-sarp-architecture-overview
 tags:
 - .NET
 - .Net Open Source

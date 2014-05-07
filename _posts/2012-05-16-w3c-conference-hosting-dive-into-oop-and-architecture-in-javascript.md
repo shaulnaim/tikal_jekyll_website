@@ -3,7 +3,7 @@ layout: post
 title: W3C conference hosting "Dive into OOP & Architecture in Javascript"
 created: 1337168864
 author: orenf
-permalink: w3c-conference-hosting-dive-oop-architecture-javascript
+permalink: /w3c-conference-hosting-dive-oop-architecture-javascript
 tags:
 - JS
 ---

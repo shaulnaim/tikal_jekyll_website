@@ -2,7 +2,7 @@
 layout: post
 title: Visual MySQL Database Design in MySQL Workbench
 created: 1213628340
-permalink: java/visual-mysql-database-design-mysql-workbench
+permalink: /java/visual-mysql-database-design-mysql-workbench
 tags:
 - JAVA
 - MySQL

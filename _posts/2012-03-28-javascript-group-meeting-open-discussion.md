@@ -3,7 +3,7 @@ layout: post
 title: Javascript Group Meeting - Open Discussion
 created: 1332938459
 author: orenf
-permalink: javascript-group-meeting-open-discussion
+permalink: /javascript-group-meeting-open-discussion
 tags:
 - JS
 ---

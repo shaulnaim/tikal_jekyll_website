@@ -3,7 +3,7 @@ layout: post
 title: Android with Eclipse + Maven
 created: 1370184517
 author: timor
-permalink: alm/android-eclipse-maven
+permalink: /alm/android-eclipse-maven
 tags:
 - ALM
 - maven android eclipse

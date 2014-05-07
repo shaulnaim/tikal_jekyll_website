@@ -3,7 +3,7 @@ layout: post
 title: 35+ Use Cases for Choosing Your Next NoSQL Database
 created: 1308646503
 author: ittayd
-permalink: incubator/35-use-cases-choosing-your-next-nosql-database
+permalink: /incubator/35-use-cases-choosing-your-next-nosql-database
 tags:
 - Incubator
 - nosql

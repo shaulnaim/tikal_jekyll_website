@@ -3,7 +3,7 @@ layout: post
 title: 'Important news: Microsoft convert CodePlex to a foundation'
 created: 1252782912
 author: lior.kanfi
-permalink: net/important-news-microsoft-convert-codeplex-foundation
+permalink: /net/important-news-microsoft-convert-codeplex-foundation
 tags:
 - .NET
 - .Net Open Source

@@ -4,7 +4,7 @@ title: 'Adventures in Spring: Defining Multiple SessionFactory Objects in Spring
   Environment'
 created: 1285083482
 author: zvika
-permalink: java/adventures-spring-defining-multiple-sessionfactory-objects-springflex-environment
+permalink: /java/adventures-spring-defining-multiple-sessionfactory-objects-springflex-environment
 tags:
 - JAVA
 - Spring

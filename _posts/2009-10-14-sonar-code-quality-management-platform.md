@@ -3,7 +3,7 @@ layout: post
 title: Sonar - code quality management platform
 created: 1255526445
 author: liya
-permalink: alm/sonar-code-quality-management-platform
+permalink: /alm/sonar-code-quality-management-platform
 tags:
 - ALM
 - Hudson

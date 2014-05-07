@@ -3,7 +3,7 @@ layout: post
 title: Selective/dynamic update with hibernate
 created: 1244071686
 author: shalom
-permalink: java/selectivedynamic-update-hibernate
+permalink: /java/selectivedynamic-update-hibernate
 tags:
 - JAVA
 - Hibernate

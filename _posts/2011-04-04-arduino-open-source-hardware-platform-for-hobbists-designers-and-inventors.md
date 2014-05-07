@@ -3,7 +3,7 @@ layout: post
 title: Arduino - Open Source Hardware Platform for Hobbists, Designers and Inventors
 created: 1301926304
 author: zvika
-permalink: js/arduino-open-source-hardware-platform-hobbists-designers-and-inventors
+permalink: /js/arduino-open-source-hardware-platform-hobbists-designers-and-inventors
 tags:
 - JS
 ---

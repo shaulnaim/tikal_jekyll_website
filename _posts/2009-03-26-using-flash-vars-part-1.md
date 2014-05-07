@@ -3,7 +3,7 @@ layout: post
 title: Using flash vars – part 1
 created: 1238100090
 author: sefi
-permalink: using-flash-vars-–-part-1
+permalink: /using-flash-vars-–-part-1
 tags:
 - gwt
 - flex

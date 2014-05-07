@@ -3,7 +3,7 @@ layout: post
 title: How to fade text in a Flex application
 created: 1263415282
 author: sefi
-permalink: how-fade-text-flex-application
+permalink: /how-fade-text-flex-application
 tags:
 - gwt
 - flex

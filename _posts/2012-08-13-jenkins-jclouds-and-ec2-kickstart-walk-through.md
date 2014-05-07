@@ -3,7 +3,7 @@ layout: post
 title: 'Jenkins, Jclouds & EC2 KickStart walk-through '
 created: 1344814035
 author: hagzag
-permalink: jenkins-jclouds-ec2-kickstart-walk-through
+permalink: /jenkins-jclouds-ec2-kickstart-walk-through
 tags:
 - ALM
 - jenkins-jcolouds-plugin

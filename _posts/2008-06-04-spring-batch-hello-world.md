@@ -3,7 +3,7 @@ layout: post
 title: Spring Batch - Hello World
 created: 1212586500
 author: zvika
-permalink: java/spring-batch-hello-world
+permalink: /java/spring-batch-hello-world
 tags:
 - JAVA
 - Spring

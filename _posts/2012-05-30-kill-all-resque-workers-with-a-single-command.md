@@ -3,7 +3,7 @@ layout: post
 title: Kill all resque workers with a single command
 created: 1338394544
 author: avit
-permalink: kill-all-resque-workers-single-command
+permalink: /kill-all-resque-workers-single-command
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Linked in password breach
 created: 1339056218
 author: hagzag
-permalink: linked-password-breach
+permalink: /linked-password-breach
 tags:
 - ALM
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Why actors?
 created: 1260562232
 author: ittayd
-permalink: java/why-actors
+permalink: /java/why-actors
 tags:
 - JAVA
 - Actors

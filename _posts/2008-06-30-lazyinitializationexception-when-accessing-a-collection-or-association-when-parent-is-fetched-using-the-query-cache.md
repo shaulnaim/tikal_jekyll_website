@@ -4,7 +4,7 @@ title: LazyInitializationException when accessing a collection or association wh
   parent is fetched using the query cache
 created: 1214855340
 author: yanai
-permalink: java/lazyinitializationexception-when-accessing-collection-or-association-when-parent-fetched-using
+permalink: /java/lazyinitializationexception-when-accessing-collection-or-association-when-parent-fetched-using
 tags:
 - JAVA
 - Hibernate

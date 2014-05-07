@@ -3,7 +3,7 @@ layout: post
 title: '.NET Group Meeting: Introduction to IronPython'
 created: 1294551749
 author: igorz
-permalink: net/net-group-meeting-introduction-ironpython
+permalink: /net/net-group-meeting-introduction-ironpython
 tags:
 - .NET
 - .Net Open Source

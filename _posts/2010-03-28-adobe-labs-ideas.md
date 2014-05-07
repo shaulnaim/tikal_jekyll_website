@@ -3,7 +3,7 @@ layout: post
 title: Adobe Labs Ideas
 created: 1269797591
 author: sefi
-permalink: adobe-labs-ideas
+permalink: /adobe-labs-ideas
 tags:
 - gwt
 - flex

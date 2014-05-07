@@ -3,7 +3,7 @@ layout: post
 title: Confucius Task Manager
 created: 1298590544
 author: dmitri
-permalink: incubator/confucius-task-manager
+permalink: /incubator/confucius-task-manager
 tags:
 - Incubator
 - xmpp

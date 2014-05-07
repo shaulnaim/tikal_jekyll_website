@@ -3,7 +3,7 @@ layout: post
 title: 'Rails 4.0 Release Notes '
 created: 1338803772
 author: ittayd
-permalink: rails-40-release-notes
+permalink: /rails-40-release-notes
 tags:
 - RoR
 ---

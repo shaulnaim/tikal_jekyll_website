@@ -3,7 +3,7 @@ layout: post
 title: Scripted - A JavaScript (Browser Based) Editor from VMware
 created: 1350482210
 author: adi
-permalink: js/scripted-javascript-browser-based-editor-vmware
+permalink: /js/scripted-javascript-browser-based-editor-vmware
 tags:
 - JS
 - Editor

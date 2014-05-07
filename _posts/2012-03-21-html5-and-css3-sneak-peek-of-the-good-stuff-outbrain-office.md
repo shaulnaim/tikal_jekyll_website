@@ -3,7 +3,7 @@ layout: post
 title: HTML5 & CSS3 - Sneak Peek of the Good Stuff @ Outbrain Office
 created: 1332337105
 author: odeds
-permalink: html5-css3-sneak-peek-good-stuff-outbrain-office
+permalink: /html5-css3-sneak-peek-good-stuff-outbrain-office
 tags:
 - JS
 ---

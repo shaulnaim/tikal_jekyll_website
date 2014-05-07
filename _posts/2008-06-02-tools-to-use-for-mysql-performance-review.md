@@ -3,7 +3,7 @@ layout: post
 title: Tools to use for MySQL performance review
 created: 1212378060
 author: zvika
-permalink: java/tools-use-mysql-performance-review
+permalink: /java/tools-use-mysql-performance-review
 tags:
 - JAVA
 - MySQL

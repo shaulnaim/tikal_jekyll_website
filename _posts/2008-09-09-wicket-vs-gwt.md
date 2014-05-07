@@ -2,7 +2,7 @@
 layout: post
 title: Wicket vs. GWT
 created: 1220943434
-permalink: wicket-vs-gwt
+permalink: /wicket-vs-gwt
 tags:
 - wicket
 - gwt

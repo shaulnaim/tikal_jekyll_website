@@ -3,7 +3,7 @@ layout: post
 title: 'JavaScript injection '
 created: 1334118246
 author: igorz
-permalink: javascript-injection
+permalink: /javascript-injection
 tags:
 - JS
 - injection

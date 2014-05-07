@@ -3,7 +3,7 @@ layout: post
 title: 'an interesting read about the origin of Ant and why it uses XML. '
 created: 1255617346
 author: ittayd
-permalink: alm/interesting-read-about-origin-ant-and-why-it-uses-xml
+permalink: /alm/interesting-read-about-origin-ant-and-why-it-uses-xml
 tags:
 - ALM
 - Ant

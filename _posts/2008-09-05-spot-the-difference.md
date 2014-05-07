@@ -3,7 +3,7 @@ layout: post
 title: Spot the difference
 created: 1220637851
 author: zvika
-permalink: spot-difference
+permalink: /spot-difference
 ---
 <br /><br />
 <img style="width: 100px; height: 69px;" alt="" src="http://blogs.sun.com/dannycoward/resource/masks.gif" align="left" hspace="10" vspace="10" />I'll probably get struck by lightning for

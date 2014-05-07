@@ -3,7 +3,7 @@ layout: post
 title: Threads stuck, gradually, slowly...Have you any suggestions?
 created: 1308745565
 author: peterk
-permalink: java/threads-stuck-gradually-slowlyhave-you-any-suggestions
+permalink: /java/threads-stuck-gradually-slowlyhave-you-any-suggestions
 tags:
 - JAVA
 - java thread

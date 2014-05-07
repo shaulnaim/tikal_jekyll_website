@@ -3,7 +3,7 @@ layout: post
 title: Mavenizing NB Project
 created: 1279453155
 author: zvika
-permalink: alm/mavenizing-nb-project
+permalink: /alm/mavenizing-nb-project
 tags:
 - ALM
 ---

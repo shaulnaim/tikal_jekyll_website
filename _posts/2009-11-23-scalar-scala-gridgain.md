@@ -3,7 +3,7 @@ layout: post
 title: Scalar = Scala + GridGain
 created: 1258933835
 author: adi
-permalink: java/scalar-scala-gridgain
+permalink: /java/scalar-scala-gridgain
 tags:
 - JAVA
 - GridGain

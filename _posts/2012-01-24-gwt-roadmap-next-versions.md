@@ -3,7 +3,7 @@ layout: post
 title: GWT roadmap, next versions
 created: 1327416276
 author: aviy
-permalink: gwt-roadmap-next-versions
+permalink: /gwt-roadmap-next-versions
 tags:
 - JAVA
 ---

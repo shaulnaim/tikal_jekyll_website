@@ -3,7 +3,7 @@ layout: post
 title: 'YAWF: cappuccino web framework'
 created: 1252991135
 author: ittayd
-permalink: java/yawf-cappuccino-web-framework
+permalink: /java/yawf-cappuccino-web-framework
 tags:
 - JAVA
 - Application Frameworks

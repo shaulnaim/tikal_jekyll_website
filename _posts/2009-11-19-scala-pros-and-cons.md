@@ -3,7 +3,7 @@ layout: post
 title: Scala pros and cons
 created: 1258658217
 author: ittayd
-permalink: java/scala-pros-and-cons
+permalink: /java/scala-pros-and-cons
 tags:
 - JAVA
 - Scala

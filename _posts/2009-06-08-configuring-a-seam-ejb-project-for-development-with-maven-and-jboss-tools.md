@@ -3,7 +3,7 @@ layout: post
 title: Configuring a Seam EJB project for development with Maven and JBoss Tools
 created: 1244445172
 author: lior.kanfi
-permalink: java/configuring-seam-ejb-project-development-maven-and-jboss-tools
+permalink: /java/configuring-seam-ejb-project-development-maven-and-jboss-tools
 tags:
 - JAVA
 ---

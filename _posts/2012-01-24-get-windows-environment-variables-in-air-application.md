@@ -3,7 +3,7 @@ layout: post
 title: 'Get windows Environment Variables in AIR application '
 created: 1327439479
 author: vladislavm
-permalink: js/get-windows-environment-variables-air-application
+permalink: /js/get-windows-environment-variables-air-application
 tags:
 - JS
 - Windows

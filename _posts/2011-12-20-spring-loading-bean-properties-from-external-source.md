@@ -3,7 +3,7 @@ layout: post
 title: Spring - Loading bean properties from external source.
 created: 1324395130
 author: danny
-permalink: spring-loading-bean-properties-external-source
+permalink: /spring-loading-bean-properties-external-source
 tags:
 - JAVA
 - Spring

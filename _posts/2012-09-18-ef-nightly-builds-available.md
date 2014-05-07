@@ -3,7 +3,7 @@ layout: post
 title: EF Nightly Builds Available
 created: 1347970816
 author: menny
-permalink: net/ef-nightly-builds-available
+permalink: /net/ef-nightly-builds-available
 tags:
 - .NET
 ---

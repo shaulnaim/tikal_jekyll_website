@@ -3,7 +3,7 @@ layout: post
 title: Asynchronous functions, actors and CPS
 created: 1278428009
 author: ittayd
-permalink: java/asynchronous-functions-actors-and-cps
+permalink: /java/asynchronous-functions-actors-and-cps
 tags:
 - JAVA
 - Scala

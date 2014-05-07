@@ -3,7 +3,7 @@ layout: post
 title: GWT ramblings of a Flex developer - creating your project
 created: 1325609189
 author: sefi
-permalink: gwt-ramblings-flex-developer-creating-your-project
+permalink: /gwt-ramblings-flex-developer-creating-your-project
 tags:
 - JAVA
 - gwt

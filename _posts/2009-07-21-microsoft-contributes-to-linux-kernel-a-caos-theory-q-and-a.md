@@ -3,7 +3,7 @@ layout: post
 title: 'Microsoft contributes to Linux kernel: a CAOS Theory Q&A'
 created: 1248128773
 author: lior.kanfi
-permalink: java/microsoft-contributes-linux-kernel-caos-theory-qa
+permalink: /java/microsoft-contributes-linux-kernel-caos-theory-qa
 tags:
 - JAVA
 - Microsoft

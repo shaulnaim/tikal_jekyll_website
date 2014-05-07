@@ -3,7 +3,7 @@ layout: post
 title: Fuse Day 2013 - LiveCast v0.2
 created: 1373447994
 author: assafg
-permalink: fuse-day-2013-livecast-v02
+permalink: /fuse-day-2013-livecast-v02
 tags:
 - JS
 - Javascript

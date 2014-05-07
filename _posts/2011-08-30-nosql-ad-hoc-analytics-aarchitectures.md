@@ -3,7 +3,7 @@ layout: post
 title: NoSQL Ad-hoc Analytics Aarchitectures
 created: 1314690982
 author: udid
-permalink: nosql-ad-hoc-analytics-aarchitectures
+permalink: /nosql-ad-hoc-analytics-aarchitectures
 tags:
 - Incubator
 - OSBI

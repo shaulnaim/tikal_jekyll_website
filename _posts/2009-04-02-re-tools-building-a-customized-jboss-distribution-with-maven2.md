@@ -3,7 +3,7 @@ layout: post
 title: 'Re: [Tools] Building a customized JBoss distribution with Maven2'
 created: 1238676348
 author: itai
-permalink: re-tools-building-customized-jboss-distribution-maven2
+permalink: /re-tools-building-customized-jboss-distribution-maven2
 ---
 You can use http://network.tikalk.com/release/repository/org/jboss/jboss-application-server/4.2.3.GA
 

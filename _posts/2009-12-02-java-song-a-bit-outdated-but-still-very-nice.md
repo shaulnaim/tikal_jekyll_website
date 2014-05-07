@@ -3,7 +3,7 @@ layout: post
 title: Java SONG , a bit outdated , but still VERY NICE!
 created: 1259787048
 author: peterk
-permalink: java/java-song-bit-outdated-still-very-nice
+permalink: /java/java-song-bit-outdated-still-very-nice
 tags:
 - JAVA
 - java song

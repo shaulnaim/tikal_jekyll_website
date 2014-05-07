@@ -3,7 +3,7 @@ layout: post
 title: 'FOSS: War is over (if you want it) '
 created: 1255387031
 author: lior.kanfi
-permalink: java/foss-war-over-if-you-want-it
+permalink: /java/foss-war-over-if-you-want-it
 tags:
 - JAVA
 - Open Source

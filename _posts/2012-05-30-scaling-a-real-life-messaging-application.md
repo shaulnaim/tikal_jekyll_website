@@ -3,7 +3,7 @@ layout: post
 title: Scaling a real life messaging application
 created: 1338394544
 author: avit
-permalink: scaling-real-life-messaging-application
+permalink: /scaling-real-life-messaging-application
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: 'jsync - javascript object replication  edit  '
 created: 1256742770
 author: ittayd
-permalink: java/jsync-javascript-object-replication-edit
+permalink: /java/jsync-javascript-object-replication-edit
 tags:
 - JAVA
 - Scala

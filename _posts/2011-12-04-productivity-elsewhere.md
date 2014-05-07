@@ -3,7 +3,7 @@ layout: post
 title: Productivity Elsewhere
 created: 1322987157
 author: adi
-permalink: productivity-elsewhere
+permalink: /productivity-elsewhere
 tags:
 - Incubator
 - Scala

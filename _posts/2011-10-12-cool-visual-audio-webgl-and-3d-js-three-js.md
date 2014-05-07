@@ -3,7 +3,7 @@ layout: post
 title: 'Cool visual audio WebGL & 3d js (three.js) '
 created: 1318403132
 author: orenf
-permalink: cool-visual-audio-webgl-3d-js-threejs
+permalink: /cool-visual-audio-webgl-3d-js-threejs
 tags:
 - Incubator
 - html5 WebGL

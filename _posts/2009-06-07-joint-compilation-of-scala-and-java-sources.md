@@ -3,7 +3,7 @@ layout: post
 title: Joint Compilation of Scala and Java Sources
 created: 1244393816
 author: adi
-permalink: java/joint-compilation-scala-and-java-sources
+permalink: /java/joint-compilation-scala-and-java-sources
 tags:
 - JAVA
 - Scala

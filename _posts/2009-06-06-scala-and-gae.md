@@ -3,7 +3,7 @@ layout: post
 title: Scala and GAE
 created: 1244248582
 author: adi
-permalink: java/scala-and-gae
+permalink: /java/scala-and-gae
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Backbone & Angry Birds in London
 created: 1350850632
 author: orenf
-permalink: js/backbone-angry-birds-london
+permalink: /js/backbone-angry-birds-london
 tags:
 - JS
 ---

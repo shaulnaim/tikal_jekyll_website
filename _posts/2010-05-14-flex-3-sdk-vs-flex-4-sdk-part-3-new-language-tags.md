@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 3 – New language tags
 created: 1273819723
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk-–-part-3-–-new-language-tags
+permalink: /flex-3-sdk-vs-flex-4-sdk-–-part-3-–-new-language-tags
 tags:
 - flex
 - gwt

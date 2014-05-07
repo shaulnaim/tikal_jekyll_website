@@ -3,7 +3,7 @@ layout: post
 title: 'Appcelerator: Accelerate Your RIA Development'
 created: 1224746192
 author: ittayd
-permalink: java/appcelerator-accelerate-your-ria-development
+permalink: /java/appcelerator-accelerate-your-ria-development
 tags:
 - JAVA
 - ria

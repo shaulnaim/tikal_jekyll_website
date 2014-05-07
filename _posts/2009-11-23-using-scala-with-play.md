@@ -3,7 +3,7 @@ layout: post
 title: Using Scala with Play
 created: 1258976422
 author: adi
-permalink: java/using-scala-play
+permalink: /java/using-scala-play
 tags:
 - JAVA
 - Play

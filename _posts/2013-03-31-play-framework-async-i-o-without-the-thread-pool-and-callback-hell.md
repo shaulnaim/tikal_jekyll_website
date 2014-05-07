@@ -3,7 +3,7 @@ layout: post
 title: 'Play Framework: async I/O without the thread pool and callback hell'
 created: 1364688648
 author: ittayd
-permalink: java/play-framework-async-io-without-thread-pool-and-callback-hell
+permalink: /java/play-framework-async-io-without-thread-pool-and-callback-hell
 tags:
 - JAVA
 - evented i/o scala play!

@@ -3,7 +3,7 @@ layout: post
 title: Enabeling MySQL multi threading
 created: 1251333591
 author: udid
-permalink: java/enabeling-mysql-multi-threading
+permalink: /java/enabeling-mysql-multi-threading
 tags:
 - JAVA
 - MySQL

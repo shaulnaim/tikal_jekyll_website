@@ -3,7 +3,7 @@ layout: post
 title: Application freezes - too many full GC's
 created: 1262702254
 author: elad
-permalink: java/application-freezes-too-many-full-gcs
+permalink: /java/application-freezes-too-many-full-gcs
 tags:
 - JAVA
 - jvm

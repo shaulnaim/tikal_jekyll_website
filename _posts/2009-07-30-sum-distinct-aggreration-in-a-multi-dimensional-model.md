@@ -3,7 +3,7 @@ layout: post
 title: Sum Distinct Aggreration in a multi-dimensional model
 created: 1248947503
 author: udid
-permalink: java/sum-distinct-aggreration-multi-dimensional-model
+permalink: /java/sum-distinct-aggreration-multi-dimensional-model
 tags:
 - JAVA
 - Pentaho

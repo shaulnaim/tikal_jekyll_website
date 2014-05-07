@@ -3,7 +3,7 @@ layout: post
 title: 'java.lang.AssertionError: Method must be called before the widget is rendered'
 created: 1374995431
 author: olga
-permalink: javalangassertionerror-method-must-be-called-widget-rendered
+permalink: /javalangassertionerror-method-must-be-called-widget-rendered
 tags:
 - JAVA
 - Sencha GXT

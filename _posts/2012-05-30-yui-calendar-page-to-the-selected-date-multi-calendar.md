@@ -3,7 +3,7 @@ layout: post
 title: YUI Calendar page to the selected date (multi calendar)
 created: 1338394544
 author: avit
-permalink: yui-calendar-page-selected-date-multi-calendar
+permalink: /yui-calendar-page-selected-date-multi-calendar
 tags:
 - RoR
 - web

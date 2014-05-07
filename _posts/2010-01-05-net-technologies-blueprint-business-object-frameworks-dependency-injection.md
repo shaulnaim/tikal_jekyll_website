@@ -3,7 +3,7 @@ layout: post
 title: '.NET Technologies Blueprint: Business Object Frameworks – Dependency Injection'
 created: 1262685257
 author: dror
-permalink: net/net-technologies-blueprint-business-object-frameworks-–-dependency-injection
+permalink: /net/net-technologies-blueprint-business-object-frameworks-–-dependency-injection
 tags:
 - .NET
 - blueprint

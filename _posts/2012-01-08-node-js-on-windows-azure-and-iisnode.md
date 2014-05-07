@@ -3,7 +3,7 @@ layout: post
 title: Node.js on Windows Azure & iisnode
 created: 1326054373
 author: menny
-permalink: nodejs-windows-azure-iisnode
+permalink: /nodejs-windows-azure-iisnode
 tags:
 - .NET
 - node.js

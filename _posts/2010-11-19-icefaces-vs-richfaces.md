@@ -3,7 +3,7 @@ layout: post
 title: ICEfaces VS. RichFaces
 created: 1290174293
 author: admin
-permalink: java/icefaces-vs-richfaces
+permalink: /java/icefaces-vs-richfaces
 tags:
 - JAVA
 - ICEfaces RichFaces JSF ajax push portals portlets a4j javascript

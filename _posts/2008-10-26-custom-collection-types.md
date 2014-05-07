@@ -3,7 +3,7 @@ layout: post
 title: Custom Collection Types
 created: 1225050538
 author: yanai
-permalink: java/custom-collection-types
+permalink: /java/custom-collection-types
 tags:
 - JAVA
 - Hibernate

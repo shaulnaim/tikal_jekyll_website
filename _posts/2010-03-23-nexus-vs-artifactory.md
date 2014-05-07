@@ -3,7 +3,7 @@ layout: post
 title: Nexus vs Artifactory
 created: 1269339803
 author: liya
-permalink: alm/nexus-vs-artifactory
+permalink: /alm/nexus-vs-artifactory
 tags:
 - ALM
 - Nexus

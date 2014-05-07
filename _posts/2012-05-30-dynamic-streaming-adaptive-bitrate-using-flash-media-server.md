@@ -3,7 +3,7 @@ layout: post
 title: Dynamic streaming (Adaptive bitrate) using Flash media Server
 created: 1338394544
 author: avit
-permalink: dynamic-streaming-adaptive-bitrate-using-flash-media-server
+permalink: /dynamic-streaming-adaptive-bitrate-using-flash-media-server
 tags:
 - RoR
 - web

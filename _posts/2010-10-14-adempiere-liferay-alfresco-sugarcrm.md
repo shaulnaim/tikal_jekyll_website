@@ -2,7 +2,7 @@
 layout: post
 title: adempiere liferay alfresco sugarcrm ...
 created: 1287043178
-permalink: js/adempiere-liferay-alfresco-sugarcrm
+permalink: /js/adempiere-liferay-alfresco-sugarcrm
 tags:
 - JS
 ---

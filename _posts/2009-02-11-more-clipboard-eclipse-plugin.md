@@ -3,7 +3,7 @@ layout: post
 title: More Clipboard Eclipse plugin
 created: 1234339545
 author: keren
-permalink: alm/more-clipboard-eclipse-plugin
+permalink: /alm/more-clipboard-eclipse-plugin
 tags:
 - ALM
 - Eclipse Clipboard

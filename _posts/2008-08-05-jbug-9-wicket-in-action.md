@@ -3,7 +3,7 @@ layout: post
 title: JBUG 9 - Wicket in action
 created: 1217916000
 author: zvika
-permalink: java/jbug-9-wicket-action
+permalink: /java/jbug-9-wicket-action
 tags:
 - JAVA
 ---

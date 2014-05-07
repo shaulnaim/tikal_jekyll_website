@@ -3,7 +3,7 @@ layout: post
 title: Thoughts About Pre-Compiled Javascript Languages
 created: 1383560535
 author: orenf
-permalink: js/thought-about-pre-compiled-javascript-languages
+permalink: /js/thought-about-pre-compiled-javascript-languages
 tags:
 - JS
 - Javascript

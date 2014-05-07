@@ -3,7 +3,7 @@ layout: post
 title: Progressive archive loading in Flex
 created: 1292773923
 author: vladislavm
-permalink: js/progressive-archive-loading-flex
+permalink: /js/progressive-archive-loading-flex
 tags:
 - JS
 - serialization

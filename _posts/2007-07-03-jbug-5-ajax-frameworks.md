@@ -3,7 +3,7 @@ layout: post
 title: JBUG 5 - AJAX Frameworks
 created: 1183442400
 author: zvika
-permalink: java/jbug-5-ajax-frameworks
+permalink: /java/jbug-5-ajax-frameworks
 tags:
 - JAVA
 ---

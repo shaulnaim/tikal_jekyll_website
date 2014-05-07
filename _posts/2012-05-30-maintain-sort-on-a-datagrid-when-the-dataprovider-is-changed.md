@@ -3,7 +3,7 @@ layout: post
 title: Maintain sort on a DataGrid when the dataProvider is changed
 created: 1338394544
 author: avit
-permalink: maintain-sort-datagrid-when-dataprovider-changed
+permalink: /maintain-sort-datagrid-when-dataprovider-changed
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: 'Zombie.js - Insanely fast, headless full-stack testing using Node.js '
 created: 1294238635
 author: ittayd
-permalink: incubator/zombiejs-insanely-fast-headless-full-stack-testing-using-nodejs
+permalink: /incubator/zombiejs-insanely-fast-headless-full-stack-testing-using-nodejs
 tags:
 - Incubator
 - node.js

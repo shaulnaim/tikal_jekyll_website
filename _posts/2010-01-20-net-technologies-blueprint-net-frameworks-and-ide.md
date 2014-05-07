@@ -3,7 +3,7 @@ layout: post
 title: '.Net technologies blueprint: .NET frameworks & IDE'
 created: 1263975333
 author: igorz
-permalink: net/net-technologies-blueprint-net-frameworks-ide
+permalink: /net/net-technologies-blueprint-net-frameworks-ide
 tags:
 - .NET
 - IDE

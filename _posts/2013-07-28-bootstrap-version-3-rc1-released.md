@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap version 3 (RC1) released
 created: 1374992542
 author: orenf
-permalink: bootstrap-version-3-rc1-released
+permalink: /bootstrap-version-3-rc1-released
 tags:
 - JS
 - bootstrap

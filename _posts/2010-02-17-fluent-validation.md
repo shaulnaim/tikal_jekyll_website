@@ -3,7 +3,7 @@ layout: post
 title: Fluent Validation
 created: 1266419781
 author: igorz
-permalink: net/fluent-validation
+permalink: /net/fluent-validation
 tags:
 - .NET
 - .Net Open Source

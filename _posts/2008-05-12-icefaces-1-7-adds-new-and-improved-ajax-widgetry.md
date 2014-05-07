@@ -3,7 +3,7 @@ layout: post
 title: IceFaces 1.7 adds new and improved Ajax widgetry
 created: 1210584960
 author: hila
-permalink: java/icefaces-17-adds-new-and-improved-ajax-widgetry
+permalink: /java/icefaces-17-adds-new-and-improved-ajax-widgetry
 tags:
 - JAVA
 ---

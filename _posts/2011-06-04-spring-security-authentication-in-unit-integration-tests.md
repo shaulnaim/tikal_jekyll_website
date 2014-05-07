@@ -3,7 +3,7 @@ layout: post
 title: Spring Security Authentication in Unit / Integration tests
 created: 1307195312
 author: ori
-permalink: java/spring-security-authentication-unit-integration-tests
+permalink: /java/spring-security-authentication-unit-integration-tests
 tags:
 - JAVA
 - Spring Security Integration tests Spring TestContext Framework

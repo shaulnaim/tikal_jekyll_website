@@ -3,7 +3,7 @@ layout: post
 title: Jquery 1.7 - A New Event API's
 created: 1321369389
 author: orenf
-permalink: jquery-17-new-event-apis
+permalink: /jquery-17-new-event-apis
 tags:
 - JS
 ---

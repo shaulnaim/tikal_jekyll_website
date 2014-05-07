@@ -3,7 +3,7 @@ layout: post
 title: ' Fast, easy, realtime metrics using Redis bitmaps'
 created: 1325494381
 author: dor
-permalink: fast-easy-realtime-metrics-using-redis-bitmaps
+permalink: /fast-easy-realtime-metrics-using-redis-bitmaps
 tags:
 - Incubator
 - performance redis stats nosql

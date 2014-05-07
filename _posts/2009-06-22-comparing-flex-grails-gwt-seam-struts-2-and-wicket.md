@@ -3,7 +3,7 @@ layout: post
 title: Comparing Flex, Grails, GWT, Seam, Struts 2 and Wicket
 created: 1245670415
 author: lior.kanfi
-permalink: js/comparing-flex-grails-gwt-seam-struts-2-and-wicket
+permalink: /js/comparing-flex-grails-gwt-seam-struts-2-and-wicket
 tags:
 - JS
 - wicket

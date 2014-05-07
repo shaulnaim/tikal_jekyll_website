@@ -3,7 +3,7 @@ layout: post
 title: Flex SDK 3 Vs. 4 - Part 1 - Namespaces
 created: 1271828134
 author: sefi
-permalink: js/flex-sdk-3-vs-4-part-1-namespaces
+permalink: /js/flex-sdk-3-vs-4-part-1-namespaces
 tags:
 - JS
 - Spark

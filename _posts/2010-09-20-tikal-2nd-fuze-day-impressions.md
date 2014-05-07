@@ -3,7 +3,7 @@ layout: post
 title: ' Tikal 2nd Fuze day – impressions'
 created: 1284979807
 author: sefi
-permalink: js/tikal-2nd-fuze-day-–-impressions
+permalink: /js/tikal-2nd-fuze-day-–-impressions
 tags:
 - JS
 - fuze day

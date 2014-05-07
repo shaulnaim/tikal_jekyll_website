@@ -3,7 +3,7 @@ layout: post
 title: Sonatype releases new library to interact with artifact repositories
 created: 1281447976
 author: ittayd
-permalink: alm/sonatype-releases-new-library-interact-artifact-repositories
+permalink: /alm/sonatype-releases-new-library-interact-artifact-repositories
 tags:
 - ALM
 - java maven repository artifacts

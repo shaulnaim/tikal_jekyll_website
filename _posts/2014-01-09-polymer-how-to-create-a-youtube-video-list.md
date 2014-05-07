@@ -3,7 +3,7 @@ layout: post
 title: Polymer - how to create a youtube video list
 created: 1389269031
 author: orenf
-permalink: polymer-how-create-youtube-video-list
+permalink: /polymer-how-create-youtube-video-list
 tags:
 - JS
 - Javascript

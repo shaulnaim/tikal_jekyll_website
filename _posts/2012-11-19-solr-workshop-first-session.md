@@ -3,7 +3,7 @@ layout: post
 title: Solr Workshop - First Session
 created: 1353316447
 author: yanai
-permalink: java/solr-workshop-first-session
+permalink: /java/solr-workshop-first-session
 tags:
 - JAVA
 ---

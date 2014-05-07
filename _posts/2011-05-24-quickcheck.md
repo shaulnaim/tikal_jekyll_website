@@ -3,7 +3,7 @@ layout: post
 title: quickcheck
 created: 1306226704
 author: ittayd
-permalink: java/quickcheck
+permalink: /java/quickcheck
 tags:
 - JAVA
 - testing

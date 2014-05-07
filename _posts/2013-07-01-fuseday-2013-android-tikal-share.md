@@ -3,7 +3,7 @@ layout: post
 title: FuseDay 2013 Android – Tikal share
 created: 1372701710
 author: michaelh
-permalink: incubator/fuseday-2013-android-–-tikal-share
+permalink: /incubator/fuseday-2013-android-–-tikal-share
 tags:
 - Incubator
 - Fuse day

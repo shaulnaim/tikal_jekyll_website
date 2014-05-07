@@ -3,7 +3,7 @@ layout: post
 title: Is Java a functional language?
 created: 1260879861
 author: ittayd
-permalink: java/java-functional-language
+permalink: /java/java-functional-language
 tags:
 - JAVA
 ---

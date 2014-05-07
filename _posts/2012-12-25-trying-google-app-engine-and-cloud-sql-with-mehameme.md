@@ -3,7 +3,7 @@ layout: post
 title: Trying Google App Engine and Cloud SQL with Mehameme
 created: 1356451560
 author: alexa
-permalink: incubator/trying-google-app-engine-and-cloud-sql-mehameme
+permalink: /incubator/trying-google-app-engine-and-cloud-sql-mehameme
 tags:
 - Incubator
 - Fuse day

@@ -3,7 +3,7 @@ layout: post
 title: RobotLegs makes me smile every time
 created: 1338394544
 author: avit
-permalink: robotlegs-makes-me-smile-every-time
+permalink: /robotlegs-makes-me-smile-every-time
 tags:
 - RoR
 - web

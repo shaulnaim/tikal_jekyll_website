@@ -3,7 +3,7 @@ layout: post
 title: 'HBase: Bigtable-like structured storage for Hadoop HDFS'
 created: 1225740677
 author: yanai
-permalink: java/hbase-bigtable-structured-storage-hadoop-hdfs
+permalink: /java/hbase-bigtable-structured-storage-hadoop-hdfs
 tags:
 - JAVA
 - BigTable Hadoop

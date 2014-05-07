@@ -3,7 +3,7 @@ layout: post
 title: Hibernate 2nd Training Session
 created: 1310643805
 author: yanai
-permalink: java/hibernate-2nd-training-session
+permalink: /java/hibernate-2nd-training-session
 tags:
 - JAVA
 ---

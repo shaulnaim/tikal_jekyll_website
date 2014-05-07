@@ -3,7 +3,7 @@ layout: post
 title: Does Your Web Project Suck?
 created: 1207817820
 author: hila
-permalink: java/does-your-web-project-suck
+permalink: /java/does-your-web-project-suck
 tags:
 - JAVA
 ---

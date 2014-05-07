@@ -3,7 +3,7 @@ layout: post
 title: Free WordPress Hosting – Search Results
 created: 1346599947
 author: amiram
-permalink: net/free-wordpress-hosting-–-search-results
+permalink: /net/free-wordpress-hosting-–-search-results
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Flex 3 on build machine: Flex Charting Components water mark'
 created: 1254331020
 author: liorb
-permalink: flex-3-build-machine-flex-charting-components-water-mark
+permalink: /flex-3-build-machine-flex-charting-components-water-mark
 tags:
 - Flex Java
 ---

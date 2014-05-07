@@ -3,7 +3,7 @@ layout: post
 title: MS & OSS, a Love and Hate story... .NET TCE 26.6.13 @ Krypton
 created: 1369059145
 author: menny
-permalink: net/ms-os-love-and-hate-story-net-tce-16613-krypton
+permalink: /net/ms-os-love-and-hate-story-net-tce-16613-krypton
 tags:
 - .NET
 - .net

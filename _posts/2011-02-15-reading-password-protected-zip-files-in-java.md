@@ -3,7 +3,7 @@ layout: post
 title: Reading Password-Protected ZIP Files in Java
 created: 1297776437
 author: roni
-permalink: java/reading-password-protected-zip-files-java
+permalink: /java/reading-password-protected-zip-files-java
 tags:
 - JAVA
 - zip4j

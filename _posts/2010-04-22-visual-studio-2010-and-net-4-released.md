@@ -3,7 +3,7 @@ layout: post
 title: Visual Studio 2010 and .NET 4 Released
 created: 1271950313
 author: igorz
-permalink: net/visual-studio-2010-and-net-4-released
+permalink: /net/visual-studio-2010-and-net-4-released
 tags:
 - .NET
 - Visual Studio

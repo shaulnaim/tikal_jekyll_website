@@ -3,7 +3,7 @@ layout: post
 title: Getting Started with Reactive Extensions (part 1)
 created: 1341771896
 author: menny
-permalink: getting-started-reactive-extensions-part-1
+permalink: /getting-started-reactive-extensions-part-1
 tags:
 - .NET
 ---

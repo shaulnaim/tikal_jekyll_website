@@ -3,7 +3,7 @@ layout: post
 title: A Whole new page
 created: 1338394544
 author: avit
-permalink: whole-new-page
+permalink: /whole-new-page
 tags:
 - RoR
 - web

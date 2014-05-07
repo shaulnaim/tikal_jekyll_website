@@ -3,7 +3,7 @@ layout: post
 title: IZWebFileManager is a 2 million dollar project!
 created: 1330675260
 author: igorz
-permalink: net/izwebfilemanager-2-million-dollar-project
+permalink: /net/izwebfilemanager-2-million-dollar-project
 tags:
 - .NET
 - .Net Open Source

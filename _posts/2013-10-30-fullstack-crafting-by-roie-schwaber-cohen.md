@@ -3,7 +3,7 @@ layout: post
 title: Fullstack Crafting by Roie Schwaber-Cohen
 created: 1383120210
 author: lior.kanfi
-permalink: js/fullstack-crafting-by-roie-schwaber-cohen
+permalink: /js/fullstack-crafting-by-roie-schwaber-cohen
 tags:
 - JS
 ---

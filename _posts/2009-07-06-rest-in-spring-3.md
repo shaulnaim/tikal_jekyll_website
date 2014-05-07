@@ -3,7 +3,7 @@ layout: post
 title: REST in Spring 3
 created: 1246854157
 author: yanai
-permalink: java/rest-spring-3
+permalink: /java/rest-spring-3
 tags:
 - JAVA
 - Rest Spring3

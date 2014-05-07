@@ -3,7 +3,7 @@ layout: post
 title: Physics Engine for Google Web Toolkit (gwtbox2d)
 created: 1315127702
 author: aviy
-permalink: physics-engine-google-web-toolkit-gwtbox2d
+permalink: /physics-engine-google-web-toolkit-gwtbox2d
 tags:
 - JAVA
 - Canvas

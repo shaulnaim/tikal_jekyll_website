@@ -3,7 +3,7 @@ layout: post
 title: slides from our last server forum on Lucene
 created: 1239058432
 author: shalom
-permalink: java/slides-our-last-server-forum-lucene
+permalink: /java/slides-our-last-server-forum-lucene
 tags:
 - JAVA
 - lucene nutch solr text search luke tika lucy

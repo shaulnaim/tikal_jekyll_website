@@ -3,7 +3,7 @@ layout: post
 title: 'Example of java cache  and  types of reference to object in Java '
 created: 1288428058
 author: olga
-permalink: java/example-java-cache-and-types-reference-object-java
+permalink: /java/example-java-cache-and-types-reference-object-java
 tags:
 - JAVA
 - java reference cache

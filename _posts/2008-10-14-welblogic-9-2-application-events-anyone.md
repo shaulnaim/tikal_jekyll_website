@@ -3,7 +3,7 @@ layout: post
 title: Welblogic 9.2 application events, anyone?
 created: 1224006793
 author: zvika
-permalink: java/welblogic-92-application-events-anyone
+permalink: /java/welblogic-92-application-events-anyone
 tags:
 - JAVA
 - weblogic

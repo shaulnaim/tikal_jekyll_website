@@ -3,7 +3,7 @@ layout: post
 title: ScaConsole - a gui frontend to the scala repl
 created: 1305709411
 author: ittayd
-permalink: incubator/scaconsole-gui-frontend-scala-repl
+permalink: /incubator/scaconsole-gui-frontend-scala-repl
 tags:
 - Incubator
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: 'Source Code: Credit card number validation (Israeli Visa)'
 created: 1338394544
 author: avit
-permalink: source-code-credit-card-number-validation-israeli-visa
+permalink: /source-code-credit-card-number-validation-israeli-visa
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Flash / Flex Israel Adobe group meeting
 created: 1272833276
 author: sefi
-permalink: flash-flex-israel-adobe-group-meeting
+permalink: /flash-flex-israel-adobe-group-meeting
 tags:
 - gwt
 - flex

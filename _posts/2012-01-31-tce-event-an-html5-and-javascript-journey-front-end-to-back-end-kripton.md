@@ -3,7 +3,7 @@ layout: post
 title: TCE Event  - An HTML5 & Javascript Journey - Front End to Back End @Kripton
 created: 1328014552
 author: orenf
-permalink: tce-event-html5-javascript-journey-front-end-back-end-kripton
+permalink: /tce-event-html5-javascript-journey-front-end-back-end-kripton
 tags:
 - JS
 ---

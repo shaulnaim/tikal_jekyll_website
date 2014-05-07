@@ -3,7 +3,7 @@ layout: post
 title: gitblit - a java based repository management for git
 created: 1334331017
 author: ittayd
-permalink: gitblit-java-based-repository-management-git
+permalink: /gitblit-java-based-repository-management-git
 tags:
 - ALM
 - git

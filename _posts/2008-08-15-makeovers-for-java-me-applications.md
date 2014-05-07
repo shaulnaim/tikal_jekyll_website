@@ -3,7 +3,7 @@ layout: post
 title: Makeovers for Java ME applications
 created: 1218827879
 author: zvika
-permalink: makeovers-java-me-applications
+permalink: /makeovers-java-me-applications
 ---
 <br />
 <br />

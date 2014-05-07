@@ -3,7 +3,7 @@ layout: post
 title: Using jenkins-cli as job Gen
 created: 1371333980
 author: hagzag
-permalink: alm/using-jenkins-cli-job-gen
+permalink: /alm/using-jenkins-cli-job-gen
 tags:
 - ALM
 - jenkins

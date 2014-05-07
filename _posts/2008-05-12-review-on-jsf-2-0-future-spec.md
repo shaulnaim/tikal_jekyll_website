@@ -3,7 +3,7 @@ layout: post
 title: Review on jsf 2.0 future spec
 created: 1210584180
 author: hila
-permalink: java/review-jsf-20-future-spec
+permalink: /java/review-jsf-20-future-spec
 tags:
 - JAVA
 ---

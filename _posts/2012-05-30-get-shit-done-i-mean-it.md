@@ -3,7 +3,7 @@ layout: post
 title: Get shit done. I mean it!
 created: 1338394544
 author: avit
-permalink: get-shit-done-i-mean-it
+permalink: /get-shit-done-i-mean-it
 tags:
 - RoR
 - web

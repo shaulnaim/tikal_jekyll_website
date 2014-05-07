@@ -3,7 +3,7 @@ layout: post
 title: Flex formatter - Eclipse plugin
 created: 1231050405
 author: keren
-permalink: js/flex-formatter-eclipse-plugin
+permalink: /js/flex-formatter-eclipse-plugin
 tags:
 - JS
 - flex eclipse

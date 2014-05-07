@@ -3,7 +3,7 @@ layout: post
 title: 'iBATIS, Hibernate, and JPA: Which is right for you?'
 created: 1216488600
 author: yanai
-permalink: java/ibatis-hibernate-and-jpa-which-right-you
+permalink: /java/ibatis-hibernate-and-jpa-which-right-you
 tags:
 - JAVA
 - Hibernate

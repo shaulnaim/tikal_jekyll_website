@@ -3,7 +3,7 @@ layout: post
 title: timing attacks
 created: 1279423911
 author: ittayd
-permalink: java/timing-attacks
+permalink: /java/timing-attacks
 tags:
 - JAVA
 - java security

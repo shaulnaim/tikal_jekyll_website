@@ -3,7 +3,7 @@ layout: post
 title: Wireframing Tools
 created: 1288693525
 author: orenf
-permalink: js/wireframing-tools
+permalink: /js/wireframing-tools
 tags:
 - JS
 - wireframe

@@ -3,7 +3,7 @@ layout: post
 title: 'traceur-compiler: Google''s vehicle for Javascript Language Design Experimentation '
 created: 1304504945
 author: ittayd
-permalink: incubator/traceur-compiler-googles-vehicle-javascript-language-design-experimentation
+permalink: /incubator/traceur-compiler-googles-vehicle-javascript-language-design-experimentation
 tags:
 - Incubator
 ---

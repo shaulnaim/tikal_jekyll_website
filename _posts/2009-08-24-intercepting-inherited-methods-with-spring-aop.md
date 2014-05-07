@@ -3,7 +3,7 @@ layout: post
 title: intercepting inherited methods with spring aop
 created: 1251139765
 author: shalom
-permalink: java/intercepting-inherited-methods-spring-aop
+permalink: /java/intercepting-inherited-methods-spring-aop
 tags:
 - JAVA
 - spring aop inherited methods

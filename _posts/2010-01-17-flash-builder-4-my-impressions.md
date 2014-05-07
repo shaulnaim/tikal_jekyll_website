@@ -3,7 +3,7 @@ layout: post
 title: Flash Builder 4 – My impressions
 created: 1263719418
 author: sefi
-permalink: js/flash-builder-4-–-my-impressions
+permalink: /js/flash-builder-4-–-my-impressions
 tags:
 - JS
 - flex

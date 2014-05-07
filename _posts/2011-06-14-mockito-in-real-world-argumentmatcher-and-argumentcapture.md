@@ -3,7 +3,7 @@ layout: post
 title: 'Mockito in real world: ArgumentMatcher and ArgumentCapture'
 created: 1308069213
 author: andrew
-permalink: java/mockito-real-world-argumentmatcher-and-argumentcapture
+permalink: /java/mockito-real-world-argumentmatcher-and-argumentcapture
 tags:
 - JAVA
 - unit testing

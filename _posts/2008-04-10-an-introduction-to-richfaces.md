@@ -3,7 +3,7 @@ layout: post
 title: An introduction to RichFaces
 created: 1207818900
 author: hila
-permalink: java/introduction-richfaces
+permalink: /java/introduction-richfaces
 tags:
 - JAVA
 - jsf

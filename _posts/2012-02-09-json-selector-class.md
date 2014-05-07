@@ -3,7 +3,7 @@ layout: post
 title: JSON selector class
 created: 1328780505
 author: orenf
-permalink: json-selector-class
+permalink: /json-selector-class
 tags:
 - JS
 ---

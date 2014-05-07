@@ -3,7 +3,7 @@ layout: post
 title: Add power of SASS to ASP.NET application
 created: 1381059838
 author: igorz
-permalink: net/add-power-sass-aspnet-application
+permalink: /net/add-power-sass-aspnet-application
 tags:
 - .NET
 - ASP.NET

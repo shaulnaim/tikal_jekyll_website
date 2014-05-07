@@ -3,7 +3,7 @@ layout: post
 title: Portable Ubuntu for Windows
 created: 1238970006
 author: lior.kanfi
-permalink: portable-ubuntu-windows
+permalink: /portable-ubuntu-windows
 tags:
 - Windows
 ---

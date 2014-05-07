@@ -3,7 +3,7 @@ layout: post
 title: 'The First Time Ever I Saw Your Face: Getting Started with JavaServer Faces'
 created: 1207818540
 author: hila
-permalink: java/first-time-ever-i-saw-your-face-getting-started-javaserver-faces
+permalink: /java/first-time-ever-i-saw-your-face-getting-started-javaserver-faces
 tags:
 - JAVA
 ---

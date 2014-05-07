@@ -3,7 +3,7 @@ layout: post
 title: A nice article on Drupal vs. Django
 created: 1269463577
 author: udib
-permalink: incubator/nice-article-drupal-vs-django
+permalink: /incubator/nice-article-drupal-vs-django
 tags:
 - Incubator
 - Drupal

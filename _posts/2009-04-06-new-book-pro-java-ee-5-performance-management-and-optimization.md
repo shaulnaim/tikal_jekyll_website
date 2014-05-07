@@ -3,7 +3,7 @@ layout: post
 title: 'New Book: Pro Java EE 5 Performance Management and Optimization'
 created: 1239030558
 author: peterk
-permalink: java/new-book-pro-java-ee-5-performance-management-and-optimization
+permalink: /java/new-book-pro-java-ee-5-performance-management-and-optimization
 tags:
 - JAVA
 ---

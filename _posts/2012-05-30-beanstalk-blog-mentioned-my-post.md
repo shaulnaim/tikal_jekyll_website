@@ -3,7 +3,7 @@ layout: post
 title: Beanstalk blog mentioned my post
 created: 1338394544
 author: avit
-permalink: beanstalk-blog-mentioned-my-post
+permalink: /beanstalk-blog-mentioned-my-post
 tags:
 - RoR
 - web

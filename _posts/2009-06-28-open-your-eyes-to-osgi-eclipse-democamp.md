@@ -3,7 +3,7 @@ layout: post
 title: Open Your Eyes To OSGi - Eclipse Democamp
 created: 1246178260
 author: yanai
-permalink: alm/open-your-eyes-osgi-eclipse-democamp
+permalink: /alm/open-your-eyes-osgi-eclipse-democamp
 tags:
 - ALM
 - OSGi

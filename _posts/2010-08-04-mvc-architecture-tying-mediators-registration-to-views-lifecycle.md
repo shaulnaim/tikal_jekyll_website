@@ -2,7 +2,7 @@
 layout: post
 title: MVC architecture - Tying mediator's registration to view's lifecycle
 created: 1280954212
-permalink: js/mvc-architecture-tying-mediators-registration-views-lifecycle
+permalink: /js/mvc-architecture-tying-mediators-registration-views-lifecycle
 tags:
 - JS
 - Design & Architecture

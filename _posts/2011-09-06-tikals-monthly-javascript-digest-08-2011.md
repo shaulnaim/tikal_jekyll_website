@@ -3,7 +3,7 @@ layout: post
 title: Tikal’s Monthly Javascript Digest - 08/2011
 created: 1315319871
 author: orenf
-permalink: tikal’s-monthly-javascript-digest-082011
+permalink: /tikal’s-monthly-javascript-digest-082011
 tags:
 - Incubator
 - frameworks

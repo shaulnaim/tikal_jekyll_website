@@ -3,7 +3,7 @@ layout: post
 title: Rails uninitialized constant Resque::Server
 created: 1338394544
 author: avit
-permalink: rails-uninitialized-constant-resqueserver
+permalink: /rails-uninitialized-constant-resqueserver
 tags:
 - RoR
 - web

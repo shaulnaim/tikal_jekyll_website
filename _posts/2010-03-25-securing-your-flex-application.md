@@ -3,7 +3,7 @@ layout: post
 title: Securing your Flex application
 created: 1269540298
 author: sefi
-permalink: securing-your-flex-application
+permalink: /securing-your-flex-application
 tags:
 - gwt
 - flex

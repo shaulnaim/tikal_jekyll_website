@@ -3,7 +3,7 @@ layout: post
 title: JBUG 11 - Outside The Java Box
 created: 1243499566
 author: zvika
-permalink: java/jbug-11-outside-java-box
+permalink: /java/jbug-11-outside-java-box
 tags:
 - JAVA
 ---

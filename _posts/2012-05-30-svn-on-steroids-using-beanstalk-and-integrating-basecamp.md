@@ -3,7 +3,7 @@ layout: post
 title: SVN on steroids using beanstalk and integrating basecamp
 created: 1338394544
 author: avit
-permalink: svn-steroids-using-beanstalk-and-integrating-basecamp
+permalink: /svn-steroids-using-beanstalk-and-integrating-basecamp
 tags:
 - RoR
 - web

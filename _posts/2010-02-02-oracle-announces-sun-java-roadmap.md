@@ -3,7 +3,7 @@ layout: post
 title: Oracle announces Sun Java roadmap
 created: 1265123162
 author: ittayd
-permalink: java/oracle-announces-sun-java-roadmap
+permalink: /java/oracle-announces-sun-java-roadmap
 tags:
 - JAVA
 ---

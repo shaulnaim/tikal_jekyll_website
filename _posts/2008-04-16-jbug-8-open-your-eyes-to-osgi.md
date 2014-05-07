@@ -3,7 +3,7 @@ layout: post
 title: JBUG 8 - Open Your Eyes to OSGi
 created: 1208325600
 author: zvika
-permalink: java/jbug-8-open-your-eyes-osgi
+permalink: /java/jbug-8-open-your-eyes-osgi
 tags:
 - JAVA
 - OSGi

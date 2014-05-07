@@ -3,7 +3,7 @@ layout: post
 title: Open Flash Charts (OFC2) y-axis label cutoff fixed (swf attached for download)
 created: 1299751311
 author: udid
-permalink: js/open-flash-charts-ofc2-y-axis-label-cutoff-fixed-swf-attached-download
+permalink: /js/open-flash-charts-ofc2-y-axis-label-cutoff-fixed-swf-attached-download
 tags:
 - JS
 - Pentaho

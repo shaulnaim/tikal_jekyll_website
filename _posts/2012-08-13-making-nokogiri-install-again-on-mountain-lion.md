@@ -3,7 +3,7 @@ layout: post
 title: Making Nokogiri install again on Mountain Lion
 created: 1344862401
 author: avit
-permalink: ror/making-nokogiri-install-again-mountain-lion
+permalink: /ror/making-nokogiri-install-again-mountain-lion
 tags:
 - RoR
 ---

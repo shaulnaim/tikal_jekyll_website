@@ -3,7 +3,7 @@ layout: post
 title: Mocking Arbitrary Depth Level Beans in Spring Tests
 created: 1289989626
 author: zvika
-permalink: java/mocking-arbitrary-depth-level-beans-spring-tests
+permalink: /java/mocking-arbitrary-depth-level-beans-spring-tests
 tags:
 - JAVA
 - Spring

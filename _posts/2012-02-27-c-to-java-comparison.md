@@ -3,7 +3,7 @@ layout: post
 title: C# To Java Comparison
 created: 1330378080
 author: menny
-permalink: c-java-comparison
+permalink: /c-java-comparison
 tags:
 - .NET
 ---

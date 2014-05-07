@@ -3,7 +3,7 @@ layout: post
 title: Choosing your Linux/Unix production Operating System
 created: 1288181033
 author: yanai
-permalink: java/choosing-your-linuxunix-production-operating-system
+permalink: /java/choosing-your-linuxunix-production-operating-system
 tags:
 - JAVA
 - Linux Redhat Ubuntu Solaris

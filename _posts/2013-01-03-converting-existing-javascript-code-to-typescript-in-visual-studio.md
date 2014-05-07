@@ -3,7 +3,7 @@ layout: post
 title: Converting existing JavaScript code to TypeScript in Visual Studio
 created: 1357198860
 author: igorz
-permalink: net/converting-existing-javascript-code-typescript-visual-studio
+permalink: /net/converting-existing-javascript-code-typescript-visual-studio
 tags:
 - .NET
 - .Net Open Source

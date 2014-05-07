@@ -3,7 +3,7 @@ layout: post
 title: HTML5 & CSS3 - Sneak Peek of the Good Stuff
 created: 1331561874
 author: odeds
-permalink: html5-css3-sneak-peek-good-stuff
+permalink: /html5-css3-sneak-peek-good-stuff
 tags:
 - JS
 - html5 javascript

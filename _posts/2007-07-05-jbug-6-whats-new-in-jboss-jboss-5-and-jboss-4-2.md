@@ -3,7 +3,7 @@ layout: post
 title: JBUG 6 - What's new in JBoss ? JBoss 5 & JBoss 4.2
 created: 1183615200
 author: zvika
-permalink: java/jbug-6-whats-new-jboss-jboss-5-jboss-42
+permalink: /java/jbug-6-whats-new-jboss-jboss-5-jboss-42
 tags:
 - JAVA
 ---

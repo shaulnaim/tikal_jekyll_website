@@ -3,7 +3,7 @@ layout: post
 title: GDG Beer-Sheva featuring "From Java to Scala, an Android application case"
 created: 1341403765
 author: ittayd
-permalink: gdg-beer-sheva-featuring-java-scala-android-application-case
+permalink: /gdg-beer-sheva-featuring-java-scala-android-application-case
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Tuning GC to minimizing pause time on multi-core servers
 created: 1216281540
 author: udid
-permalink: java/tuning-gc-minimizing-pause-time-multi-core-servers
+permalink: /java/tuning-gc-minimizing-pause-time-multi-core-servers
 tags:
 - JAVA
 ---

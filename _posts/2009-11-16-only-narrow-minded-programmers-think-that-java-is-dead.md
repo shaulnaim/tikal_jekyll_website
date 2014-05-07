@@ -3,7 +3,7 @@ layout: post
 title: Only Narrow-Minded Programmers Think That Java is Dead
 created: 1258398469
 author: yanai
-permalink: java/only-narrow-minded-programmers-think-java-dead
+permalink: /java/only-narrow-minded-programmers-think-java-dead
 tags:
 - JAVA
 ---

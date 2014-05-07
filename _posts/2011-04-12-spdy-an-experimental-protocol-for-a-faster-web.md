@@ -3,7 +3,7 @@ layout: post
 title: 'SPDY: An experimental protocol for a faster web '
 created: 1302590986
 author: ittayd
-permalink: incubator/spdy-experimental-protocol-faster-web
+permalink: /incubator/spdy-experimental-protocol-faster-web
 tags:
 - Incubator
 ---

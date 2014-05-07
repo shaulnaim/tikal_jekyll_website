@@ -3,7 +3,7 @@ layout: post
 title: 'Link: Growing the filesystem size on Amazon EC2'
 created: 1388939418
 author: avit
-permalink: link-growing-filesystem-size-amazon-ec2
+permalink: /link-growing-filesystem-size-amazon-ec2
 tags:
 - RoR
 ---

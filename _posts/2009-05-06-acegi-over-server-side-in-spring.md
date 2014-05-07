@@ -3,7 +3,7 @@ layout: post
 title: acegi over server side in spring
 created: 1241610631
 author: itaip
-permalink: java/acegi-over-server-side-spring
+permalink: /java/acegi-over-server-side-spring
 tags:
 - JAVA
 - Spring

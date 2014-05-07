@@ -3,7 +3,7 @@ layout: post
 title: Dice roller
 created: 1237793563
 author: sefi
-permalink: dice-roller
+permalink: /dice-roller
 tags:
 - gwt
 - flex

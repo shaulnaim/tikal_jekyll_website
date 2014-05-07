@@ -3,7 +3,7 @@ layout: post
 title: 'Semantic web marvels in a relational database - part II: Comparing alternatives'
 created: 1245354739
 author: yanai
-permalink: java/semantic-web-marvels-relational-database-part-ii-comparing-alternatives
+permalink: /java/semantic-web-marvels-relational-database-part-ii-comparing-alternatives
 tags:
 - JAVA
 - Semantic Web persistence

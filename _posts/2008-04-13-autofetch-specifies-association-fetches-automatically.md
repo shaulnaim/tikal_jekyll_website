@@ -3,7 +3,7 @@ layout: post
 title: 'Autofetch: specifies association fetches automatically'
 created: 1208099820
 author: yanai
-permalink: java/autofetch-specifies-association-fetches-automatically
+permalink: /java/autofetch-specifies-association-fetches-automatically
 tags:
 - JAVA
 - Hibernate

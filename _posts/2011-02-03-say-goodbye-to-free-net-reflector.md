@@ -3,7 +3,7 @@ layout: post
 title: Say goodbye to free .NET Reflector
 created: 1296724203
 author: igorz
-permalink: net/say-goodbye-free-net-reflector
+permalink: /net/say-goodbye-free-net-reflector
 tags:
 - .NET
 - .Net Open Source

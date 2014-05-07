@@ -3,7 +3,7 @@ layout: post
 title: Keeping up with MongoDB
 created: 1350584972
 author: chaim.turkel
-permalink: java/blog/keeping-mongodb
+permalink: /java/blog/keeping-mongodb
 tags:
 - JAVA
 - MongoDB

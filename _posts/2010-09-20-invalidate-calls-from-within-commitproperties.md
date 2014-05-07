@@ -3,7 +3,7 @@ layout: post
 title: Invalidate calls from within commitProperties
 created: 1284960171
 author: sefi
-permalink: js/invalidate-calls-within-commitproperties
+permalink: /js/invalidate-calls-within-commitproperties
 tags:
 - JS
 ---

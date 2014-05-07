@@ -3,7 +3,7 @@ layout: post
 title: Setting up Git, Git Extensions and GitHub account
 created: 1332843190
 author: igorz
-permalink: setting-git-git-extensions-and-github-account
+permalink: /setting-git-git-extensions-and-github-account
 tags:
 - .NET
 - GitHub

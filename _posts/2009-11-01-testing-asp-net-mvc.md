@@ -3,7 +3,7 @@ layout: post
 title: 'Testing ASP.NET MVC '
 created: 1257083062
 author: igorz
-permalink: net/testing-aspnet-mvc
+permalink: /net/testing-aspnet-mvc
 tags:
 - .NET
 - .Net Open Source

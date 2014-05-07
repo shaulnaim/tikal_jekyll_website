@@ -3,7 +3,7 @@ layout: post
 title: http://opinionated-programmer.com/2011/02/the-limits-of-continuous-deployment/
 created: 1320565437
 author: lior.kanfi
-permalink: httpopinionated-programmercom201102the-limits-continuous-deployment
+permalink: /httpopinionated-programmercom201102the-limits-continuous-deployment
 tags:
 - ALM
 - Continuous Deployment

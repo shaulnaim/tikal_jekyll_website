@@ -3,7 +3,7 @@ layout: post
 title: copy all files from a folder into a folder without the confirmation on linux
 created: 1344161388
 author: avit
-permalink: ror/copy-all-files-folder-folder-without-confirmation-linux
+permalink: /ror/copy-all-files-folder-folder-without-confirmation-linux
 tags:
 - RoR
 ---

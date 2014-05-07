@@ -3,7 +3,7 @@ layout: post
 title: Publish a WebService from a POJA with Java 6
 created: 1244670556
 author: zvika
-permalink: java/publish-webservice-poja-java-6
+permalink: /java/publish-webservice-poja-java-6
 tags:
 - JAVA
 - Java 6

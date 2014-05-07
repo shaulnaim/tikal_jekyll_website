@@ -3,7 +3,7 @@ layout: post
 title: C# Programming Tools
 created: 1267011837
 author: igorz
-permalink: net/c-programming-tools
+permalink: /net/c-programming-tools
 tags:
 - .NET
 ---

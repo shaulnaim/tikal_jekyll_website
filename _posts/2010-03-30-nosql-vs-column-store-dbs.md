@@ -3,7 +3,7 @@ layout: post
 title: NoSQL vs. column-store DBs
 created: 1269941306
 author: udid
-permalink: alm/nosql-vs-column-store-dbs
+permalink: /alm/nosql-vs-column-store-dbs
 tags:
 - ALM
 - OLAP

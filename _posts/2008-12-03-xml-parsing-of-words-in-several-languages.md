@@ -3,7 +3,7 @@ layout: post
 title: xml parsing of words in several languages
 created: 1228290233
 author: keren
-permalink: java/xml-parsing-words-several-languages
+permalink: /java/xml-parsing-words-several-languages
 tags:
 - JAVA
 - parse xml unicode

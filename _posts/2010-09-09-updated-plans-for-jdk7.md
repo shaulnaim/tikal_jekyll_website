@@ -3,7 +3,7 @@ layout: post
 title: updated plans for jdk7
 created: 1284051519
 author: ittayd
-permalink: java/updated-plans-jdk7
+permalink: /java/updated-plans-jdk7
 tags:
 - JAVA
 - java jdk7

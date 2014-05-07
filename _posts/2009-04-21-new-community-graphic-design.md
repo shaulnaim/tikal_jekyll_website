@@ -3,7 +3,7 @@ layout: post
 title: New Community Graphic Design
 created: 1240296314
 author: lior.kanfi
-permalink: new-community-graphic-design
+permalink: /new-community-graphic-design
 tags:
 - Community Tikal
 ---

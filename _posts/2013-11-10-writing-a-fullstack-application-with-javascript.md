@@ -3,7 +3,7 @@ layout: post
 title: Writing a Fullstack Application with Javascript
 created: 1384080035
 author: assafg
-permalink: js/writing-fullstack-application-javascript
+permalink: /js/writing-fullstack-application-javascript
 tags:
 - JS
 - HTML5

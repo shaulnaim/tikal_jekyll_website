@@ -3,7 +3,7 @@ layout: post
 title: 'MySQL Tip: query plan'
 created: 1246266574
 author: udid
-permalink: java/mysql-tip-query-plan
+permalink: /java/mysql-tip-query-plan
 tags:
 - JAVA
 - explain

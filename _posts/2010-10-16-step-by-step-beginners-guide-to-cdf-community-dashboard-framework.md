@@ -3,7 +3,7 @@ layout: post
 title: Step by Step Beginners Guide to CDF (Community Dashboard Framework)
 created: 1287219152
 author: udid
-permalink: java/step-step-beginners-guide-cdf-community-dashboard-framework
+permalink: /java/step-step-beginners-guide-cdf-community-dashboard-framework
 tags:
 - JAVA
 - Toturial

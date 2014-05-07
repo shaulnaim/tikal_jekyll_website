@@ -3,7 +3,7 @@ layout: post
 title: Bugzilla 3.6 is released
 created: 1272133837
 author: liya
-permalink: java/bugzilla-36-released
+permalink: /java/bugzilla-36-released
 tags:
 - JAVA
 - bugzilla

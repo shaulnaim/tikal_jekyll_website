@@ -3,7 +3,7 @@ layout: post
 title: 'Lessons Learned: The First Six Months of Running a Software Consultancy'
 created: 1342030489
 author: avit
-permalink: ror/lessons-learned-first-six-months-running-software-consultancy
+permalink: /ror/lessons-learned-first-six-months-running-software-consultancy
 tags:
 - RoR
 - web

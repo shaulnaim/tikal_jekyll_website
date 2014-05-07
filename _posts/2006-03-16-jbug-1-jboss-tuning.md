@@ -3,7 +3,7 @@ layout: post
 title: JBUG 1 - JBoss Tuning
 created: 1142492400
 author: zvika
-permalink: java/jbug-1-jboss-tuning
+permalink: /java/jbug-1-jboss-tuning
 tags:
 - JAVA
 - tuning

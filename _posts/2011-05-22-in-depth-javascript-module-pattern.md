@@ -3,7 +3,7 @@ layout: post
 title: In Depth JavaScript Module Pattern
 created: 1306070135
 author: orenf
-permalink: js/depth-javascript-module-pattern
+permalink: /js/depth-javascript-module-pattern
 tags:
 - JS
 - incubator

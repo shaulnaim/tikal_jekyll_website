@@ -3,7 +3,7 @@ layout: post
 title: Tracing in Jersey
 created: 1259616348
 author: adi
-permalink: java/tracing-jersey
+permalink: /java/tracing-jersey
 tags:
 - JAVA
 - Jersey

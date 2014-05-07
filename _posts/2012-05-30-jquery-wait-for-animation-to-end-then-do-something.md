@@ -3,7 +3,7 @@ layout: post
 title: jQuery - wait for animation to end then do something
 created: 1338394544
 author: avit
-permalink: jquery-wait-animation-end-then-do-something
+permalink: /jquery-wait-animation-end-then-do-something
 tags:
 - RoR
 - web

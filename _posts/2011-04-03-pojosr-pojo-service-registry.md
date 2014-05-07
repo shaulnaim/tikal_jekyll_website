@@ -3,7 +3,7 @@ layout: post
 title: pojosr - Pojo Service Registry
 created: 1301820081
 author: ittayd
-permalink: java/pojosr-pojo-service-registry
+permalink: /java/pojosr-pojo-service-registry
 tags:
 - JAVA
 - OSGi

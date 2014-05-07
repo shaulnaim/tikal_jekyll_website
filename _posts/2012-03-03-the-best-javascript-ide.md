@@ -3,7 +3,7 @@ layout: post
 title: The Best JavaScript IDE
 created: 1330786620
 author: menny
-permalink: best-javascript-ide
+permalink: /best-javascript-ide
 tags:
 - .NET
 ---

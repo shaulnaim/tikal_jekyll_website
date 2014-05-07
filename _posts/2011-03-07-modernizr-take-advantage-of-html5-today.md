@@ -3,7 +3,7 @@ layout: post
 title: Modernizr - take advantage of HTML5 today
 created: 1299476507
 author: igorz
-permalink: net/modernizr-take-advantage-html5-today
+permalink: /net/modernizr-take-advantage-html5-today
 tags:
 - .NET
 - .Net Open Source

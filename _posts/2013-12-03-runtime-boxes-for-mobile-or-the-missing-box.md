@@ -3,7 +3,7 @@ layout: post
 title: RUNTIME BOXES FOR MOBILE or THE MISSING BOX
 created: 1386060762
 author: yorammi
-permalink: runtime-boxes-mobile-or-missing-box
+permalink: /runtime-boxes-mobile-or-missing-box
 tags:
 - ALM
 - Mobile

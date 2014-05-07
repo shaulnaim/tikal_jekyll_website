@@ -3,7 +3,7 @@ layout: post
 title: parallel testing with PNUnit
 created: 1247046449
 author: andrew
-permalink: net/parallel-testing-pnunit
+permalink: /net/parallel-testing-pnunit
 tags:
 - .NET
 - parallel

@@ -4,7 +4,7 @@ title: Wakanda - open source platform for building business web applications wit
   JavaScript
 created: 1320578560
 author: orenf
-permalink: wakanda-open-source-platform-building-business-web-applications-javascript
+permalink: /wakanda-open-source-platform-building-business-web-applications-javascript
 tags:
 - Incubator
 ---

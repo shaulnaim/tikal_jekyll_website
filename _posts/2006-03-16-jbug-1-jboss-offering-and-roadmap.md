@@ -3,7 +3,7 @@ layout: post
 title: JBUG 1 - JBoss Offering and Roadmap
 created: 1142492400
 author: zvika
-permalink: java/jbug-1-jboss-offering-and-roadmap
+permalink: /java/jbug-1-jboss-offering-and-roadmap
 tags:
 - JAVA
 ---

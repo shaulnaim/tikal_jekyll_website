@@ -3,7 +3,7 @@ layout: post
 title: TermKit - an interesting use of web technologies to create nextgen terminal
 created: 1305722906
 author: ittayd
-permalink: incubator/termkit-interesting-use-web-technologies-create-nextgen-terminal
+permalink: /incubator/termkit-interesting-use-web-technologies-create-nextgen-terminal
 tags:
 - Incubator
 - HTML5

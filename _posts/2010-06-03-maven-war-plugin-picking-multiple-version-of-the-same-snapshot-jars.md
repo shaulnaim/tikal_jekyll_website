@@ -3,7 +3,7 @@ layout: post
 title: Maven War Plugin picking multiple version of the same SNAPSHOT jars
 created: 1275557554
 author: zvika
-permalink: alm/maven-war-plugin-picking-multiple-version-same-snapshot-jars
+permalink: /alm/maven-war-plugin-picking-multiple-version-same-snapshot-jars
 tags:
 - ALM
 - maven-war-plugin

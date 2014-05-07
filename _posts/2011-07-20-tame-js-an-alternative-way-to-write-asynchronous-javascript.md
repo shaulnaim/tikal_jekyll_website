@@ -3,7 +3,7 @@ layout: post
 title: tame.js - an alternative way to write asynchronous javascript
 created: 1311179194
 author: ittayd
-permalink: js/tamejs-alternative-way-write-asynchronous-javascript
+permalink: /js/tamejs-alternative-way-write-asynchronous-javascript
 tags:
 - JS
 ---

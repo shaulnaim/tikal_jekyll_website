@@ -3,7 +3,7 @@ layout: post
 title: Apache Kafka - a high-throughput distributed messaging system.
 created: 1371070324
 author: andrew
-permalink: java/apache-kafka-high-throughput-distributed-messaging-system
+permalink: /java/apache-kafka-high-throughput-distributed-messaging-system
 tags:
 - JAVA
 - messaging

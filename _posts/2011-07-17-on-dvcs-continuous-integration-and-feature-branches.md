@@ -3,7 +3,7 @@ layout: post
 title: On DVCS, continuous integration, and feature branches
 created: 1310915905
 author: lior.kanfi
-permalink: alm/dvcs-continuous-integration-and-feature-branches
+permalink: /alm/dvcs-continuous-integration-and-feature-branches
 tags:
 - ALM
 - Continuous Deployment

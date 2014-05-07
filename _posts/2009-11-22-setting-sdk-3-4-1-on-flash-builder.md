@@ -3,7 +3,7 @@ layout: post
 title: Setting SDK 3.4.1 on Flash Builder
 created: 1258902480
 author: liorb
-permalink: setting-sdk-341-flash-builder
+permalink: /setting-sdk-341-flash-builder
 tags:
 - Flex Java
 ---

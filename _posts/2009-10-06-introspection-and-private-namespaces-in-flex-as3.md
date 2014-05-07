@@ -3,7 +3,7 @@ layout: post
 title: Introspection and private namespaces in Flex/AS3
 created: 1254816491
 author: sefi
-permalink: introspection-and-private-namespaces-flexas3
+permalink: /introspection-and-private-namespaces-flexas3
 tags:
 - gwt
 - flex

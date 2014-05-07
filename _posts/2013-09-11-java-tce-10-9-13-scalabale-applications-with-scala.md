@@ -3,7 +3,7 @@ layout: post
 title: Java TCE 10/9/13 - Scalabale Applications with Scala
 created: 1378894138
 author: nimrod
-permalink: java/java-tce-10913-scalabale-applications-scala
+permalink: /java/java-tce-10913-scalabale-applications-scala
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: ' HTML5, CSS3 & Javascript Showcase for Safari by Apple'
 created: 1275979366
 author: udid
-permalink: html5-css3-javascript-showcase-safari-apple
+permalink: /html5-css3-javascript-showcase-safari-apple
 tags:
 - HTML 5.0
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Send E-mail Using Spring and JavaMail
 created: 1212589260
 author: zvika
-permalink: java/send-e-mail-using-spring-and-javamail
+permalink: /java/send-e-mail-using-spring-and-javamail
 tags:
 - JAVA
 - Spring

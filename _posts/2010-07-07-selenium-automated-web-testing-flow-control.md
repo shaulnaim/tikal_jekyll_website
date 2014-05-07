@@ -3,7 +3,7 @@ layout: post
 title: Selenium Automated Web Testing Flow Control
 created: 1278504771
 author: dror
-permalink: alm/selenium-automated-web-testing-flow-control
+permalink: /alm/selenium-automated-web-testing-flow-control
 tags:
 - ALM
 ---

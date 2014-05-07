@@ -3,7 +3,7 @@ layout: post
 title: 'Android application development over Flex/AIR - Tikal FuseDay #3'
 created: 1298557539
 author: sefi
-permalink: js/android-application-development-over-flexair-tikal-fuseday-3
+permalink: /js/android-application-development-over-flexair-tikal-fuseday-3
 tags:
 - JS
 - hero

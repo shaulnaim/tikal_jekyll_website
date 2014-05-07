@@ -3,7 +3,7 @@ layout: post
 title: Introduction to PowerShell
 created: 1307248115
 author: igorz
-permalink: net/introduction-powershell
+permalink: /net/introduction-powershell
 tags:
 - .NET
 - .Net Open Source

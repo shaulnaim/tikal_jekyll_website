@@ -3,7 +3,7 @@ layout: post
 title: Firing up the engines for multiple languages
 created: 1219873101
 author: zvika
-permalink: firing-engines-multiple-languages
+permalink: /firing-engines-multiple-languages
 ---
 <br />
 <br />

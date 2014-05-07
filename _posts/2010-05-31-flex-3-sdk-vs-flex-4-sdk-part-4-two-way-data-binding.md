@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 4 – Two-way data binding
 created: 1275253670
 author: sefi
-permalink: js/flex-3-sdk-vs-flex-4-sdk-–-part-4-–-two-way-data-binding
+permalink: /js/flex-3-sdk-vs-flex-4-sdk-–-part-4-–-two-way-data-binding
 tags:
 - JS
 - two-way

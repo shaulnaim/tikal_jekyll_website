@@ -3,7 +3,7 @@ layout: post
 title: Pivotal Tracker Git integration with ease
 created: 1334663203
 author: avit
-permalink: pivotal-tracker-git-integration-ease
+permalink: /pivotal-tracker-git-integration-ease
 tags:
 - RoR
 - web

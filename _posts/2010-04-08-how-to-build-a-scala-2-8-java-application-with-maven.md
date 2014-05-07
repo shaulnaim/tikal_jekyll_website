@@ -3,7 +3,7 @@ layout: post
 title: How To Build a Scala 2.8/Java Application with Maven
 created: 1270710241
 author: liya
-permalink: java/how-build-scala-28java-application-maven
+permalink: /java/how-build-scala-28java-application-maven
 tags:
 - JAVA
 - Scala

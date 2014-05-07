@@ -3,7 +3,7 @@ layout: post
 title: 'Tikal''s "Open Cloud" track @ "Open 2010" conference '
 created: 1274687944
 author: yifat
-permalink: tikals-open-cloud-track-open-2010-conference
+permalink: /tikals-open-cloud-track-open-2010-conference
 ---
 <p><font color="#808080"><font face="Verdana"><font size="2" style="font-size: 11pt;">Cloud computing is creating a Paradigm shift in the open source software arena. </font></font></font></p>
 <p><font color="#808080"><font face="Verdana"><font size="2" style="font-size: 11pt;">Giants like Microsoft, Amazon and Google are using open source software to provide their cloud services, challenging the traditional open source players. </font></font></font></p>

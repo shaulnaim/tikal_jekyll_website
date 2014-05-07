@@ -3,7 +3,7 @@ layout: post
 title: JavaRebel Brings Class Reloading to Java
 created: 1212268980
 author: lior.kanfi
-permalink: java/javarebel-brings-class-reloading-java
+permalink: /java/javarebel-brings-class-reloading-java
 tags:
 - JAVA
 - classloading

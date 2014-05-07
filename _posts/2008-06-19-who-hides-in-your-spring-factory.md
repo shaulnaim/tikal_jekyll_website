@@ -3,7 +3,7 @@ layout: post
 title: Who hides in your Spring factory?
 created: 1213873080
 author: zvika
-permalink: java/who-hides-your-spring-factory
+permalink: /java/who-hides-your-spring-factory
 tags:
 - JAVA
 - Spring

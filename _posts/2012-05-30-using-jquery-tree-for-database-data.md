@@ -3,7 +3,7 @@ layout: post
 title: Using jQuery tree for database data
 created: 1338394544
 author: avit
-permalink: using-jquery-tree-database-data
+permalink: /using-jquery-tree-database-data
 tags:
 - RoR
 - web

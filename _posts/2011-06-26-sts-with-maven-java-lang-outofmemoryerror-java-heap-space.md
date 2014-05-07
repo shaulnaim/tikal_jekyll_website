@@ -3,7 +3,7 @@ layout: post
 title: 'STS with Maven - java.lang.OutOfMemoryError: Java heap space'
 created: 1309083840
 author: liorb
-permalink: sts-maven-javalangoutofmemoryerror-java-heap-space
+permalink: /sts-maven-javalangoutofmemoryerror-java-heap-space
 tags:
 - Flex Java
 ---

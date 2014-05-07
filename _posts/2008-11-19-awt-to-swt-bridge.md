@@ -3,7 +3,7 @@ layout: post
 title: AWT to SWT Bridge
 created: 1227127510
 author: lior.kanfi
-permalink: java/awt-swt-bridge
+permalink: /java/awt-swt-bridge
 tags:
 - JAVA
 - Swing SWT AWT Bridge

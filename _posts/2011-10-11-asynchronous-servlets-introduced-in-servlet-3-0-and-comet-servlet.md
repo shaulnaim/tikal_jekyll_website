@@ -3,7 +3,7 @@ layout: post
 title: Asynchronous Servlets (introduced in Servlet 3.0) and Comet Servlet
 created: 1318344038
 author: andrew
-permalink: asynchronous-servlets-introduced-servlet-30-and-comet-servlet
+permalink: /asynchronous-servlets-introduced-servlet-30-and-comet-servlet
 tags:
 - JAVA
 - Java J2EE

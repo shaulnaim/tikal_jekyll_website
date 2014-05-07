@@ -3,7 +3,7 @@ layout: post
 title: Why GC is bad for performance
 created: 1303649674
 author: ittayd
-permalink: why-gc-bad-performance
+permalink: /why-gc-bad-performance
 tags:
 - GC
 ---

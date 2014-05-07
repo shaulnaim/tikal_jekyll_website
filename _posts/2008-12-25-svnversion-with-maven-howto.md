@@ -3,7 +3,7 @@ layout: post
 title: svnversion with maven - HOWTO?
 created: 1230212465
 author: andrew
-permalink: java/svnversion-maven-howto
+permalink: /java/svnversion-maven-howto
 tags:
 - JAVA
 - svn maven revision

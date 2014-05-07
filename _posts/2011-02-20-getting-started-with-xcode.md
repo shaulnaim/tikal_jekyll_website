@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started With Xcode
 created: 1298192519
-permalink: js/getting-started-xcode
+permalink: /js/getting-started-xcode
 tags:
 - JS
 - iphone xcode sdk apple mvc

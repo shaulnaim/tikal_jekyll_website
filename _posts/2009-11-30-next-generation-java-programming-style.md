@@ -3,7 +3,7 @@ layout: post
 title: Next Generation Java Programming Style
 created: 1259597227
 author: ittayd
-permalink: java/next-generation-java-programming-style
+permalink: /java/next-generation-java-programming-style
 tags:
 - JAVA
 ---

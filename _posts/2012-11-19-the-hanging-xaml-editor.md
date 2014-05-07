@@ -3,7 +3,7 @@ layout: post
 title: The Hanging XAML Editor
 created: 1353310303
 author: menny
-permalink: net/hanging-xaml-editor
+permalink: /net/hanging-xaml-editor
 tags:
 - .NET
 ---

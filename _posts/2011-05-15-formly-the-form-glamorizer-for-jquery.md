@@ -3,7 +3,7 @@ layout: post
 title: formly - The form glamorizer for jQuery
 created: 1305437790
 author: ittayd
-permalink: js/formly-form-glamorizer-jquery
+permalink: /js/formly-form-glamorizer-jquery
 tags:
 - JS
 - jquery form

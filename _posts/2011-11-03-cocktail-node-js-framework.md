@@ -3,7 +3,7 @@ layout: post
 title: Cocktail - Node.js framework
 created: 1320304630
 author: orenf
-permalink: cocktail-nodejs-framework
+permalink: /cocktail-nodejs-framework
 tags:
 - Incubator
 - node.js

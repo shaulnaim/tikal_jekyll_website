@@ -3,7 +3,7 @@ layout: post
 title: reasons for moving from java 1.5 to 1.6 instead of waiting to 1.7
 created: 1228899368
 author: elad
-permalink: java/reasons-moving-java-15-16-instead-waiting-17
+permalink: /java/reasons-moving-java-15-16-instead-waiting-17
 tags:
 - JAVA
 - JSE7

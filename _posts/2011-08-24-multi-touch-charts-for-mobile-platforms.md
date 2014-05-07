@@ -3,7 +3,7 @@ layout: post
 title: Multi-touch Charts for mobile platforms
 created: 1314185632
 author: sefi
-permalink: multi-touch-charts-mobile-platforms
+permalink: /multi-touch-charts-mobile-platforms
 tags:
 - gwt
 - flex

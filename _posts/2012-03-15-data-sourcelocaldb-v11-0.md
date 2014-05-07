@@ -3,7 +3,7 @@ layout: post
 title: Data Source=(LocalDb)\v11.0;
 created: 1331835599
 author: menny
-permalink: data-sourcelocaldbv110
+permalink: /data-sourcelocaldbv110
 tags:
 - .NET
 ---

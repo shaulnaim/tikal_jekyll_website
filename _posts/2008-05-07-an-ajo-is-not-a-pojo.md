@@ -3,7 +3,7 @@ layout: post
 title: An AJO is not a POJO
 created: 1210146000
 author: lior.kanfi
-permalink: java/ajo-not-pojo
+permalink: /java/ajo-not-pojo
 tags:
 - JAVA
 - pojo

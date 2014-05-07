@@ -3,7 +3,7 @@ layout: post
 title: Microsoft's free tool for PHP development
 created: 1297950303
 author: igorz
-permalink: net/microsofts-free-tool-php-development
+permalink: /net/microsofts-free-tool-php-development
 tags:
 - .NET
 ---

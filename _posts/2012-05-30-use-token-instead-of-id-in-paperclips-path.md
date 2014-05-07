@@ -3,7 +3,7 @@ layout: post
 title: Use token instead of id in paperclip's path
 created: 1338394544
 author: avit
-permalink: use-token-instead-id-paperclips-path
+permalink: /use-token-instead-id-paperclips-path
 tags:
 - RoR
 - web

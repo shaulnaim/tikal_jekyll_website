@@ -3,7 +3,7 @@ layout: post
 title: mobl - The new language of the mobile web
 created: 1297188385
 author: ittayd
-permalink: incubator/mobl-new-language-mobile-web
+permalink: /incubator/mobl-new-language-mobile-web
 tags:
 - Incubator
 - Mobile

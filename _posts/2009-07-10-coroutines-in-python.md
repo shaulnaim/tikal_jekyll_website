@@ -3,7 +3,7 @@ layout: post
 title: coroutines in python
 created: 1247255002
 author: andrew
-permalink: java/coroutines-python
+permalink: /java/coroutines-python
 tags:
 - JAVA
 - Python

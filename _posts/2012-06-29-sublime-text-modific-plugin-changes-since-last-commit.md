@@ -3,7 +3,7 @@ layout: post
 title: Sublime Text “Modific” Plugin – Changes since last commit
 created: 1340958849
 author: orenf
-permalink: js/sublime-text-“modific”-plugin-–-changes-last-commit
+permalink: /js/sublime-text-“modific”-plugin-–-changes-last-commit
 tags:
 - JS
 ---

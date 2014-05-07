@@ -3,7 +3,7 @@ layout: post
 title: Adobe Flex 4 SDK out of beta!!
 created: 1269265102
 author: sefi
-permalink: adobe-flex-4-sdk-out-beta
+permalink: /adobe-flex-4-sdk-out-beta
 tags:
 - flex
 - gwt

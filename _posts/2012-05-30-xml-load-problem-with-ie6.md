@@ -3,7 +3,7 @@ layout: post
 title: xml.load problem with IE6
 created: 1338394544
 author: avit
-permalink: xmlload-problem-ie6
+permalink: /xmlload-problem-ie6
 tags:
 - RoR
 - web

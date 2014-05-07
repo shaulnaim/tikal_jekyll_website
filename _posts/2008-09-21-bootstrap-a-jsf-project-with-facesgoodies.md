@@ -3,7 +3,7 @@ layout: post
 title: bootstrap a jsf project with facesgoodies
 created: 1221972824
 author: ittayd
-permalink: java/bootstrap-jsf-project-facesgoodies
+permalink: /java/bootstrap-jsf-project-facesgoodies
 tags:
 - JAVA
 - jsf code bootstrap

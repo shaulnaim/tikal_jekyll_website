@@ -3,7 +3,7 @@ layout: post
 title: 'JPA comparison: Hibernate, Toplink, OpenJPA, Eclipselink '
 created: 1232480000
 author: yanai
-permalink: java/jpa-comparison-hibernate-toplink-openjpa-eclipselink
+permalink: /java/jpa-comparison-hibernate-toplink-openjpa-eclipselink
 tags:
 - JAVA
 - JPA

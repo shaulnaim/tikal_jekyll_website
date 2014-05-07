@@ -3,7 +3,7 @@ layout: post
 title: January Flex Group Meeting - UX and Pixel Bender
 created: 1326052638
 author: liorb
-permalink: js/january-flex-group-meeting-ux-and-pixel-bender
+permalink: /js/january-flex-group-meeting-ux-and-pixel-bender
 tags:
 - JS
 ---

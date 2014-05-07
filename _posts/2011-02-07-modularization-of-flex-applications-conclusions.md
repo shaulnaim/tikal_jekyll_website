@@ -3,7 +3,7 @@ layout: post
 title: Modularization of Flex Applications – Conclusions
 created: 1297085923
 author: shair
-permalink: js/modularization-flex-applications-–-conclusions
+permalink: /js/modularization-flex-applications-–-conclusions
 tags:
 - JS
 - yakov fain

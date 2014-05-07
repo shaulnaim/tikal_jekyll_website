@@ -3,7 +3,7 @@ layout: post
 title: Flex mobile applications running in the background
 created: 1318931534
 author: sefi
-permalink: flex-mobile-applications-running-background
+permalink: /flex-mobile-applications-running-background
 tags:
 - gwt
 - flex

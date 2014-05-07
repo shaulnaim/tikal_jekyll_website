@@ -3,7 +3,7 @@ layout: post
 title: Groovy or JRuby?
 created: 1209553800
 author: zvika
-permalink: java/groovy-or-jruby
+permalink: /java/groovy-or-jruby
 tags:
 - JAVA
 ---

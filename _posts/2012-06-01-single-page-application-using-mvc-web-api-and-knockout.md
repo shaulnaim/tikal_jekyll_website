@@ -3,7 +3,7 @@ layout: post
 title: Single Page Application using MVC, Web API & knockout
 created: 1338557438
 author: menny
-permalink: single-page-application-using-mvc-web-api-knockout
+permalink: /single-page-application-using-mvc-web-api-knockout
 tags:
 - .NET
 ---

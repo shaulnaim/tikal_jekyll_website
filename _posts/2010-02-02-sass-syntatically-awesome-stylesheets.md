@@ -3,7 +3,7 @@ layout: post
 title: sass - syntatically awesome stylesheets
 created: 1265108695
 author: ittayd
-permalink: java/sass-syntatically-awesome-stylesheets
+permalink: /java/sass-syntatically-awesome-stylesheets
 tags:
 - JAVA
 - css

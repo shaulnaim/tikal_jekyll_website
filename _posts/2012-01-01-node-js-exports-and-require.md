@@ -3,7 +3,7 @@ layout: post
 title: Node.js exports & require
 created: 1325416553
 author: adi
-permalink: nodejs-exports-require
+permalink: /nodejs-exports-require
 tags:
 - Incubator
 - node.js

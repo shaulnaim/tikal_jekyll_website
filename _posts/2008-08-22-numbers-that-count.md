@@ -3,7 +3,7 @@ layout: post
 title: Numbers that Count
 created: 1219366322
 author: zvika
-permalink: numbers-count
+permalink: /numbers-count
 ---
 <br />
 <br />

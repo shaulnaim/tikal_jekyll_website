@@ -3,7 +3,7 @@ layout: post
 title: Adding a war to classpath anyone ?
 created: 1356618950
 author: hagzag
-permalink: alm/adding-war-classpath-anyone
+permalink: /alm/adding-war-classpath-anyone
 tags:
 - ALM
 - maven-war-plugin

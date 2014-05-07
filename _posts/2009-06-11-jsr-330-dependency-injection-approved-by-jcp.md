@@ -3,7 +3,7 @@ layout: post
 title: JSR 330 - Dependency Injection - Approved by JCP
 created: 1244674921
 author: zvika
-permalink: java/jsr-330-dependency-injection-approved-jcp
+permalink: /java/jsr-330-dependency-injection-approved-jcp
 tags:
 - JAVA
 - Spring

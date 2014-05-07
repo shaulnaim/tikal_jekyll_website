@@ -3,7 +3,7 @@ layout: post
 title: 'IcedCoffeeScript: an asynchronous extension to CoffeeScript'
 created: 1330403942
 author: ittayd
-permalink: icedcoffeescript-asynchronous-extension-coffeescript
+permalink: /icedcoffeescript-asynchronous-extension-coffeescript
 tags:
 - JS
 - CoffeeScript

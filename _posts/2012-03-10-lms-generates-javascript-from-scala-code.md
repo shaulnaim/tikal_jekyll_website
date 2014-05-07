@@ -3,7 +3,7 @@ layout: post
 title: LMS generates javascript from Scala code
 created: 1331407267
 author: ittayd
-permalink: lms-generates-javascript-scala-code
+permalink: /lms-generates-javascript-scala-code
 tags:
 - Incubator
 - scala javascript

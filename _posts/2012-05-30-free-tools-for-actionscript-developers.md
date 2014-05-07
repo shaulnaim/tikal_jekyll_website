@@ -3,7 +3,7 @@ layout: post
 title: Free tools for ActionScript Developers
 created: 1338394544
 author: avit
-permalink: free-tools-actionscript-developers
+permalink: /free-tools-actionscript-developers
 tags:
 - RoR
 - web

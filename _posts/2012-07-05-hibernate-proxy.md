@@ -3,7 +3,7 @@ layout: post
 title: Hibernate Proxy
 created: 1341468658
 author: chaim.turkel
-permalink: java/blog/hibernate-proxy-0
+permalink: /java/blog/hibernate-proxy-0
 tags:
 - JAVA
 - Hibernate

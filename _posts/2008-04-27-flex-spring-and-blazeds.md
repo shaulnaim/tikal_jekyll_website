@@ -3,7 +3,7 @@ layout: post
 title: Flex, Spring and BlazeDS
 created: 1209288960
 author: zvika
-permalink: js/flex-spring-and-blazeds
+permalink: /js/flex-spring-and-blazeds
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Complex array manipulation with an ingeniously fast solution
 created: 1221399675
 author: sefi
-permalink: java/complex-array-manipulation-ingeniously-fast-solution
+permalink: /java/complex-array-manipulation-ingeniously-fast-solution
 tags:
 - JAVA
 - flex actionscript as3 algorithm array

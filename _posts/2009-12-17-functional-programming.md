@@ -3,7 +3,7 @@ layout: post
 title: Functional Programming
 created: 1261053411
 author: adi
-permalink: incubator/functional-programming
+permalink: /incubator/functional-programming
 tags:
 - Incubator
 - Scala

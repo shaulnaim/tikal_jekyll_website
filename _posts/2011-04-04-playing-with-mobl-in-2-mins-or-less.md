@@ -3,7 +3,7 @@ layout: post
 title: Playing with Mobl in 2 mins or less
 created: 1301900800
 author: lior.kanfi
-permalink: incubator/playing-mobl-2-mins-or-less
+permalink: /incubator/playing-mobl-2-mins-or-less
 tags:
 - Incubator
 - Mobile Android HTML Javascript

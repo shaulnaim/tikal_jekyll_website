@@ -3,7 +3,7 @@ layout: post
 title: Looking back at Swing
 created: 1311578160
 author: liorb
-permalink: looking-back-swing
+permalink: /looking-back-swing
 tags:
 - Flex Java
 ---

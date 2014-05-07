@@ -3,7 +3,7 @@ layout: post
 title: 'What is the simplest way to create web service? '
 created: 1297681314
 author: oleg
-permalink: java/what-simplest-way-create-web-service
+permalink: /java/what-simplest-way-create-web-service
 tags:
 - JAVA
 - study

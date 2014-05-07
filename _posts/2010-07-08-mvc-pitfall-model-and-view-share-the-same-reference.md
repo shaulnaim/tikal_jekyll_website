@@ -3,7 +3,7 @@ layout: post
 title: MVC pitfall - Model and View share the same reference
 created: 1278591100
 author: oren
-permalink: js/mvc-pitfall-model-and-view-share-same-reference
+permalink: /js/mvc-pitfall-model-and-view-share-same-reference
 tags:
 - JS
 - mvc

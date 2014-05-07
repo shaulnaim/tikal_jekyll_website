@@ -3,7 +3,7 @@ layout: post
 title: Searching for an Event Log Viewer
 created: 1249901585
 author: zvika
-permalink: java/searching-event-log-viewer
+permalink: /java/searching-event-log-viewer
 tags:
 - JAVA
 - log

@@ -3,7 +3,7 @@ layout: post
 title: Phase 1 - first consulting meeting.
 created: 1338394544
 author: avit
-permalink: phase-1-first-consulting-meeting
+permalink: /phase-1-first-consulting-meeting
 tags:
 - RoR
 - web

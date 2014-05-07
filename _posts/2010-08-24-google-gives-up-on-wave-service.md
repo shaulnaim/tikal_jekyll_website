@@ -3,7 +3,7 @@ layout: post
 title: Google Gives Up On Wave Service
 created: 1282632742
 author: hagzag
-permalink: alm/google-gives-wave-service
+permalink: /alm/google-gives-wave-service
 tags:
 - ALM
 - Google-Wave

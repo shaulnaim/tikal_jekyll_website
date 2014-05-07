@@ -3,7 +3,7 @@ layout: post
 title: Great video talk on CoffeeScript
 created: 1329402490
 author: udib
-permalink: great-video-talk-coffeescript
+permalink: /great-video-talk-coffeescript
 tags:
 - CoffeeScript
 - video

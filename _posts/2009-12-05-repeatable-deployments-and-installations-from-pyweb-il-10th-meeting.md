@@ -3,7 +3,7 @@ layout: post
 title: Repeatable Deployments and Installations from PyWeb-IL 10th meeting
 created: 1260009765
 author: hagzag
-permalink: incubator/repeatable-deployments-and-installations-pyweb-il-10th-meeting
+permalink: /incubator/repeatable-deployments-and-installations-pyweb-il-10th-meeting
 tags:
 - Incubator
 - Python

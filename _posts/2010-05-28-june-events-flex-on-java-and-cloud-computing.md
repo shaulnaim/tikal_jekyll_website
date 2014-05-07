@@ -3,7 +3,7 @@ layout: post
 title: 'June Events: Flex on Java and Cloud Computing'
 created: 1275069240
 author: liorb
-permalink: june-events-flex-java-and-cloud-computing
+permalink: /june-events-flex-java-and-cloud-computing
 tags:
 - Flex Java
 ---

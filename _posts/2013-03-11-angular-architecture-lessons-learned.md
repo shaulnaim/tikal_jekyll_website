@@ -3,7 +3,7 @@ layout: post
 title: Angular Architecture Lessons Learned
 created: 1363029330
 author: orenf
-permalink: js/angular-architecture-lessons-learned
+permalink: /js/angular-architecture-lessons-learned
 tags:
 - JS
 - AngularJS

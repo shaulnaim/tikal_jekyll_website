@@ -3,7 +3,7 @@ layout: post
 title: Authentication and Authorization as an open source solution service
 created: 1383563361
 author: idan.fridman
-permalink: incubator/authentication-and-authorization-open-source-solution-service
+permalink: /incubator/authentication-and-authorization-open-source-solution-service
 tags:
 - JAVA
 - Java security web

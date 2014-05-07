@@ -3,7 +3,7 @@ layout: post
 title: Mercurial on the way up
 created: 1240690776
 author: andrew
-permalink: java/mercurial-way
+permalink: /java/mercurial-way
 tags:
 - JAVA
 - mercurial

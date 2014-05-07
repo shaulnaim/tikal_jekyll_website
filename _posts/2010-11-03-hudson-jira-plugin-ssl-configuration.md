@@ -3,7 +3,7 @@ layout: post
 title: Hudson Jira plugin SSL configuration
 created: 1288795849
 author: shachar
-permalink: alm/hudson-jira-plugin-ssl-configuration
+permalink: /alm/hudson-jira-plugin-ssl-configuration
 tags:
 - ALM
 - Hudson Jira

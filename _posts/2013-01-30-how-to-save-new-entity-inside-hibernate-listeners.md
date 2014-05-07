@@ -3,7 +3,7 @@ layout: post
 title: How to save new Entity inside Hibernate Listeners
 created: 1359568977
 author: roni
-permalink: java/how-save-new-entity-inside-hibernate-listeners
+permalink: /java/how-save-new-entity-inside-hibernate-listeners
 tags:
 - JAVA
 - Java J2EE

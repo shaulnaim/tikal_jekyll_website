@@ -3,7 +3,7 @@ layout: post
 title: Prepare session for Hadoop and BigData
 created: 1336475520
 author: yanai
-permalink: prepare-session-hadoop-and-bigdata
+permalink: /prepare-session-hadoop-and-bigdata
 tags:
 - JAVA
 ---

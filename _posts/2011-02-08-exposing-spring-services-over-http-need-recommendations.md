@@ -3,7 +3,7 @@ layout: post
 title: Exposing Spring services over http - need recommendations
 created: 1297175998
 author: shalom
-permalink: java/exposing-spring-services-over-http-need-recommendations
+permalink: /java/exposing-spring-services-over-http-need-recommendations
 tags:
 - JAVA
 - java spring resteasy jersey jaxrs

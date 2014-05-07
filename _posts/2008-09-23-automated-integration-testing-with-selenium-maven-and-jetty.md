@@ -3,7 +3,7 @@ layout: post
 title: Automated integration testing with Selenium, Maven and Jetty
 created: 1222141708
 author: zvika
-permalink: java/automated-integration-testing-selenium-maven-and-jetty
+permalink: /java/automated-integration-testing-selenium-maven-and-jetty
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Multi threaded Singleton - Template
 created: 1314126080
 author: ofir
-permalink: multi-threaded-singleton-template
+permalink: /multi-threaded-singleton-template
 tags:
 - .NET
 - template

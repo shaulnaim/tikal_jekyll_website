@@ -3,7 +3,7 @@ layout: post
 title: Increase code reuse and enhance performance
 created: 1211139120
 author: yanai
-permalink: java/increase-code-reuse-and-enhance-performance
+permalink: /java/increase-code-reuse-and-enhance-performance
 tags:
 - JAVA
 - Hibernate

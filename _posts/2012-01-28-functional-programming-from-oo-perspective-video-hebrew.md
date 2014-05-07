@@ -3,7 +3,7 @@ layout: post
 title: Functional Programming from OO perspective (video, hebrew)
 created: 1327781089
 author: ittayd
-permalink: functional-programming-oo-perspective-video-hebrew
+permalink: /functional-programming-oo-perspective-video-hebrew
 tags:
 - Incubator
 - Scala

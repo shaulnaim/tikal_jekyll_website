@@ -2,7 +2,7 @@
 layout: post
 title: Open source ... movie
 created: 1291890427
-permalink: js/open-source-movie
+permalink: /js/open-source-movie
 tags:
 - JS
 ---

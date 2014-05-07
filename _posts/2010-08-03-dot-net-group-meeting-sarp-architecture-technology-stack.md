@@ -3,7 +3,7 @@ layout: post
 title: Dot.Net group meeting - S#arp Architecture technology stack
 created: 1280840664
 author: igorz
-permalink: net/dotnet-group-meeting-sarp-architecture-technology-stack
+permalink: /net/dotnet-group-meeting-sarp-architecture-technology-stack
 tags:
 - .NET
 - .Net Open Source

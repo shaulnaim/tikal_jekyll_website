@@ -3,7 +3,7 @@ layout: post
 title: 'Some guidelines of a  good presentation '
 created: 1337077842
 author: sefi
-permalink: java/some-guidelines-good-presentation
+permalink: /java/some-guidelines-good-presentation
 tags:
 - JAVA
 - gwt

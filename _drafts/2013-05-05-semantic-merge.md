@@ -3,7 +3,7 @@ layout: post
 title: Semantic Merge
 created: 1367736724
 author: menny
-permalink: net/semantic-merge
+permalink: /net/semantic-merge
 ---
 <p>&nbsp;</p>
 <h4>

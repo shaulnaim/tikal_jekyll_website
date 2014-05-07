@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 11 - Django-The Web Framework For Perfectionists With Deadlines '
 created: 1243499954
 author: admin
-permalink: incubator/jbug-11-django-web-framework-perfectionists-deadlines
+permalink: /incubator/jbug-11-django-web-framework-perfectionists-deadlines
 tags:
 - Incubator
 - Python

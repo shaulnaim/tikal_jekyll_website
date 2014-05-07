@@ -3,7 +3,7 @@ layout: post
 title: Migrating your application from JBoss 4.x to JBoss 5.x
 created: 1249198317
 author: elad
-permalink: java/migrating-your-application-jboss-4x-jboss-5x
+permalink: /java/migrating-your-application-jboss-4x-jboss-5x
 tags:
 - JAVA
 - Persistence.xml

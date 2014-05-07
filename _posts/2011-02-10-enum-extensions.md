@@ -3,7 +3,7 @@ layout: post
 title: Enum Extensions
 created: 1297352489
 author: ofir
-permalink: net/enum-extensions
+permalink: /net/enum-extensions
 tags:
 - .NET
 - Extensions methods

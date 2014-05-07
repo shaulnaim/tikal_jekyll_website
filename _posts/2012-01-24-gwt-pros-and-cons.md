@@ -3,7 +3,7 @@ layout: post
 title: GWT Pros and Cons
 created: 1327413410
 author: ittayd
-permalink: gwt-pros-and-cons
+permalink: /gwt-pros-and-cons
 tags:
 - JAVA
 - gwt

@@ -3,7 +3,7 @@ layout: post
 title: The Two Faces of JSF on WLP
 created: 1216797660
 author: hila
-permalink: java/two-faces-jsf-wlp
+permalink: /java/two-faces-jsf-wlp
 tags:
 - JAVA
 - portal

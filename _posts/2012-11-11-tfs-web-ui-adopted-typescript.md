@@ -3,7 +3,7 @@ layout: post
 title: TFS – web UI adopted Typescript
 created: 1352636786
 author: menny
-permalink: net/tfs-–-web-ui-adopted-typescript
+permalink: /net/tfs-–-web-ui-adopted-typescript
 tags:
 - .NET
 ---

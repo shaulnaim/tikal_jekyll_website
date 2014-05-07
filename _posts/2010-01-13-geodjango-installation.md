@@ -3,7 +3,7 @@ layout: post
 title: GeoDjango Installation
 created: 1263418636
 author: dmitri
-permalink: incubator/geodjango-installation
+permalink: /incubator/geodjango-installation
 tags:
 - Incubator
 - Mac

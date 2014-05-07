@@ -3,7 +3,7 @@ layout: post
 title: 'Java monthly meeting: introduction of Play framework'
 created: 1324375159
 author: andrew
-permalink: java-monthly-meeting-introduction-play-framework
+permalink: /java-monthly-meeting-introduction-play-framework
 tags:
 - JAVA
 - Scala

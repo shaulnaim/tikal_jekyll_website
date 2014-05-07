@@ -3,7 +3,7 @@ layout: post
 title: The simpler parts of Scala
 created: 1283452425
 author: ittayd
-permalink: java/simpler-parts-scala
+permalink: /java/simpler-parts-scala
 tags:
 - JAVA
 - Scala

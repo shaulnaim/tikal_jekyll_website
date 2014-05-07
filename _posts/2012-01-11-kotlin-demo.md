@@ -3,7 +3,7 @@ layout: post
 title: Kotlin Demo
 created: 1326260462
 author: ittayd
-permalink: kotlin-demo
+permalink: /kotlin-demo
 tags:
 - Incubator
 - kotlin

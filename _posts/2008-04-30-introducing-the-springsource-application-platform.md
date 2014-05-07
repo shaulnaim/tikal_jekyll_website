@@ -3,7 +3,7 @@ layout: post
 title: Introducing the SpringSource Application Platform
 created: 1209588300
 author: zvika
-permalink: java/introducing-springsource-application-platform
+permalink: /java/introducing-springsource-application-platform
 tags:
 - JAVA
 ---

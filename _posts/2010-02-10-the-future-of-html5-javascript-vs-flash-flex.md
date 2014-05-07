@@ -3,7 +3,7 @@ layout: post
 title: The future of HTML5/JavaScript vs. Flash/Flex?
 created: 1265804488
 author: adi
-permalink: js/future-html5javascript-vs-flashflex
+permalink: /js/future-html5javascript-vs-flashflex
 tags:
 - JS
 - HTML5

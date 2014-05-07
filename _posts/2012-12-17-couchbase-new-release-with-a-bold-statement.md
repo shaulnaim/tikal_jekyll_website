@@ -3,7 +3,7 @@ layout: post
 title: Couchbase new release with a bold statement
 created: 1355759183
 author: andrew
-permalink: java/couchbase-new-release-bold-statement
+permalink: /java/couchbase-new-release-bold-statement
 tags:
 - JAVA
 - Databases

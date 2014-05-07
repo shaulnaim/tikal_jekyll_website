@@ -2,7 +2,7 @@
 layout: post
 title: SNMP simulator anyone?
 created: 1285592934
-permalink: js/snmp-simulator-anyone
+permalink: /js/snmp-simulator-anyone
 tags:
 - JS
 - snmp

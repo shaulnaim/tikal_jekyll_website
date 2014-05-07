@@ -3,7 +3,7 @@ layout: post
 title: Auto generating AS3 VO classes from WSDL
 created: 1276604529
 author: yoav.moran
-permalink: js/auto-generating-as3-vo-classes-wsdl
+permalink: /js/auto-generating-as3-vo-classes-wsdl
 tags:
 - JS
 - wsdl

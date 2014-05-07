@@ -3,7 +3,7 @@ layout: post
 title: DevOps for Developers @ Jenkins User Conference - Herzelia, Israel
 created: 1341425848
 author: hagzag
-permalink: devops-developers-jenkins-user-conference-herzelia-israel
+permalink: /devops-developers-jenkins-user-conference-herzelia-israel
 tags:
 - ALM
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Keeping data in memory instead of a database
 created: 1314805675
 author: ittayd
-permalink: keeping-data-memory-instead-database
+permalink: /keeping-data-memory-instead-database
 tags:
 - scalability
 - memory performance

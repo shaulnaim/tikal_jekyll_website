@@ -3,7 +3,7 @@ layout: post
 title: Django training session
 created: 1254904278
 author: udib
-permalink: incubator/django-training-session
+permalink: /incubator/django-training-session
 tags:
 - Incubator
 - Python

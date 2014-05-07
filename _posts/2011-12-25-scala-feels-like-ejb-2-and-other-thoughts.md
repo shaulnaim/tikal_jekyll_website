@@ -3,7 +3,7 @@ layout: post
 title: Scala feels like EJB 2, and other thoughts
 created: 1324849694
 author: adi
-permalink: scala-feels-ejb-2-and-other-thoughts
+permalink: /scala-feels-ejb-2-and-other-thoughts
 tags:
 - Incubator
 - Scala

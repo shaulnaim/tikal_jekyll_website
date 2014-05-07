@@ -3,7 +3,7 @@ layout: post
 title: Is Mono dead? Is Novell dying?
 created: 1304590134
 author: ittayd
-permalink: net/mono-dead-novell-dying
+permalink: /net/mono-dead-novell-dying
 tags:
 - .NET
 ---

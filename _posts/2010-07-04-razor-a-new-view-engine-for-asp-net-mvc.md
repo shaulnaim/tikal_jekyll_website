@@ -3,7 +3,7 @@ layout: post
 title: “Razor” – a new view engine for ASP.NET MVC
 created: 1278247480
 author: igorz
-permalink: net/“razor”-–-new-view-engine-aspnet-mvc
+permalink: /net/“razor”-–-new-view-engine-aspnet-mvc
 tags:
 - .NET
 - ASP.NET MVC

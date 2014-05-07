@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Node.js & CoffeeScript
 created: 1331710882
 author: adi
-permalink: introduction-nodejs-coffeescript
+permalink: /introduction-nodejs-coffeescript
 tags:
 - JS
 ---

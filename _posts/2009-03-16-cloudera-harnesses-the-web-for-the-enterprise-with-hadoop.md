@@ -3,7 +3,7 @@ layout: post
 title: Cloudera harnesses the Web for the enterprise with Hadoop
 created: 1237217881
 author: lior.kanfi
-permalink: java/cloudera-harnesses-web-enterprise-hadoop
+permalink: /java/cloudera-harnesses-web-enterprise-hadoop
 tags:
 - JAVA
 - Hadoop Cloud computing

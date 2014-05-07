@@ -3,7 +3,7 @@ layout: post
 title: Angry Birds on chrome with GWT
 created: 1316153560
 author: aviy
-permalink: angry-birds-chrome-gwt
+permalink: /angry-birds-chrome-gwt
 tags:
 - JAVA
 - gwt

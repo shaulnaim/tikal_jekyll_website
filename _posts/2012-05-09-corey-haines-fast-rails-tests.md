@@ -3,7 +3,7 @@ layout: post
 title: Corey Haines – Fast Rails Tests
 created: 1336594630
 author: avit
-permalink: corey-haines-–-fast-rails-tests
+permalink: /corey-haines-–-fast-rails-tests
 tags:
 - RoR
 - web

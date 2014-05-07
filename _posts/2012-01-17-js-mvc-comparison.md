@@ -3,7 +3,7 @@ layout: post
 title: JS MVC comparison
 created: 1326794864
 author: tomerr
-permalink: js-mvc-comparison
+permalink: /js-mvc-comparison
 tags:
 - JS
 - javascript mvc

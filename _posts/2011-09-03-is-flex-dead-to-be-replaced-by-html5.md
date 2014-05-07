@@ -3,7 +3,7 @@ layout: post
 title: Is Flex dead to be replaced by HTML5?
 created: 1315052826
 author: sefi
-permalink: flex-dead-be-replaced-html5
+permalink: /flex-dead-be-replaced-html5
 tags:
 - flex
 - gwt

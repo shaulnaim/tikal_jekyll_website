@@ -3,7 +3,7 @@ layout: post
 title: 'which DI framework do you prefer: Guice or Spring'
 created: 1231676207
 author: elad
-permalink: java/which-di-framework-do-you-prefer-guice-or-spring
+permalink: /java/which-di-framework-do-you-prefer-guice-or-spring
 tags:
 - JAVA
 - Guice

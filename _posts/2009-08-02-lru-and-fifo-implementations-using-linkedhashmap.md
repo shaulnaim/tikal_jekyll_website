@@ -3,7 +3,7 @@ layout: post
 title: LRU and FIFO implementations using LinkedHashMap
 created: 1249205329
 author: elad
-permalink: java/lru-and-fifo-implementations-using-linkedhashmap
+permalink: /java/lru-and-fifo-implementations-using-linkedhashmap
 tags:
 - JAVA
 - LRU

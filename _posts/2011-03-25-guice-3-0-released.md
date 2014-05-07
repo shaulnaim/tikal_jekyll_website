@@ -3,7 +3,7 @@ layout: post
 title: Guice 3.0 Released
 created: 1301060506
 author: ittayd
-permalink: java/guice-30-released
+permalink: /java/guice-30-released
 tags:
 - JAVA
 - Guice

@@ -3,7 +3,7 @@ layout: post
 title: 'Flex group meeting - AIR 2.5 and mobile '
 created: 1289206977
 author: sefi
-permalink: js/flex-group-meeting-air-25-and-mobile
+permalink: /js/flex-group-meeting-air-25-and-mobile
 tags:
 - JS
 ---

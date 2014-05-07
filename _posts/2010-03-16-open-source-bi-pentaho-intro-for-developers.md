@@ -3,7 +3,7 @@ layout: post
 title: Open Source BI - Pentaho Intro for developers
 created: 1268752721
 author: udid
-permalink: java/open-source-bi-pentaho-intro-developers
+permalink: /java/open-source-bi-pentaho-intro-developers
 tags:
 - JAVA
 - Application Frameworks

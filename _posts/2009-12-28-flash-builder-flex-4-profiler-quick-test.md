@@ -3,7 +3,7 @@ layout: post
 title: Flash Builder / Flex 4 Profiler quick test
 created: 1261952577
 author: shair
-permalink: js/flash-builder-flex-4-profiler-quick-test
+permalink: /js/flash-builder-flex-4-profiler-quick-test
 tags:
 - JS
 - profiler

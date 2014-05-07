@@ -3,7 +3,7 @@ layout: post
 title: Backbone.View Patterns – The Relationship with “Model”
 created: 1341815961
 author: orenf
-permalink: js/backboneview-patterns-–-relationship-“model”
+permalink: /js/backboneview-patterns-–-relationship-“model”
 tags:
 - JS
 ---

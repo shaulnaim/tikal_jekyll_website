@@ -3,7 +3,7 @@ layout: post
 title: The Planetarium
 created: 1221073285
 author: zvika
-permalink: planetarium
+permalink: /planetarium
 ---
 <br />
 <br />

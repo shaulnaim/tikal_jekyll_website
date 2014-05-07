@@ -3,7 +3,7 @@ layout: post
 title: IE is Being Mean to Me
 created: 1259245080
 author: igorz
-permalink: net/ie-being-mean-me
+permalink: /net/ie-being-mean-me
 tags:
 - .NET
 - fun

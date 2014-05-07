@@ -3,7 +3,7 @@ layout: post
 title: Flex Chart styling
 created: 1256817677
 author: sefi
-permalink: flex-chart-styling
+permalink: /flex-chart-styling
 tags:
 - gwt
 - flex

@@ -3,7 +3,7 @@ layout: post
 title: 'Chef for developers (by: Avishai Ish-Shalom "Fewbytes" @ DevOps TCE)'
 created: 1345029984
 author: admin
-permalink: chef-developers-avishai-ish-shalom-fewbytes-devops-tce
+permalink: /chef-developers-avishai-ish-shalom-fewbytes-devops-tce
 tags:
 - ALM
 - DevOps

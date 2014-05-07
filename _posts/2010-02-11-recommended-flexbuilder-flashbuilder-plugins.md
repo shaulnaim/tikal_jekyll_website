@@ -3,7 +3,7 @@ layout: post
 title: Recommended FlexBuilder / FlashBuilder plugins
 created: 1265874908
 author: sefi
-permalink: js/recommended-flexbuilder-flashbuilder-plugins
+permalink: /js/recommended-flexbuilder-flashbuilder-plugins
 tags:
 - JS
 ---

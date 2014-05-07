@@ -3,7 +3,7 @@ layout: post
 title: Query the database with NHibernate 3.0
 created: 1265729085
 author: igorz
-permalink: net/query-database-nhibernate-30
+permalink: /net/query-database-nhibernate-30
 tags:
 - .NET
 - NHibernate

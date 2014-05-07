@@ -3,7 +3,7 @@ layout: post
 title: Flash Israel – Adobe Camps event this coming Feb. 2010
 created: 1290523803
 author: sefi
-permalink: flash-israel-–-adobe-camps-event-coming-feb-2010
+permalink: /flash-israel-–-adobe-camps-event-coming-feb-2010
 tags:
 - gwt
 - flex

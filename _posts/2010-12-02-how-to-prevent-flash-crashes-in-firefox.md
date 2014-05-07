@@ -3,7 +3,7 @@ layout: post
 title: How to prevent flash crashes in Firefox
 created: 1291293554
 author: vladislavm
-permalink: js/how-prevent-flash-crashes-firefox
+permalink: /js/how-prevent-flash-crashes-firefox
 tags:
 - JS
 - Windows

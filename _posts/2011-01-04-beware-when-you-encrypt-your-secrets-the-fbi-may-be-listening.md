@@ -3,7 +3,7 @@ layout: post
 title: Beware when you encrypt your secrets - the FBI may be listening !
 created: 1294093732
 author: shalom
-permalink: beware-when-you-encrypt-your-secrets-fbi-may-be-listening
+permalink: /beware-when-you-encrypt-your-secrets-fbi-may-be-listening
 tags:
 - FBI encryption ssl
 ---

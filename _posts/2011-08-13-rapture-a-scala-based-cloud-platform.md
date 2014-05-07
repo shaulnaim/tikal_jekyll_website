@@ -3,7 +3,7 @@ layout: post
 title: Rapture - A Scala based cloud platform
 created: 1313221369
 author: ittayd
-permalink: rapture-scala-based-cloud-platform
+permalink: /rapture-scala-based-cloud-platform
 tags:
 - Incubator
 - Scala

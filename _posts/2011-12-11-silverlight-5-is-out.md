@@ -3,7 +3,7 @@ layout: post
 title: Silverlight 5 is out
 created: 1323590913
 author: menny
-permalink: silverlight-5-out
+permalink: /silverlight-5-out
 tags:
 - .NET
 - .Net Open Source

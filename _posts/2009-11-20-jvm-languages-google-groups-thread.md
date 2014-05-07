@@ -3,7 +3,7 @@ layout: post
 title: 'JVM languages Google groups thread '
 created: 1258753232
 author: adi
-permalink: java/jvm-languages-google-groups-thread
+permalink: /java/jvm-languages-google-groups-thread
 tags:
 - JAVA
 - JSE7

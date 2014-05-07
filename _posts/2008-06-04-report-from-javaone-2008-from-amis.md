@@ -3,7 +3,7 @@ layout: post
 title: Report from JavaOne 2008 from AMIS
 created: 1212589080
 author: zvika
-permalink: java/report-javaone-2008-amis
+permalink: /java/report-javaone-2008-amis
 tags:
 - JAVA
 - javaone

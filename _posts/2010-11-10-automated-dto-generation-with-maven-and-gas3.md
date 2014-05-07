@@ -3,7 +3,7 @@ layout: post
 title: Automated DTO Generation with Maven and GAS3
 created: 1289374750
 author: liorb
-permalink: js/automated-dto-generation-maven-and-gas3
+permalink: /js/automated-dto-generation-maven-and-gas3
 tags:
 - JS
 - maven

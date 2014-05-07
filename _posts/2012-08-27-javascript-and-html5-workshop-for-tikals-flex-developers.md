@@ -3,7 +3,7 @@ layout: post
 title: 'JavaScript & HTML5 workshop for Tikal''s Flex developer''s '
 created: 1346094758
 author: gabi
-permalink: javascript-html5-workshop-tikals-flex-developers
+permalink: /javascript-html5-workshop-tikals-flex-developers
 tags:
 - JAVA
 ---

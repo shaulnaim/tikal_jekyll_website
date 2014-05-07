@@ -3,7 +3,7 @@ layout: post
 title: Admin console for Spring Batch
 created: 1261495061
 author: andrew
-permalink: java/admin-console-spring-batch
+permalink: /java/admin-console-spring-batch
 tags:
 - JAVA
 ---

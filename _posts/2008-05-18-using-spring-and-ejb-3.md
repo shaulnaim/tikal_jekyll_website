@@ -3,7 +3,7 @@ layout: post
 title: Using Spring and EJB 3
 created: 1211139780
 author: yanai
-permalink: java/using-spring-and-ejb-3
+permalink: /java/using-spring-and-ejb-3
 tags:
 - JAVA
 - Spring

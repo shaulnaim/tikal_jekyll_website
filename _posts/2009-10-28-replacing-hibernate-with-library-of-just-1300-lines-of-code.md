@@ -3,7 +3,7 @@ layout: post
 title: Replacing Hibernate with library of just 1300 lines of code
 created: 1256712873
 author: itaip
-permalink: java/replacing-hibernate-library-just-1300-lines-code
+permalink: /java/replacing-hibernate-library-just-1300-lines-code
 tags:
 - JAVA
 - Spring

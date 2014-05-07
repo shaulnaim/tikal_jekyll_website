@@ -3,7 +3,7 @@ layout: post
 title: HTML5, CSS and JavaScript Workshop
 created: 1334063808
 author: gabi
-permalink: html5-css-and-javascript-workshop
+permalink: /html5-css-and-javascript-workshop
 tags:
 - JAVA
 - HTML 5

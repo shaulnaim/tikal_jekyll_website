@@ -3,7 +3,7 @@ layout: post
 title: Do you to contribute to one of the coming Java sessions ?
 created: 1245355911
 author: yanai
-permalink: java/do-you-contribute-one-coming-java-sessions
+permalink: /java/do-you-contribute-one-coming-java-sessions
 tags:
 - JAVA
 - Application Frameworks

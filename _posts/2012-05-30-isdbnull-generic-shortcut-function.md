@@ -3,7 +3,7 @@ layout: post
 title: IsDBNull generic shortcut function
 created: 1338394544
 author: avit
-permalink: isdbnull-generic-shortcut-function
+permalink: /isdbnull-generic-shortcut-function
 tags:
 - RoR
 - web

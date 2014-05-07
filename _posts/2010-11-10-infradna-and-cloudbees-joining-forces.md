@@ -3,7 +3,7 @@ layout: post
 title: InfraDNA and CloudBees joining forces
 created: 1289340987
 author: lior.kanfi
-permalink: alm/infradna-and-cloudbees-joining-forces
+permalink: /alm/infradna-and-cloudbees-joining-forces
 tags:
 - ALM
 - Hudson Cloud

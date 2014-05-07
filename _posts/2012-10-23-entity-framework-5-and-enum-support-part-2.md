@@ -3,7 +3,7 @@ layout: post
 title: Entity Framework 5 and Enum support – Part 2
 created: 1351028221
 author: amiram
-permalink: net/entity-framework-5-and-enum-support-–-part-2
+permalink: /net/entity-framework-5-and-enum-support-–-part-2
 tags:
 - .NET
 ---

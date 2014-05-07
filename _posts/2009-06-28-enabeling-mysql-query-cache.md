@@ -3,7 +3,7 @@ layout: post
 title: Enabeling MySQL Query Cache
 created: 1246177603
 author: udid
-permalink: java/enabeling-mysql-query-cache
+permalink: /java/enabeling-mysql-query-cache
 tags:
 - JAVA
 - MySQL

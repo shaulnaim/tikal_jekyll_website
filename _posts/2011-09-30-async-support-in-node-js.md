@@ -3,7 +3,7 @@ layout: post
 title: '"async" support in node.js'
 created: 1317361205
 author: ittayd
-permalink: async-support-nodejs
+permalink: /async-support-nodejs
 tags:
 - Incubator
 - node.js

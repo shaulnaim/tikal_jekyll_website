@@ -4,7 +4,7 @@ title: Never-Ending Data Streams video and sildes - Big Data with Storm,Kafka,An
   and D3.js
 created: 1395567127
 author: yifat
-permalink: never-ending-data-streams-video-and-sildes-big-data-stormkafkaangular-and-d3js
+permalink: /never-ending-data-streams-video-and-sildes-big-data-stormkafkaangular-and-d3js
 tags:
 - Incubator
 - incubator

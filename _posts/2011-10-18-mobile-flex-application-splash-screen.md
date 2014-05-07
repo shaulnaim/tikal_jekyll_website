@@ -3,7 +3,7 @@ layout: post
 title: Mobile Flex application splash screen
 created: 1318931126
 author: sefi
-permalink: mobile-flex-application-splash-screen
+permalink: /mobile-flex-application-splash-screen
 tags:
 - gwt
 - flex

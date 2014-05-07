@@ -3,7 +3,7 @@ layout: post
 title: Interview Questions (flex) - What do you say?
 created: 1338394544
 author: avit
-permalink: interview-questions-flex-what-do-you-say
+permalink: /interview-questions-flex-what-do-you-say
 tags:
 - RoR
 - web

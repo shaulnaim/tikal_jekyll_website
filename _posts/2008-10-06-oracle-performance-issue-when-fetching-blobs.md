@@ -3,7 +3,7 @@ layout: post
 title: 'Oracle performance issue when fetching BLOBs '
 created: 1223307644
 author: udid
-permalink: java/oracle-performance-issue-when-fetching-blobs
+permalink: /java/oracle-performance-issue-when-fetching-blobs
 tags:
 - JAVA
 - JDBC

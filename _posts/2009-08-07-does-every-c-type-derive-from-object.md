@@ -3,7 +3,7 @@ layout: post
 title: Does every C# type derive from object?
 created: 1249665408
 author: andrew
-permalink: java/does-every-c-type-derive-object
+permalink: /java/does-every-c-type-derive-object
 tags:
 - JAVA
 - c#

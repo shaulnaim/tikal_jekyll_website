@@ -3,7 +3,7 @@ layout: post
 title: Want your Java fast or predictable ? Java RTS 2.1 is here
 created: 1217991004
 author: zvika
-permalink: want-your-java-fast-or-predictable-java-rts-21-here
+permalink: /want-your-java-fast-or-predictable-java-rts-21-here
 ---
 <br />
 <br />

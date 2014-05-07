@@ -3,7 +3,7 @@ layout: post
 title: Criticisms of Spring, PHP, and Rails
 created: 1210804680
 author: zvika
-permalink: java/criticisms-spring-php-and-rails
+permalink: /java/criticisms-spring-php-and-rails
 tags:
 - JAVA
 ---

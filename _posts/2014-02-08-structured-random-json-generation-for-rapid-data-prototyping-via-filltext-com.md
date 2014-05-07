@@ -3,7 +3,7 @@ layout: post
 title: Structured random JSON generation for rapid data prototyping via filltext.com
 created: 1391851140
 author: nickolay
-permalink: structured-random-json-generation-rapid-data-prototyping-filltextcom
+permalink: /structured-random-json-generation-rapid-data-prototyping-filltextcom
 tags:
 - JS
 - JSON

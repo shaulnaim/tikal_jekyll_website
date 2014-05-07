@@ -3,7 +3,7 @@ layout: post
 title: How can you give quality service to your clients
 created: 1338394544
 author: avit
-permalink: how-can-you-give-quality-service-your-clients
+permalink: /how-can-you-give-quality-service-your-clients
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Mule overview by insider
 created: 1273569831
 author: andrew
-permalink: java/mule-overview-insider
+permalink: /java/mule-overview-insider
 tags:
 - JAVA
 - tools

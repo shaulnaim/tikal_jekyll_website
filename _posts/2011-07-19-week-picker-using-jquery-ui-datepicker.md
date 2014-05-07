@@ -3,7 +3,7 @@ layout: post
 title: Week picker using jQuery UI Datepicker
 created: 1311058881
 author: igorz
-permalink: incubator/week-picker-using-jquery-ui-datepicker
+permalink: /incubator/week-picker-using-jquery-ui-datepicker
 tags:
 - Incubator
 - jQuery

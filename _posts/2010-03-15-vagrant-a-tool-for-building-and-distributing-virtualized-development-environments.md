@@ -3,7 +3,7 @@ layout: post
 title: vagrant - a tool for building and distributing virtualized development environments
 created: 1268637302
 author: ittayd
-permalink: alm/vagrant-tool-building-and-distributing-virtualized-development-environments
+permalink: /alm/vagrant-tool-building-and-distributing-virtualized-development-environments
 tags:
 - ALM
 - virtualization

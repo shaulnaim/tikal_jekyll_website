@@ -3,7 +3,7 @@ layout: post
 title: Web-oriented architecture (WOA) is emerging
 created: 1262247688
 author: udid
-permalink: java/web-oriented-architecture-woa-emerging
+permalink: /java/web-oriented-architecture-woa-emerging
 tags:
 - JAVA
 - WOA

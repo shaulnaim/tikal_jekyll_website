@@ -3,7 +3,7 @@ layout: post
 title: Time to get furious?
 created: 1245763084
 author: peterk
-permalink: java/time-get-furious
+permalink: /java/time-get-furious
 tags:
 - JAVA
 - JSE7

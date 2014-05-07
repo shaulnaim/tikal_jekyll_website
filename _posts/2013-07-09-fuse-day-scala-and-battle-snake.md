@@ -3,7 +3,7 @@ layout: post
 title: Fuse Day, Scala & Battle Snake!
 created: 1373361121
 author: nimrod
-permalink: java/fuse-day-scala-battle-snake
+permalink: /java/fuse-day-scala-battle-snake
 tags:
 - JAVA
 - Scala

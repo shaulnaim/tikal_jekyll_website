@@ -4,7 +4,7 @@ title: '"Rails on Scale" TCE - Building large scale web applications with Ruby o
   Rails 4/2/13'
 created: 1358411954
 author: admin
-permalink: events/rails-scale-tce-building-large-scale-web-applications-ruby-rails-4213
+permalink: /events/rails-scale-tce-building-large-scale-web-applications-ruby-rails-4213
 tags:
 - RoR
 ---

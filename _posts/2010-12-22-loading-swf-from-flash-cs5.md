@@ -3,7 +3,7 @@ layout: post
 title: Loading SWF from Flash CS5
 created: 1293008397
 author: yoav.moran
-permalink: js/loading-swf-flash-cs5
+permalink: /js/loading-swf-flash-cs5
 tags:
 - JS
 - Flex 4.1

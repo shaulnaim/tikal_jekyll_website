@@ -3,7 +3,7 @@ layout: post
 title: Panel interview with the author of Backbone.js
 created: 1329403090
 author: udib
-permalink: panel-interview-author-backbonejs
+permalink: /panel-interview-author-backbonejs
 tags:
 - mvc
 - frameworks

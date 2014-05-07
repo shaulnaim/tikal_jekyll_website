@@ -3,7 +3,7 @@ layout: post
 title: 'Scala on VMWare''s Cloud Foundry '
 created: 1311824766
 author: ittayd
-permalink: incubator/scala-vmwares-cloud-foundry
+permalink: /incubator/scala-vmwares-cloud-foundry
 tags:
 - Incubator
 - scala vmware cloud foundry

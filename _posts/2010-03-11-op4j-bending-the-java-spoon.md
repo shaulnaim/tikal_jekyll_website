@@ -3,7 +3,7 @@ layout: post
 title: 'op4j: bending the java spoon'
 created: 1268319972
 author: ittayd
-permalink: java/op4j-bending-java-spoon
+permalink: /java/op4j-bending-java-spoon
 tags:
 - JAVA
 - functional_programming

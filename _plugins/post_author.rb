@@ -6,12 +6,20 @@ module Jekyll
     def render(context)
       post = context["post"] || context["page"] || {}
 
-      if author = post["author"]
-        author_data = context["site"]["data"]["users"].detect{|data| data["login"] == author}
-        return author_data ? "<a href='#{author_data['permalink'] || ('/users/'+author)}'>#{author}</a>" : author
+      if post["author"] && post["user"]
+        uri = build_uri(context, post["user"])
+        uri ? "<a href='#{uri}'>#{post["author"]}</a>" : post["author"]
       else
         return nil
       end
+    end
+
+    def build_uri(context, user)
+      uri = []
+      permalink = user["permalink"] || "/users/#{user['login']}"
+      uri << context["site"]["baseurl"].split("/").reject!{|x| x.empty?}
+      uri << permalink.split("/").reject!{|x| x.empty?}
+      uri.flatten.join("/").insert(0, "/").gsub("//","/")
     end
   end
 end

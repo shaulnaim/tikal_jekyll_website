@@ -3,7 +3,7 @@ layout: post
 title: Implementing Workflows using jBPM
 created: 1183615200
 author: zvika
-permalink: java/implementing-workflows-using-jbpm
+permalink: /java/implementing-workflows-using-jbpm
 tags:
 - JAVA
 - jbpm

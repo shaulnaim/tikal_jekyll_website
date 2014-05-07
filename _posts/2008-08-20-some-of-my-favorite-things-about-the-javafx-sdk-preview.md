@@ -3,7 +3,7 @@ layout: post
 title: Some of my favorite things about the JavaFX SDK Preview
 created: 1219200601
 author: zvika
-permalink: some-my-favorite-things-about-javafx-sdk-preview
+permalink: /some-my-favorite-things-about-javafx-sdk-preview
 ---
 <br />
 <br />

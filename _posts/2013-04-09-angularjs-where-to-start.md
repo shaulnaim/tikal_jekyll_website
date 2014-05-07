@@ -3,7 +3,7 @@ layout: post
 title: AngularJS - Where to Start?
 created: 1365493160
 author: orenf
-permalink: js/angularjs-where-start
+permalink: /js/angularjs-where-start
 tags:
 - JS
 - AngularJS

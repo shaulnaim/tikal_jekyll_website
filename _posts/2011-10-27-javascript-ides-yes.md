@@ -3,7 +3,7 @@ layout: post
 title: Javascript IDE’s? yes!
 created: 1319716530
 author: orenf
-permalink: javascript-ide’s-yes
+permalink: /javascript-ide’s-yes
 tags:
 - JS
 ---

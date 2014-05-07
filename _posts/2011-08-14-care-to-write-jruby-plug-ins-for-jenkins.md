@@ -3,7 +3,7 @@ layout: post
 title: Care to write Jruby plug-ins for Jenkins ?
 created: 1313302657
 author: hagzag
-permalink: care-write-jruby-plug-ins-jenkins
+permalink: /care-write-jruby-plug-ins-jenkins
 tags:
 - ALM
 - Hudson

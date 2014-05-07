@@ -3,7 +3,7 @@ layout: post
 title: Notes about Migrating from Flex 3 to Flex 4 (4.1 or 4.5 SDK)
 created: 1311017177
 author: charlie
-permalink: js/notes-about-migrating-flex-3-flex-4-41-or-45-sdk
+permalink: /js/notes-about-migrating-flex-3-flex-4-41-or-45-sdk
 tags:
 - JS
 - RTL

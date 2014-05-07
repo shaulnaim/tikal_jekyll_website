@@ -3,7 +3,7 @@ layout: post
 title: Why and How Netflix Adopted NoSQL Databases
 created: 1296687674
 author: lior.kanfi
-permalink: incubator/why-and-how-netflix-adopted-nosql-databases
+permalink: /incubator/why-and-how-netflix-adopted-nosql-databases
 tags:
 - Incubator
 - HBase

@@ -3,7 +3,7 @@ layout: post
 title: Mono's Gendarme
 created: 1299758139
 author: igorz
-permalink: net/monos-gendarme
+permalink: /net/monos-gendarme
 tags:
 - .NET
 - .Net Open Source

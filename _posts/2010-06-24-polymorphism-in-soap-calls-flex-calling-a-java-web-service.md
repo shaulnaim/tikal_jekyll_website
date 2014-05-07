@@ -3,7 +3,7 @@ layout: post
 title: Polymorphism in SOAP calls – Flex calling a Java Web service
 created: 1277362167
 author: yoav.moran
-permalink: js/polymorphism-soap-calls-–-flex-calling-java-web-service
+permalink: /js/polymorphism-soap-calls-–-flex-calling-java-web-service
 tags:
 - JS
 - wsdl

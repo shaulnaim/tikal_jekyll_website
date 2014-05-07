@@ -3,7 +3,7 @@ layout: post
 title: JBUG4 - Open Source JAVA
 created: 1165388400
 author: zvika
-permalink: java/jbug4-open-source-java
+permalink: /java/jbug4-open-source-java
 tags:
 - JAVA
 - Open Source

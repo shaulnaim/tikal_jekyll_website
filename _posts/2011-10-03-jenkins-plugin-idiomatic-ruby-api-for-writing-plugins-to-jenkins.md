@@ -3,7 +3,7 @@ layout: post
 title: 'Jenkins-Plugin: Idiomatic Ruby API for writing plugins to Jenkins '
 created: 1317616749
 author: ittayd
-permalink: jenkins-plugin-idiomatic-ruby-api-writing-plugins-jenkins
+permalink: /jenkins-plugin-idiomatic-ruby-api-writing-plugins-jenkins
 tags:
 - ALM
 - jenkins

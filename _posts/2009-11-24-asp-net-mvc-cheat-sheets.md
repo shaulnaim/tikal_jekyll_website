@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET MVC Cheat Sheets
 created: 1259066507
 author: igorz
-permalink: net/aspnet-mvc-cheat-sheets
+permalink: /net/aspnet-mvc-cheat-sheets
 tags:
 - .NET
 - ASP.NET MVC

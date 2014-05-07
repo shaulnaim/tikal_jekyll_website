@@ -3,7 +3,7 @@ layout: post
 title: Mirah - statically typed JVM language with Ruby syntax
 created: 1300687789
 author: ittayd
-permalink: incubator/mirah-statically-typed-jvm-language-ruby-syntax
+permalink: /incubator/mirah-statically-typed-jvm-language-ruby-syntax
 tags:
 - Incubator
 - mirah

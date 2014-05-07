@@ -3,7 +3,7 @@ layout: post
 title: Namespace for Extension Methods
 created: 1343894364
 author: amiram
-permalink: net/namespace-extension-methods
+permalink: /net/namespace-extension-methods
 tags:
 - .NET
 ---

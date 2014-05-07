@@ -3,7 +3,7 @@ layout: post
 title: Microsoft IL Event – Windows 8 for .NET Developers
 created: 1341124067
 author: menny
-permalink: microsoft-il-event-–-windows-8-net-developers
+permalink: /microsoft-il-event-–-windows-8-net-developers
 tags:
 - .NET
 ---

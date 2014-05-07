@@ -3,7 +3,7 @@ layout: post
 title: Fullstack Of Now talk
 created: 1383125470
 author: orenf
-permalink: js/fullstack-of-now-talk
+permalink: /js/fullstack-of-now-talk
 tags:
 - JS
 - fullstack

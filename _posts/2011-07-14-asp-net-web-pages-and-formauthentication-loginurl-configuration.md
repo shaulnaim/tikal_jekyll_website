@@ -3,7 +3,7 @@ layout: post
 title: ASP.NET Web Pages and FormAuthentication.LoginUrl configuration
 created: 1310638037
 author: igorz
-permalink: net/aspnet-web-pages-and-formauthenticationloginurl-configuration
+permalink: /net/aspnet-web-pages-and-formauthenticationloginurl-configuration
 tags:
 - .NET
 - ASP.NET Web Pages

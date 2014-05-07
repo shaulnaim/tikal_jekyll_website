@@ -3,7 +3,7 @@ layout: post
 title: Why Installing Maven dependencies with the generatePom option is a good idea
 created: 1297265100
 author: liorb
-permalink: why-installing-maven-dependencies-generatepom-option-good-idea
+permalink: /why-installing-maven-dependencies-generatepom-option-good-idea
 tags:
 - Flex Java
 ---

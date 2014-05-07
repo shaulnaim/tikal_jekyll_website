@@ -3,7 +3,7 @@ layout: post
 title: Type safe builder in Scala using type constraints
 created: 1289197465
 author: ittayd
-permalink: java/type-safe-builder-scala-using-type-constraints
+permalink: /java/type-safe-builder-scala-using-type-constraints
 tags:
 - JAVA
 - Scala

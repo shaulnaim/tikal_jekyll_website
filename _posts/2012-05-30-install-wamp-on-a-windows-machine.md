@@ -3,7 +3,7 @@ layout: post
 title: Install Wamp on a Windows machine
 created: 1338394544
 author: avit
-permalink: install-wamp-windows-machine
+permalink: /install-wamp-windows-machine
 tags:
 - RoR
 - web

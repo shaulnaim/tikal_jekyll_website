@@ -3,7 +3,7 @@ layout: post
 title: JBUG 8 - The Gospel of JBoss 5
 created: 1208325600
 author: zvika
-permalink: java/jbug-8-gospel-jboss-5
+permalink: /java/jbug-8-gospel-jboss-5
 tags:
 - JAVA
 ---

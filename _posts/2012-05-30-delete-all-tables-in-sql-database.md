@@ -3,7 +3,7 @@ layout: post
 title: Delete all tables in sql database
 created: 1338394544
 author: avit
-permalink: delete-all-tables-sql-database
+permalink: /delete-all-tables-sql-database
 tags:
 - RoR
 - web

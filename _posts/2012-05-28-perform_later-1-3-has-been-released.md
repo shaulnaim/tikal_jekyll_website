@@ -3,7 +3,7 @@ layout: post
 title: perform_later 1.3 has been released
 created: 1338209215
 author: avit
-permalink: performlater-13-has-been-released
+permalink: /performlater-13-has-been-released
 tags:
 - RoR
 - web

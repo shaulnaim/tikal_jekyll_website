@@ -3,7 +3,7 @@ layout: post
 title: ' GQuery  - JQuery for GWT'
 created: 1279101368
 author: zvika
-permalink: java/gquery-jquery-gwt
+permalink: /java/gquery-jquery-gwt
 tags:
 - JAVA
 - jQuery

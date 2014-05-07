@@ -3,7 +3,7 @@ layout: post
 title: Don't buy everything they sell you...
 created: 1244730124
 author: adi
-permalink: java/dont-buy-everything-they-sell-you
+permalink: /java/dont-buy-everything-they-sell-you
 tags:
 - JAVA
 - Firefox

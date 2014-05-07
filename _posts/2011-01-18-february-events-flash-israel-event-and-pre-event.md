@@ -3,7 +3,7 @@ layout: post
 title: February Events - Flash Israel Event and Pre Event
 created: 1295348460
 author: liorb
-permalink: february-events-flash-israel-event-and-pre-event
+permalink: /february-events-flash-israel-event-and-pre-event
 tags:
 - Flex Java
 ---

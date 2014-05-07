@@ -3,7 +3,7 @@ layout: post
 title: 'Substance: Neat looking Swing-base toolkit '
 created: 1220845331
 author: zvika
-permalink: java/substance-neat-looking-swing-base-toolkit
+permalink: /java/substance-neat-looking-swing-base-toolkit
 tags:
 - JAVA
 - substance

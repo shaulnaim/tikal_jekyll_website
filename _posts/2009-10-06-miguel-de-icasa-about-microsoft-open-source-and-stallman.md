@@ -3,7 +3,7 @@ layout: post
 title: Miguel de Icasa about Microsoft, open source and Stallman
 created: 1254860640
 author: andrew
-permalink: net/miguel-de-icasa-about-microsoft-open-source-and-stallman
+permalink: /net/miguel-de-icasa-about-microsoft-open-source-and-stallman
 tags:
 - .NET
 ---

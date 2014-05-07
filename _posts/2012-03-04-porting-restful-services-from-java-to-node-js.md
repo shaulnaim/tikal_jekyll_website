@@ -3,7 +3,7 @@ layout: post
 title: Porting RESTful Services from Java to Node.js
 created: 1330860659
 author: adi
-permalink: porting-restful-services-java-nodejs
+permalink: /porting-restful-services-java-nodejs
 tags:
 - Incubator
 - node.js

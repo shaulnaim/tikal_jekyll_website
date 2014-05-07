@@ -3,7 +3,7 @@ layout: post
 title: javascript debugging on chrome using eclipse
 created: 1249468405
 author: shachar
-permalink: java/javascript-debugging-chrome-using-eclipse
+permalink: /java/javascript-debugging-chrome-using-eclipse
 tags:
 - JAVA
 ---

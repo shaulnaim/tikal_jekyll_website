@@ -3,7 +3,7 @@ layout: post
 title: Pointless.js (Better) Explained
 created: 1364154622
 author: adi
-permalink: js/pointlessjs-better-explained
+permalink: /js/pointlessjs-better-explained
 tags:
 - JS
 - backbone.js

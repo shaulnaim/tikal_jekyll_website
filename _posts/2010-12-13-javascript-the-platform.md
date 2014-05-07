@@ -3,7 +3,7 @@ layout: post
 title: Javascript the platform?
 created: 1292236816
 author: ittayd
-permalink: incubator/javascript-platform
+permalink: /incubator/javascript-platform
 tags:
 - Incubator
 - javascript java

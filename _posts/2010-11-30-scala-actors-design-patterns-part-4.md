@@ -3,7 +3,7 @@ layout: post
 title: Scala actors design patterns - part 4
 created: 1291130637
 author: ittayd
-permalink: java/scala-actors-design-patterns-part-4
+permalink: /java/scala-actors-design-patterns-part-4
 tags:
 - JAVA
 - scala actors

@@ -3,7 +3,7 @@ layout: post
 title: Mapping BLOBs in DB2 9 with Hibernate/JPA
 created: 1297158462
 author: avim
-permalink: java/mapping-blobs-db2-9-hibernatejpa
+permalink: /java/mapping-blobs-db2-9-hibernatejpa
 tags:
 - JAVA
 - progressive streaming

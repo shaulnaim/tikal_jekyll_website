@@ -3,7 +3,7 @@ layout: post
 title: google introduces the closure tools for javascript
 created: 1257451845
 author: ittayd
-permalink: java/google-introduces-closure-tools-javascript
+permalink: /java/google-introduces-closure-tools-javascript
 tags:
 - JAVA
 - google closure

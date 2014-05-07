@@ -3,7 +3,7 @@ layout: post
 title: Deft - an asynchronous web server
 created: 1297321311
 author: ittayd
-permalink: java/deft-asynchronous-web-server
+permalink: /java/deft-asynchronous-web-server
 tags:
 - JAVA
 - deft

@@ -3,7 +3,7 @@ layout: post
 title: gitignore template for a Ruby on Rail project
 created: 1338394544
 author: avit
-permalink: gitignore-template-ruby-rail-project
+permalink: /gitignore-template-ruby-rail-project
 tags:
 - RoR
 - web

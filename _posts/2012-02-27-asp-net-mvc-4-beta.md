@@ -3,7 +3,7 @@ layout: post
 title: 'ASP.NET MVC 4 Beta '
 created: 1330348819
 author: igorz
-permalink: aspnet-mvc-4-beta
+permalink: /aspnet-mvc-4-beta
 tags:
 - .NET
 - .Net Open Source

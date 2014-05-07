@@ -3,7 +3,7 @@ layout: post
 title: groovy++ performance
 created: 1265572950
 author: ittayd
-permalink: java/groovy-performance
+permalink: /java/groovy-performance
 tags:
 - JAVA
 - Groovy

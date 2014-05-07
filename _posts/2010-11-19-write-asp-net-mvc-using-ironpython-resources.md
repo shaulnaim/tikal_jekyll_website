@@ -3,7 +3,7 @@ layout: post
 title: Write ASP.NET MVC using IronPython - Resources
 created: 1290166745
 author: igorz
-permalink: net/write-aspnet-mvc-using-ironpython-resources
+permalink: /net/write-aspnet-mvc-using-ironpython-resources
 tags:
 - .NET
 - .Net Open Source

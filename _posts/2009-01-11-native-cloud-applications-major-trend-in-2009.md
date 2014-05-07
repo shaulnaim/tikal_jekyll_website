@@ -3,7 +3,7 @@ layout: post
 title: 'Native Cloud Applications: Major Trend in 2009'
 created: 1231672711
 author: yanai
-permalink: java/native-cloud-applications-major-trend-2009
+permalink: /java/native-cloud-applications-major-trend-2009
 tags:
 - JAVA
 - Grid computing trend

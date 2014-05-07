@@ -3,7 +3,7 @@ layout: post
 title: Service Facades and Data Transfers Objects
 created: 1249926876
 author: yanai
-permalink: java/service-facades-and-data-transfers-objects
+permalink: /java/service-facades-and-data-transfers-objects
 tags:
 - JAVA
 - JPA

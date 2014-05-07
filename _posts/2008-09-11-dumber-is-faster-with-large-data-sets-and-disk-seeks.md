@@ -3,7 +3,7 @@ layout: post
 title: Dumber is Faster with Large Data Sets (and Disk Seeks)
 created: 1221120545
 author: ittayd
-permalink: java/dumber-faster-large-data-sets-and-disk-seeks
+permalink: /java/dumber-faster-large-data-sets-and-disk-seeks
 tags:
 - JAVA
 - Databases

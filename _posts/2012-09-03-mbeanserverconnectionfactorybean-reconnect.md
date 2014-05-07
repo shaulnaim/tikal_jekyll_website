@@ -3,7 +3,7 @@ layout: post
 title: MBeanServerConnectionFactoryBean reconnect
 created: 1346666621
 author: shmuel
-permalink: mbeanserverconnectionfactorybean-reconnect
+permalink: /mbeanserverconnectionfactorybean-reconnect
 tags:
 - JAVA
 - Spring

@@ -3,7 +3,7 @@ layout: post
 title: <angular/> What HTML would have been
 created: 1314858459
 author: ittayd
-permalink: what-html-would-have-been
+permalink: /what-html-would-have-been
 tags:
 - JS
 - javascript mvc

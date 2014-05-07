@@ -3,7 +3,7 @@ layout: post
 title: Dream it! Reaction on the latest JBug.
 created: 1244536442
 author: peterk
-permalink: java/dream-it-reaction-latest-jbug
+permalink: /java/dream-it-reaction-latest-jbug
 tags:
 - JAVA
 - java scala language concurrency

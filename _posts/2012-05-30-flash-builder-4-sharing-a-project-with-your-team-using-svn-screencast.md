@@ -3,7 +3,7 @@ layout: post
 title: Flash builder 4 - sharing a project with your team using SVN Screencast
 created: 1338394544
 author: avit
-permalink: flash-builder-4-sharing-project-your-team-using-svn-screencast
+permalink: /flash-builder-4-sharing-project-your-team-using-svn-screencast
 tags:
 - RoR
 - web

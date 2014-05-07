@@ -3,7 +3,7 @@ layout: post
 title: SpringSource Application Platform Deployment Options
 created: 1210151040
 author: zvika
-permalink: java/springsource-application-platform-deployment-options
+permalink: /java/springsource-application-platform-deployment-options
 tags:
 - JAVA
 - Spring

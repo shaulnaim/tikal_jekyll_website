@@ -3,7 +3,7 @@ layout: post
 title: 'HornetQ in Tomcat '
 created: 1326099925
 author: alonm
-permalink: hornetq-tomcat
+permalink: /hornetq-tomcat
 tags:
 - JAVA
 - HornetQ  Tomcat

@@ -3,7 +3,7 @@ layout: post
 title: 'Google Brings App Engine''s Pros and Cons to Java '
 created: 1239474459
 author: lior.kanfi
-permalink: java/google-brings-app-engines-pros-and-cons-java
+permalink: /java/google-brings-app-engines-pros-and-cons-java
 tags:
 - JAVA
 - Cloud Computing Google AppEngine

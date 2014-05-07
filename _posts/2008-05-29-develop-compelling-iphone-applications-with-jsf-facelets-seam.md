@@ -3,7 +3,7 @@ layout: post
 title: 'Develop compelling iphone applications with JSF + Facelets + Seam '
 created: 1212056340
 author: hila
-permalink: java/develop-compelling-iphone-applications-jsf-facelets-seam
+permalink: /java/develop-compelling-iphone-applications-jsf-facelets-seam
 tags:
 - JAVA
 ---

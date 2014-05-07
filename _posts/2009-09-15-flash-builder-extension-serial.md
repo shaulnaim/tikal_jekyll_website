@@ -3,7 +3,7 @@ layout: post
 title: Flash Builder extension serial
 created: 1253045436
 author: sefi
-permalink: flash-builder-extension-serial
+permalink: /flash-builder-extension-serial
 tags:
 - gwt
 - flex

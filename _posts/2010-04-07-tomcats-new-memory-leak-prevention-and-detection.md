@@ -3,7 +3,7 @@ layout: post
 title: Tomcat's new memory leak prevention and detection
 created: 1270614367
 author: ittayd
-permalink: java/tomcats-new-memory-leak-prevention-and-detection
+permalink: /java/tomcats-new-memory-leak-prevention-and-detection
 tags:
 - JAVA
 ---

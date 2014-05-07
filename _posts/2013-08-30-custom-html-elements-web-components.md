@@ -3,7 +3,7 @@ layout: post
 title: Custom Html Elements - Web Components
 created: 1377880462
 author: orenf
-permalink: custom-html-elements-web-components
+permalink: /custom-html-elements-web-components
 tags:
 - JS
 - HTML5

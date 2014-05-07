@@ -3,7 +3,7 @@ layout: post
 title: JBUG 4 - EJB 3 Development in Jboss environment
 created: 1165388400
 author: zvika
-permalink: java/jbug-4-ejb-3-development-jboss-environment
+permalink: /java/jbug-4-ejb-3-development-jboss-environment
 tags:
 - JAVA
 ---

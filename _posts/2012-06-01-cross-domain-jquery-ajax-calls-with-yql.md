@@ -3,7 +3,7 @@ layout: post
 title: Cross Domain jQuery AJAX Calls with YQL
 created: 1338536384
 author: yossi
-permalink: cross-domain-jquery-ajax-calls-yql
+permalink: /cross-domain-jquery-ajax-calls-yql
 tags:
 - RoR
 ---

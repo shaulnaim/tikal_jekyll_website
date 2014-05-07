@@ -3,7 +3,7 @@ layout: post
 title: Flex VideoDisplay Bug and The Component Life Cycle
 created: 1263760080
 author: liorb
-permalink: flex-videodisplay-bug-and-component-life-cycle
+permalink: /flex-videodisplay-bug-and-component-life-cycle
 tags:
 - Flex Java
 ---

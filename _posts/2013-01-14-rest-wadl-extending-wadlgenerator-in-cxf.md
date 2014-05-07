@@ -3,7 +3,7 @@ layout: post
 title: REST WADL / Extending WadlGenerator in CXF
 created: 1358185264
 author: chaim.turkel
-permalink: java/blog/rest-wadl-extending-wadlgenerator-cxf
+permalink: /java/blog/rest-wadl-extending-wadlgenerator-cxf
 tags:
 - JAVA
 - REST

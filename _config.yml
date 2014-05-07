@@ -1,8 +1,12 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-nav_links: [ "about", "solutions", "careers", "events", "contact" ]
+exclude:
+  - jekyll-import-0.2.0
+baseurl: /tikal_jekyll_website
+nav_links: [ "/about", "/solutions", "/careers", "/events", "/contact" ]
 assets:
+  baseurl: /tikal_jekyll_website/assets
   compress:
     css:  sass
     js:   uglifier

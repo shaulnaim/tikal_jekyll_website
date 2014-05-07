@@ -3,7 +3,7 @@ layout: post
 title: Apple killed Java on OS X
 created: 1287649385
 author: ittayd
-permalink: java/apple-killed-java-os-x
+permalink: /java/apple-killed-java-os-x
 tags:
 - JAVA
 - apple java

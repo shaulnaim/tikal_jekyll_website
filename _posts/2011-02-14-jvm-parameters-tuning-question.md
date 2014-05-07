@@ -3,7 +3,7 @@ layout: post
 title: JVM parameters tuning question.
 created: 1297697050
 author: oleg
-permalink: java/jvm-parameters-tuning-question
+permalink: /java/jvm-parameters-tuning-question
 tags:
 - JAVA
 ---

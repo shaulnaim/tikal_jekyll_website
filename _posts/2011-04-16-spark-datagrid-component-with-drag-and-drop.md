@@ -3,7 +3,7 @@ layout: post
 title: Spark DataGrid component with Drag & Drop
 created: 1302930797
 author: sefi
-permalink: spark-datagrid-component-drag-drop
+permalink: /spark-datagrid-component-drag-drop
 tags:
 - gwt
 - flex

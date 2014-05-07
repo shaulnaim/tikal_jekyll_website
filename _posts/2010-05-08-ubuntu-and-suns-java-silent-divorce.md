@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu and Sun''s Java silent divorce '
 created: 1273312786
 author: peterk
-permalink: java/ubuntu-and-suns-java-silent-divorce
+permalink: /java/ubuntu-and-suns-java-silent-divorce
 tags:
 - JAVA
 - ubuntu Lucid Lynx sun java install

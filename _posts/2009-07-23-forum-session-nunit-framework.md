@@ -3,7 +3,7 @@ layout: post
 title: 'forum session: NUnit framework'
 created: 1248380387
 author: andrew
-permalink: net/forum-session-nunit-framework
+permalink: /net/forum-session-nunit-framework
 tags:
 - .NET
 - unit testing

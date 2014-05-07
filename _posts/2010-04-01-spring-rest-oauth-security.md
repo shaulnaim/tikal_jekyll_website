@@ -3,7 +3,7 @@ layout: post
 title: spring - Rest - OAuth security
 created: 1270110173
 author: itaip
-permalink: java/spring-rest-oauth-security
+permalink: /java/spring-rest-oauth-security
 tags:
 - JAVA
 - Spring

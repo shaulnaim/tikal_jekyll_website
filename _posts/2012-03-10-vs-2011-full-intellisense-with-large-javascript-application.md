@@ -3,7 +3,7 @@ layout: post
 title: VS 2011 Full IntelliSense With Large JavaScript Application
 created: 1331383800
 author: menny
-permalink: vs-2011-full-intellisense-large-javascript-application
+permalink: /vs-2011-full-intellisense-large-javascript-application
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: diff and patch for database tables using PDI
 created: 1269470589
 author: udid
-permalink: java/diff-and-patch-database-tables-using-pdi
+permalink: /java/diff-and-patch-database-tables-using-pdi
 tags:
 - JAVA
 - pdi

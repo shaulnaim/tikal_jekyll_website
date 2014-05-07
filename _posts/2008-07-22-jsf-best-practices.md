@@ -3,7 +3,7 @@ layout: post
 title: JSF Best Practices
 created: 1216721520
 author: hila
-permalink: java/jsf-best-practices
+permalink: /java/jsf-best-practices
 tags:
 - JAVA
 ---

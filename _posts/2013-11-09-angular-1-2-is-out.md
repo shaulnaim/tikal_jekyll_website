@@ -3,7 +3,7 @@ layout: post
 title: Angular 1.2 is out!
 created: 1384032259
 author: orenf
-permalink: js/angular-12-out
+permalink: /js/angular-12-out
 tags:
 - JS
 - angular.js

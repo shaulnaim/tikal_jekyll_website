@@ -3,7 +3,7 @@ layout: post
 title: Fuck you, pay me!
 created: 1338394544
 author: avit
-permalink: fuck-you-pay-me
+permalink: /fuck-you-pay-me
 tags:
 - RoR
 - web

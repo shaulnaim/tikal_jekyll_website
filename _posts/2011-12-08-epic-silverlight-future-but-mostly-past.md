@@ -3,7 +3,7 @@ layout: post
 title: Epic – Silverlight future, but mostly past
 created: 1323376587
 author: menny
-permalink: epic-–-silverlight-future-mostly-past
+permalink: /epic-–-silverlight-future-mostly-past
 tags:
 - .NET
 - WinRT

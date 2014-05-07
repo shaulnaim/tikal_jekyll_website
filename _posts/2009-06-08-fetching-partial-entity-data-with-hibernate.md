@@ -3,7 +3,7 @@ layout: post
 title: fetching partial entity data with hibernate
 created: 1244467914
 author: shalom
-permalink: java/fetching-partial-entity-data-hibernate
+permalink: /java/fetching-partial-entity-data-hibernate
 tags:
 - JAVA
 - Hibernate

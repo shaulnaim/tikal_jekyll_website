@@ -3,7 +3,7 @@ layout: post
 title: Comparing performance of Scala's standard actors with Akka
 created: 1260600196
 author: ittayd
-permalink: java/comparing-performance-scalas-standard-actors-akka
+permalink: /java/comparing-performance-scalas-standard-actors-akka
 tags:
 - JAVA
 - Actors

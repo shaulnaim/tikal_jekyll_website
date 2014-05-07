@@ -3,7 +3,7 @@ layout: post
 title: Postgresql show tables and other shortcuts
 created: 1296044340
 author: liorb
-permalink: postgresql-show-tables-and-other-shortcuts
+permalink: /postgresql-show-tables-and-other-shortcuts
 tags:
 - Flex Java
 ---

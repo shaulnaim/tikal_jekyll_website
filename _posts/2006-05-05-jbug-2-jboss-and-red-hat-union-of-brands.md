@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 2 - JBoss and Red Hat: Union of Brands'
 created: 1146808800
 author: zvika
-permalink: java/jbug-2-jboss-and-red-hat-union-brands
+permalink: /java/jbug-2-jboss-and-red-hat-union-brands
 tags:
 - JAVA
 - RedHat

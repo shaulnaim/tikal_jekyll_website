@@ -3,7 +3,7 @@ layout: post
 title: Hudson on spring tomcat causing repeatable IllegalStateException
 created: 1244059527
 author: shalom
-permalink: java/hudson-spring-tomcat-causing-repeatable-illegalstateexception
+permalink: /java/hudson-spring-tomcat-causing-repeatable-illegalstateexception
 tags:
 - JAVA
 - Hudson

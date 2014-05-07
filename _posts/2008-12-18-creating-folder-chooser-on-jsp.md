@@ -3,7 +3,7 @@ layout: post
 title: creating folder chooser on jsp
 created: 1229607306
 author: keren
-permalink: java/creating-folder-chooser-jsp
+permalink: /java/creating-folder-chooser-jsp
 tags:
 - JAVA
 ---

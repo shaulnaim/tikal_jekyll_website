@@ -3,7 +3,7 @@ layout: post
 title: Java Parallel Processing Framework
 created: 1208366580
 author: ittayd
-permalink: java/java-parallel-processing-framework
+permalink: /java/java-parallel-processing-framework
 tags:
 - JAVA
 ---

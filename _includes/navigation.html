@@ -1,7 +1,7 @@
 <header id="header" role="banner">
   <div class="logo-and-region-header">
     <div class="background-logo"></div>
-    <a href="/" title="Home" rel="home" id="logo">
+    <a href="{{ "/" | to_baseurl }}" title="Home" rel="home" id="logo">
       <img src="{% asset_path logo.png %}" alt="Home">
     </a>
 
@@ -13,7 +13,8 @@
         <div class="content">
           <ul class="menu clearfix">
             {% for nav_link in site.nav_links %}
-            <li class="leaf"><a href="/{{ nav_link }}" class="{% if page.name == nav_link %} active {% endif %}">{{ nav_link | capitalize }}</a></li>
+              {% assign name = (nav_link | replace: '/', '') %}
+              <li class="leaf"><a href="{{ nav_link | to_baseurl }}" class="{% if page.name == name %} active {% endif %}">{{ name | capitalize }}</a></li>
             {% endfor %}
         </ul>  </div><!-- /.content -->
       </section><!-- /.block -->
@@ -21,11 +22,11 @@
         <h2 class="block-title element-invisible">Domains</h2>
 
         <div class="content">
-          <ul class="menu clearfix"><li class="first leaf alm"><a href="/alm" title="">ALM</a></li>
-            <li class="leaf java"><a href="/java" title="">JAVA</a></li>
-            <li class="leaf js"><a href="/js" title="">JS</a></li>
-            <li class="leaf .net"><a href="/net" title="">.NET</a></li>
-            <li class="last leaf ror"><a href="/ror" title="">RoR</a></li>
+          <ul class="menu clearfix"><li class="first leaf alm"><a href="{{ '/alm' | to_baseurl }}" title="">ALM</a></li>
+            <li class="leaf java"><a href="{{ '/java' | to_baseurl }}" title="">JAVA</a></li>
+            <li class="leaf js"><a href="{{ '/js' | to_baseurl }}" title="">JS</a></li>
+            <li class="leaf .net"><a href="{{ '/net' | to_baseurl }}" title="">.NET</a></li>
+            <li class="last leaf ror"><a href="{{ '/ror' | to_baseurl }}" title="">RoR</a></li>
         </ul>  </div><!-- /.content -->
       </section><!-- /.block -->
     </div>

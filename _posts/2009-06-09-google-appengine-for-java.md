@@ -3,7 +3,7 @@ layout: post
 title: Google AppEngine for Java
 created: 1244504866
 author: zvika
-permalink: java/google-appengine-java
+permalink: /java/google-appengine-java
 tags:
 - JAVA
 - GAE

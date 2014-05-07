@@ -3,7 +3,7 @@ layout: post
 title: Play framework session - please vote!
 created: 1361702956
 author: andrew
-permalink: java/play-framework-session-please-vote
+permalink: /java/play-framework-session-please-vote
 tags:
 - JAVA
 - Fast Web Development

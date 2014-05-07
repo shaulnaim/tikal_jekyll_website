@@ -2,7 +2,7 @@
 layout: post
 title: Flex Auto Complete Control
 created: 1281445253
-permalink: js/flex-auto-complete-control
+permalink: /js/flex-auto-complete-control
 tags:
 - JS
 - flex

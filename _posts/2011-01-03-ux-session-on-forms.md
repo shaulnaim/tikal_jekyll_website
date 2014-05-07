@@ -3,7 +3,7 @@ layout: post
 title: UX session on Forms
 created: 1294039445
 author: sefi
-permalink: js/ux-session-forms
+permalink: /js/ux-session-forms
 tags:
 - JS
 ---

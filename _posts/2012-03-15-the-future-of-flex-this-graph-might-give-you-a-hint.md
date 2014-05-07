@@ -3,7 +3,7 @@ layout: post
 title: The Future of Flex? This graph might give you a hint
 created: 1331841039
 author: liorb
-permalink: js/future-flex-graph-might-give-you-hint
+permalink: /js/future-flex-graph-might-give-you-hint
 tags:
 - JS
 - Flex HTML5 Javascript

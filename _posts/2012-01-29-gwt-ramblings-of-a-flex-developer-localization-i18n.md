@@ -3,7 +3,7 @@ layout: post
 title: ' GWT ramblings of a Flex developer - localization / I18N'
 created: 1327855907
 author: sefi
-permalink: js/gwt-ramblings-flex-developer-localization-i18n
+permalink: /js/gwt-ramblings-flex-developer-localization-i18n
 tags:
 - JS
 - localization

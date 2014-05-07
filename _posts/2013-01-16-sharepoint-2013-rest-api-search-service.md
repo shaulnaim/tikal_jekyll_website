@@ -3,7 +3,7 @@ layout: post
 title: SharePoint 2013 Rest API – Search Service
 created: 1358330176
 author: menny
-permalink: net/sharepoint-2013-rest-api-–-search-service
+permalink: /net/sharepoint-2013-rest-api-–-search-service
 tags:
 - .NET
 ---

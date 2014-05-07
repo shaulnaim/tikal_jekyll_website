@@ -3,7 +3,7 @@ layout: post
 title: Nice innovations from UIST
 created: 1305288786
 author: olga
-permalink: java/nice-innovations-uist
+permalink: /java/nice-innovations-uist
 tags:
 - JAVA
 - UIST

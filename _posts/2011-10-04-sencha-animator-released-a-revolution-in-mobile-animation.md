@@ -3,7 +3,7 @@ layout: post
 title: 'Sencha Animator Released: A Revolution in Mobile Animation'
 created: 1317724507
 author: ittayd
-permalink: sencha-animator-released-revolution-mobile-animation
+permalink: /sencha-animator-released-revolution-mobile-animation
 tags:
 - JS
 - sencha animation

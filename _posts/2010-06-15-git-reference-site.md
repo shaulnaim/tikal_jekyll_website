@@ -3,7 +3,7 @@ layout: post
 title: git reference site
 created: 1276586953
 author: ittayd
-permalink: alm/git-reference-site
+permalink: /alm/git-reference-site
 tags:
 - ALM
 - git

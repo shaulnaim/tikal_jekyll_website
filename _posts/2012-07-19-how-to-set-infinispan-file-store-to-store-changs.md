@@ -3,7 +3,7 @@ layout: post
 title: How to set Infinispan File store to store changs?
 created: 1342699830
 author: alonm
-permalink: how-set-infinispan-file-store-store-changs
+permalink: /how-set-infinispan-file-store-store-changs
 tags:
 - JAVA
 - java cache infinispan

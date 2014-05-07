@@ -3,7 +3,7 @@ layout: post
 title: 8 Principles of Continuous Delivery
 created: 1313269524
 author: lior.kanfi
-permalink: 8-principles-continuous-delivery
+permalink: /8-principles-continuous-delivery
 tags:
 - ALM
 - Continuous Integration Continuous Deployment

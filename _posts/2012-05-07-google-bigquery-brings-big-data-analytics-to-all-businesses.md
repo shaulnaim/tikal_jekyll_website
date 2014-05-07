@@ -3,7 +3,7 @@ layout: post
 title: Google BigQuery brings Big Data analytics to all businesses
 created: 1336418674
 author: adi
-permalink: google-bigquery-brings-big-data-analytics-all-businesses
+permalink: /google-bigquery-brings-big-data-analytics-all-businesses
 tags:
 - Incubator
 ---

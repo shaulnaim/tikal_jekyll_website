@@ -3,7 +3,7 @@ layout: post
 title: EventController - An Actionscript 3 Library.
 created: 1273832565
 author: sefi
-permalink: js/eventcontroller-actionscript-3-library
+permalink: /js/eventcontroller-actionscript-3-library
 tags:
 - JS
 ---

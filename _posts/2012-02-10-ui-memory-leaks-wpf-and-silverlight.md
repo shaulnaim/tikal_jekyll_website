@@ -3,7 +3,7 @@ layout: post
 title: UI Memory Leaks (WPF & Silverlight)
 created: 1328907437
 author: menny
-permalink: ui-memory-leaks-wpf-silverlight
+permalink: /ui-memory-leaks-wpf-silverlight
 tags:
 - .NET
 - .Net Open Source

@@ -3,7 +3,7 @@ layout: post
 title: Number of open connections SQL server
 created: 1338394544
 author: avit
-permalink: number-open-connections-sql-server
+permalink: /number-open-connections-sql-server
 tags:
 - RoR
 - web

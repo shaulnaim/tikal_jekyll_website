@@ -3,7 +3,7 @@ layout: post
 title: AS3 Array sort algorithm comparison
 created: 1244527005
 author: sefi
-permalink: js/as3-array-sort-algorithm-comparison
+permalink: /js/as3-array-sort-algorithm-comparison
 tags:
 - JS
 - flex

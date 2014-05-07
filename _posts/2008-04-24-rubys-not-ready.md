@@ -3,7 +3,7 @@ layout: post
 title: Ruby’s not ready
 created: 1209010380
 author: ittayd
-permalink: java/ruby’s-not-ready
+permalink: /java/ruby’s-not-ready
 tags:
 - JAVA
 - ruby

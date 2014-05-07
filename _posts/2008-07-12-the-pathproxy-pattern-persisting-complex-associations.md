@@ -3,7 +3,7 @@ layout: post
 title: 'The PathProxy pattern: Persisting complex associations'
 created: 1215862800
 author: yanai
-permalink: java/pathproxy-pattern-persisting-complex-associations
+permalink: /java/pathproxy-pattern-persisting-complex-associations
 tags:
 - JAVA
 - JPA

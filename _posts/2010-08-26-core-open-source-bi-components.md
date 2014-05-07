@@ -3,7 +3,7 @@ layout: post
 title: Core Open Source BI components
 created: 1282807173
 author: udid
-permalink: java/core-open-source-bi-components
+permalink: /java/core-open-source-bi-components
 tags:
 - JAVA
 - report

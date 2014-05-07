@@ -4,7 +4,7 @@ title: 'Build 2011: HTML5 + JS ''First-Class Citizens,'' Silverlight Takes a Bac
   Seat'
 created: 1315947597
 author: lior.kanfi
-permalink: build-2011-html5-js-first-class-citizens-silverlight-takes-back-seat
+permalink: /build-2011-html5-js-first-class-citizens-silverlight-takes-back-seat
 tags:
 - .NET
 - Application Frameworks

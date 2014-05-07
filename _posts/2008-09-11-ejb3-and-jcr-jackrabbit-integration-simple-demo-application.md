@@ -2,7 +2,7 @@
 layout: post
 title: EJB3 and JCR (Jackrabbit) integration - simple demo application
 created: 1221129136
-permalink: java/ejb3-and-jcr-jackrabbit-integration-simple-demo-application
+permalink: /java/ejb3-and-jcr-jackrabbit-integration-simple-demo-application
 tags:
 - JAVA
 - Application Frameworks

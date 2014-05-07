@@ -3,7 +3,7 @@ layout: post
 title: Addressing Misconceptions about Google Web Toolkit
 created: 1310278412
 author: gabi
-permalink: java/addressing-misconceptions-about-google-web-toolkit
+permalink: /java/addressing-misconceptions-about-google-web-toolkit
 tags:
 - JAVA
 - MVP

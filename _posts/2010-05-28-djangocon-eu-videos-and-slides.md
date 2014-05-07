@@ -3,7 +3,7 @@ layout: post
 title: DjangoCon.eu video's & slides
 created: 1275020030
 author: udib
-permalink: incubator/djangoconeu-videos-slides
+permalink: /incubator/djangoconeu-videos-slides
 tags:
 - Incubator
 - Videos

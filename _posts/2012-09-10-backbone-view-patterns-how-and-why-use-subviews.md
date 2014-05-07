@@ -3,7 +3,7 @@ layout: post
 title: Backbone.View Patterns – How & Why Use Subviews
 created: 1347263910
 author: orenf
-permalink: js/backboneview-patterns-–-how-why-use-subviews
+permalink: /js/backboneview-patterns-–-how-why-use-subviews
 tags:
 - JS
 ---

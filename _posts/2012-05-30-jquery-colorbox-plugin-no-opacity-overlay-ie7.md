@@ -3,7 +3,7 @@ layout: post
 title: jQuery colorbox plugin no opacity (overlay) - IE7
 created: 1338394544
 author: avit
-permalink: jquery-colorbox-plugin-no-opacity-overlay-ie7
+permalink: /jquery-colorbox-plugin-no-opacity-overlay-ie7
 tags:
 - RoR
 - web

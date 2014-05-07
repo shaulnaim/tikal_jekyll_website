@@ -3,7 +3,7 @@ layout: post
 title: BTrace is a safe, dynamic tracing tool for the Java platform
 created: 1244059793
 author: lior.kanfi
-permalink: java/btrace-safe-dynamic-tracing-tool-java-platform
+permalink: /java/btrace-safe-dynamic-tracing-tool-java-platform
 tags:
 - JAVA
 - tuning performance tracing

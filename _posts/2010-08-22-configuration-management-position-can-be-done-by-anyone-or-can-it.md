@@ -3,7 +3,7 @@ layout: post
 title: Configuration Management position – can be done by anyone. Or can it?
 created: 1282475735
 author: hagzag
-permalink: alm/configuration-management-position-–-can-be-done-anyone-or-can-it
+permalink: /alm/configuration-management-position-–-can-be-done-anyone-or-can-it
 tags:
 - ALM
 - Continuous Integration

@@ -3,7 +3,7 @@ layout: post
 title: DataGrid error - Find criteria must contain at least one sort field value
 created: 1283861040
 author: liorb
-permalink: datagrid-error-find-criteria-must-contain-least-one-sort-field-value
+permalink: /datagrid-error-find-criteria-must-contain-least-one-sort-field-value
 tags:
 - Flex Java
 ---

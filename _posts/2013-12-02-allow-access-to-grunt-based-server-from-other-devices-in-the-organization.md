@@ -3,7 +3,7 @@ layout: post
 title: Allow access to grunt based server from other devices in the organization
 created: 1385989741
 author: oren
-permalink: allow-access-grunt-based-server-other-devices-organization
+permalink: /allow-access-grunt-based-server-other-devices-organization
 tags:
 - JS
 - grunt

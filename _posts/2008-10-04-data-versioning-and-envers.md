@@ -3,7 +3,7 @@ layout: post
 title: Data Versioning and Envers
 created: 1223143994
 author: yanai
-permalink: java/data-versioning-and-envers
+permalink: /java/data-versioning-and-envers
 tags:
 - JAVA
 - JPA

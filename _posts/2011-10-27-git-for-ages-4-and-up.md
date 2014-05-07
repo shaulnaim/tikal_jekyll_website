@@ -3,7 +3,7 @@ layout: post
 title: 'Git For Ages 4 And Up '
 created: 1319715260
 author: ittayd
-permalink: git-ages-4-and
+permalink: /git-ages-4-and
 tags:
 - ALM
 - git

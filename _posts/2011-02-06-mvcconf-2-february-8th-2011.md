@@ -3,7 +3,7 @@ layout: post
 title: MvcConf 2– February 8th, 2011
 created: 1296974382
 author: igorz
-permalink: net/mvcconf-2–-february-8th-2011
+permalink: /net/mvcconf-2–-february-8th-2011
 tags:
 - .NET
 - .Net Open Source

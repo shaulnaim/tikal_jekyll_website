@@ -3,7 +3,7 @@ layout: post
 title: Ask us about the 'Consumer JRE'....all week !
 created: 1215543914
 author: zvika
-permalink: ask-us-about-consumer-jreall-week
+permalink: /ask-us-about-consumer-jreall-week
 ---
 <br />
 <img style="width: 150px; height: 158px;" alt="" src="http://blogs.sun.com/dannycoward/resource/questions.gif" align="left" hspace="10" vspace="10" /><a href="http://blogs.sun.com/kbr/">Ken</a>, <a href="http://weblogs.java.net/blog/rbair/">Richard</a> and I are doing

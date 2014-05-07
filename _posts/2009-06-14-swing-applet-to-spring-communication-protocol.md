@@ -3,7 +3,7 @@ layout: post
 title: Swing-Applet to Spring communication protocol
 created: 1245004281
 author: shalom
-permalink: java/swing-applet-spring-communication-protocol
+permalink: /java/swing-applet-spring-communication-protocol
 tags:
 - JAVA
 - Spring

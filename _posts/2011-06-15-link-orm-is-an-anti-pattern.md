@@ -3,7 +3,7 @@ layout: post
 title: '[link] ORM is an anti-pattern'
 created: 1308169437
 author: ittayd
-permalink: link-orm-anti-pattern
+permalink: /link-orm-anti-pattern
 tags:
 - ORM
 ---

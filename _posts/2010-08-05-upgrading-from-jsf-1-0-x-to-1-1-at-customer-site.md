@@ -3,7 +3,7 @@ layout: post
 title: Upgrading from JSF 1.0.x to 1.1 at customer site
 created: 1281040561
 author: lior.kanfi
-permalink: java/upgrading-jsf-10x-11-customer-site
+permalink: /java/upgrading-jsf-10x-11-customer-site
 tags:
 - JAVA
 - myfaces jboss4

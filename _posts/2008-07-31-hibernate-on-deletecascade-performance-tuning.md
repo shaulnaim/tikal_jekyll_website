@@ -3,7 +3,7 @@ layout: post
 title: Hibernate ‘on-delete=cascade’ Performance Tuning
 created: 1217532660
 author: yanai
-permalink: java/hibernate-‘-deletecascade’-performance-tuning
+permalink: /java/hibernate-‘-deletecascade’-performance-tuning
 tags:
 - JAVA
 - Hibernate

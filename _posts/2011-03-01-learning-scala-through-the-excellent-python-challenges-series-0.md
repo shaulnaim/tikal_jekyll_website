@@ -3,7 +3,7 @@ layout: post
 title: Learning Scala through the excellent "Python Challenges" series (#0)
 created: 1298968158
 author: ittayd
-permalink: incubator/learning-scala-through-excellent-python-challenges-series-0
+permalink: /incubator/learning-scala-through-excellent-python-challenges-series-0
 tags:
 - Incubator
 - Scala

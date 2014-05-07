@@ -3,7 +3,7 @@ layout: post
 title: 'junitparams - Parameterised tests for JUnit '
 created: 1306038389
 author: ittayd
-permalink: java/junitparams-parameterised-tests-junit
+permalink: /java/junitparams-parameterised-tests-junit
 tags:
 - JAVA
 - JUnit

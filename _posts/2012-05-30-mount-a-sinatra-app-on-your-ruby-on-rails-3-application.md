@@ -3,7 +3,7 @@ layout: post
 title: Mount a Sinatra app on your Ruby on rails (3) application
 created: 1338394544
 author: avit
-permalink: mount-sinatra-app-your-ruby-rails-3-application
+permalink: /mount-sinatra-app-your-ruby-rails-3-application
 tags:
 - RoR
 - web

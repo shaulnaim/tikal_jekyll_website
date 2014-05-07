@@ -3,7 +3,7 @@ layout: post
 title: Backbone.View Patterns – the “render” method
 created: 1340723325
 author: orenf
-permalink: js/backboneview-patterns-–-“render”-method
+permalink: /js/backboneview-patterns-–-“render”-method
 tags:
 - JS
 ---

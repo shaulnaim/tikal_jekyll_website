@@ -3,7 +3,7 @@ layout: post
 title: 'Write custom ASP.NET HTTP Handler using JavaScript '
 created: 1312194893
 author: igorz
-permalink: write-custom-aspnet-http-handler-using-javascript
+permalink: /write-custom-aspnet-http-handler-using-javascript
 tags:
 - ASP.NET
 - .Net Open Source

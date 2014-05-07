@@ -3,7 +3,7 @@ layout: post
 title: RailsConf 2012 talk - How Gogobot works
 created: 1352827583
 author: avit
-permalink: ror/railsconf-2012-talk-how-gogobot-works
+permalink: /ror/railsconf-2012-talk-how-gogobot-works
 tags:
 - RoR
 ---

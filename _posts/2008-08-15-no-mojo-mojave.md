@@ -3,7 +3,7 @@ layout: post
 title: No Mojo Mojave
 created: 1218761486
 author: zvika
-permalink: no-mojo-mojave
+permalink: /no-mojo-mojave
 ---
 <br />
 <br />

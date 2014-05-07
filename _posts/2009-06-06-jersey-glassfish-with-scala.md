@@ -3,7 +3,7 @@ layout: post
 title: Jersey (GlassFish) with Scala
 created: 1244249151
 author: adi
-permalink: java/jersey-glassfish-scala
+permalink: /java/jersey-glassfish-scala
 tags:
 - JAVA
 - Scala REST Jersey

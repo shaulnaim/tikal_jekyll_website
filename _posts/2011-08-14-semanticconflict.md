@@ -3,7 +3,7 @@ layout: post
 title: SemanticConflict
 created: 1313269731
 author: lior.kanfi
-permalink: semanticconflict
+permalink: /semanticconflict
 tags:
 - ALM
 - Merge Feature Branch

@@ -4,7 +4,7 @@ title: GWT ramblings of a Flex developer - View / Presenter communication (event
   vs. UiHandlers)
 created: 1330942734
 author: sefi
-permalink: gwt-ramblings-flex-developer-view-presenter-communication-events-vs-uihandlers
+permalink: /gwt-ramblings-flex-developer-view-presenter-communication-events-vs-uihandlers
 tags:
 - JAVA
 - view

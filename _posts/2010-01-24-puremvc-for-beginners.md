@@ -3,7 +3,7 @@ layout: post
 title: PureMVC for beginners
 created: 1264350086
 author: shair
-permalink: js/puremvc-beginners
+permalink: /js/puremvc-beginners
 tags:
 - JS
 - puremvc

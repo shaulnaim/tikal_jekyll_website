@@ -3,7 +3,7 @@ layout: post
 title: Present and future of TypeScript
 created: 1360138730
 author: avi.tshuva
-permalink: js/present-and-future-typescript
+permalink: /js/present-and-future-typescript
 tags:
 - JS
 - typescript

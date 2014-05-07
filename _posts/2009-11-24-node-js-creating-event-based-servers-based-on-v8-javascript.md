@@ -3,7 +3,7 @@ layout: post
 title: node.js - creating event based servers based on V8 Javascript
 created: 1259067379
 author: ittayd
-permalink: java/nodejs-creating-event-based-servers-based-v8-javascript
+permalink: /java/nodejs-creating-event-based-servers-based-v8-javascript
 tags:
 - JAVA
 - javascript server

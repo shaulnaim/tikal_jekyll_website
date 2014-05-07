@@ -3,7 +3,7 @@ layout: post
 title: Time-Based Data Aggregation with Cassandra
 created: 1341495012
 author: zvika
-permalink: time-based-data-aggregation-cassandra
+permalink: /time-based-data-aggregation-cassandra
 tags:
 - JAVA
 - cassandra

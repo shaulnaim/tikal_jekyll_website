@@ -3,7 +3,7 @@ layout: post
 title: Meandre is going Scala
 created: 1259852520
 author: adi
-permalink: java/meandre-going-scala
+permalink: /java/meandre-going-scala
 tags:
 - JAVA
 - Scala

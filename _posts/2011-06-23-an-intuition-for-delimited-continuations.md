@@ -3,7 +3,7 @@ layout: post
 title: An intuition for delimited continuations
 created: 1308854881
 author: ittayd
-permalink: incubator/intuition-delimited-continuations
+permalink: /incubator/intuition-delimited-continuations
 tags:
 - Incubator
 - Scala

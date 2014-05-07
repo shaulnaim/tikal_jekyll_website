@@ -3,7 +3,7 @@ layout: post
 title: Flash Builder 4 – My impressions
 created: 1263331114
 author: sefi
-permalink: flash-builder-4-–-my-impressions
+permalink: /flash-builder-4-–-my-impressions
 tags:
 - gwt
 - flex

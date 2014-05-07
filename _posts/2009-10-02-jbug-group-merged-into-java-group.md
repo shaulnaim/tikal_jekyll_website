@@ -3,7 +3,7 @@ layout: post
 title: JBUG group merged into JAVA group
 created: 1254438590
 author: hagzag
-permalink: java/jbug-group-merged-java-group
+permalink: /java/jbug-group-merged-java-group
 tags:
 - JAVA
 ---

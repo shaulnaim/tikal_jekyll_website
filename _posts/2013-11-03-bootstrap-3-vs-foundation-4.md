@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap 3 vs. Foundation 4
 created: 1383493775
 author: menny
-permalink: net/bootstrap-3-vs-foundation-4
+permalink: /net/bootstrap-3-vs-foundation-4
 tags:
 - .NET
 - bootstrap

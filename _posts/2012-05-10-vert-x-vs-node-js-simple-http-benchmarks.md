@@ -3,7 +3,7 @@ layout: post
 title: Vert.x vs node.js simple HTTP benchmarks
 created: 1336633297
 author: ittayd
-permalink: vertx-vs-nodejs-simple-http-benchmarks
+permalink: /vertx-vs-nodejs-simple-http-benchmarks
 tags:
 - JAVA
 ---

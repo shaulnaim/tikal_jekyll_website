@@ -3,7 +3,7 @@ layout: post
 title: Django-Dash-IL Event hosted by Tikal
 created: 1294729364
 author: udib
-permalink: incubator/django-dash-il-event-hosted-tikal
+permalink: /incubator/django-dash-il-event-hosted-tikal
 tags:
 - Incubator
 - Python

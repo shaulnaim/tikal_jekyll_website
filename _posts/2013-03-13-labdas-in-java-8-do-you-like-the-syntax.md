@@ -3,7 +3,7 @@ layout: post
 title: Labdas in Java 8 - do you like the syntax?
 created: 1363188547
 author: andrew
-permalink: java/labdas-java-8-do-you-syntax
+permalink: /java/labdas-java-8-do-you-syntax
 tags:
 - JAVA
 - Java

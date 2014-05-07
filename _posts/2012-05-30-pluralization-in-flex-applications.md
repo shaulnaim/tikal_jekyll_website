@@ -3,7 +3,7 @@ layout: post
 title: Pluralization in flex application(s)
 created: 1338394544
 author: avit
-permalink: pluralization-flex-applications
+permalink: /pluralization-flex-applications
 tags:
 - RoR
 - web

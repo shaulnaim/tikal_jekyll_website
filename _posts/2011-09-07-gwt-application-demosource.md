@@ -3,7 +3,7 @@ layout: post
 title: GWT application Demo+source
 created: 1315397201
 author: aviy
-permalink: gwt-application-demosource
+permalink: /gwt-application-demosource
 tags:
 - JAVA
 ---

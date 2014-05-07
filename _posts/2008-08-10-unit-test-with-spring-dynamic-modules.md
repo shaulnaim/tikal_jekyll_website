@@ -3,7 +3,7 @@ layout: post
 title: 'Unit test with Spring Dynamic Modules '
 created: 1218383454
 author: zvika
-permalink: java/unit-test-spring-dynamic-modules
+permalink: /java/unit-test-spring-dynamic-modules
 tags:
 - JAVA
 - Spring

@@ -3,7 +3,7 @@ layout: post
 title: creating graphical rich custom components in Swing
 created: 1291697430
 author: ittayd
-permalink: java/creating-graphical-rich-custom-components-swing
+permalink: /java/creating-graphical-rich-custom-components-swing
 tags:
 - JAVA
 - java swing

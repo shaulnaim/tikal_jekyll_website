@@ -3,7 +3,7 @@ layout: post
 title: 'Microbenchmark: Rails, Wicket, Grails, Play, Lift, JSP'
 created: 1306814277
 author: ittayd
-permalink: java/microbenchmark-rails-wicket-grails-play-lift-jsp
+permalink: /java/microbenchmark-rails-wicket-grails-play-lift-jsp
 tags:
 - JAVA
 - benchmark

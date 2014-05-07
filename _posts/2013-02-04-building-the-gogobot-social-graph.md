@@ -3,7 +3,7 @@ layout: post
 title: building the gogobot social graph
 created: 1360010203
 author: avit
-permalink: ror/building-gogobot-social-graph
+permalink: /ror/building-gogobot-social-graph
 tags:
 - RoR
 ---

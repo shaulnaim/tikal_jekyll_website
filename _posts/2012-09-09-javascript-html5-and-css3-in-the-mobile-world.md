@@ -3,7 +3,7 @@ layout: post
 title: Javascript, HTML5 & CSS3 in the Mobile world
 created: 1347213902
 author: orenf
-permalink: js/javascript-html5-css3-mobile-world
+permalink: /js/javascript-html5-css3-mobile-world
 tags:
 - JS
 ---

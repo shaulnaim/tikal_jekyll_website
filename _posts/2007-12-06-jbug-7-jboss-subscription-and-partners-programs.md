@@ -3,7 +3,7 @@ layout: post
 title: JBUG 7 - JBoss Subscription & Partners Programs
 created: 1196924400
 author: zvika
-permalink: java/jbug-7-jboss-subscription-partners-programs
+permalink: /java/jbug-7-jboss-subscription-partners-programs
 tags:
 - JAVA
 ---

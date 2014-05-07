@@ -3,7 +3,7 @@ layout: post
 title: MVC Contrib
 created: 1260174070
 author: igorz
-permalink: net/mvc-contrib
+permalink: /net/mvc-contrib
 tags:
 - .NET
 - ASP.NET MVC

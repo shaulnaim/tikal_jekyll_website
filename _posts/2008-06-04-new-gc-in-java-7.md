@@ -3,7 +3,7 @@ layout: post
 title: New GC in Java 7
 created: 1212586980
 author: zvika
-permalink: java/new-gc-java-7
+permalink: /java/new-gc-java-7
 tags:
 - JAVA
 - JSE7

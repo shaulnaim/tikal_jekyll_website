@@ -3,7 +3,7 @@ layout: post
 title: Create Multijob in Jenkins using Tikal Multijob Plugin
 created: 1316095215
 author: roni
-permalink: java/forums/create-multijob-jenkins-using-tikal-multijob-plugin
+permalink: /java/forums/create-multijob-jenkins-using-tikal-multijob-plugin
 tags:
 - JAVA
 - tikal

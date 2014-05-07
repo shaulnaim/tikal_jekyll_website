@@ -3,7 +3,7 @@ layout: post
 title: Snakked - Scala naked objects
 created: 1315410428
 author: ittayd
-permalink: snakked-scala-naked-objects
+permalink: /snakked-scala-naked-objects
 tags:
 - Incubator
 - Scala

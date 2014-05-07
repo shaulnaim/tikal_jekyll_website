@@ -3,7 +3,7 @@ layout: post
 title: Google Technology User Group Meeting, Tel Aviv, Monday 15/8
 created: 1313063336
 author: gabi
-permalink: google-technology-user-group-meeting-tel-aviv-monday-158
+permalink: /google-technology-user-group-meeting-tel-aviv-monday-158
 tags:
 - JAVA
 ---

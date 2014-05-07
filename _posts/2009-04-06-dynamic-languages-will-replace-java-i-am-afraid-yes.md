@@ -3,7 +3,7 @@ layout: post
 title: Dynamic languages will replace java? I am afraid yes...
 created: 1238969764
 author: lior.kanfi
-permalink: java/dynamic-languages-will-replace-java-i-am-afraid-yes
+permalink: /java/dynamic-languages-will-replace-java-i-am-afraid-yes
 tags:
 - JAVA
 ---

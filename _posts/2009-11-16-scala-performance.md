@@ -3,7 +3,7 @@ layout: post
 title: 'scala performance '
 created: 1258359530
 author: ittayd
-permalink: java/scala-performance
+permalink: /java/scala-performance
 tags:
 - JAVA
 - jvm scala performance

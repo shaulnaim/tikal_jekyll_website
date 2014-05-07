@@ -4,7 +4,7 @@ title: Mozilla, WebKit To Support Debugging Minified JS As Well As CoffeeScript 
   other JS Languages
 created: 1312894115
 author: ittayd
-permalink: mozilla-webkit-support-debugging-minified-js-well-coffeescript-and-other-js-languages
+permalink: /mozilla-webkit-support-debugging-minified-js-well-coffeescript-and-other-js-languages
 tags:
 - JS
 ---

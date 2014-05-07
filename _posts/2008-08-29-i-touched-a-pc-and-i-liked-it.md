@@ -3,7 +3,7 @@ layout: post
 title: I touched a PC, and I liked it !
 created: 1220040421
 author: zvika
-permalink: i-touched-pc-and-i-liked-it
+permalink: /i-touched-pc-and-i-liked-it
 ---
 <br />
 <br />

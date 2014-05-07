@@ -3,7 +3,7 @@ layout: post
 title: Open Source Matching Engine by Sun
 created: 1223340793
 author: udid
-permalink: open-source-matching-engine-sun
+permalink: /open-source-matching-engine-sun
 tags:
 - MDM
 - Master Data Management

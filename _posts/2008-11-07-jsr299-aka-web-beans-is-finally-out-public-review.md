@@ -3,7 +3,7 @@ layout: post
 title: JSR299 aka Web Beans is finally out! (Public Review)
 created: 1226039782
 author: zvika
-permalink: java/jsr299-aka-web-beans-finally-out-public-review
+permalink: /java/jsr299-aka-web-beans-finally-out-public-review
 tags:
 - JAVA
 ---

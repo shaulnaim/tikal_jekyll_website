@@ -3,7 +3,7 @@ layout: post
 title: Which maximum max heap size (-Xmx) can be set?
 created: 1241441021
 author: admin
-permalink: java/forums/which-maximum-max-heap-size-xmx-can-be-set
+permalink: /java/forums/which-maximum-max-heap-size-xmx-can-be-set
 tags:
 - JAVA
 - java performance

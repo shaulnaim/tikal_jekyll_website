@@ -3,7 +3,7 @@ layout: post
 title: LiftBook on Google Groups
 created: 1244394261
 author: adi
-permalink: java/liftbook-google-groups
+permalink: /java/liftbook-google-groups
 tags:
 - JAVA
 - Scala

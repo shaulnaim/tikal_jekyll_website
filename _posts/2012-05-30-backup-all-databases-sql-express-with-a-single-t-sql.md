@@ -3,7 +3,7 @@ layout: post
 title: Backup all databases (SQL Express) with a single T-Sql
 created: 1338394544
 author: avit
-permalink: backup-all-databases-sql-express-single-t-sql
+permalink: /backup-all-databases-sql-express-single-t-sql
 tags:
 - RoR
 - web

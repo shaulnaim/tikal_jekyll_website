@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 5 – View States
 created: 1277792079
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk-–-part-5-–-view-states
+permalink: /flex-3-sdk-vs-flex-4-sdk-–-part-5-–-view-states
 tags:
 - flex
 - gwt

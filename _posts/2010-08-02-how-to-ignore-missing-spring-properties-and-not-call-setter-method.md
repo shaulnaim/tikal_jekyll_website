@@ -3,7 +3,7 @@ layout: post
 title: How to ignore missing Spring  properties and not call setter method
 created: 1280782333
 author: shalom
-permalink: java/how-ignore-missing-spring-properties-and-not-call-setter-method
+permalink: /java/how-ignore-missing-spring-properties-and-not-call-setter-method
 tags:
 - JAVA
 - Spring

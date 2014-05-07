@@ -3,7 +3,7 @@ layout: post
 title: Java's hashCode is not safe for distributed systems
 created: 1340165143
 author: ittayd
-permalink: javas-hashcode-not-safe-distributed-systems
+permalink: /javas-hashcode-not-safe-distributed-systems
 tags:
 - JAVA
 - hashCode

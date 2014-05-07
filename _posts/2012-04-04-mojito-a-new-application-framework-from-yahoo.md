@@ -3,7 +3,7 @@ layout: post
 title: Mojito - a new application framework from Yahoo
 created: 1333511964
 author: ittayd
-permalink: mojito-new-application-framework-yahoo
+permalink: /mojito-new-application-framework-yahoo
 tags:
 - JS
 - javascript mvc

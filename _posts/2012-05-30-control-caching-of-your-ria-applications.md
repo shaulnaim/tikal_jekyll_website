@@ -3,7 +3,7 @@ layout: post
 title: Control caching of your RIA applications
 created: 1338394544
 author: avit
-permalink: control-caching-your-ria-applications
+permalink: /control-caching-your-ria-applications
 tags:
 - RoR
 - web

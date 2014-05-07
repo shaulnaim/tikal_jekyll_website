@@ -3,7 +3,7 @@ layout: post
 title: Google I/O & The Future of Web
 created: 1212589200
 author: zvika
-permalink: java/google-io-future-web
+permalink: /java/google-io-future-web
 tags:
 - JAVA
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Get information about all your mysql database tables with a single query
 created: 1338394544
 author: avit
-permalink: get-information-about-all-your-mysql-database-tables-single-query
+permalink: /get-information-about-all-your-mysql-database-tables-single-query
 tags:
 - RoR
 - web

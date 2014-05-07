@@ -3,7 +3,7 @@ layout: post
 title: Where are my engines?
 created: 1341505431
 author: avit
-permalink: where-are-my-engines
+permalink: /where-are-my-engines
 tags:
 - RoR
 - web

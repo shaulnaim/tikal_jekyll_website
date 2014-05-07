@@ -3,7 +3,7 @@ layout: post
 title: Python & Django tutorial & slides
 created: 1254840566
 author: udib
-permalink: incubator/python-django-tutorial-slides
+permalink: /incubator/python-django-tutorial-slides
 tags:
 - Incubator
 - Python

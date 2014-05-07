@@ -3,7 +3,7 @@ layout: post
 title: Rails Course, Level 1
 created: 1327595395
 author: dor
-permalink: rails-course-level-1
+permalink: /rails-course-level-1
 tags:
 - Incubator
 ---

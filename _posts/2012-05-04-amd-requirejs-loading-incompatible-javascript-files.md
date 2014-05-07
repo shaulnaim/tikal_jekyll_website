@@ -3,7 +3,7 @@ layout: post
 title: AMD/RequireJS – Loading Incompatible JavaScript Files
 created: 1336115132
 author: orenf
-permalink: js/amdrequirejs-–-loading-incompatible-javascript-files
+permalink: /js/amdrequirejs-–-loading-incompatible-javascript-files
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: encrypted hibernate fields, how?
 created: 1244124334
 author: shalom
-permalink: java/encrypted-hibernate-fields-how
+permalink: /java/encrypted-hibernate-fields-how
 tags:
 - JAVA
 - hibernate encription

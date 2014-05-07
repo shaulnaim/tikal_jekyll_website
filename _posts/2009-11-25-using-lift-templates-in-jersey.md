@@ -3,7 +3,7 @@ layout: post
 title: using Lift templates in Jersey
 created: 1259122457
 author: ittayd
-permalink: java/using-lift-templates-jersey
+permalink: /java/using-lift-templates-jersey
 tags:
 - JAVA
 - lift jersey jax-rs

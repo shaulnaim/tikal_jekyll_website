@@ -3,7 +3,7 @@ layout: post
 title: Migrating from Artifactory to Nexus
 created: 1237997724
 author: lior.kanfi
-permalink: alm/migrating-artifactory-nexus
+permalink: /alm/migrating-artifactory-nexus
 tags:
 - ALM
 - Nexus

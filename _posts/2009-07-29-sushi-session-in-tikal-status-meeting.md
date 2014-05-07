@@ -3,7 +3,7 @@ layout: post
 title: Sushi Session in Tikal Status Meeting
 created: 1248881112
 author: admin
-permalink: sushi-session-tikal-status-meeting
+permalink: /sushi-session-tikal-status-meeting
 ---
 <p>As those of you who participated know, yesterday's meeting featured a great Sushi presentation / workshop. For thse who asked, here is the presentation, made by Hilla.</p> <br><br><br>Thanks for the participation!
 <p>&nbsp;</p>

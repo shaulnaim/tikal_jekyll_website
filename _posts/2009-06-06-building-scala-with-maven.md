@@ -3,7 +3,7 @@ layout: post
 title: Building Scala with Maven
 created: 1244249270
 author: adi
-permalink: alm/building-scala-maven
+permalink: /alm/building-scala-maven
 tags:
 - ALM
 - Scala

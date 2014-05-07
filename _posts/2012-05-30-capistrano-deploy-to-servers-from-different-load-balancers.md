@@ -3,7 +3,7 @@ layout: post
 title: Capistrano - Deploy to servers from different load balancers
 created: 1338394544
 author: avit
-permalink: capistrano-deploy-servers-different-load-balancers
+permalink: /capistrano-deploy-servers-different-load-balancers
 tags:
 - RoR
 - web

@@ -3,7 +3,7 @@ layout: post
 title: Cucumber, a BDD framework and cuke4duke integrating it with Java
 created: 1253019416
 author: ittayd
-permalink: java/cucumber-bdd-framework-and-cuke4duke-integrating-it-java
+permalink: /java/cucumber-bdd-framework-and-cuke4duke-integrating-it-java
 tags:
 - JAVA
 - java ruby testing bdd cucumber

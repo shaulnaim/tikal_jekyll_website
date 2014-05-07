@@ -3,7 +3,7 @@ layout: post
 title: Running ASP+MySql on 64-bit Windows 7
 created: 1280905440
 author: igorz
-permalink: net/running-aspmysql-64-bit-windows-7
+permalink: /net/running-aspmysql-64-bit-windows-7
 tags:
 - .NET
 - .Net Open Source

@@ -3,7 +3,7 @@ layout: post
 title: GenericEventArgs
 created: 1293805927
 author: ofir
-permalink: net/genericeventargs
+permalink: /net/genericeventargs
 tags:
 - .NET
 - Generics EventArgs

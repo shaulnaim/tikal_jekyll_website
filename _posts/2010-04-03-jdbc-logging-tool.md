@@ -3,7 +3,7 @@ layout: post
 title: JDBC Logging Tool
 created: 1270323463
 author: dmitri
-permalink: java/jdbc-logging-tool
+permalink: /java/jdbc-logging-tool
 tags:
 - JAVA
 - JDBC Logging Tool jdbclog

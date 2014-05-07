@@ -3,7 +3,7 @@ layout: post
 title: Dive into OOP & Architecture in Javascript
 created: 1331709653
 author: orenf
-permalink: dive-oop-architecture-javascript
+permalink: /dive-oop-architecture-javascript
 tags:
 - JS
 ---

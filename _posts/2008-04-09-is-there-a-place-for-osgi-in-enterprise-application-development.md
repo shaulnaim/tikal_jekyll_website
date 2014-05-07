@@ -3,7 +3,7 @@ layout: post
 title: Is There a Place for OSGi in Enterprise Application Development?
 created: 1207688760
 author: lior.kanfi
-permalink: java/there-place-osgi-enterprise-application-development
+permalink: /java/there-place-osgi-enterprise-application-development
 tags:
 - JAVA
 - OSGi

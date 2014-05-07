@@ -3,7 +3,7 @@ layout: post
 title: Why Scala seems difficult but really isn't
 created: 1313654627
 author: andrew
-permalink: why-scala-seems-difficult-really-isnt
+permalink: /why-scala-seems-difficult-really-isnt
 tags:
 - JAVA
 - Scala

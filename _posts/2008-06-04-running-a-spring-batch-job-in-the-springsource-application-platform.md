@@ -3,7 +3,7 @@ layout: post
 title: Running a Spring Batch Job in The SpringSource Application Platform
 created: 1212584760
 author: zvika
-permalink: java/running-spring-batch-job-springsource-application-platform
+permalink: /java/running-spring-batch-job-springsource-application-platform
 tags:
 - JAVA
 - Spring

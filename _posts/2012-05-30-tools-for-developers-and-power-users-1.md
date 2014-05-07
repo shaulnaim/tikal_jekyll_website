@@ -3,7 +3,7 @@ layout: post
 title: Tools for developers and power users (1)
 created: 1338394544
 author: avit
-permalink: tools-developers-and-power-users-1
+permalink: /tools-developers-and-power-users-1
 tags:
 - RoR
 - web

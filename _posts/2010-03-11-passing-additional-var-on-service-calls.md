@@ -3,7 +3,7 @@ layout: post
 title: Passing Additional Var On Service Calls
 created: 1268311676
 author: shair
-permalink: js/passing-additional-var-service-calls
+permalink: /js/passing-additional-var-service-calls
 tags:
 - JS
 - service

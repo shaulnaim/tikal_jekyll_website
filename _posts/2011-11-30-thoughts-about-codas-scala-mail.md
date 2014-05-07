@@ -3,7 +3,7 @@ layout: post
 title: Thoughts about Coda's Scala mail
 created: 1322672780
 author: ittayd
-permalink: thoughts-about-codas-scala-mail
+permalink: /thoughts-about-codas-scala-mail
 tags:
 - Incubator
 - Scala

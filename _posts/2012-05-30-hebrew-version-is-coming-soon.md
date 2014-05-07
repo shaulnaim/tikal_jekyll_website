@@ -3,7 +3,7 @@ layout: post
 title: Hebrew version is coming soon
 created: 1338394544
 author: avit
-permalink: hebrew-version-coming-soon
+permalink: /hebrew-version-coming-soon
 tags:
 - RoR
 - web

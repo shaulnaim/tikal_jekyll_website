@@ -3,7 +3,7 @@ layout: post
 title: Subtyping, Subclassing, and Trouble with OOP
 created: 1303649126
 author: ittayd
-permalink: subtyping-subclassing-and-trouble-oop
+permalink: /subtyping-subclassing-and-trouble-oop
 tags:
 - OOP
 ---

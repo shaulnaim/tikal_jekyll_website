@@ -3,7 +3,7 @@ layout: post
 title: BugAid – What Visual Studio could have been
 created: 1327873510
 author: menny
-permalink: bugaid-–-what-visual-studio-could-have-been
+permalink: /bugaid-–-what-visual-studio-could-have-been
 tags:
 - .NET
 - Visual Studio

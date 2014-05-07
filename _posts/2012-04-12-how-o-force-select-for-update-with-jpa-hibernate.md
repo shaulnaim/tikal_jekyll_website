@@ -3,7 +3,7 @@ layout: post
 title: How o force 'select for update' with jpa hibernate
 created: 1334223132
 author: shalom
-permalink: how-o-force-select-update-jpa-hibernate
+permalink: /how-o-force-select-update-jpa-hibernate
 tags:
 - JAVA
 - java jpa hibernate

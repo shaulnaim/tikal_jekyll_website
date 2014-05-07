@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 8 - Use Case: Dynamic Languages on the JVM'
 created: 1208325600
 author: zvika
-permalink: java/jbug-8-use-case-dynamic-languages-jvm
+permalink: /java/jbug-8-use-case-dynamic-languages-jvm
 tags:
 - JAVA
 - dynamic languages

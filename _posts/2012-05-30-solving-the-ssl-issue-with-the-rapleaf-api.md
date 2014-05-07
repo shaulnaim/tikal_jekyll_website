@@ -3,7 +3,7 @@ layout: post
 title: Solving the SSL issue with the Rapleaf API
 created: 1338394544
 author: avit
-permalink: solving-ssl-issue-rapleaf-api
+permalink: /solving-ssl-issue-rapleaf-api
 tags:
 - RoR
 - web

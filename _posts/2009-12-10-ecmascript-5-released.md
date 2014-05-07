@@ -3,7 +3,7 @@ layout: post
 title: ECMAScript 5 released
 created: 1260420466
 author: ittayd
-permalink: java/ecmascript-5-released
+permalink: /java/ecmascript-5-released
 tags:
 - JAVA
 ---

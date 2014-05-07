@@ -3,7 +3,7 @@ layout: post
 title: Google Maps API for Flash has been officially deprecated
 created: 1323263061
 author: oren
-permalink: js/google-maps-api-flash-has-been-officially-deprecated
+permalink: /js/google-maps-api-flash-has-been-officially-deprecated
 tags:
 - JS
 - map

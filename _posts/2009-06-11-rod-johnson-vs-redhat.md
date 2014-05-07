@@ -3,7 +3,7 @@ layout: post
 title: Rod Johnson vs. RedHat
 created: 1244668541
 author: zvika
-permalink: java/rod-johnson-vs-redhat
+permalink: /java/rod-johnson-vs-redhat
 tags:
 - JAVA
 - Spring

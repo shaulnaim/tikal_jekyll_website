@@ -3,7 +3,7 @@ layout: post
 title: A new language from the creator of Hibernate
 created: 1302681774
 author: ittayd
-permalink: incubator/new-language-creator-hibernate
+permalink: /incubator/new-language-creator-hibernate
 tags:
 - Incubator
 ---

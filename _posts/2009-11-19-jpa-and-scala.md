@@ -3,7 +3,7 @@ layout: post
 title: JPA and Scala
 created: 1258612789
 author: ittayd
-permalink: java/jpa-and-scala
+permalink: /java/jpa-and-scala
 tags:
 - JAVA
 - scala jpa

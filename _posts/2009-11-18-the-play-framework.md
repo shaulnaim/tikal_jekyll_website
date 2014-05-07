@@ -3,7 +3,7 @@ layout: post
 title: The play framework
 created: 1258549828
 author: ittayd
-permalink: java/play-framework
+permalink: /java/play-framework
 tags:
 - JAVA
 - java play

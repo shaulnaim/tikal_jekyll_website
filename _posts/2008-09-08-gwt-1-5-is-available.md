@@ -3,7 +3,7 @@ layout: post
 title: GWT 1.5 is Available!
 created: 1220846362
 author: zvika
-permalink: java/gwt-15-available
+permalink: /java/gwt-15-available
 tags:
 - JAVA
 ---

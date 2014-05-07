@@ -3,7 +3,7 @@ layout: post
 title: 'Book Review: Enterprise Development with Flex'
 created: 1268215980
 author: liorb
-permalink: book-review-enterprise-development-flex
+permalink: /book-review-enterprise-development-flex
 tags:
 - Flex Java
 ---

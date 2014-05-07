@@ -3,7 +3,7 @@ layout: post
 title: A query language for the JMX API
 created: 1209289680
 author: zvika
-permalink: java/query-language-jmx-api
+permalink: /java/query-language-jmx-api
 tags:
 - JAVA
 - JSE7

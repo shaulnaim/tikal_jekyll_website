@@ -3,7 +3,7 @@ layout: post
 title: Scala & GWT
 created: 1244249221
 author: adi
-permalink: java/scala-gwt
+permalink: /java/scala-gwt
 tags:
 - JAVA
 - Scala GWT

@@ -3,7 +3,7 @@ layout: post
 title: Hibernate entity with association tagged as @OrderBy is not fully fetched
 created: 1350053398
 author: roni
-permalink: java/hibernate-entity-association-tagged-orderby-not-fully-fetched
+permalink: /java/hibernate-entity-association-tagged-orderby-not-fully-fetched
 tags:
 - JAVA
 - OrderBy

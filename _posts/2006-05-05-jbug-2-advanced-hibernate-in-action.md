@@ -3,7 +3,7 @@ layout: post
 title: JBUG 2 - Advanced Hibernate In Action
 created: 1146808800
 author: zvika
-permalink: java/jbug-2-advanced-hibernate-action
+permalink: /java/jbug-2-advanced-hibernate-action
 tags:
 - JAVA
 - Hibernate

@@ -3,7 +3,7 @@ layout: post
 title: How to activate and deactivate Hibernate Filters
 created: 1359373225
 author: roni
-permalink: java/how-activate-and-deactivate-hibernate-filters
+permalink: /java/how-activate-and-deactivate-hibernate-filters
 tags:
 - JAVA
 - Java J2EE

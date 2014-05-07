@@ -3,7 +3,7 @@ layout: post
 title: When to use Tomcat CATALINA_OPTS instead of JAVA_OPTS
 created: 1308578626
 author: roni
-permalink: java/when-use-tomcat-catalinaopts-instead-javaopts
+permalink: /java/when-use-tomcat-catalinaopts-instead-javaopts
 tags:
 - JAVA
 ---

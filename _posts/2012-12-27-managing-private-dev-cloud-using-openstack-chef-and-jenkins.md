@@ -3,7 +3,7 @@ layout: post
 title: Managing private (dev) cloud using OpenStack, Chef & Jenkins
 created: 1356616848
 author: hagzag
-permalink: alm/managing-private-dev-cloud-using-openstack-chef-jenkins
+permalink: /alm/managing-private-dev-cloud-using-openstack-chef-jenkins
 tags:
 - ALM
 - vm-builder

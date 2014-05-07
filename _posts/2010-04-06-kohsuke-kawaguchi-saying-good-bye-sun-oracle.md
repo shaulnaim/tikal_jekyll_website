@@ -3,7 +3,7 @@ layout: post
 title: 'Kohsuke Kawaguchi saying Good bye, Sun/Oracle  '
 created: 1270565051
 author: hagzag
-permalink: alm/kohsuke-kawaguchi-saying-good-bye-sunoracle
+permalink: /alm/kohsuke-kawaguchi-saying-good-bye-sunoracle
 tags:
 - ALM
 - Hudson

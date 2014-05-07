@@ -3,7 +3,7 @@ layout: post
 title: WPF - Get Grid's row and column indices by mouse position
 created: 1341731628
 author: ofir
-permalink: wpf-get-grids-row-and-column-indices-mouse-position
+permalink: /wpf-get-grids-row-and-column-indices-mouse-position
 tags:
 - .NET
 - WPF

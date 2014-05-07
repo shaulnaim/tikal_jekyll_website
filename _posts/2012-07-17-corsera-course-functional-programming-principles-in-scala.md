@@ -3,7 +3,7 @@ layout: post
 title: 'Corsera course: Functional Programming Principles in Scala'
 created: 1342521567
 author: ittayd
-permalink: corsera-course-functional-programming-principles-scala
+permalink: /corsera-course-functional-programming-principles-scala
 tags:
 - Incubator
 - Scala

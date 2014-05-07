@@ -3,7 +3,7 @@ layout: post
 title: Creating JMS destination programatically in JBoss
 created: 1268858647
 author: yanai
-permalink: java/creating-jms-destination-programatically-jboss
+permalink: /java/creating-jms-destination-programatically-jboss
 tags:
 - JAVA
 - JMS JBoss dynamic queue

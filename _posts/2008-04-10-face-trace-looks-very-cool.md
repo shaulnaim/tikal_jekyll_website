@@ -3,7 +3,7 @@ layout: post
 title: 'Face Trace looks very cool '
 created: 1207824360
 author: hila
-permalink: java/face-trace-looks-very-cool
+permalink: /java/face-trace-looks-very-cool
 tags:
 - JAVA
 ---

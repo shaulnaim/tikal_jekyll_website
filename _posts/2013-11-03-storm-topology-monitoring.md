@@ -3,7 +3,7 @@ layout: post
 title: Storm topology monitoring
 created: 1383489588
 author: avim
-permalink: java/storm-topology-monitoring
+permalink: /java/storm-topology-monitoring
 tags:
 - JAVA
 - storm topology monitoring jmx metrics

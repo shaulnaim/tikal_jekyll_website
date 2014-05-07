@@ -3,7 +3,7 @@ layout: post
 title: Async Targeting Pack for Visual Studio 2012
 created: 1340692005
 author: menny
-permalink: async-targeting-pack-visual-studio-2012
+permalink: /async-targeting-pack-visual-studio-2012
 tags:
 - .NET
 ---

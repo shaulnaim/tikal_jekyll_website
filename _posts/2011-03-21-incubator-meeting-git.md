@@ -3,7 +3,7 @@ layout: post
 title: Incubator meeting - git
 created: 1300724268
 author: shalom
-permalink: incubator/incubator-meeting-git
+permalink: /incubator/incubator-meeting-git
 tags:
 - Incubator
 ---

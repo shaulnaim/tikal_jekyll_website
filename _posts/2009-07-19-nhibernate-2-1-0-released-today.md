@@ -3,7 +3,7 @@ layout: post
 title: NHibernate 2.1.0 released today
 created: 1248036392
 author: andrew
-permalink: net/nhibernate-210-released-today
+permalink: /net/nhibernate-210-released-today
 tags:
 - .NET
 - Hibernate

@@ -3,7 +3,7 @@ layout: post
 title: Understanding the Git Workflow
 created: 1312263473
 author: ittayd
-permalink: understanding-git-workflow
+permalink: /understanding-git-workflow
 tags:
 - ALM
 - git

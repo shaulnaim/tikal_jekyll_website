@@ -3,7 +3,7 @@ layout: post
 title: JBUG 7 - Space Based Architecture Using Gigaspaces
 created: 1196924400
 author: zvika
-permalink: java/jbug-7-space-based-architecture-using-gigaspaces
+permalink: /java/jbug-7-space-based-architecture-using-gigaspaces
 tags:
 - JAVA
 - Gigaspaces

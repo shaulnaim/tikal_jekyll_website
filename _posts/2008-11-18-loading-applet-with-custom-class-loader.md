@@ -3,7 +3,7 @@ layout: post
 title: Loading applet with custom class loader
 created: 1226989933
 author: keren
-permalink: java/loading-applet-custom-class-loader
+permalink: /java/loading-applet-custom-class-loader
 tags:
 - JAVA
 - aspectj

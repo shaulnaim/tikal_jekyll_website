@@ -3,7 +3,7 @@ layout: post
 title: Intro to Python, Django & AppEngine talk @ TheJunction
 created: 1305898763
 author: udib
-permalink: incubator/intro-python-django-appengine-talk-thejunction
+permalink: /incubator/intro-python-django-appengine-talk-thejunction
 tags:
 - Incubator
 - talk

@@ -3,7 +3,7 @@ layout: post
 title: Memory management in flex applications
 created: 1338394544
 author: avit
-permalink: memory-management-flex-applications
+permalink: /memory-management-flex-applications
 tags:
 - RoR
 - web

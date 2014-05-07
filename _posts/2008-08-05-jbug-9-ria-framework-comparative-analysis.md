@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 9 - RIA Framework Comparative Analysis '
 created: 1217916000
 author: zvika
-permalink: java/jbug-9-ria-framework-comparative-analysis
+permalink: /java/jbug-9-ria-framework-comparative-analysis
 tags:
 - JAVA
 ---

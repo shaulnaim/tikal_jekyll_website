@@ -3,7 +3,7 @@ layout: post
 title: moving from java 5 to java 6  or 7
 created: 1227608891
 author: elad
-permalink: java/moving-java-5-java-6-or-7
+permalink: /java/moving-java-5-java-6-or-7
 tags:
 - JAVA
 - JSE7

@@ -3,7 +3,7 @@ layout: post
 title: Google unvails Chrome OS
 created: 1291871281
 author: ittayd
-permalink: incubator/google-unvails-chrome-os
+permalink: /incubator/google-unvails-chrome-os
 tags:
 - Incubator
 - google chrome os

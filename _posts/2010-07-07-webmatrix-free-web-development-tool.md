@@ -3,7 +3,7 @@ layout: post
 title: WebMatrix  - free web development tool
 created: 1278503459
 author: igorz
-permalink: net/webmatrix-free-web-development-tool
+permalink: /net/webmatrix-free-web-development-tool
 tags:
 - .NET
 - ASP.NET

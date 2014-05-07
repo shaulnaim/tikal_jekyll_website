@@ -3,7 +3,7 @@ layout: post
 title: Sharing Hibernate entities between threads
 created: 1222894497
 author: yanai
-permalink: java/sharing-hibernate-entities-between-threads
+permalink: /java/sharing-hibernate-entities-between-threads
 tags:
 - JAVA
 - Hibernate

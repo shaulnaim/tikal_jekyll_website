@@ -3,7 +3,7 @@ layout: post
 title: Step By Step Spring Roo Guide
 created: 1244678043
 author: zvika
-permalink: java/step-step-spring-roo-guide
+permalink: /java/step-step-spring-roo-guide
 tags:
 - JAVA
 - Spring Roo

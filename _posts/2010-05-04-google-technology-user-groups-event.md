@@ -3,7 +3,7 @@ layout: post
 title: Google Technology User Groups event
 created: 1272971899
 author: igorz
-permalink: net/google-technology-user-groups-event
+permalink: /net/google-technology-user-groups-event
 tags:
 - .NET
 - Android

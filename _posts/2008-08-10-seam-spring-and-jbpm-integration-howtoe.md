@@ -3,7 +3,7 @@ layout: post
 title: 'Seam, Spring and jBPM integration HowToe '
 created: 1218380120
 author: admin
-permalink: java/seam-spring-and-jbpm-integration-howtoe
+permalink: /java/seam-spring-and-jbpm-integration-howtoe
 tags:
 - JAVA
 - seam

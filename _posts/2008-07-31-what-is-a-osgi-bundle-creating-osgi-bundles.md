@@ -3,7 +3,7 @@ layout: post
 title: What is a OSGI Bundle - Creating OSGi bundles
 created: 1217533200
 author: yanai
-permalink: java/what-osgi-bundle-creating-osgi-bundles
+permalink: /java/what-osgi-bundle-creating-osgi-bundles
 tags:
 - JAVA
 - OSGi

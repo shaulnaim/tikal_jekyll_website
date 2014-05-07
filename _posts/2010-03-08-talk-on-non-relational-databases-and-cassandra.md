@@ -3,7 +3,7 @@ layout: post
 title: Talk on non-relational databases & Cassandra
 created: 1268041150
 author: udib
-permalink: incubator/talk-non-relational-databases-cassandra
+permalink: /incubator/talk-non-relational-databases-cassandra
 tags:
 - Incubator
 - nosql

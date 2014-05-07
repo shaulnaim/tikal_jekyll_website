@@ -3,7 +3,7 @@ layout: post
 title: Nexus 2.0 Demonstration (On youtube)
 created: 1330242769
 author: hagzag
-permalink: nexus-20-demonstration-youtube
+permalink: /nexus-20-demonstration-youtube
 tags:
 - ALM
 ---

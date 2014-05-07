@@ -3,7 +3,7 @@ layout: post
 title: Why did we choose Knockout as our JavaScript client technology?
 created: 1331581680
 author: menny
-permalink: why-did-we-choose-knockout-our-javascript-client-technology
+permalink: /why-did-we-choose-knockout-our-javascript-client-technology
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: WPF hands on
 created: 1318345344
 author: ofir
-permalink: wpf-hands
+permalink: /wpf-hands
 tags:
 - .NET
 ---

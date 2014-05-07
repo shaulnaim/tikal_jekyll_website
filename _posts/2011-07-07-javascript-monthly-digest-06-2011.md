@@ -3,7 +3,7 @@ layout: post
 title: Javascript Monthly Digest – 06/2011
 created: 1310036277
 author: orenf
-permalink: js/javascript-monthly-digest-–-062011
+permalink: /js/javascript-monthly-digest-–-062011
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Are Java Web Application Secure?
 created: 1218382484
 author: zvika
-permalink: java/are-java-web-application-secure
+permalink: /java/are-java-web-application-secure
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: project specific settings using zshell and dotfiles
 created: 1344161388
 author: avit
-permalink: ror/project-specific-settings-using-zshell-and-dotfiles
+permalink: /ror/project-specific-settings-using-zshell-and-dotfiles
 tags:
 - RoR
 ---

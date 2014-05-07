@@ -3,7 +3,7 @@ layout: post
 title: Looking for a web query/expression builder widget
 created: 1268221941
 author: udid
-permalink: net/looking-web-queryexpression-builder-widget
+permalink: /net/looking-web-queryexpression-builder-widget
 tags:
 - .NET
 - GUI

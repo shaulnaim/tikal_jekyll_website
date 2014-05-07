@@ -3,7 +3,7 @@ layout: post
 title: Scala actors thread pool pitfall
 created: 1299101849
 author: ittayd
-permalink: incubator/scala-actors-thread-pool-pitfall
+permalink: /incubator/scala-actors-thread-pool-pitfall
 tags:
 - Incubator
 - Scala

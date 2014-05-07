@@ -4,7 +4,7 @@ title: ql.io A declarative, data-retrieval and aggregation gateway for quickly c
   HTTP APIs
 created: 1323061962
 author: ittayd
-permalink: qlio-declarative-data-retrieval-and-aggregation-gateway-quickly-consuming-http-apis
+permalink: /qlio-declarative-data-retrieval-and-aggregation-gateway-quickly-consuming-http-apis
 tags:
 - Incubator
 - rest http

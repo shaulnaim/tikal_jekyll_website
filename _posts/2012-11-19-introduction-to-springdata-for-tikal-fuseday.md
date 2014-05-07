@@ -3,7 +3,7 @@ layout: post
 title: Introduction to SpringData for Tikal FuseDay
 created: 1353322115
 author: yanai
-permalink: java/introduction-springdata-tikal-fuseday
+permalink: /java/introduction-springdata-tikal-fuseday
 tags:
 - JAVA
 ---

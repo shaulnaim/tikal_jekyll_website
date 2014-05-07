@@ -3,7 +3,7 @@ layout: post
 title: Efficient Javascript
 created: 1322981595
 author: orenf
-permalink: efficient-javascript
+permalink: /efficient-javascript
 tags:
 - JS
 - performance

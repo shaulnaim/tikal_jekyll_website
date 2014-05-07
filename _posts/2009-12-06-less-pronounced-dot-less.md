@@ -3,7 +3,7 @@ layout: post
 title: '.less (pronounced dot-less) '
 created: 1260115129
 author: igorz
-permalink: net/less-pronounced-dot-less
+permalink: /net/less-pronounced-dot-less
 tags:
 - .NET
 - .Net Open Source

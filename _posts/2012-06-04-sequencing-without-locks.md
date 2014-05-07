@@ -3,7 +3,7 @@ layout: post
 title: Sequencing without Locks
 created: 1338802026
 author: ittayd
-permalink: sequencing-without-locks
+permalink: /sequencing-without-locks
 tags:
 - JAVA
 - concurrency

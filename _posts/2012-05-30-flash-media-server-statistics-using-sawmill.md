@@ -3,7 +3,7 @@ layout: post
 title: Flash media server statistics using sawMill
 created: 1338394544
 author: avit
-permalink: flash-media-server-statistics-using-sawmill
+permalink: /flash-media-server-statistics-using-sawmill
 tags:
 - RoR
 - web

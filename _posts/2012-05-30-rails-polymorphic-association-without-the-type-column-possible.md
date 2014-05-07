@@ -3,7 +3,7 @@ layout: post
 title: Rails polymorphic association without the type column, possible?
 created: 1338394544
 author: avit
-permalink: rails-polymorphic-association-without-type-column-possible
+permalink: /rails-polymorphic-association-without-type-column-possible
 tags:
 - RoR
 - web

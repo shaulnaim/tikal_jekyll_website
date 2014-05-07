@@ -3,7 +3,7 @@ layout: post
 title: Enumeration on a property - Flex 3
 created: 1338394544
 author: avit
-permalink: enumeration-property-flex-3
+permalink: /enumeration-property-flex-3
 tags:
 - RoR
 - web

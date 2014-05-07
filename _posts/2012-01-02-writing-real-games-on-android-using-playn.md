@@ -3,7 +3,7 @@ layout: post
 title: Writing real games on Android using PlayN
 created: 1325501681
 author: aviy
-permalink: writing-real-games-android-using-playn
+permalink: /writing-real-games-android-using-playn
 tags:
 - JAVA
 - PlayN

@@ -3,7 +3,7 @@ layout: post
 title: 'automatic unit test generation in #java'
 created: 1314163656
 author: ittayd
-permalink: automatic-unit-test-generation-java
+permalink: /automatic-unit-test-generation-java
 tags:
 - JAVA
 - testing

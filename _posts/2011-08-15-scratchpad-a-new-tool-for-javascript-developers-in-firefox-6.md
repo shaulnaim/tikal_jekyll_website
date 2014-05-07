@@ -3,7 +3,7 @@ layout: post
 title: ScratchPad - a new tool for javascript developers in firefox 6
 created: 1313434742
 author: ittayd
-permalink: scratchpad-new-tool-javascript-developers-firefox-6
+permalink: /scratchpad-new-tool-javascript-developers-firefox-6
 tags:
 - JS
 - firefox javascript

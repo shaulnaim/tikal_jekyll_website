@@ -2,7 +2,7 @@
 layout: post
 title: The Tikal podcast channel
 created: 1293621313
-permalink: js/tikal-podcast-channel
+permalink: /js/tikal-podcast-channel
 tags:
 - JS
 ---

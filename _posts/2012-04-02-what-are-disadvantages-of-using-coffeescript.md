@@ -3,7 +3,7 @@ layout: post
 title: What are disadvantages of using CoffeeScript?
 created: 1333352114
 author: odeds
-permalink: what-are-disadvantages-using-coffeescript
+permalink: /what-are-disadvantages-using-coffeescript
 tags:
 - Incubator
 - coffeescript javascript

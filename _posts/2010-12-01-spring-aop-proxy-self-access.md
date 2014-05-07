@@ -3,7 +3,7 @@ layout: post
 title: Spring AOP Proxy Self Access
 created: 1291203151
 author: zvika
-permalink: java/spring-aop-proxy-self-access
+permalink: /java/spring-aop-proxy-self-access
 tags:
 - JAVA
 - Spring

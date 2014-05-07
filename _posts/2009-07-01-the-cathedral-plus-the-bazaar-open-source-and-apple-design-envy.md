@@ -3,7 +3,7 @@ layout: post
 title: 'The cathedral plus the bazaar: Open source and Apple (design) envy'
 created: 1246456130
 author: lior.kanfi
-permalink: java/cathedral-plus-bazaar-open-source-and-apple-design-envy
+permalink: /java/cathedral-plus-bazaar-open-source-and-apple-design-envy
 tags:
 - JAVA
 - ubuntu

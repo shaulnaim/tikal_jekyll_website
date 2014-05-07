@@ -3,7 +3,7 @@ layout: post
 title: TorqueBox Ruby-on-Rails on jboss
 created: 1245912699
 author: itai
-permalink: java/torquebox-ruby-rails-jboss
+permalink: /java/torquebox-ruby-rails-jboss
 tags:
 - JAVA
 - Ruby-on-Rails JBoss

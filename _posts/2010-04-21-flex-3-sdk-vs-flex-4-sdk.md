@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK
 created: 1271827991
 author: sefi
-permalink: js/flex-3-sdk-vs-flex-4-sdk
+permalink: /js/flex-3-sdk-vs-flex-4-sdk
 tags:
 - JS
 - Spark

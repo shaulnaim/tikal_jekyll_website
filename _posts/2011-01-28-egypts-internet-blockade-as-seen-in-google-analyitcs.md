@@ -3,7 +3,7 @@ layout: post
 title: Egypt's Internet Blockade as seen in Google Analyitcs
 created: 1296231900
 author: liorb
-permalink: egypts-internet-blockade-seen-google-analyitcs
+permalink: /egypts-internet-blockade-seen-google-analyitcs
 tags:
 - Flex Java
 ---

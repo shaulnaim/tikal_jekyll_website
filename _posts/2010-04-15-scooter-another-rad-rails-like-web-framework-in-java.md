@@ -3,7 +3,7 @@ layout: post
 title: Scooter - another RAD rails-like web framework in Java
 created: 1271333248
 author: ittayd
-permalink: java/scooter-another-rad-rails-web-framework-java
+permalink: /java/scooter-another-rad-rails-web-framework-java
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Creating Resilient Software with Akka
 created: 1376198267
 author: lior.perry
-permalink: creating-resilient-software-akka
+permalink: /creating-resilient-software-akka
 tags:
 - JAVA
 ---

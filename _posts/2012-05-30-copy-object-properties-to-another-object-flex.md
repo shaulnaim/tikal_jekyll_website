@@ -3,7 +3,7 @@ layout: post
 title: Copy object properties to another object - Flex
 created: 1338394544
 author: avit
-permalink: copy-object-properties-another-object-flex
+permalink: /copy-object-properties-another-object-flex
 tags:
 - RoR
 - web

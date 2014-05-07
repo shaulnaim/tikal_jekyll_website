@@ -3,7 +3,7 @@ layout: post
 title: Simplifying SWT with Scala
 created: 1244572782
 author: adi
-permalink: java/simplifying-swt-scala
+permalink: /java/simplifying-swt-scala
 tags:
 - JAVA
 - Scala

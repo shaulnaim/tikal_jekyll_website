@@ -3,7 +3,7 @@ layout: post
 title: 'Flex group meeting - Mate '
 created: 1291648760
 author: sefi
-permalink: js/flex-group-meeting-mate
+permalink: /js/flex-group-meeting-mate
 tags:
 - JS
 ---

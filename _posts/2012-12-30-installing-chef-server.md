@@ -3,7 +3,7 @@ layout: post
 title: Installing Chef Server
 created: 1356857354
 author: hagzag
-permalink: alm/installing-chef-server
+permalink: /alm/installing-chef-server
 tags:
 - ALM
 - ubuntu

@@ -3,7 +3,7 @@ layout: post
 title: Djano web framework?
 created: 1226954913
 author: lior.kanfi
-permalink: java/djano-web-framework
+permalink: /java/djano-web-framework
 tags:
 - JAVA
 - Python

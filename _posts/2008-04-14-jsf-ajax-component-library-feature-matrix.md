@@ -3,7 +3,7 @@ layout: post
 title: 'JSF AJAX Component Library Feature Matrix '
 created: 1208170920
 author: hila
-permalink: java/jsf-ajax-component-library-feature-matrix
+permalink: /java/jsf-ajax-component-library-feature-matrix
 tags:
 - JAVA
 - jsf

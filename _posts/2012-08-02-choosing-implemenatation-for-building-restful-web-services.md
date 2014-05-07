@@ -3,7 +3,7 @@ layout: post
 title: Choosing implemenatation for building RESTful Web services.
 created: 1343914476
 author: shmuel
-permalink: choosing-implemenatation-building-restful-web-services
+permalink: /choosing-implemenatation-building-restful-web-services
 tags:
 - JAVA
 - REST

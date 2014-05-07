@@ -3,7 +3,7 @@ layout: post
 title: Syntactic Sugar for Type Classes
 created: 1340205443
 author: ittayd
-permalink: syntactic-sugar-type-classes
+permalink: /syntactic-sugar-type-classes
 tags:
 - Scala
 ---

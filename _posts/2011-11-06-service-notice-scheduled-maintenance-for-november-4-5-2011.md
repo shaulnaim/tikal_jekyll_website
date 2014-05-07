@@ -3,7 +3,7 @@ layout: post
 title: Service Notice - Scheduled Maintenance for November 4-5, 2011
 created: 1320555697
 author: admin
-permalink: service-notice-scheduled-maintenance-november-4-5-2011
+permalink: /service-notice-scheduled-maintenance-november-4-5-2011
 ---
 <p><span style="font-size:11pt;font-family:Calibri">We will be  performing a critical maintenance on Friday November 4th, 2011. <br />
 </span></p>

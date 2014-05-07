@@ -3,7 +3,7 @@ layout: post
 title: A great (Video) tutorial for building your first Windows 8 App – Channel 9
 created: 1357594946
 author: menny
-permalink: net/great-video-tutorial-building-your-first-windows-8-app-–-channel-9
+permalink: /net/great-video-tutorial-building-your-first-windows-8-app-–-channel-9
 tags:
 - .NET
 ---

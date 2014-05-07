@@ -3,7 +3,7 @@ layout: post
 title: Tomcat Performance
 created: 1249562489
 author: zvika
-permalink: java/tomcat-performance
+permalink: /java/tomcat-performance
 tags:
 - JAVA
 - performance

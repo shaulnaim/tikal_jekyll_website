@@ -3,7 +3,7 @@ layout: post
 title: TCE 2 - Why Django? by Idan Gazit
 created: 1265018717
 author: admin
-permalink: incubator/tce-2-why-django-idan-gazit
+permalink: /incubator/tce-2-why-django-idan-gazit
 tags:
 - Incubator
 - Django

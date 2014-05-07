@@ -3,7 +3,7 @@ layout: post
 title: Processing Big-Data in Real-Time
 created: 1390983593
 author: yanai
-permalink: incubator/processing-big-data-real-time
+permalink: /incubator/processing-big-data-real-time
 tags:
 - JAVA
 - Big-Data

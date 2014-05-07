@@ -3,7 +3,7 @@ layout: post
 title: Spring Integration 2.1 is GA
 created: 1326200039
 author: andrew
-permalink: spring-integration-21-ga
+permalink: /spring-integration-21-ga
 tags:
 - JAVA
 - Spring

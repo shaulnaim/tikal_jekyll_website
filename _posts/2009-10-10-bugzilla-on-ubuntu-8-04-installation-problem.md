@@ -3,7 +3,7 @@ layout: post
 title: Bugzilla on Ubuntu 8.04 - Installation problem
 created: 1255171740
 author: liorb
-permalink: bugzilla-ubuntu-804-installation-problem
+permalink: /bugzilla-ubuntu-804-installation-problem
 tags:
 - Flex Java
 ---

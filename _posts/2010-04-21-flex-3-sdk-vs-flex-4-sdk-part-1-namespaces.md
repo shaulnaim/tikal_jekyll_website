@@ -3,7 +3,7 @@ layout: post
 title: Flex 3 SDK Vs. Flex 4 SDK – Part 1 – Namespaces
 created: 1271827498
 author: sefi
-permalink: flex-3-sdk-vs-flex-4-sdk-–-part-1-–-namespaces
+permalink: /flex-3-sdk-vs-flex-4-sdk-–-part-1-–-namespaces
 tags:
 - flex
 - gwt

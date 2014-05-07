@@ -3,7 +3,7 @@ layout: post
 title: James Gosling is leaving Oracle
 created: 1270940639
 author: ittayd
-permalink: java/james-gosling-leaving-oracle
+permalink: /java/james-gosling-leaving-oracle
 tags:
 - JAVA
 ---

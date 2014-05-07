@@ -3,7 +3,7 @@ layout: post
 title: Managing remote teams successfully. We do it and so should you
 created: 1385414022
 author: avit
-permalink: managing-remote-teams-successfully-we-do-it-and-so-should-you
+permalink: /managing-remote-teams-successfully-we-do-it-and-so-should-you
 tags:
 - RoR
 ---

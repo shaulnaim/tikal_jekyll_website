@@ -3,7 +3,7 @@ layout: post
 title: The typesafe console
 created: 1331737661
 author: ittayd
-permalink: typesafe-console
+permalink: /typesafe-console
 tags:
 - JS
 - console

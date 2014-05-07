@@ -3,7 +3,7 @@ layout: post
 title: Gitorious private repositories
 created: 1332946757
 author: shalom
-permalink: gitorious-private-repositories
+permalink: /gitorious-private-repositories
 tags:
 - ALM
 - git gitorious

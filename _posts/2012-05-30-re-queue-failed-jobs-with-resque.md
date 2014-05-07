@@ -3,7 +3,7 @@ layout: post
 title: Re-Queue failed jobs with Resque
 created: 1338394544
 author: avit
-permalink: re-queue-failed-jobs-resque
+permalink: /re-queue-failed-jobs-resque
 tags:
 - RoR
 - web

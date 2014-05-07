@@ -3,7 +3,7 @@ layout: post
 title: Initial lambda support in JDK7
 created: 1306501434
 author: ittayd
-permalink: java/initial-lambda-support-jdk7
+permalink: /java/initial-lambda-support-jdk7
 tags:
 - JAVA
 - JDK7

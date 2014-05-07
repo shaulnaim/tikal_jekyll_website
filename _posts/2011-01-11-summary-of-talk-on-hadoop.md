@@ -3,7 +3,7 @@ layout: post
 title: Summary of talk on Hadoop
 created: 1294728688
 author: udib
-permalink: summary-talk-hadoop
+permalink: /summary-talk-hadoop
 tags:
 - Python
 - Hadoop

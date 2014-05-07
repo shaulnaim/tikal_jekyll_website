@@ -3,7 +3,7 @@ layout: post
 title: scouchdb Scala View Server gets "reduce"
 created: 1244449376
 author: adi
-permalink: java/scouchdb-scala-view-server-gets-reduce
+permalink: /java/scouchdb-scala-view-server-gets-reduce
 tags:
 - JAVA
 - Scala CouchDB

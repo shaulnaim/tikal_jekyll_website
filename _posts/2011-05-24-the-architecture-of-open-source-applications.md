@@ -3,7 +3,7 @@ layout: post
 title: 'The Architecture of Open Source Applications  '
 created: 1306242511
 author: andrew
-permalink: java/architecture-open-source-applications
+permalink: /java/architecture-open-source-applications
 tags:
 - JAVA
 - Python

@@ -3,7 +3,7 @@ layout: post
 title: Build Comet applications using Scala, Lift, and jQuery
 created: 1244412100
 author: adi
-permalink: java/build-comet-applications-using-scala-lift-and-jquery
+permalink: /java/build-comet-applications-using-scala-lift-and-jquery
 tags:
 - JAVA
 - Scala

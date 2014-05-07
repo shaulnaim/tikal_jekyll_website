@@ -3,7 +3,7 @@ layout: post
 title: Web Audio API for Games
 created: 1330932542
 author: orenf
-permalink: web-audio-api-games
+permalink: /web-audio-api-games
 tags:
 - JS
 ---

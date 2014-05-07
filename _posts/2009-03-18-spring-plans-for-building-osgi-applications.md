@@ -3,7 +3,7 @@ layout: post
 title: Spring plans for building OSGi applications
 created: 1237408012
 author: yanai
-permalink: java/spring-plans-building-osgi-applications
+permalink: /java/spring-plans-building-osgi-applications
 tags:
 - JAVA
 - OSGi Bundlor

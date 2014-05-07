@@ -3,7 +3,7 @@ layout: post
 title: Google waves - Changing the way we collaborate
 created: 1252128519
 author: hagzag
-permalink: alm/google-waves-changing-way-we-collaborate
+permalink: /alm/google-waves-changing-way-we-collaborate
 tags:
 - ALM
 - Google Wave

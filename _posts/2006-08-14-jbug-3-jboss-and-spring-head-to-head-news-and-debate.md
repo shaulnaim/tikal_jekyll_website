@@ -3,7 +3,7 @@ layout: post
 title: 'JBUG 3 - JBoss and Spring: Head to Head, News and Debate'
 created: 1155535200
 author: zvika
-permalink: java/jbug-3-jboss-and-spring-head-head-news-and-debate
+permalink: /java/jbug-3-jboss-and-spring-head-head-news-and-debate
 tags:
 - JAVA
 ---

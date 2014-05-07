@@ -3,7 +3,7 @@ layout: post
 title: How to create before / after class methods for JUnit 4 using Spring 3 framework
 created: 1298914147
 author: roni
-permalink: java/how-create-after-class-methods-junit-4-using-spring-3-framework
+permalink: /java/how-create-after-class-methods-junit-4-using-spring-3-framework
 tags:
 - JAVA
 - JUnit

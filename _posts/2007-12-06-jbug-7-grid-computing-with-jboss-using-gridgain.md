@@ -3,7 +3,7 @@ layout: post
 title: JBUG 7 - Grid Computing With JBoss Using GridGain
 created: 1196924400
 author: zvika
-permalink: java/jbug-7-grid-computing-jboss-using-gridgain
+permalink: /java/jbug-7-grid-computing-jboss-using-gridgain
 tags:
 - JAVA
 - GridGain

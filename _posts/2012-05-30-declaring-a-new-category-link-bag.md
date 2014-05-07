@@ -3,7 +3,7 @@ layout: post
 title: Declaring a new category "link bag"
 created: 1338394544
 author: avit
-permalink: declaring-new-category-link-bag
+permalink: /declaring-new-category-link-bag
 tags:
 - RoR
 - web

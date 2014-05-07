@@ -3,7 +3,7 @@ layout: post
 title: GWT ramblings of a Flex developer – First impressions
 created: 1323590257
 author: sefi
-permalink: gwt-ramblings-flex-developer-–-first-impressions
+permalink: /gwt-ramblings-flex-developer-–-first-impressions
 tags:
 - flex
 - gwt

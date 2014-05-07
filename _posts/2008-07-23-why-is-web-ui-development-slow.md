@@ -3,7 +3,7 @@ layout: post
 title: Why is Web UI Development Slow?
 created: 1216797480
 author: hila
-permalink: java/why-web-ui-development-slow
+permalink: /java/why-web-ui-development-slow
 tags:
 - JAVA
 ---

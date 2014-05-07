@@ -2,7 +2,7 @@
 layout: post
 title: The 10 minutes AntInstaller and maven guide
 created: 1288085703
-permalink: js/10-minutes-antinstaller-and-maven-guide
+permalink: /js/10-minutes-antinstaller-and-maven-guide
 tags:
 - JS
 - maven

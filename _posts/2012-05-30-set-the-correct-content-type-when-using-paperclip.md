@@ -3,7 +3,7 @@ layout: post
 title: Set the correct content type when using paperclip
 created: 1338394544
 author: avit
-permalink: set-correct-content-type-when-using-paperclip
+permalink: /set-correct-content-type-when-using-paperclip
 tags:
 - RoR
 - web

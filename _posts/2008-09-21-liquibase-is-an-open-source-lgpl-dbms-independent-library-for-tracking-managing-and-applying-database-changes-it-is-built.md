@@ -4,7 +4,7 @@ title: ' LiquiBase is an open source (LGPL), DBMS-independent library for tracki
   managing and applying database changes. It is built '
 created: 1221995421
 author: lior.kanfi
-permalink: java/liquibase-open-source-lgpl-dbms-independent-library-tracking-managing-and-applying-database
+permalink: /java/liquibase-open-source-lgpl-dbms-independent-library-tracking-managing-and-applying-database
 tags:
 - JAVA
 - Databases

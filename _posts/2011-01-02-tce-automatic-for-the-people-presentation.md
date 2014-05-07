@@ -3,7 +3,7 @@ layout: post
 title: TCE - Automatic for the people presentation
 created: 1293997735
 author: hagzag
-permalink: alm/tce-automatic-people-presentation
+permalink: /alm/tce-automatic-people-presentation
 tags:
 - ALM
 - Continuous Integration

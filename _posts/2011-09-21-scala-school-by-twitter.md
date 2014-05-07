@@ -3,7 +3,7 @@ layout: post
 title: Scala School by Twitter
 created: 1316580858
 author: ittayd
-permalink: scala-school-twitter
+permalink: /scala-school-twitter
 tags:
 - Incubator
 - Scala

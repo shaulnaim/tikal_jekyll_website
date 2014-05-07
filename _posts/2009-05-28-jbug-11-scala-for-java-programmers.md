@@ -3,7 +3,7 @@ layout: post
 title: JBUG 11 - Scala For Java Programmers
 created: 1243500155
 author: adi
-permalink: java/jbug-11-scala-java-programmers
+permalink: /java/jbug-11-scala-java-programmers
 tags:
 - JAVA
 - Scala

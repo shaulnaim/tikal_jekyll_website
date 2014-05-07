@@ -3,7 +3,7 @@ layout: post
 title: Smartphone Usability Tips
 created: 1329721319
 author: yoav.moran
-permalink: js/smartphone-usability-tips
+permalink: /js/smartphone-usability-tips
 tags:
 - JS
 - UX

@@ -3,7 +3,7 @@ layout: post
 title: Autowiring Property File Values Using @AutowiredProperty
 created: 1249794534
 author: zvika
-permalink: java/autowiring-property-file-values-using-autowiredproperty
+permalink: /java/autowiring-property-file-values-using-autowiredproperty
 tags:
 - JAVA
 - Spring

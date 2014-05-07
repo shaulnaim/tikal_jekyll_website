@@ -3,7 +3,7 @@ layout: post
 title: NetBeans 6.7 is released
 created: 1246284413
 author: andrew
-permalink: java/netbeans-67-released
+permalink: /java/netbeans-67-released
 tags:
 - JAVA
 - netbeans release

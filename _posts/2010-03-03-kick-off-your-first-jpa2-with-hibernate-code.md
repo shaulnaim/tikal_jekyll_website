@@ -3,7 +3,7 @@ layout: post
 title: Kick off your first JPA2 with Hibernate code
 created: 1267647615
 author: yanai
-permalink: java/kick-your-first-jpa2-hibernate-code
+permalink: /java/kick-your-first-jpa2-hibernate-code
 tags:
 - JAVA
 - JPA2 Hibernate3.5

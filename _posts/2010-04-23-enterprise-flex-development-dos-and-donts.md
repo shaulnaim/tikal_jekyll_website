@@ -3,7 +3,7 @@ layout: post
 title: Enterprise Flex Development Do's and Dont's
 created: 1272052320
 author: liorb
-permalink: enterprise-flex-development-dos-and-donts
+permalink: /enterprise-flex-development-dos-and-donts
 tags:
 - Flex Java
 ---

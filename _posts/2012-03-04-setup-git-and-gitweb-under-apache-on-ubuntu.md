@@ -3,7 +3,7 @@ layout: post
 title: Setup git and gitweb under Apache on Ubuntu
 created: 1330815238
 author: liya
-permalink: setup-git-and-gitweb-under-apache-ubuntu
+permalink: /setup-git-and-gitweb-under-apache-ubuntu
 tags:
 - ALM
 - alm git gitweb apache

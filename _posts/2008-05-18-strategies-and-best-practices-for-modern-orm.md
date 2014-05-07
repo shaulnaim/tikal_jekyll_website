@@ -3,7 +3,7 @@ layout: post
 title: 'Strategies and best practices for modern ORM '
 created: 1211139000
 author: yanai
-permalink: java/strategies-and-best-practices-modern-orm
+permalink: /java/strategies-and-best-practices-modern-orm
 tags:
 - JAVA
 - Hibernate

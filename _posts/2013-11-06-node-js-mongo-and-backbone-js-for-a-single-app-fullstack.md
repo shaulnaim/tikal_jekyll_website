@@ -3,7 +3,7 @@ layout: post
 title: Node.js, Mongo & Backbone.js for a single app Fullstack
 created: 1383743328
 author: orenf
-permalink: js/nodejs-mongo-backbonejs-single-app-fullstack
+permalink: /js/nodejs-mongo-backbonejs-single-app-fullstack
 tags:
 - JS
 - fullstack

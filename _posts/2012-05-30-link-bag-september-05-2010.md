@@ -3,7 +3,7 @@ layout: post
 title: Link Bag September 05 2010
 created: 1338394544
 author: avit
-permalink: link-bag-september-05-2010
+permalink: /link-bag-september-05-2010
 tags:
 - RoR
 - web

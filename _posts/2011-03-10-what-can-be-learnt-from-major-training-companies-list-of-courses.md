@@ -3,7 +3,7 @@ layout: post
 title: What can be learnt from major training companies list of courses
 created: 1299754556
 author: udib
-permalink: incubator/what-can-be-learnt-major-training-companies-list-courses
+permalink: /incubator/what-can-be-learnt-major-training-companies-list-courses
 tags:
 - Incubator
 - Trends

@@ -3,7 +3,7 @@ layout: post
 title: JS Group Meeting - NodeJs Short Session (Adi Baron)
 created: 1334648661
 author: orenf
-permalink: js-group-meeting-nodejs-short-session-adi-baron
+permalink: /js-group-meeting-nodejs-short-session-adi-baron
 tags:
 - JS
 ---

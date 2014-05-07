@@ -2,7 +2,7 @@
 layout: post
 title: Initialization on Demand Holder (IODH) idiom
 created: 1295938915
-permalink: js/initialization-demand-holder-iodh-idiom
+permalink: /js/initialization-demand-holder-iodh-idiom
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Introduction to NoSQL & Cassandra by Ran Tavori
 created: 1280137985
 author: yanai
-permalink: java/introduction-nosql-cassandra-ran-tavori
+permalink: /java/introduction-nosql-cassandra-ran-tavori
 tags:
 - JAVA
 ---

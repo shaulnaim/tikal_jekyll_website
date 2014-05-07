@@ -3,7 +3,7 @@ layout: post
 title: JDK7 Closures == Ugly  ?
 created: 1258617032
 author: adi
-permalink: java/jdk7-closures-ugly
+permalink: /java/jdk7-closures-ugly
 tags:
 - JAVA
 - JDK7

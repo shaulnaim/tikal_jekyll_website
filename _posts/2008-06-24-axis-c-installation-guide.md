@@ -2,7 +2,7 @@
 layout: post
 title: Axis C++ Installation Guide
 created: 1214312100
-permalink: java/axis-c-installation-guide
+permalink: /java/axis-c-installation-guide
 tags:
 - JAVA
 - axis

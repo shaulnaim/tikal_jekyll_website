@@ -3,7 +3,7 @@ layout: post
 title: Visual Studio Achievements–Extension
 created: 1329160140
 author: menny
-permalink: visual-studio-achievements–extension
+permalink: /visual-studio-achievements–extension
 ---
 <p><a href="http://www.onemenny.com/blog/wp-content/uploads/2012/02/image.png"><img style="background-image: none; border-right-width: 0px; margin: 0px 15px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Visual Studio Achievements" border="0" alt="Visual Studio Achievements" align="left" src="http://www.onemenny.com/blog/wp-content/uploads/2012/02/image_thumb.png" width="159" height="162"></a>Have you ever wondered if you are using ALL the power of visual studio? There are so many features and tool underneath VS folds that not many programmers know or use. The VS team has created an extension for VS enabling you to score point with every achievement you earn, here you go:<br />
 <blockquote>

@@ -3,7 +3,7 @@ layout: post
 title: Using ASP.NET Bundling and Minification with Web Forms
 created: 1346823360
 author: igorz
-permalink: net/using-aspnet-bundling-and-minification-web-forms
+permalink: /net/using-aspnet-bundling-and-minification-web-forms
 tags:
 - .NET
 - .Net Open Source

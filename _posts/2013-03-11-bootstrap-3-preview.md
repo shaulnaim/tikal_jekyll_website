@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap 3 preview
 created: 1362990370
 author: assafg
-permalink: js/bootstrap-3-preview
+permalink: /js/bootstrap-3-preview
 tags:
 - JS
 - bootstrap

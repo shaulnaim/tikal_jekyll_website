@@ -3,7 +3,7 @@ layout: post
 title: Moving to Client-side Application from Server Page Application
 created: 1391589556
 author: assafg
-permalink: js/moving-client-side-application-server-page-application
+permalink: /js/moving-client-side-application-server-page-application
 tags:
 - JS
 - Javascript HTML5

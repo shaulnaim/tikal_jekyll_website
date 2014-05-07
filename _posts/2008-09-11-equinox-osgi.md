@@ -3,7 +3,7 @@ layout: post
 title: Equinox OSGi
 created: 1221112137
 author: lior.kanfi
-permalink: java/equinox-osgi
+permalink: /java/equinox-osgi
 tags:
 - JAVA
 - Eclipse Equinox OSGI

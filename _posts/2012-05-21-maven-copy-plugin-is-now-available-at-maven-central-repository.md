@@ -3,7 +3,7 @@ layout: post
 title: maven-copy-plugin is now available at Maven Central repository
 created: 1337548684
 author: liya
-permalink: maven-copy-plugin-now-available-maven-central-repository
+permalink: /maven-copy-plugin-now-available-maven-central-repository
 tags:
 - ALM
 - maven

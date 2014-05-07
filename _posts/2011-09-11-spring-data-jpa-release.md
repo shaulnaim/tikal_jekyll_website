@@ -3,7 +3,7 @@ layout: post
 title: Spring Data - JPA release
 created: 1315725433
 author: dmitri
-permalink: spring-data-jpa-release
+permalink: /spring-data-jpa-release
 tags:
 - JAVA
 - Spring Data

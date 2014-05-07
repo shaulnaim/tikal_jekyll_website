@@ -3,7 +3,7 @@ layout: post
 title: Fade text in Flex application Part II
 created: 1245762211
 author: sefi
-permalink: js/fade-text-flex-application-part-ii
+permalink: /js/fade-text-flex-application-part-ii
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Chef and Vagrant in action '
 created: 1386161944
 author: miron
-permalink: chef-and-vagrant-action
+permalink: /chef-and-vagrant-action
 tags:
 - ALM
 - DevOps

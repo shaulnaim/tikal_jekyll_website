@@ -3,7 +3,7 @@ layout: post
 title: A First Look at JMX Web Services Connector
 created: 1212587220
 author: zvika
-permalink: java/first-look-jmx-web-services-connector
+permalink: /java/first-look-jmx-web-services-connector
 tags:
 - JAVA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ELIPS Studio 3 new beta version released
 created: 1263592540
 author: sefi
-permalink: elips-studio-3-new-beta-version-released
+permalink: /elips-studio-3-new-beta-version-released
 tags:
 - flex
 - gwt

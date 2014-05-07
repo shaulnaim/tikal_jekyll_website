@@ -3,7 +3,7 @@ layout: post
 title: an article comparing wicket and jsf+seam
 created: 1267738262
 author: ittayd
-permalink: java/article-comparing-wicket-and-jsfseam
+permalink: /java/article-comparing-wicket-and-jsfseam
 tags:
 - JAVA
 ---

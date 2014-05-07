@@ -3,7 +3,7 @@ layout: post
 title: 'YonderGit: Simplified Git Remote Repository Management'
 created: 1297527857
 author: shalom
-permalink: alm/yondergit-simplified-git-remote-repository-management
+permalink: /alm/yondergit-simplified-git-remote-repository-management
 tags:
 - ALM
 - alm git remote

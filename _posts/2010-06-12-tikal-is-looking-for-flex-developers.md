@@ -3,7 +3,7 @@ layout: post
 title: Tikal is Looking for Flex Developers
 created: 1276354860
 author: liorb
-permalink: tikal-looking-flex-developers
+permalink: /tikal-looking-flex-developers
 tags:
 - Flex Java
 ---

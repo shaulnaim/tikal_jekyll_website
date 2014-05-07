@@ -3,7 +3,7 @@ layout: post
 title: 'Metawidget: Display Screens, Facelets, and Improved Pluggability'
 created: 1210585920
 author: hila
-permalink: java/metawidget-display-screens-facelets-and-improved-pluggability
+permalink: /java/metawidget-display-screens-facelets-and-improved-pluggability
 tags:
 - JAVA
 - jsf

@@ -3,7 +3,7 @@ layout: post
 title: Scala actors design patterns - state machines
 created: 1295874063
 author: ittayd
-permalink: incubator/scala-actors-design-patterns-state-machines
+permalink: /incubator/scala-actors-design-patterns-state-machines
 tags:
 - Incubator
 - Scala

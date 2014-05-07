@@ -3,7 +3,7 @@ layout: post
 title: Matt Raible compares web frameworks
 created: 1290673928
 author: ittayd
-permalink: incubator/matt-raible-compares-web-frameworks
+permalink: /incubator/matt-raible-compares-web-frameworks
 tags:
 - Incubator
 - web

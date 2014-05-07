@@ -3,7 +3,7 @@ layout: post
 title: Kick-ass Game Programming with Google Web Toolkit
 created: 1314628694
 author: aviy
-permalink: kick-ass-game-programming-google-web-toolkit
+permalink: /kick-ass-game-programming-google-web-toolkit
 tags:
 - JAVA
 - Canvas

@@ -3,7 +3,7 @@ layout: post
 title: Hosting next Tikal Flex group event this coming Thursday
 created: 1290527170
 author: sefi
-permalink: hosting-next-tikal-flex-group-event-coming-thursday
+permalink: /hosting-next-tikal-flex-group-event-coming-thursday
 tags:
 - gwt
 - flex

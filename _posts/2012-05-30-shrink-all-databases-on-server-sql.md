@@ -3,7 +3,7 @@ layout: post
 title: Shrink all databases on server (sql)
 created: 1338394544
 author: avit
-permalink: shrink-all-databases-server-sql
+permalink: /shrink-all-databases-server-sql
 tags:
 - RoR
 - web

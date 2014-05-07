@@ -3,7 +3,7 @@ layout: post
 title: Thoughts about Scala complexity and future
 created: 1326298695
 author: ittayd
-permalink: thoughts-about-scala-complexity-and-future
+permalink: /thoughts-about-scala-complexity-and-future
 tags:
 - Incubator
 - Scala

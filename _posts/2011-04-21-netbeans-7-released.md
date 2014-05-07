@@ -3,7 +3,7 @@ layout: post
 title: NetBeans 7 released
 created: 1303369775
 author: andrew
-permalink: java/netbeans-7-released
+permalink: /java/netbeans-7-released
 tags:
 - JAVA
 - netbeans

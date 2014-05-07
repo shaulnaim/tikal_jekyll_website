@@ -3,7 +3,7 @@ layout: post
 title: Flex Air for Android screen orientation
 created: 1298802379
 author: sefi
-permalink: js/flex-air-android-screen-orientation
+permalink: /js/flex-air-android-screen-orientation
 tags:
 - JS
 - flex

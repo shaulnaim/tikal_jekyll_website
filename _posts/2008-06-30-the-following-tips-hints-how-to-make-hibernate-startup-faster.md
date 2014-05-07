@@ -3,7 +3,7 @@ layout: post
 title: The following tips hints how to make Hibernate startup faster.
 created: 1214855580
 author: yanai
-permalink: java/following-tips-hints-how-make-hibernate-startup-faster
+permalink: /java/following-tips-hints-how-make-hibernate-startup-faster
 tags:
 - JAVA
 - Hibernate

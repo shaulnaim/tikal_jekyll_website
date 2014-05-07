@@ -4,7 +4,7 @@ title: Is there a way to see what the values of the arguments that are sent into
   method in Java? (source or bytecode)
 created: 1248345460
 author: keren
-permalink: java/there-way-see-what-values-arguments-are-sent-method-java-source-or-bytecode
+permalink: /java/there-way-see-what-values-arguments-are-sent-method-java-source-or-bytecode
 tags:
 - JAVA
 - java bytecode

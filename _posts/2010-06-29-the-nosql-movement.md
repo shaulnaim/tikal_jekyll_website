@@ -3,7 +3,7 @@ layout: post
 title: The NoSQL Movement
 created: 1277813826
 author: adi
-permalink: incubator/nosql-movement
+permalink: /incubator/nosql-movement
 tags:
 - Incubator
 ---

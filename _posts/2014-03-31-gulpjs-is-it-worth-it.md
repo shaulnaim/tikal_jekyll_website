@@ -3,7 +3,7 @@ layout: post
 title: GulpJS, is it worth it?
 created: 1396250160
 author: robert
-permalink: gulpjs-it-worth-it
+permalink: /gulpjs-it-worth-it
 tags:
 - JS
 - gulpjs gruntjs build-tools fez

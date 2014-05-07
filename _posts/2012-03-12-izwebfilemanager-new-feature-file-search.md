@@ -3,7 +3,7 @@ layout: post
 title: 'IZWebFileManager New Feature: File Search.'
 created: 1331536260
 author: igorz
-permalink: net/izwebfilemanager-new-feature-file-search
+permalink: /net/izwebfilemanager-new-feature-file-search
 tags:
 - .NET
 - .Net Open Source

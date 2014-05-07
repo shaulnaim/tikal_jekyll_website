@@ -3,7 +3,7 @@ layout: post
 title: Deploying to tomcat with maven
 created: 1262129707
 author: shalom
-permalink: alm/deploying-tomcat-maven
+permalink: /alm/deploying-tomcat-maven
 tags:
 - ALM
 - maven tomcat deploy

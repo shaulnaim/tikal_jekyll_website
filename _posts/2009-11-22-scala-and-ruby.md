@@ -3,7 +3,7 @@ layout: post
 title: Scala & Ruby
 created: 1258874413
 author: adi
-permalink: java/scala-ruby
+permalink: /java/scala-ruby
 tags:
 - JAVA
 - Scala

@@ -3,7 +3,7 @@ layout: post
 title: Fuse Day, Dec 2012–Getting our hands dirty with WinRT
 created: 1356448602
 author: menny
-permalink: net/fuse-day-dec-2012–getting-our-hands-dirty-winrt
+permalink: /net/fuse-day-dec-2012–getting-our-hands-dirty-winrt
 tags:
 - .NET
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The HTML5 Sessions – Google Developer Day Israel 2011
 created: 1321253525
 author: orenf
-permalink: js/html5-sessions-–-google-developer-day-israel-2011
+permalink: /js/html5-sessions-–-google-developer-day-israel-2011
 tags:
 - JS
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'TryStack an OpenStack test bed '
 created: 1333832668
 author: hagzag
-permalink: trystack-openstack-test-bed
+permalink: /trystack-openstack-test-bed
 tags:
 - ALM
 - cloud computing

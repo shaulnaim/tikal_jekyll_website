@@ -3,7 +3,7 @@ layout: post
 title: iOS/iPhone development and UX series part II
 created: 1302421013
 author: sefi
-permalink: js/iosiphone-development-and-ux-series-part-ii
+permalink: /js/iosiphone-development-and-ux-series-part-ii
 tags:
 - JS
 ---

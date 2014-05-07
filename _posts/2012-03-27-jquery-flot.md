@@ -3,7 +3,7 @@ layout: post
 title: JQuery Flot
 created: 1332873513
 author: alexa
-permalink: jquery-flot
+permalink: /jquery-flot
 tags:
 - Incubator
 - jQuery

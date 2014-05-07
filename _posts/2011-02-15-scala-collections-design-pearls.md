@@ -3,7 +3,7 @@ layout: post
 title: Scala Collections Design Pearls
 created: 1297755266
 author: ittayd
-permalink: java/scala-collections-design-pearls
+permalink: /java/scala-collections-design-pearls
 tags:
 - JAVA
 - Scala

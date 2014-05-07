@@ -3,7 +3,7 @@ layout: post
 title: Integrating Backbone.View, Backbone.Model & jQuery Plugin
 created: 1374648523
 author: orenf
-permalink: integrating-backboneview-backbonemodel-jquery-plugin
+permalink: /integrating-backboneview-backbonemodel-jquery-plugin
 tags:
 - JS
 - backbone.js

@@ -3,7 +3,7 @@ layout: post
 title: Google I/O 2013 - GWT Roadmap for the Future
 created: 1370761831
 author: aviy
-permalink: java/google-io-2013-gwt-roadmap-future
+permalink: /java/google-io-2013-gwt-roadmap-future
 tags:
 - JAVA
 - gwt

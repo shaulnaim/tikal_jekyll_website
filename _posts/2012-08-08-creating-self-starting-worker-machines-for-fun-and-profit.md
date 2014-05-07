@@ -3,7 +3,7 @@ layout: post
 title: Creating self starting worker machines for fun and profit
 created: 1344437586
 author: avit
-permalink: ror/creating-self-starting-worker-machines-fun-and-profit
+permalink: /ror/creating-self-starting-worker-machines-fun-and-profit
 tags:
 - RoR
 ---

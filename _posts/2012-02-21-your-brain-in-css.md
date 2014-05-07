@@ -3,7 +3,7 @@ layout: post
 title: Your brain in CSS
 created: 1329851659
 author: orenf
-permalink: your-brain-css
+permalink: /your-brain-css
 tags:
 - JS
 - CSS3

@@ -3,7 +3,7 @@ layout: post
 title: OpenFaces, an open-source library of AJAX-powered JSF components
 created: 1245758980
 author: lior.kanfi
-permalink: java/openfaces-open-source-library-ajax-powered-jsf-components
+permalink: /java/openfaces-open-source-library-ajax-powered-jsf-components
 tags:
 - JAVA
 ---

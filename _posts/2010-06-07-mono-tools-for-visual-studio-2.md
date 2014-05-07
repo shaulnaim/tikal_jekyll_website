@@ -3,7 +3,7 @@ layout: post
 title: Mono Tools for Visual Studio 2
 created: 1275916366
 author: igorz
-permalink: net/mono-tools-visual-studio-2
+permalink: /net/mono-tools-visual-studio-2
 tags:
 - .NET
 - .Net Open Source

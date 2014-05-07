@@ -3,7 +3,7 @@ layout: post
 title: Micro Services
 created: 1392024249
 author: chaim.turkel
-permalink: java/micro-services
+permalink: /java/micro-services
 tags:
 - JAVA
 - micro services

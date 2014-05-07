@@ -3,7 +3,7 @@ layout: post
 title: Which editor do you prefer for our community site?
 created: 1289392758
 author: ittayd
-permalink: which-editor-do-you-prefer-our-community-site
+permalink: /which-editor-do-you-prefer-our-community-site
 tags:
 - community editor
 ---

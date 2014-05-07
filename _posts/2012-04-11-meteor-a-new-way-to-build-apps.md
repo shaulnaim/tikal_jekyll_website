@@ -3,7 +3,7 @@ layout: post
 title: Meteor - A new way to build apps
 created: 1334146547
 author: ittayd
-permalink: meteor-new-way-build-apps
+permalink: /meteor-new-way-build-apps
 tags:
 - JS
 ---
