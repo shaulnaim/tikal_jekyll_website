@@ -21,6 +21,9 @@ module Jekyll
     def paginate(site, user)
       author = user["login"]
       posts_by_author = site.posts.find_all {|post| post.data["author"] == author}.sort_by {|post| -post.date.to_f}
+      posts_by_author.each do |post|
+        post.data["user"] = user
+      end
       dir_name = user["permalink"] ? user["permalink"] : "/users/#{author}"
       num_pages = Pager.calculate_pages(posts_by_author, site.config['paginate'].to_i)
 
