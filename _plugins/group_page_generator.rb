@@ -21,16 +21,17 @@ module Jekyll
       # with the 'java' tag
       tag = group["tag"]
       tag_posts = site.posts.find_all {|post| post.tags.map(&:downcase).include?(tag)}.sort_by {|post| -post.date.to_f}
+      dir_name = "/#{group['name']}"
 
-      # calculate_pages - a method belonging to the Jekyl::Pager class, which is
-      # the GroupPager parent. It takes the posts and the default
-      # number of posts per page, and returns the number of pages.
-      num_pages = GroupPager.calculate_pages(tag_posts, site.config['paginate'].to_i)
+      # calculate_pages - a method belonging to the Jekyl::Pager class, which takes 
+      # the posts and the default number of posts per page, and returns the number 
+      # of pages.
+      num_pages = Pager.calculate_pages(tag_posts, site.config['paginate'].to_i)
 
       (1..num_pages).each do |page|
         # create a pagination object containing page number,
         # previous page, next page etc
-        pager = GroupPager.new(site, page, tag_posts, group["name"], num_pages)
+        pager = Pager.new(site, page, tag_posts, num_pages)
         
         # setup the page directory. If this is the first page it will
         # be saved inside the group's folder (for example
@@ -39,7 +40,7 @@ module Jekyll
         dir = File.join(group["name"], page > 1 ? "page#{page}" : '')
 
         # creates the page (index.html)
-        page = GroupPage.new(site, site.source, dir, group)
+        page = GroupPage.new(site, site.source, dir, group, dir_name)
 
         # adds pagination data to page
         page.pager = pager
@@ -57,7 +58,7 @@ module Jekyll
   # group - a hash containing the group's data (name, title,
   # subtitle etc)
   class GroupPage < Page
-    def initialize(site, base, dir, group)
+    def initialize(site, base, dir, group, dir_name)
       @site = site
       @base = base
       @dir = dir
@@ -73,32 +74,9 @@ module Jekyll
       group.each do |k, v|
         self.data[k] = v
       end
+
+      # the dir_name will be used by for pagination in the template
+      self.data["dir_name"] = dir_name
     end
   end
-
-  # Pagination object. see: http://bit.ly/1fm3jNc
-  #
-  # site - the Jekyll::Site object
-  # page - page number
-  # all_posts - array containing all of the group's posts
-  # tag - the tag used to find the posts
-  class GroupPager < Pager 
-    attr_reader :tag
-
-    def initialize(site, page, all_posts, tag, num_pages = nil)
-      @tag = tag
-      super site, page, all_posts, num_pages
-    end
-
-    alias_method :original_to_liquid, :to_liquid
-
-    # adds the tag to the paginator hash, allowing it to be accessed in
-    # views using {{ paginator.tag }}
-    def to_liquid
-      liquid = original_to_liquid
-      liquid['tag'] = @tag
-      liquid
-    end
-  end
-
 end
