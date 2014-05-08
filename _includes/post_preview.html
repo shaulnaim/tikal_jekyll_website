@@ -11,7 +11,7 @@
     <span class="field-content">
       <div class="tags">
         {% for tag in post.tags %}
-          <a href="{{ tag | replace: ' ', '-' | prepend: '/tags/' | to_baseurl }}" class="active">{{ tag }}</a>
+          <a href="{{ tag | parameterize | prepend: '/tags/' | to_baseurl }}" class="active">{{ tag }}</a>
         {% endfor %}
       </div>
     </span>
