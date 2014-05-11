@@ -4,4 +4,37 @@ name: about
 title: About Page | Tikal
 header_title: About Tikal
 header_subtitle: We help companies build, deliver, deploy, manage and optimize their products.
+
+our_experts:
+  - Assaf Gannon
+  - Yanai Franchi
+  - Adi Baron
+  - Igor Zalmanovich
+  - Andrew Skiba
+  - Oren Farhi
+  - Menny Rachmanny
+  - Haggai Zagury
 ---
+<div id="main">
+  <article id="node-30" class="node node-about-tikal">
+    <div id="who-are-we">
+      {% include pages/about/who_are_we.html %}
+    </div>
+    <div id="our-history">
+      {% include pages/about/our_history.html %}
+      {% include pages/about/enterprise-software.html %}
+      {% include pages/about/web-development.html %}
+      <div class="end"></div>
+    </div>
+    <div id="our-core-values">
+      {% include pages/about/our-culture.html %}
+    </div>
+    <div id="our-experts">
+      {% include pages/about/our-experts.html %}
+    </div>
+    <div id="community" class="community">
+      {% include pages/about/community.html %}
+    </div>
+  </article>
+</div>
+{% include pages/about/sidebar.html %}

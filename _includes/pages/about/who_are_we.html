@@ -1,0 +1,47 @@
+<div class="field field-name-field-who-are-we field-type-text-long field-label-inline clearfix">
+  <div class="field-label">Who we are</div>
+    <div class="field-items">
+      <div class="field-item field-item-1 even">
+        <p dir="ltr">
+          Tikal is a global
+          software company founded in 1999 by
+          experts in the open-source
+          community. For over 12 years, we
+          have helped breakthrough companies
+          achieve excellence. We have earned
+          worldwide recognition for delivering
+          extremely competitive and
+          high-performance software
+          services.
+        </p>
+        <p dir="ltr">Our open-source
+          approach provides our clients with
+          value added services, assuring rapid
+          development and easy customization,
+          while eliminating the risk of being
+          held captive by a specific
+          vendor.
+        </p>
+    </div>
+  </div>
+
+  <section id="block-views-clients-our-cients" class="block block-views block-even">
+    <h2 class="block-title">Our Clients</h2>
+  </section>
+
+  <section id="block-menu-block-3" class="block block-menu-block our-expertese block-odd">
+    <h2 class="block-title">Our Expertese</h2>
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-3 menu-name-menu-domains parent-mlid-0 menu-level-1">
+        <ul class="menu clearfix">
+          {% for group in site.data.groups %}
+            {% for g in group %}
+              {% assign name = g[1].name %}
+              <li class="leaf {{ name }}"><a href="{{ name | prepend: "/" | to_baseurl }}" title="">{{ g[1].title | replace: ' | Tikal', '' }}</a></li>
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>

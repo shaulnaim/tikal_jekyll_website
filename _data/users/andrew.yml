@@ -4,6 +4,8 @@ login: andrew
 first_name: Andrew
 last_name: Skiba
 description: Java Architect
+about: Over 17 years of experience in the software industry, has vast experience in
+  Java Server development, in technologies such as Spring, Hibernate, EJB3 etc.
 follow_me_urls: []
 image_path: pictures/picture-40-1361178042.png
 permalink: /java/andrew

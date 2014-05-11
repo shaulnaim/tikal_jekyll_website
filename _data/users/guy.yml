@@ -4,6 +4,7 @@ login: guy
 first_name: Guy
 last_name: Michaelis
 description: ALM Expert
+about: ''
 follow_me_urls:
 - il.linkedin.com/pub/guy-michaelis/0/89/568
 image_path: pictures/picture-49159-1383031512.jpg

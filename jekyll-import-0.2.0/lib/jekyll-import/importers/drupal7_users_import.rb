@@ -4,6 +4,9 @@
 # $ sudo gem install sequel
 # $ sudo gem install mysql -- --with-mysql-config=/usr/local/mysql/bin/mysql_config
 
+require "rubygems"
+require "sanitize"
+
 module JekyllImport
   module Importers
     class Drupal7UsersImport < Importer
@@ -12,6 +15,7 @@ module JekyllImport
         SELECT users.uid, users.name, users.status, users.picture,
         first_name.field_first_name_value as 'first_name', 
         last_name.field_last_name_value as 'last_name',
+        about.field_about_value as 'about',
         f.uri as 'image_path',
         user_desc.field_description_value as 'description',
         GROUP_CONCAT(DISTINCT follow.field_follow_on_url) as 'follow_me_urls',
@@ -27,6 +31,7 @@ module JekyllImport
         left join field_data_field_description as user_desc on user_desc.entity_id = users.uid
         left join field_data_field_follow_on as follow on follow.entity_id = users.uid
         left join file_managed as f on f.fid = users.picture
+        left join field_data_field_about as about on about.entity_id = users.uid
         where users.status = 1
         group by users.uid;
       EOF
@@ -101,6 +106,7 @@ module JekyllImport
           user_data["first_name"] = user[:first_name]
           user_data["last_name"] = user[:last_name]
           user_data["description"] = user[:description]
+          user_data["about"] = Sanitize.clean(user[:about]).to_s.strip.gsub(/\s+/,' ')
           user_data["follow_me_urls"] = user[:follow_me_urls].to_s.split(",")
           user_data["image_path"] = user[:image_path].gsub(/^public\:\/\//,'') if user[:image_path]
 

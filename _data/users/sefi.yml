@@ -4,6 +4,7 @@ login: sefi
 first_name: Sefi
 last_name: Ninio
 description: JS Developer
+about: ''
 follow_me_urls:
 - il.linkedin.com/in/sefininio
 image_path: pictures/picture-56-1361370127.jpg

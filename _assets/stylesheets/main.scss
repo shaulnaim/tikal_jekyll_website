@@ -2001,7 +2001,7 @@
   padding-left:17px;
   border:1px solid #cbcbcb;
   border-bottom:0;
-  background:url('/sites/all/themes/sasson/tikal/images/background-orange.jpg') repeat-x bottom white
+  background:url(asset_path('backgrounds/background-orange.jpg')) repeat-x bottom white
 }
 .region-sidebar-first .block-menu .block-title
 {
@@ -2239,7 +2239,7 @@
 }
 .fields-in-our-core-values .diagonal-right,.field_our_values .diagonal-right
 {
-  background:url('/sites/all/themes/sasson/tikal/images/diagonal-image-right.png') no-repeat 0 -11px;
+  background:url(asset_path('backgrounds/diagonal-image-right.png')) no-repeat 0 -11px;
   float:right;
   height:80px;
   width:18px;
@@ -2247,7 +2247,7 @@
 }
 .fields-in-our-core-values .diagonal-left,.field_our_values .diagonal-left
 {
-  background:url('/sites/all/themes/sasson/tikal/images/diagonal-image.png') no-repeat 0px 0px;
+  background:url(asset_path('backgrounds/diagonal-image.png')) no-repeat 0px 0px;
   float:left;
   height:80px;
   width:18px;
