@@ -10,7 +10,7 @@ module Jekyll
     # site is an instance of Jekyll::Site, containing information +
     # configuration settings from _config.yml, including groups data
     def generate(site)
-      site.config["groups"].each do |g| 
+      site.data["groups"].each do |g| 
         paginate(site, g["group"])
       end
     end
