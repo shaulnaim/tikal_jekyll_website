@@ -27,6 +27,19 @@
 
   <section id="block-views-clients-our-cients" class="block block-views block-even">
     <h2 class="block-title">Our Clients</h2>
+    <div class="view view-clients view-id-clients view-display-id-our_cients">
+      <div class="view-content">
+        {% for client in page.our_clients %}
+          <div class="views-row">
+            <div class="views-field views-field-field-logo">
+              <div class="field-content">
+                <a href={{ '/solutions/#testimonies' | to_baseurl }}"><img typeof="foaf:Image" src="{{ client | client_image_path }}" width="115" alt=""></a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
   </section>
 
   <section id="block-menu-block-3" class="block block-menu-block our-expertese block-odd">

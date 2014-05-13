@@ -4,7 +4,7 @@
       {% include head.html %}
     </head>
 
-    <body class="section-{{ page.name }} group-page-{{ page.name }} page-taxonomy section-domains">
+    <body class="section-{{ page.name }} group-page-{{ page.name }} page-taxonomy section-domains one-sidebar sidebar-second page-taxonomy page-taxonomy-term">
         {% include header.html %}
         {% include navigation.html %}
         {% include page_title.html %}
@@ -14,6 +14,7 @@
             {% include group_posts.html %}
             {{ content }}
           </div>
+          {% include group_sidebar.html %}
         </div>
         {% include first_footer.html %}
         {% include second_footer.html %}

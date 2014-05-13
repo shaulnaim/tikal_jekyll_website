@@ -4,27 +4,43 @@
     title: ALM | Tikal
     header_title: ALM
     header_subtitle: Ahoy ALM Pirates! Welcome to Tikal's ALM Domain.
+    highlighted_team_members:
+      - Haggai Zagury
+      - Itai Or
+      - Liya Katz
 - group:
     name: java
     tag: java
     title: Java | Tikal
     header_title: Java
     header_subtitle: Beware Java Jedi... You have just entered Tikal's Java Domain.
+    highlighted_team_members:
+      - Yanai Franchi
+      - Adi Baron
+      - Andrew Skiba
 - group:
     name: js
     tag: js
     title: JS | Tikal
     header_title: JS
     header_subtitle: Welcome JS Ninjas! You have just entered Tikal's JS Domain.
+    highlighted_team_members:
+      - Oren Farhi
+      - Asaf Gannon
 - group:
     name: net
     tag: .net
     title: .NET | Tikal
     header_title: .NET
     header_subtitle: What up .NET Geeks ? Welcome to Tikal's .NET Domain.
+    highlighted_team_members:
+      - Igor Zalmanovich
+      - Menny Rachmanny
 - group:
     name: ror
     tag: ror
     title: RoR | Tikal
     header_title: RoR
     header_subtitle: Hello there RoR Gurus. This is Tikal's RoR Domain.
+    highlighted_team_members:
+      - Avi Tzurel

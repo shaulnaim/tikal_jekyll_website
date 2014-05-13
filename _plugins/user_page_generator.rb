@@ -8,13 +8,8 @@ module Jekyll
     safe true
 
     def generate(site)
-      site.data["users"] = []
-      Dir.foreach('_data/users') do |item|
-        if item =~ /.+\.yml$/ 
-          user_data = YAML.load_file("_data/users/#{item}")
-          site.data["users"] << user_data
-          paginate(site, user_data)
-        end
+      site.data["users"].each do |user_data|
+        paginate(site, user_data)
       end
     end
 
