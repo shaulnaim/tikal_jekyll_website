@@ -12,6 +12,7 @@ module Jekyll
         :drupal6 => 'Drupal6',
         :drupal7 => 'Drupal7',
         :drupal7_users_import => 'Drupal7UsersImport',
+        :drupal7_testimonies_import => 'Drupal7TestimoniesImport',
         :enki => 'Enki',
         :joomla => 'Joomla',
         :jrnl => 'Jrnl',
