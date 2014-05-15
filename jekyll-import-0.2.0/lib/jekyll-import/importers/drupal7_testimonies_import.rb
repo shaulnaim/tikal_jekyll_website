@@ -65,7 +65,7 @@ module JekyllImport
           testimony_data = {}
           testimony_data["name"] = testimony[:title]
           testimony_data["type"] = testimony[:client] ? "client" : "user"
-          testimony_data["testimony"] = testimony[:body_value]
+          testimony_data["text"] = testimony[:body_value]
 
           file_name = testimony_data["name"].downcase.strip.gsub(/\s+/,'_')
 
