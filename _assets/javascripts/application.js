@@ -1,5 +1,6 @@
 //= require vendor/jquery-2.1.1
 //= require vendor/scrollup/jquery.scrollUp
+//= require vendor/drupal_legacy.js
 
 $('document').ready(function() {
   $("#core-values .double-field-first").click(function() {
@@ -11,4 +12,7 @@ $('document').ready(function() {
   });
 
   $.scrollUp();
+
+  // enable careers vertiavl carousel
+  Drupal.behaviors.tikalScrollItems.attach();
 });

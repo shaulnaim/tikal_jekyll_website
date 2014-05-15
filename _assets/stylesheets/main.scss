@@ -2482,7 +2482,7 @@
 }
 .field-name-field-our-consultancy-fields .container-inline,.field-name-field-our-support-services .container-inline,.field-name-field-working-at-tikal .container-inline
 {
-  background:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-archiecture.png') no-repeat;
+  background:url(asset_path('big-icons/icon-archiecture.png')) no-repeat;
   width:142px;
   padding-top:140px;
   float:left;
@@ -2522,7 +2522,7 @@
 }
 .field-name-field-we-provide .container-inline,.field-name-field-the-tikal-alternative .container-inline
 {
-  background:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-training-and-courses.png') no-repeat;
+  background:url(asset_path('big-icons/icon-training-and-courses.png')) no-repeat;
   width:90px;
   padding-top:70px;
   float:left;
@@ -2568,19 +2568,19 @@
 }
 .carousel-vertical .jcarousel-prev
 {
-  background:url('/sites/all/themes/sasson/tikal/images/arrow-up.png') no-repeat
+  background:url(asset_path('icons/arrow-up.png')) no-repeat
 }
 .carousel-vertical .jcarousel-next
 {
-  background:url('/sites/all/themes/sasson/tikal/images/arrow-down.png') no-repeat
+  background:url(asset_path('icons/arrow-down.png')) no-repeat
 }
 .carousel-vertical .jcarousel-has-prev:hover
 {
-  background:url('/sites/all/themes/sasson/tikal/images/arrow-up-hover.png') no-repeat
+  background:url(asset_path('icons/arrow-up-hover.png')) no-repeat
 }
 .carousel-vertical .jcarousel-has-next:hover
 {
-  background:url('/sites/all/themes/sasson/tikal/images/arrow-down-hover.png') no-repeat
+  background:url(asset_path('icons/arrow-down-hover.png')) no-repeat
 }
 .carousel-vertical .hidden-shadow
 {
@@ -2659,7 +2659,7 @@
 }
   #block-menu-menu-careers
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/background-blue.jpg')
+  background-image:url(asset_path('backgrounds/background-blue.jpg'))
 }
   #block-menu-menu-careers .block-title
 {
@@ -2820,7 +2820,7 @@
 }
 .node-careers .field-name-field-working-at-tikal .container-inline
 {
-  background:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-careers.png') no-repeat;
+  background:url(asset_path('big-icons/icon-careers.png')) no-repeat;
   width:180px;
   padding-top:180px
 }
@@ -2851,21 +2851,21 @@
 }
 .node-careers .field-name-field-working-at-tikal .field-item-1 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-careers.png')
+  background-image:url(asset_path('big-icons/icon-careers.png'))
 }
 .node-careers .field-name-field-working-at-tikal .field-item-2 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-keep-chanalge.png')
+  background-image:url(asset_path('big-icons/icon-keep-chanalge.png'))
 }
 .node-careers .field-name-field-working-at-tikal .field-item-3 .container-inline
 {
   clear:both;
   float:left;
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-community-power.png')
+  background-image:url(asset_path('big-icons/icon-community-power.png'))
 }
 .node-careers .field-name-field-working-at-tikal .field-item-4 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-love.png')
+  background-image:url(asset_path('big-icons/icon-love.png'))
 }
 .node-careers .the-tikal-alternative
 {
@@ -2890,7 +2890,7 @@
 }
 .node-careers .the-tikal-alternative .container-inline
 {
-  background:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-roadmap.png') no-repeat;
+  background:url(asset_path('big-icons/icon-roadmap.png')) no-repeat;
   width:90px;
   padding-top:75px;
   text-align:left
@@ -2920,15 +2920,15 @@
 }
 .node-careers .the-tikal-alternative .field-item-1 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-hands-on.png')
+  background-image:url(asset_path('big-icons/icon-hands-on.png'))
 }
 .node-careers .the-tikal-alternative .field-item-2 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-enrichment.png')
+  background-image:url(asset_path('big-icons/icon-enrichment.png'))
 }
 .node-careers .the-tikal-alternative .field-item-3 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-roadmap.png')
+  background-image:url(asset_path('big-icons/icon-roadmap.png'))
 }
 .view-team-testimonies .view-header p
 {
@@ -2987,7 +2987,7 @@
 }
 .view-team-testimonies .testimonies-body .testimonies-arrow
 {
-  background:url('/sites/all/themes/sasson/tikal/images/testimonies-arrow-right.png') no-repeat;
+  background:url(asset_path('icons/testimonies-arrow-right.png')) no-repeat;
   width:30px;
   height:50px;
   margin:70px -3px 0 -1px;
@@ -2995,7 +2995,7 @@
 }
 .view-team-testimonies .testimonies-body .quote-open
 {
-  background:url('/sites/all/themes/sasson/tikal/images/quote-open.png') no-repeat;
+  background:url(asset_path('icons/quote-open.png')) no-repeat;
   width:35px;
   height:23px;
   position:relative;
@@ -3017,7 +3017,7 @@
 .view-team-testimonies .testimonies-body .quote-close
 {
   display:inline-block;
-  background:url('/sites/all/themes/sasson/tikal/images/quote-close.png') no-repeat;
+  background:url(asset_path('icons/quote-close.png')) no-repeat;
   width:35px;
   height:23px;
   position:relative;
@@ -3040,7 +3040,7 @@
 }
 .view-team-testimonies .views-row-odd .testimonies-body .testimonies-arrow
 {
-  background:url('/sites/all/themes/sasson/tikal/images/testimonies-arrow.png') no-repeat;
+  background:url(asset_path('icons/testimonies-arrow.png')) no-repeat;
   float:left
 }
 .view-team-testimonies .views-row-odd .quote-open
@@ -3079,7 +3079,7 @@
   #block-views-jobs-careers .view-header,#block-views-jobs-page .view-header
 {
   float:right;
-  background:url('/sites/all/themes/sasson/tikal/images/big-icons/t-shirt.png') no-repeat;
+  background:url(asset_path('big-icons/t-shirt.png')) no-repeat;
   width:323px;
   height:324px;
   margin:90px -20px 0px 0px;
