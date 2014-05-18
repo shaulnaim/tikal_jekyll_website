@@ -1,7 +1,91 @@
 ---
-layout: default
+layout: events
 name: events
 title: Events | Tikal
 header_title: Events
 header_subtitle: Stay tuned with Tikal's latest development and upcoming events
 ---
+<div id="main" ng-app="main">
+ <div class="region region-content">
+	<section id="block-tikal-meetup-meetup-upcoming-events" class="block block-tikal-meetup block-even" ng-controller="EventCtrl">
+	  <h2 class="block-title">
+	  	UPCOMING EVENTS  {% raw %} {{ 4 + 4 }} {% endraw %}
+	  </h2>
+	  <div class="content">
+		   <div class="event-field-item">
+			     <div class="event-header">
+			   	 	<a class="event-title" href="http://www.meetup.com/full-stack-developer-il/events/173484402" target="_blank">Mind The Stack - Architecture stories by Israeli startups</a>
+			   	 </div>
+			   	 <div class="event-info">
+					<div class="event-when">
+						<div class="event-label">WHEN:</div>
+						<div class="event-date event-content">Tue May 20  4:30 pm</div>
+					</div>
+					<a class="event-rsvp-waitlist" href="http://www.meetup.com/full-stack-developer-il/events/173484402" target="_blank">
+						<div class="event-waitlist">
+							<div class="event-label">Waiting List</div>
+						</div>
+					</a>
+					<div class="event-waiting">
+						<div class="event-label">WAITING:</div>
+						<div class="event-content">5</div>
+					</div>
+					<div class="event-attending">
+						<div class="event-label">ATTENDING:</div>
+						<div class="event-content">400</div>
+					</div>
+					<div class="event-price">
+						<div class="event-label">PRICE:</div>
+						<div class="event-content"> free</div>
+						<div class="event-content event-price-description"></div>
+					</div>
+				</div>
+			   	<div class="event-where">
+					<div class="event-label">WHERE:</div>
+					<div class="event-content event-name">Google Campus Tel Aviv</div>
+					<div class="event-content event-adderss">ELECTRA TOWER 98 YIGAL ALON ST. TEL AVIV FLOOR 26TH, </div>
+					<div class="event-content event-city">Tel - Aviv </div>
+					<div class="event-content event-map">(<a href="http://maps.google.com/maps?q=ELECTRA%20TOWER%2098%20YIGAL%20ALON%20ST.%20TEL%20AVIV%20FLOOR%2026TH%2CTel%20-%20Aviv" target="_blank">map</a>)</div>	
+				</div>
+			   	<div class="event-photos">
+					<div class="photo"><img src="http://photos1.meetupstatic.com/photos/member/9/4/e/0/thumb_39818112.jpeg"></div>					
+				</div>
+			   	 <div class="event-description">
+						Israeli startup will share with us their decision points and consideration while assembling an architecture.
+
+						16:30-16:45 Gathering &amp; Networking
+
+						16:45-17:30 Tabtale story: Building a publishing and monitoring mobile games architecture with high scale
+
+						At Tabtale we are setting up an entire server side for the all the publishing services. These services include dynamic game configurations, error collection, analytics, social services and more.Tabtale is among the world’s top app publishers with millions of downloads so we are putting a great deal of effort in creating an extremely highly scalable and fault tolerant architecture.&nbsp;In this talk I will go over the architecture decisions taken to support the scalability and diversity that is required from the server side services while keeping the management of this infrastructure sane.
+
+						~45min&nbsp;By&nbsp;Assaf Gannon
+
+						17:30-18:15 FTBPro story: &nbsp;Growing X20 without spending an extra penny on hosting
+
+						A year ago we started a big change in&nbsp;FTBpro. We completely changed the visual design, moved to a single page architecture and started exploring new ways to minimise load on our servers - both when serving our actual website, and mobile API responses.We'll focus on how scaling considerations are now an integral part of our architecture, which enabled us to serve 20x more traffic than we did 1 year ago, with the same setup and with no additional costs.
+
+						~45min&nbsp;By Dor Kalev
+
+						18:15-18:30 Break
+
+						~15min
+
+						18:30-19:15 Taboola story: &nbsp;Scaling Data Architecture using Apache Spark
+
+						At taboola we are getting a constant feed of data (many billions of user events a day). In this talk we will share some points about our data scale challenges and how and we are using Apache Spark together with Cassandra, for both real time data stream processing as well as offline data processing.
+
+						* Apache Spark is an open source project - Hadoop-compatible computing engine that makes big data analysis drastically faster, through in-memory computing, and simpler to write, through easy APIs in Java, Scala and Python. This project was born as part of a PHD work in UC Berkley's AMPLab (part of the BDAS - pronounced "Bad Ass") and turned into an incubating Apache project with more active contributors than Hadoop. Surprisingly, Yahoo! are one of the biggest contributors to the project and already have large production clusters of Spark on YARN.Spark can run either standalone cluster, or using either Apache mesos and ZooKeeper or YARN and can run side by side with Hadoop/Hive on the same data. One of the biggest benefits of Spark is that the API is very simple and the same analytics code can be used for both streaming data and offline data processing.
+
+						~45min&nbsp;By&nbsp;Tal Sliwowicz		
+				</div>
+			   	 <a class="event-read-more" href="http://www.meetup.com/full-stack-developer-il/events/173484402" target="_blank">Read More »</a>
+			</div>
+		   </div>
+	  </div>
+	</section>
+
+  </div>
+	
+</div>
+
