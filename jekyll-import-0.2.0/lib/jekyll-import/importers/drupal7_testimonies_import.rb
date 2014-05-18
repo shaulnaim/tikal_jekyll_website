@@ -58,7 +58,7 @@ module JekyllImport
 
         dir = "testimonies"
         FileUtils.mkdir_p "_data/#{dir}"
-        FileUtils.rm "_data/#{dir}/*", force: true
+        # FileUtils.rm "_data/#{dir}/*", force: true
 
         db[QUERY].each do |testimony|
           # Get required fields and construct Jekyll compatible name
