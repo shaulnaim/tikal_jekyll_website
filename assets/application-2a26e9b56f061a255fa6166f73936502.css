@@ -3724,7 +3724,7 @@ div.tabs ul.primary {
   padding-bottom: 16px; }
 
 #block-menu-menu-solutions {
-  background-image: url("/sites/all/themes/sasson/tikal/images/background-red.jpg"); }
+  background-image: url("/tikal_jekyll_website/assets/backgrounds/background-red-ceb98b8726c0cb5ff4f8e19b522044be.jpg"); }
 
 #block-menu-menu-solutions .block-title {
   color: #c42a44; }
@@ -3750,22 +3750,22 @@ div.tabs ul.primary {
   clear: both; }
 
 .field-name-field-our-consultancy-fields .field-item-1 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-archiecture.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-archiecture-f8161c3b2ea7292ea96dbd2157bbdb89.png"); }
 
 .field-name-field-our-consultancy-fields .field-item-2 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-tech-vetting.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-tech-vetting-6886cce97b4ddd95ccb495dbe44508c0.png"); }
 
 .field-name-field-our-consultancy-fields .field-item-3 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-poc.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-poc-ba12e19fdb2ce07b5af82766f82fff53.png"); }
 
 .field-name-field-our-consultancy-fields .field-item-4 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-optimization.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-optimization-83cc817ba83ed62db2d774fbdf34e555.png"); }
 
 .field-name-field-our-consultancy-fields .field-item-5 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-tech-leaders.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-tech-leaders-4ecba6ddaeda877175f2c8feee72ee90.png"); }
 
 .field-name-field-our-consultancy-fields .field-item-6 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-service-bundles.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-service-bundles-ca10bb149c164708cde318fe71ca27a1.png"); }
 
 .field-name-field-consultancy-fooret .field-item {
   display: inline-block;
@@ -3825,15 +3825,15 @@ div.tabs ul.primary {
   margin-right: 0; }
 
 .field-name-field-we-provide .field-item-1 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-boot-camps.png");
+  background: url("/tikal_jekyll_website/assets/big-icons/icon-boot-camps-3224892be2ec0e06d39c4aff6808530e.png") no-repeat;
   background-position: 10px 4px; }
 
 .field-name-field-we-provide .field-item-2 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-hands-on-trianing.png");
+  background: url("/tikal_jekyll_website/assets/big-icons/icon-hands-on-training-98a94757edea6049eacd2b99c9ba3c50.png") no-repeat;
   background-position: 10px 0px; }
 
 .field-name-field-we-provide .field-item-3 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-training-and-courses.png");
+  background: url("/tikal_jekyll_website/assets/big-icons/icon-training-and-courses-3a1110fc447ad6bcbc809625f65637f3.png") no-repeat;
   background-position: 0px 5px; }
 
 .our-technology-domains {
@@ -3862,13 +3862,13 @@ div.tabs ul.primary {
   margin-right: 0; }
 
 .node-solutions .field-name-field-our-support-services .field-item-1 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-hour-bank-packages.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-hour-bank-packages-35c93f51e0a0b3c2b536ac372b25cd78.png"); }
 
 .node-solutions .field-name-field-our-support-services .field-item-2 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-software-wuite.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-software-wuite-a0ed83990399eb75c7b9912e5e9e0be0.png"); }
 
 .node-solutions .field-name-field-our-support-services .field-item-3 .container-inline {
-  background-image: url("/sites/all/themes/sasson/tikal/images/big-icons/icon-support-upgrades.png"); }
+  background-image: url("/tikal_jekyll_website/assets/big-icons/icon-support-upgrades-2686f1b017857ed7c9bce66786a85527.png"); }
 
 .field-name-field-suppor-upgrade {
   display: inline-block;
@@ -5614,7 +5614,7 @@ body[class*="admin"] .node-article .by-and-tags {
   bottom: 4px; }
 
 .node-type-offering .featured-background {
-  background: url("/sites/all/themes/sasson/tikal/images/tiled-bg-blue.jpg") repeat; }
+  background: url("/tikal_jekyll_website/assets/backgrounds/tiled-bg-blue-001c3360bc29f99b0c3c1a84c27469e6.jpg") repeat; }
 
 .node-type-offering .featured-background #featured {
   background: url("/sites/all/themes/sasson/tikal/images/featured/offerings.jpg") no-repeat center 0; }
@@ -6989,6 +6989,14 @@ ul.menu li {
 
 .our-expertese ul.menu li.net a, .our-technology-domains ul.menu li.net a {
   background-color: #E05E46; }
+
+.more-job-openings .views-row {
+  height: 130px; }
+
+.offering-description {
+  background-color: #ECECEC;
+  display: block;
+  padding: 10px 20px; }
 
 .group-page-about .featured-background #featured {
   background: url("/tikal_jekyll_website/assets/pages/about/background-12ca1f25527989326d25b4fd2a4a6afb.jpg") no-repeat center 0; }
