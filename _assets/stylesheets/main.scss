@@ -3170,7 +3170,7 @@
 }
   #block-menu-menu-solutions
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/background-red.jpg')
+  background-image:url(asset_path('backgrounds/background-red.jpg'))
 }
   #block-menu-menu-solutions .block-title
 {
@@ -3204,27 +3204,27 @@
 }
 .field-name-field-our-consultancy-fields .field-item-1 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-archiecture.png')
+  background-image:url(asset_path('big-icons/icon-archiecture.png'))
 }
 .field-name-field-our-consultancy-fields .field-item-2 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-tech-vetting.png')
+  background-image:url(asset_path('big-icons/icon-tech-vetting.png'))
 }
 .field-name-field-our-consultancy-fields .field-item-3 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-poc.png')
+  background-image:url(asset_path('big-icons/icon-poc.png'))
 }
 .field-name-field-our-consultancy-fields .field-item-4 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-optimization.png')
+  background-image:url(asset_path('big-icons/icon-optimization.png'))
 }
 .field-name-field-our-consultancy-fields .field-item-5 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-tech-leaders.png')
+  background-image:url(asset_path('big-icons/icon-tech-leaders.png'))
 }
 .field-name-field-our-consultancy-fields .field-item-6 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-service-bundles.png')
+  background-image:url(asset_path('big-icons/icon-service-bundles.png'))
 }
 .field-name-field-consultancy-fooret .field-item
 {
@@ -3300,17 +3300,17 @@
 }
 .field-name-field-we-provide .field-item-1 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-boot-camps.png');
+  background:url(asset_path('big-icons/icon-boot-camps.png')) no-repeat;
   background-position:10px 4px
 }
 .field-name-field-we-provide .field-item-2 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-hands-on-trianing.png');
+  background:url(asset_path('big-icons/icon-hands-on-training.png')) no-repeat;
   background-position:10px 0px
 }
 .field-name-field-we-provide .field-item-3 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-training-and-courses.png');
+  background:url(asset_path('big-icons/icon-training-and-courses.png')) no-repeat;
   background-position:0px 5px
 }
 .our-technology-domains
@@ -3350,15 +3350,15 @@
 }
 .node-solutions .field-name-field-our-support-services .field-item-1 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-hour-bank-packages.png')
+  background-image:url(asset_path('big-icons/icon-hour-bank-packages.png'))
 }
 .node-solutions .field-name-field-our-support-services .field-item-2 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-software-wuite.png')
+  background-image:url(asset_path('big-icons/icon-software-wuite.png'))
 }
 .node-solutions .field-name-field-our-support-services .field-item-3 .container-inline
 {
-  background-image:url('/sites/all/themes/sasson/tikal/images/big-icons/icon-support-upgrades.png')
+  background-image:url(asset_path('big-icons/icon-support-upgrades.png'))
 }
 .field-name-field-suppor-upgrade
 {
@@ -5479,7 +5479,7 @@
 }
 .node-type-offering .featured-background
 {
-  background:url('/sites/all/themes/sasson/tikal/images/tiled-bg-blue.jpg') repeat
+  background:url(asset_path('backgrounds/tiled-bg-blue.jpg')) repeat
 }
 .node-type-offering .featured-background #featured
 {
