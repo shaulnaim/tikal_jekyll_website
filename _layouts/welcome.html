@@ -10,6 +10,16 @@
         {% include pages/welcome/header.html %}
         <div class="shadow-page"></div>
         <div id="page">
+          {% include pages/welcome/we-work-with.html %}
+          {% include pages/welcome/who-are-we.html %}
+          <div class="region region-content-bottom">
+            <div id="block-menu-block-1" class="block block-menu-block block-domains-home-page block-odd">
+              {% include shared/tech-domains.html %}
+            </div>
+            {% include pages/welcome/latest-posts.html %}
+            {% include pages/welcome/our-team.html %}
+            {% include pages/welcome/contact-form.html %}
+          </div>
           {{ content }}
         </div>
         {% include first_footer.html %}

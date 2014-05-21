@@ -4,7 +4,7 @@ module Jekyll
   module ClientImagePathFilter
     def client_image_path(name)
       clients = @context["site"]["data"]["clients"]
-      client = clients.detect{|c| c["name"] == name}
+      client = clients.detect{|c| c["name"].downcase == name.downcase }
       asset_path(client["image_path"])
     end
   end
