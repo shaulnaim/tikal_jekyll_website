@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      {% include head.html %}
+    </head>
+
+    <body class="html front not-logged-in no-sidebars page-node page-node-27 node-type-page all-pages with-navigation with-subnav featured dir-ltr">
+        {% include header.html %}
+        {% include navigation.html %}
+        {% include pages/welcome/header.html %}
+        <div class="shadow-page"></div>
+        <div id="page">
+          {{ content }}
+        </div>
+        {% include first_footer.html %}
+        {% include second_footer.html %}
+    </body>
+</html>
