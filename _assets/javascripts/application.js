@@ -2,6 +2,7 @@
 //= require vendor/scrollup/jquery.scrollUp
 //= require vendor/drupal_legacy.js
 //= require vendor/angular.min.js
+////= require vendor/angular-sanitize.js
 //= require  meetup_events.js
 
 $('document').ready(function() {
