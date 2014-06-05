@@ -7,7 +7,7 @@ header_subtitle: Stay tuned with Tikal's latest development and upcoming events
 ---
 <div id="main" ng-app="meetups-module">
      <div class="region region-content" ng-controller="Sn.MainCtrl as mainCtrl" >
-          <h1>{{mainCtrl.appTitle}}</h1>
+          <h1>{% raw %}{{mainCtrl.appTitle}}{% endraw %}</h1>
           <div id="meetups" ng-controller="Sn.MeetupsCtrl as meetupsCtrl">
 
             <section id="block-tikal-meetup-meetup-upcoming-events" class="block block-tikal-meetup block-even">

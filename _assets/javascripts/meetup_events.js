@@ -104,9 +104,7 @@
 		(function init(){
 			_self.appTitle = 'Meetups Events';
 		})();
-		$scope.alertMe = function(){
-			alert('me');
-		};
+		
 	}]);
 
 	module.controller('Sn.MeetupsCtrl', ['$scope', 'MeetupsService', function($scope, MeetupsService){
